@@ -1,0 +1,13 @@
+<footer>
+    <footer-widgets>
+        <recent-posts>
+            {% include recent-posts.html %}        
+        </recent-posts>
+        <popular-pages>
+            {% include popular-pages.html %}
+        </popular-pages>
+        <recent-recoveries>3</recent-recoveries>
+    </footer-widgets>
+    <site-info>©{{ 'now' | date: "%Y" }} • <a href="{{ site.url }}">{{ site.title }}</a></site-info>
+</footer>
+<script src="/assets/js/main.js" crossorigin="anonymous"></script>

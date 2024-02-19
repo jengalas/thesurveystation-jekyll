@@ -1,0 +1,35 @@
+toc:
+  - title: About
+    url: /about-survey-mark-hunting
+  - title: Recoveries
+    subfolderitems:
+      - page: NGS Reports
+        url: /ngs-recoveries
+      - page: USGS Reports
+        url: /usgs-recoveries
+      - page: Search Recoveries
+        url: /search-form
+      - page: Map of Recoveries
+        url: /map-of-recoveries
+      - page: Browse by Year
+        url: /browse-recoveries-by-year
+  - title: Local Databases
+    url: /local-control-monument-databases   
+  - title: USGS Datasheets
+    url: /usgs-datasheets         
+  - title: Airway Beacons
+    subfolderitems:
+      - page: About Airway Beacons
+        url: /airway-beacons
+      - page: Eastern U.S.
+        url: /airway-beacons-list-eastern-u-s
+      - page: Western U.S.
+        url: /airway-beacons-list-western-u-s
+      - page: Map of Airway Beacons
+        url: /map-of-ngs-airway-beacons
+      - page: Historical Airway Maps
+        url: /historical-airway-maps  
+  - title: Resources
+    url: /resources  
+  - title: Contact
+    url: /contact                    

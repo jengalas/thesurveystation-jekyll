@@ -1,0 +1,11 @@
+url: localhost:4000
+title: "Zhanna's SurveyStation" # the name of your site, e.g. ACME Corp.
+timezone: 'America/New_York'
+
+collections:
+  surveymarks:
+    output: true
+  pages:
+    output: true
+  posts:
+    permalink: /:year/:month/:day/:title
