@@ -1,0 +1,16 @@
+- state: Alabama
+  databases:
+    - title: Huntsville GPS Control Monuments
+      url: https://maps.huntsvilleal.gov/gpscontrolmonuments/
+- state: Alaska
+  databases: 
+    - title: Anchorage Municipality Benchmarks MITS Files
+      url: http://www.muni.org/departments/project_management/pages/mitsfiles.aspx
+- state: Arizona
+  databases: 
+    - title: Maricopa County Land Survey Data
+      url: http://www.maricopa.gov/590/Survey
+    - title: Paradise Valley Survey Benchmarks
+      url: http://paradisevalleyaz.gov/530/Survey-Benchmarks   
+    - title: Pima County/City of Tucson DOT Geodetic Control Points
+      url: http://gis.pima.gov/maps/hcontrol/   

@@ -1,4 +1,7 @@
-/* Main navigation */
+/******************************************************************************
+Main navigation 
+*******************************************************************************/ 
+
 const toggle = document.querySelector(".toggle");
 const menu = document.querySelector(".menu");
 /* Toggle mobile menu */
@@ -47,7 +50,7 @@ function closeSubmenu(e) {
       }
     }
   }
-  /* Event listener */
+/* Event listener */
   document.addEventListener("click", closeSubmenu, false);
 /* End navigation */  
 
@@ -57,3 +60,48 @@ $(document).ready( function () {
         paging: false
     });
 } );
+
+/******************************************************************************
+Accordion 
+*******************************************************************************/
+
+const accordionItems = document.querySelectorAll(".accordion-item");
+
+/* Event listener */
+window.addEventListener("load", () => {
+  accordionItems.forEach((accordion, index) => {
+    const accordionTrigger = accordion.querySelector(".accordion-trigger");
+    accordionTrigger.addEventListener("click", () => toggleAccordion(index));
+  });
+});
+
+/* Toggle function */
+const toggleAccordion = (index) => {
+  resetAccordions(index);
+  const currentAccordion = accordionItems[index];
+  currentAccordion.classList.toggle("is-active");
+
+  const accordionContent = currentAccordion.querySelector(".accordion-content");
+  const accordionTrigger = currentAccordion.querySelector(".accordion-trigger");
+  if (currentAccordion.classList.contains("is-active")) {
+    accordionContent.style.height = `${accordionContent.scrollHeight}px`;
+    accordionTrigger.setAttribute("aria-expanded", "true");
+  } else {
+    accordionContent.style.height = 0;
+    accordionTrigger.setAttribute("aria-expanded", "false");
+  }
+};
+
+/* Only open one panel at a time */
+const resetAccordions = (targetIndex) => {
+  accordionItems.forEach((accordion, index) => {
+    const accordionContent = accordion.querySelector(".accordion-content");
+    const accordionTrigger = accordion.querySelector(".accordion-trigger");
+    if (targetIndex != index) {
+      accordion.classList.remove("is-active");
+      accordionContent.style.height = 0;
+      accordionTrigger.setAttribute("aria-expanded", "false");
+    }
+  });
+};
+
