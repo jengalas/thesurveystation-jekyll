@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>{{ page.designation }}</h1>
+<ul>
+    <li>N {{ page.latitude }}° W {{ page.longitude }}° </li>
+    <li>{{ page.elevation }}</li>
+    <li>{{ page.type }}</li>
+    <li>{{ page.setting }}</li>
+    <li>{{ page.official_description }}</li>
+    <li></li>
+    <li></li>
+    <li>{{ page.condition }} as of {{ page.date | date: "%B %d, %Y" }}</li>
+</ul>

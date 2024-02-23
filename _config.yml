@@ -5,7 +5,15 @@ timezone: 'America/New_York'
 collections:
   surveymarks:
     output: true
+    permalink: /surveymarks/:title/
   pages:
     output: true
   posts:
     permalink: /:year/:month/:day/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: "surveymarks"
+    values:
+      layout: "surveymarks"
