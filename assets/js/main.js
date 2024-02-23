@@ -70,6 +70,9 @@ const accordionItems = document.querySelectorAll(".accordion-item");
 /* Event listener */
 window.addEventListener("load", () => {
   accordionItems.forEach((accordion, index) => {
+    if (index == 0) {
+      toggleAccordion(0);  // First panel open by default
+    }
     const accordionTrigger = accordion.querySelector(".accordion-trigger");
     accordionTrigger.addEventListener("click", () => toggleAccordion(index));
   });
