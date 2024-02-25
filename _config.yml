@@ -17,3 +17,4 @@ defaults:
       type: "surveymarks"
     values:
       layout: "surveymarks"
+      zoom: 14
