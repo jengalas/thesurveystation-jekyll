@@ -3,6 +3,9 @@ layout: default
 ---
 
 <h1>{{ page.designation }}</h1>
+
+{% include map.html %}
+
 <ul>
     <li>N {{ page.latitude }}° W {{ page.longitude }}° </li>
     <li>{{ page.elevation }}</li>
