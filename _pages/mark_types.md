@@ -1,3 +1,0 @@
----
-layout: mark_types
----
