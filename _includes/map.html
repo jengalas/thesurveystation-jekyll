@@ -1,13 +1,22 @@
-<div class="map"></div>
+{% if page.uid %}
+     {% assign uid = page.uid %}
+  {% elsif page.pid %}
+     {% assign uid = page.pid %}   
+  {% else %}
+     {% assign uid = page.designation %}
+{% endif %}
+
+{% assign uid = uid | slugify %}
+
+<div class="map-wrapper">
+    <div class="map" id="{{ uid }}"></div>
+</div>
 
 <script>
-    var {{ page.map-var }}= L.map('{{ page.map-id }}').setView([{{ page.lat }}, {{ page.long }}], {{ page.zoom }});
-    var marker = L.marker([{{ page.lat }}, {{ page.long }}]).addTo({{ page.map-var }});
+    var markMap = L.map('{{ uid }}').setView([{{ page.latitude }}, {{ page.longitude }}], {{ page.zoom }});
+    var marker = L.marker([{{ page.latitude }}, {{ page.longitude }}]).addTo(markMap);
 
-    L.tileLayer('https://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo({{ page.map-var }});
+    L.tileLayer('https://caltopo.s3.amazonaws.com/topo/{z}/{x}/{y}.png', {"attribution":"USDA images from <a href='http://caltopo.com/'>CalTopo</a>", "minZoom":6, "maxZoom":16}).addTo(markMap);
 
-    marker.bindPopup("<strong>{{ page.popup-title }}</strong><br>{{ page.designation }}");
+    marker.bindPopup("<h1>{{ page.designation }}</h1><p>Visited on {{ page.date | date: '%B %e, %Y' }}</p>");
 </script>
