@@ -2,7 +2,7 @@
 designation: 'NPS (Unstamped, Acadia #10)'
 date: 2023-09-17
 latitude: '44.375956'
-longitude: '-68.305405'
+longitude: '68.305405'
 location: 
 elevation: Unknown
 type: Boundary Monument

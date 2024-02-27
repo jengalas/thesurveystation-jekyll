@@ -2,7 +2,7 @@
 designation: TT 4 T
 date: 2023-11-26
 latitude: '41.405873'
-longitude: '-75.565436'
+longitude: '75.565436'
 location: 
 elevation: 1287.105 ft.
 type: Bench Mark Disk
