@@ -9,10 +9,14 @@ layout: default
 <ul>
     <li>N {{ page.latitude }}° W {{ page.longitude }}° </li>
     <li>{{ page.elevation }}</li>
-    <li>{{ page.type }}</li>
+    <li><a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
     <li>{{ page.setting }}</li>
     <li>{{ page.official_description }}</li>
     <li></li>
     <li></li>
     <li>{{ page.condition }} as of {{ page.date | date: "%B %d, %Y" }}</li>
 </ul>
+
+<p>{{ page.zhanna_text | markdownify }}</p>
+
+<p>{{ page.ngs_report_text }}</p>
