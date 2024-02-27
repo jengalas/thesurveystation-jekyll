@@ -1,0 +1,6 @@
+<h2>Recent Recoveries</h2>
+<ul>
+    {% for post in site.surveymarks reversed limit:5  %}
+        <li><a href="{{ post.url }}">{{ post.designation }}</a></li>
+    {% endfor %}
+</ul>

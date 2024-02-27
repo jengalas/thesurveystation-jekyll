@@ -6,7 +6,9 @@
         <popular-pages>
             {% include popular-pages.html %}
         </popular-pages>
-        <recent-recoveries>3</recent-recoveries>
+        <recent-recoveries>
+            {% include recent-recoveries.html %}
+        </recent-recoveries>
     </footer-widgets>
     <site-info>©{{ 'now' | date: "%Y" }} • <a href="{{ site.url }}">{{ site.title }}</a></site-info>
 </footer>
