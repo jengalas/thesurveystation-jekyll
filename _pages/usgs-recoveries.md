@@ -4,9 +4,9 @@ permalink: /usgs-recoveries/
 ---
 
 <ul>
-  {% assign types = site.surveymarks | where: "usgs_report", "true" %}
+  {% assign reports = site.surveymarks | where: "usgs_report", "true" %}
  
-  {% for type in types %}
-      <li><a href="{{type.url}}">{{ type.designation }}</a></li>    
+  {% for report in reports %}
+      <li><a href="{{ report.url }}">{{ report.designation }}</a></li>    
   {% endfor %}
 </ul>
