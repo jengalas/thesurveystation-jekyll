@@ -8,9 +8,7 @@
 
 {% assign uid = uid | slugify %}
 
-<div class="map-wrapper">
-    <div class="map" id="{{ uid }}"></div>
-</div>
+<div class="map" id="{{ uid }}"></div>
 
 <script>
     var markMap = L.map('{{ uid }}').setView([{{ page.latitude }}, -{{ page.longitude }}], {{ page.zoom }});

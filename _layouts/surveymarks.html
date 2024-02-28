@@ -4,18 +4,24 @@ layout: default
 
 <h1>{{ page.designation }}</h1>
 
-{% include map.html %}
-
-<ul>
-    <li>N {{ page.latitude }}° W {{ page.longitude }}° </li>
-    <li>{{ page.elevation }}</li>
-    <li><a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
-    <li>{{ page.setting }}</li>
-    <li>{{ page.official_description }}</li>
-    <li></li>
-    <li></li>
-    <li>{{ page.condition }} as of {{ page.date | date: "%B %d, %Y" }}</li>
-</ul>
+<div class="data-map-wrapper">
+    <div class="data-wrapper">
+        <ul>
+            <li>N {{ page.latitude }}° W {{ page.longitude }}° </li>
+            <li><b>Elevation:</b> {{ page.elevation }}</li>
+            <li><b>Type:</b> <a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
+            <li><b>Setting:</b> {{ page.setting }}</li>
+            <li><b>Year Established:</b> {{ page.year_established }}</li>
+            <li><b>Established By:</b> {{ page.agency }}</li>            
+            <li><b>Status:</b> {{ page.status }}</li>
+            <li><b>Condition:</b> {{ page.condition }} as of {{ page.date | date: "%B %d, %Y" }}</li>
+        </ul>
+        <p>Official Description: <li>{{ page.official_description }}</li></p>
+    </div>
+    <div class="map-wrapper">
+        {% include map.html %}
+    </div>
+</div>
 
 <p>{{ page.zhanna_text | markdownify }}</p>
 
