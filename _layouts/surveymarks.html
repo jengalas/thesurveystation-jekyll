@@ -7,7 +7,8 @@ layout: default
 <div class="data-map-wrapper">
     <div class="data-wrapper">
         <ul>
-            <li>N {{ page.latitude }}° W {{ page.longitude }}° </li>
+            <li><b>Coordinates:</b> N {{ page.latitude }}° W {{ page.longitude }}°</li>
+            <li><b>Location:</b> {{ page.location[0] }} - {{ page.location[1] }} - {{ page.location[2] }}</li>
             <li><b>Elevation:</b> {{ page.elevation }}</li>
             <li><b>Type:</b> <a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
             <li><b>Setting:</b> {{ page.setting }}</li>
