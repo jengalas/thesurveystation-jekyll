@@ -14,7 +14,7 @@
     var markMap = L.map('{{ uid }}').setView([{{ page.latitude }}, -{{ page.longitude }}], {{ page.zoom }});
     var marker = L.marker([{{ page.latitude }}, -{{ page.longitude }}]).addTo(markMap);
 
-    L.tileLayer('https://caltopo.s3.amazonaws.com/topo/{z}/{x}/{y}.png', {"attribution":"USDA images from <a href='http://caltopo.com/'>CalTopo</a>", "minZoom":6, "maxZoom":16}).addTo(markMap);
+    L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', {"attribution":"USDA images from <a href='http://caltopo.com/'>CalTopo</a>", "minZoom":6, "maxZoom":16}).addTo(markMap);
 
     marker.bindPopup("<h1>{{ page.designation }}</h1><p>Visited on {{ page.date | date: '%B %e, %Y' }}</p>");
 </script>
