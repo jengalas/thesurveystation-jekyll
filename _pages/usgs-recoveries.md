@@ -1,6 +1,6 @@
 ---
-layout: default
 title: USGS Recoveries
+layout: default
 permalink: /usgs-recoveries/
 ---
 
