@@ -3,7 +3,7 @@ designation: 'NPS (Unstamped, Acadia #10)'
 date: 2023-09-17
 latitude: '44.375956'
 longitude: '68.305405'
-location: 
+location: [Maine, Hancock County, Salsbury Cove Quad]
 elevation: Unknown
 type: Boundary Monument
 setting: Steel Pipe
