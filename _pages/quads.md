@@ -13,7 +13,7 @@ permalink: /locations/quads/
 {% endfor %}
 
 {% for quad in locationArray %}
-  <h2>{{ quad }}</h2>
+  <h2 id="{{ quad | slugify }}">{{ quad }}</h2>
   <ul>
   {% for mark in site.surveymarks %}
     {% if mark.location contains quad %}

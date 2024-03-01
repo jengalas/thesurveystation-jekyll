@@ -13,7 +13,7 @@ permalink: /locations/counties/
 {% endfor %}
 
 {% for county in locationArray %}
-  <h2>{{ county }}</h2>
+  <h2 id="{{ county | slugify }}">{{ county }}</h2>
   <ul>
   {% for mark in site.surveymarks %}
     {% if mark.location contains county %}

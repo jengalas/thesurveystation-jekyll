@@ -13,7 +13,7 @@ permalink: /locations/states/
 {% endfor %}
 
 {% for state in locationArray %}
-  <h2>{{ state | capitalize }}</h2>
+  <h2 id="{{ state | slugify }}">{{ state | capitalize }}</h2>
   <ul>
   {% for mark in site.surveymarks %}
     {% if mark.location contains state %}
