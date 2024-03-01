@@ -8,7 +8,7 @@ layout: default
     <div class="data-wrapper">
         <ul>
             <li><b>Coordinates:</b> N {{ page.latitude }}° W {{ page.longitude }}°</li>
-            <li><b>Location:</b> {{ page.location[0] }} - {{ page.location[1] }} - {{ page.location[2] }}</li>
+            <li><b>Location:</b> <a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a> - <a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a> - <a href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></li>
             <li><b>Elevation:</b> {{ page.elevation }}</li>
             <li><b>Type:</b> <a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
             <li><b>Setting:</b> {{ page.setting }}</li>
