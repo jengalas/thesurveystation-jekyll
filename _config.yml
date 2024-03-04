@@ -6,6 +6,9 @@ collections:
   surveymarks:
     output: true
     permalink: /surveymarks/:title/
+  reference_marks:
+    output: true
+    permalink: /reference-marks/:title/  
   pages:
     output: true
   posts:
@@ -18,3 +21,10 @@ defaults:
     values:
       layout: "surveymarks"
       zoom: 14
+  - scope:
+      path: ""
+      type: "reference_marks"
+    values:
+      layout: "surveymarks"
+      zoom: 14
+          
