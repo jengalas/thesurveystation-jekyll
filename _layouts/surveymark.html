@@ -24,8 +24,12 @@ layout: default
     </div>
 </div>
 
-<p>{{ page.zhanna_text | markdownify }}</p>
+<div class="recovery-notes">
+    <div class="zhanna-notes">{{ page.zhanna_text | markdownify }}</div>
+</div>
 
-<p>{{ page.ngs_report_text }}</p>
+{% if page.ngs_report_text %}
+    <p class="ngs-report">{{ page.ngs_report_text }}</p>
+{% endif %}
 
-<div class="reference-marks">{% include reference-mark.html %}</div>
+<div class="reference-marks">{% include reference-marks.html %}</div>

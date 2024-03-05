@@ -12,7 +12,7 @@
 <div><a href="https://www.google.com/maps/search/?api=1&query={{ page.latitude }},-{{ page.longitude }}">Google Map</a></div>
 
 <script>
-   var markMap = L.map('{{ uid }}').setView([{{ page.latitude }}, -{{ page.longitude }}], {{ page.zoom }});
+   var markMap = L.map('{{ uid }}', { fullscreenControl: true, }).setView([{{ page.latitude }}, -{{ page.longitude }}], {{ page.zoom }});
    var marker = L.marker([{{ page.latitude }}, -{{ page.longitude }}]).addTo(markMap);
 
    var lyrUSGSTopo = L.tileLayer('https://caltopo.s3.amazonaws.com/topo/{z}/{x}/{y}.png', {"attribution":"USDA images from <a href='http://caltopo.com/'>CalTopo</a>", "minZoom":6, "maxZoom":16});

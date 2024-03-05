@@ -1,0 +1,27 @@
+
+{% capture filename %}{{ page.url | remove: "/surveymarks/" | replace: "/", ""}}{% endcapture %}
+
+{% assign referenceMarks = site.reference_marks | where: "parent", filename %}
+<table>
+    <caption>Reference Objects</caption>
+    <thead>
+        <tr>
+            <th>Designation</th>
+        </tr>
+        <tr>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <th>Condition</th>
+        </tr>
+        <tr>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for referenceMark in referenceMarks %}
+        <li><a href="{{ referenceMark.url }}">{{ referenceMark.designation }}</a> - {{ referenceMark.status }} - {{ referenceMark.condition }}</li>
+    {% endfor %}
+    </tbody>
+ 
+</table>

@@ -3,7 +3,9 @@ layout: default
 permalink: /locations/states/
 ---
 
-{% assign allLocations = site.surveymarks | map: "location" | sort %}
+{% assign allMarks = site.surveymarks | concat: site.reference_marks %}
+
+{% assign allLocations = allMarks | map: "location" | sort %}
 
 {% assign locationArray = "" | split:"" %}
 
@@ -15,7 +17,7 @@ permalink: /locations/states/
 {% for state in locationArray %}
   <h2 id="{{ state | slugify }}">{{ state | capitalize }}</h2>
   <ul>
-  {% for mark in site.surveymarks %}
+  {% for mark in allMarks %}
     {% if mark.location contains state %}
     <li><a href="{{mark.url}}">{{ mark.designation }}</a></li>
     {% endif %}

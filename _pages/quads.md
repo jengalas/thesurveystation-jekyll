@@ -3,6 +3,8 @@ layout: default
 permalink: /locations/quads/
 ---
 
+{% assign allMarks = site.surveymarks | concat: site.reference_marks %}
+
 {% assign allLocations = site.surveymarks | map: "location" | sort %}
 
 {% assign locationArray = "" | split:"" %}
@@ -15,7 +17,7 @@ permalink: /locations/quads/
 {% for quad in locationArray %}
   <h2 id="{{ quad | slugify }}">{{ quad }}</h2>
   <ul>
-  {% for mark in site.surveymarks %}
+  {% for mark in allMarks %}
     {% if mark.location contains quad %}
     <li><a href="{{mark.url}}">{{ mark.designation }}</a></li>
     {% endif %}

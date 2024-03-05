@@ -3,6 +3,8 @@ layout: default
 permalink: /locations/counties/
 ---
 
+{% assign allMarks = site.surveymarks | concat: site.reference_marks %}
+
 {% assign allLocations = site.surveymarks | map: "location" | sort %}
 
 {% assign locationArray = "" | split:"" %}
@@ -15,7 +17,7 @@ permalink: /locations/counties/
 {% for county in locationArray %}
   <h2 id="{{ county | slugify }}">{{ county }}</h2>
   <ul>
-  {% for mark in site.surveymarks %}
+  {% for mark in allMarks %}
     {% if mark.location contains county %}
     <li><a href="{{mark.url}}">{{ mark.designation }}</a></li>
     {% endif %}

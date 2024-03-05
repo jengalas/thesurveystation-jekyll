@@ -19,12 +19,12 @@ defaults:
       path: ""
       type: "surveymarks"
     values:
-      layout: "surveymarks"
-      zoom: 14
+      layout: "surveymark"
+      zoom: 15
   - scope:
       path: ""
       type: "reference_marks"
     values:
-      layout: "surveymarks"
-      zoom: 14
+      layout: "reference-mark"
+      zoom: 15
           
