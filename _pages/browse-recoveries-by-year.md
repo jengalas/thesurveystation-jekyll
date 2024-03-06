@@ -3,8 +3,9 @@ layout: default
 permalink: /browse-recoveries-by-year/
 ---
 <div>
+
 {% assign yearArray = '' | split: ',' %}
-{% assign types = site.surveymarks | group_by: "date" %}
+{% assign types = site.surveymarks | concat: site.reference_marks | group_by: "date" %}
 
 {% for type in types %}
     {% assign dateY = type.name | date: "%Y" %}
@@ -13,15 +14,20 @@ permalink: /browse-recoveries-by-year/
 
 {% assign uniqYears = yearArray | uniq | sort | reverse %}
 
-{% assign recMarks = site.surveymarks | where: "status", "Recovered" %}
-{% assign nfMarks = site.surveymarks | where: "status", "Not Found" %}
-{% assign noteMarks = site.surveymarks | where: "status", "Note Entered" %}
+{% for year in uniqYears %}
+<a href="#{{ year }}">{{ year }}</a>
+{% endfor %}
+
+{% assign recMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Recovered" %}
+{% assign nfMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Not Found" %}
+{% assign noteMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Note Entered" %}
 
 {% for year in uniqYears %}
-    <h2>{{ year }}</h2>
+    <h2 id="{{ year }}">{{ year }}</h2>
     {% assign recs = recMarks | where: "date", year %}
     {% for rec in recs reversed %}
-      <li>R: <a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
+    {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+      <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a></li>    
     {% endfor %}
     {% assign recs = nfMarks | where: "date", year %}
     {% for rec in recs reversed %}

@@ -1,5 +1,7 @@
 
 {% capture filename %}{{ page.url | remove: "/surveymarks/" | replace: "/", ""}}{% endcapture %}
+{% capture imagePath %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
+{% capture thumb %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 
 {% assign referenceMarks = site.reference_marks | where: "parent", filename %}
 <table>
@@ -7,21 +9,19 @@
     <thead>
         <tr>
             <th>Designation</th>
-        </tr>
-        <tr>
             <th>Status</th>
-        </tr>
-        <tr>
             <th>Condition</th>
-        </tr>
-        <tr>
             <th>Image</th>
         </tr>
     </thead>
     <tbody>
-    {% for referenceMark in referenceMarks %}
-        <li><a href="{{ referenceMark.url }}">{{ referenceMark.designation }}</a> - {{ referenceMark.status }} - {{ referenceMark.condition }}</li>
-    {% endfor %}
+        {% for referenceMark in referenceMarks %}
+        <tr>
+            <td><a href="{{ referenceMark.url }}">{{ referenceMark.designation }}</a></td>
+            <td>{{ referenceMark.status }}</td>
+            <td>{{ referenceMark.condition }}</td>
+            <td><img src="{{ thumb }}{{ referenceMark.featured_image }}"></td>
+        </tr>
+        {% endfor %}
     </tbody>
- 
 </table>

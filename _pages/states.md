@@ -18,8 +18,9 @@ permalink: /locations/states/
   <h2 id="{{ state | slugify }}">{{ state | capitalize }}</h2>
   <ul>
   {% for mark in allMarks %}
+    {% capture thumb %}https://planetzhanna.com/images/{{ mark.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
     {% if mark.location contains state %}
-    <li><a href="{{mark.url}}">{{ mark.designation }}</a></li>
+    <li><a href="{{mark.url}}"><img src="{{ thumb }}{{ mark.featured_image }}" style="width: 150px;"><br>{{ mark.designation }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>

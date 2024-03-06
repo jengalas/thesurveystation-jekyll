@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% capture imagePath %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
+{% capture thumb %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+
 <h1>{{ page.designation }}</h1>
 
 <div class="data-map-wrapper">
@@ -32,4 +35,6 @@ layout: default
     <p class="ngs-report">{{ page.ngs_report_text }}</p>
 {% endif %}
 
-<div class="reference-marks">{% include reference-marks.html %}</div>
+{% if page.is_parent == true %}
+    <div class="reference-marks">{% include reference-marks.html %}</div>
+{% endif %}
