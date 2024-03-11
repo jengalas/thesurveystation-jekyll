@@ -14,3 +14,77 @@
       url: http://paradisevalleyaz.gov/530/Survey-Benchmarks   
     - title: Pima County/City of Tucson DOT Geodetic Control Points
       url: http://gis.pima.gov/maps/hcontrol/   
+- state: California
+  databases:
+    - title: Anaheim City Bench Mark Viewer
+      url: https://data-anaheim.opendata.arcgis.com/datasets/coa-benchmarks/explore  
+    - title: California Spatial Reference Center
+      url: http://sopac-csrc.ucsd.edu/index.php/csrc/  
+    - title: Colton City Bench Marks
+      url: http://www.ci.colton.ca.us/documentcenter/view/1628  
+    - title: Folsom City Bench Mark System
+      url: https://www.folsom.ca.us/government/community-development/benchmarks  
+    - title: Los Angeles City Bench Marks
+      url: https://geohub.lacity.org/datasets/45c8b183ba404800b44a15105d2b0bed  
+    - title: Los Angeles County Bench Mark Retrieval System
+      url: http://ladpw.org/sur/Benchmark/  
+    - title: Los Angeles County Benchmarks GIS
+      url: https://egis-lacounty.hub.arcgis.com/datasets/lacounty::la-county-benchmarks/explore  
+    - title: Orange County Public Records Retrieval System
+      url: https://www.ocgis.com/ocpw/landrecords/  
+    - title: San Diego County Horizontal Control
+      url: http://www.sangis.org/  
+    - title: San Diego County Vertical Control
+      url: http://www.sandiegocounty.gov/dpw/surveyor/vertcontrol.html  
+    - title: Santa Barbara City Survey Benchmarks
+      url: https://santabarbaraca.gov/government/departments/public-works/engineering-division/survey-benchmarks  
+    - title: Stockton City Benchmarks, Elevations and Descriptions
+      url: http://www.ci.stockton.ca.us/files/BenchmarkBook.pdf
+- state: Colorado  
+  databases:
+    - title: Boulder County Control Network
+      url: https://www.bouldercounty.org/property-and-land/surveyor/control-networks/    
+    - title: Douglas County Control
+      url: https://dougco.maps.arcgis.com/apps/webappviewer/index.html?id=843b75a47022498b88ea1d9b8bd43cfb  
+    - title: Thornton City Control Network
+      url: https://www.thorntonco.gov/government/infrastructure/engineering/Documents/Benchmark%20List.pdf  
+- state: Delaware  
+  databases:
+    - title: The Delaware Geological Society Guide to Information on Benchmarks in Delaware
+      url: http://www.dgs.udel.edu/publications/ofr17-guide-information-benchmarks-delaware    
+- state: Florida  
+  databases:
+    - title: Disney Benchmarks Pages by Patty Winter
+      url: http://www.wintertime.com/OH/GC/Disney/disneymarks.html   
+    - title: Florida Department of Environmental Protection Land Boundary Information System (LABINS) 
+      url: http://www.labins.org/ 
+    - title: Hillsborough County Benchmarks
+      url: http://www.earthsurvey.us/hcbm/HCBM.html 
+    - title: Orlando Survey Benchmarks
+      url: https://orl.maps.arcgis.com/apps/webappviewer/index.html?id=cf0cc8e9c3fb4f7f93dcfc27dbdbb37a 
+    - title: Sarasota County Survey Mapping, Data and Maps
+      url: https://www.scgov.net/government/public-works/survey-mapping-data 
+    - title: Seminole County Survey Control Data
+      url: http://www.seminolecountyfl.gov/departments-services/public-works/roads-stormwater/survey.stml 
+    - title: Southwest Florida Water Management District Survey Viewer
+      url: https://swfwmd.maps.arcgis.com/apps/webappviewer/index.html?id=73ef8ebea14b4ce98822073f6e07afa6        
+- state: Georgia  
+  databases:
+    - title: Fayetteville City Control Network
+      url: https://www.fayetteville-ga.gov/DocumentCenter/View/540/Control-Network-Map-PDF?bidId=   
+- state: Idaho  
+  databases:
+    - title: Ada County Horizontal and Vertical Survey Control Information
+      url: https://adacounty.id.gov/developmentservices/engineering-division/surveying/   
+- state: Illinois 
+  databases:
+    - title: DuPage County Physical Monumentation Network
+      url: https://www.dupagecounty.gov/government/departments/gis/gps_data/physical_monumentation_network.php   
+    - title: Kane County Geodetic Monuments
+      url: http://www.co.kane.il.us/geodetic/index.aspx
+    - title: West Chicago Survey Control Network
+      url: https://westchicago.org/gis/                    
+- state: Indiana 
+  databases:
+    - title: DNR “Division of Water” Primary Survey Control Data
+      url: http://www.in.gov/dnr/water/files/bm_vigo.pdf                                 
