@@ -10,6 +10,7 @@ permalink: /airway-beacons-map/
 
   <script>
     var beaconMap = L.map('map', { fullscreenControl: true, geocoderControl: true }).setView([39.8283,-98.5795], 9);
+    L.control.mapCenterCoord().addTo(beaconMap);
     var layers = {
             'OpenStreetMap': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '&copy; <a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -126,8 +127,6 @@ permalink: /airway-beacons-map/
       textSearch.on('search:locationfound', function(event) {
           event.layer.openPopup();
       });
-
-      L.control.mouseCoordinate({position:'bottomleft', gps: true, gpsLong: false}).addTo(beaconMap);
 
       $(document).ready(function(){
         
