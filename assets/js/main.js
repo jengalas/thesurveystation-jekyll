@@ -54,12 +54,6 @@ function closeSubmenu(e) {
   document.addEventListener("click", closeSubmenu, false);
 /* End navigation */  
 
-/* Datatables init */
-$(document).ready( function () {
-    $('#historicalAirwayMaps').DataTable({
-        paging: false
-    });
-} );
 
 /******************************************************************************
 Accordion 

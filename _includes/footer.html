@@ -13,3 +13,15 @@
     <site-info>©{{ 'now' | date: "%Y" }} • <a href="{{ site.url }}">{{ site.title }}</a></site-info>
 </footer>
 <script src="/assets/js/main.js" crossorigin="anonymous"></script>
+<script src="/assets/js/accessible-tabs.js"></script>
+
+{% if page.title == "Historical Airway Maps" %}
+<script>
+    /* Datatables init */
+    $(document).ready( function () {
+        $('#historicalAirwayMaps').DataTable({
+            paging: false
+        });
+    } );
+</script>
+{% endif %}

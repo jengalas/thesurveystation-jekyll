@@ -8,26 +8,76 @@ layout: default
     <div class="data-wrapper">
         <ul>
             <li><b>Coordinates:</b> N {{ page.latitude }}° W {{ page.longitude }}°</li>
-            <li><b>Location:</b> <a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a> - <a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a> - <a href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></li>
+            <li><b>Location:</b> <a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a>
+                - <a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a> - <a
+                    href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></li>
             <li><b>Elevation:</b> {{ page.elevation }}</li>
             <li><b>Type:</b> <a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
             <li><b>Setting:</b> {{ page.setting }}</li>
             <li><b>Year Established:</b> {{ page.year_established }}</li>
-            <li><b>Established By:</b> {{ page.agency }}</li>            
+            <li><b>Established By:</b> {{ page.agency }}</li>
             <li><b>Status:</b> {{ page.status }}</li>
             <li><b>Condition:</b> {{ page.condition }} as of {{ page.date | date: "%B %d, %Y" }}</li>
+            {% if page.pid %}
+            <li class="official-description"><b>Official Description:</b> <a
+                    href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
+            {% elsif page.official_description %}
+            <li class="official-description"><b>Official {{ page.agency}} Description:</b> {{ page.official_description
+                }}</li>
+            {% else %}
+            <li class="official-description"><b>Official Description:</b> Unavailable.</li>
+            {% endif %}
         </ul>
-        <p>Official Description: <li>{{ page.official_description }}</li></p>
     </div>
     <div class="map-wrapper">
         {% include map.html %}
     </div>
 </div>
 
-<div class="parent-mark"><i>For more information, see: </i><a href="/surveymarks/{{ page.parent }}">{{ page.parent_name }}</a></div>
-
-<p>{{ page.zhanna_text | markdownify }}</p>
+<div class="parent-mark"><i>For more information, see: </i><a href="/surveymarks/{{ page.parent }}">{{ page.parent_name
+        }}</a></div>
 
 {% if page.ngs_report_text %}
-    <p class="ngs-report">{{ page.ngs_report_text }}</p>
+<p class="ngs-report">{{ page.ngs_report_text }}</p>
 {% endif %}
+
+<div class="recovery-notes">
+    {% if page.rich_text %}
+    <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
+        <ul class="js-tablist">
+            {% if page.zhanna_text %}
+            <li class="js-tablist__item">
+                <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's report</a>
+            </li>
+            {% endif %}
+            {% if page.rich_text %}
+            <li class="js-tablist__item">
+                <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's report</a>
+            </li>
+            {% endif %}
+        </ul>
+        {% if page.zhanna_text %}
+        <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
+            {{ page.zhanna_text | markdownify }}
+            <!-- {% if geocache.image_gallery_zh %}
+            {% assign gal_zh = geocache.image_gallery_zh %}
+            {% assign gal_zh_class = geocache.image_gallery_zh_class %}
+            {% include gallery.html gallery_id=gal_zh class=gal_zh_class %} 
+            {% endif %} -->
+        </div>
+        {% endif %}
+        {% if page.rich_text %}
+        <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+            {{ page.rich_text | markdownify }}
+            <!-- {% if geocache.image_gallery_r %}
+            {% assign gal_r = geocache.image_gallery_r %}
+            {% assign gal_r_class = geocache.image_gallery_r_class %}
+            {% include gallery.html gallery_id=gal_r class=gal_r_class %}
+            {% endif %} -->
+        </div>
+        {% endif %}
+    </div>
+    {% else %}
+    {{ page.zhanna_text | markdownify }}
+    {% endif %}
+</div>

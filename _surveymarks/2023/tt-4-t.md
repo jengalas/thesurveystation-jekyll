@@ -41,7 +41,5 @@ zhanna_text:  >-
 
 
   Something else of interest is that the walls of the old service station mentioned in the benchmark description are still here! The remnants of the building are on the north side of the highway, and can even be seen on Google Street View. I haven't yet been able to find out anything more about the service station, but the name CHICCO can be seen in the concrete.
-
-rich_text:  >-
 featured_image: tt-4-tcsm.jpg
 ---
