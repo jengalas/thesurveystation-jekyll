@@ -18,16 +18,16 @@ permalink: /browse-recoveries-by-year/
 <a href="#{{ year }}">{{ year }}</a>
 {% endfor %}
 
-{% assign recMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Recovered" %}
-{% assign nfMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Not Found" %}
-{% assign noteMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Note Entered" %}
+{% assign recMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Recovered" | sort: "date" %}
+{% assign nfMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Not Found" | sort: "date" %}
+{% assign noteMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Note Entered" | sort: "date" %}
 
 {% for year in uniqYears %}
     <h2 id="{{ year }}">{{ year }}</h2>
     {% assign recs = recMarks | where: "date", year %}
     {% for rec in recs reversed %}
     {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
-      <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a></li>    
+      <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a>{{ rec.date | date: "%Y/%m/%d" }}</li>    
     {% endfor %}
     {% assign recs = nfMarks | where: "date", year %}
     {% for rec in recs reversed %}
