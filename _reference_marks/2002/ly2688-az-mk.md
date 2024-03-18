@@ -19,5 +19,4 @@ zhanna_text: >-
   <div class="alert alert-success" style="display: inline-block;">
   <b>Update (September 7, 2006)</b>: see <a href="/reference-marks/ly2688-az-mk-2">CAMELBACK AZ MK</a>.
   </div>
-featured_image: false
 ---
