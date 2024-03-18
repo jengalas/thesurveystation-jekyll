@@ -10,17 +10,26 @@ layout: default
 <div class="data-map-wrapper">
     <div class="data-wrapper">
         <ul>
-            <li><b>Coordinates:</b> N {{ page.latitude }}° W {{ page.longitude }}°</li>
+            <li><b>Coordinates:</b> N {{ page.latitude }}° W {{ page.longitude }}° 
+            {% if page.estimate %}
+                (estimate)
+            {% endif %}
+            </li>
             <li><b>Location:</b> <a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a>
                 - <a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a> - <a
                     href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></li>
-            <li><b>Elevation:</b> {{ page.elevation }}</li>
+            <li><b>Elevation:</b>
+            {% if page.elevation %}
+                {{ page.elevation }}
+            {% else %}
+                Unknown
+            {% endif %}</li>
             <li><b>Type:</b> <a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
             <li><b>Setting:</b> {{ page.setting }}</li>
             <li><b>Year Established:</b> {{ page.year_established }}</li>
             <li><b>Established By:</b> {{ page.agency }}</li>
             <li><b>Status:</b> {{ page.status }}</li>
-            <li><b>Condition:</b> {{ page.condition }} as of {{ page.date | date: "%B %d, %Y" }}</li>
+            <li><b>Condition:</b> {{ page.condition }} as of {{ page.date | date: "%B %e, %Y" }}</li>
             {% if page.pid %}
             <li class="official-description"><b>Official Description:</b> <a
                     href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
@@ -38,8 +47,12 @@ layout: default
     </div>
 </div>
 
+{% if page.coordinates_submitted %}
+<p class="coordinates-submitted">Updated GPS coordinates have been submitted to NGS.</p>
+{% endif %}
+
 {% if page.ngs_report_text %}
-<p class="ngs-report">{{ page.ngs_report_text }}</p>
+<div class="ngs-report">{{ page.ngs_report_text | markdownify }}</div>
 {% endif %}
 
 <div class="recovery-notes">
