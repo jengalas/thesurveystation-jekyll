@@ -20,7 +20,12 @@
             <td><a href="{{ referenceMark.url }}">{{ referenceMark.designation }}</a></td>
             <td>{{ referenceMark.status }}</td>
             <td>{{ referenceMark.condition }}</td>
-            <td><img src="{{ thumb }}{{ referenceMark.featured_image }}"></td>
+            <td>{% if referenceMark.featured_image %}
+                <img src="{{ thumb }}{{ referenceMark.featured_image }}">
+                {% else %}
+                <img src="/assets/img/marker-icon-red.png">
+                {% endif %}
+            </td>
         </tr>
         {% endfor %}
     </tbody>
