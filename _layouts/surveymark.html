@@ -10,6 +10,9 @@ layout: default
 <div class="data-map-wrapper">
     <div class="data-wrapper">
         <ul>
+            {% if page.pid %}
+            <li><b>NGS PID</b>: {{ page.pid }}</li>
+            {% endif %}
             <li><b>Coordinates:</b> N {{ page.latitude }}° W {{ page.longitude }}° 
             {% if page.estimate %}
                 (estimate)
