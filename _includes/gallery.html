@@ -1,0 +1,28 @@
+{% capture year %}{{ page.date | date: "%Y" }}{% endcapture %}
+{% capture month %}{{ page.date | date: "%m" }}{% endcapture %}
+{% capture day %}{{ page.date | date: "%d" }}{% endcapture %}
+
+{% assign image_host_url = "https://planetzhanna.com/images/" %}
+{% assign gclass = include.class %}
+{% assign suffix = page.galleries[include.gallery_id].suffix %}
+
+
+<div class="jg {{ gclass }}">
+    {% for image in page.galleries[include.gallery_id].images %}
+
+        {% if image.title %}
+           {% assign title = image.title %}
+           {% else %}
+           {% assign title = image.alt %}
+        {% endif %}
+
+        {% if suffix %}
+          <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ title }}</div>" href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}{{ suffix }}.jpg">
+        {% else %}
+          <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ title }}</div>" href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}.jpg">
+        {% endif %}
+      
+        <img alt="{{ image.alt }}" title="{{ title | strip_html }}" src="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg"/>
+        </a>
+    {% endfor %}    
+</div>

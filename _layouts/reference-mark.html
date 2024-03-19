@@ -64,25 +64,21 @@ layout: default
         {% if page.zhanna_text %}
         <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
             {{ page.zhanna_text | markdownify }}
-            <!-- {% if geocache.image_gallery_zh %}
-            {% assign gal_zh = geocache.image_gallery_zh %}
-            {% assign gal_zh_class = geocache.image_gallery_zh_class %}
-            {% include gallery.html gallery_id=gal_zh class=gal_zh_class %} 
-            {% endif %} -->
+            {% assign gal_zh_class = page.image_gallery_zh_class %}
+            {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
         </div>
         {% endif %}
         {% if page.rich_text %}
         <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
             {{ page.rich_text | markdownify }}
-            <!-- {% if geocache.image_gallery_r %}
-            {% assign gal_r = geocache.image_gallery_r %}
-            {% assign gal_r_class = geocache.image_gallery_r_class %}
-            {% include gallery.html gallery_id=gal_r class=gal_r_class %}
-            {% endif %} -->
+            {% assign gal_r_class = page.image_gallery_r_class %}
+            {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
         </div>
         {% endif %}
     </div>
     {% else %}
     {{ page.zhanna_text | markdownify }}
+    {% assign gal_zh_class = page.image_gallery_zh_class %}
+    {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
     {% endif %}
 </div>
