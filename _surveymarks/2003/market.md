@@ -18,5 +18,12 @@ zhanna_text: >-
     had been aware of when we came to this area for some geocaching this
     morning. The others, this mark and [22+96](/surveymarks/2296-2/), we found
     thanks to some helpful construction workers near LY1434.
+galleries:
+  gallery_zh:
+    images:
+    - filename: market
+      alt: Army Corps of Engineers Survey Mark MARKET
+    - filename: marketg1
+      alt: Rich points to the disk, right on the corner of the little concrete wall.    
 featured_image: marketcsm.jpg
 ---
