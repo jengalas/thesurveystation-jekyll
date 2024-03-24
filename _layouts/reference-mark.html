@@ -25,7 +25,7 @@ layout: default
             <li><b>Year Established:</b> {{ page.year_established }}</li>
             <li><b>Established By:</b> {{ page.agency }}</li>
             <li><b>Status:</b> {{ page.status }}</li>
-            <li><b>Condition:</b> {{ page.condition }} as of {{ page.date | date: "%B %d, %Y" }}</li>
+            <li><b>Condition:</b> {{ page.condition }} as of {{ page.date | date: "%B %e, %Y" }}</li>
             {% if page.pid %}
             <li class="official-description"><b>Official Description:</b> <a
                     href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
