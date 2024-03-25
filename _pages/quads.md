@@ -15,7 +15,7 @@ permalink: /locations/quads/
 {% endfor %}
 
 {% for quad in locationArray %}
-  <h2 id="{{ quad | slugify }}">{{ quad }}</h2>
+  <h2 class="quad" id="{{ quad | slugify }}">{{ quad }}</h2>
   <ul>
   {% for mark in allMarks %}
     {% capture thumb %}https://planetzhanna.com/images/{{ mark.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}

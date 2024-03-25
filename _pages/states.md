@@ -15,7 +15,7 @@ permalink: /locations/states/
 {% endfor %}
 
 {% for state in locationArray %}
-  <h2 id="{{ state | slugify }}">{{ state | capitalize }}</h2>
+  <h2 class="state" id="{{ state | slugify }}">{{ state | capitalize }}</h2>
   <ul>
   {% for mark in allMarks %}
     {% capture thumb %}https://planetzhanna.com/images/{{ mark.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}

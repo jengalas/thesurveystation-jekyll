@@ -15,7 +15,7 @@ permalink: /locations/counties/
 {% endfor %}
 
 {% for county in locationArray %}
-  <h2 id="{{ county | slugify }}">{{ county }}</h2>
+  <h2 class="county" id="{{ county | slugify }}">{{ county }}</h2>
   <ul>
   {% for mark in allMarks %}
     {% capture thumb %}https://planetzhanna.com/images/{{ mark.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
