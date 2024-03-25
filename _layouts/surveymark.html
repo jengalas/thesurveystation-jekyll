@@ -42,6 +42,9 @@ layout: default
             {% else %}
             <li class="official-description"><b>Official Description:</b> Unavailable.</li>
             {% endif %}
+            {% if page.usgs_report %}
+            <li class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></li>
+            {% endif %}
         </ul>
 
     </div>
