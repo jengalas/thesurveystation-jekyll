@@ -8,6 +8,6 @@ permalink: /ngs-recoveries/
   {% assign reports = site.surveymarks | concat: site.reference_marks | sort: "date" | reverse | where: "ngs_report", "true" %}
  
   {% for report in reports %}
-      <li><a href="{{ report.url }}">{{ report.designation }}</a></li>    
+      <li><a href="{{ report.url }}">{{ report.designation }}</a> {{ report.date | date: "%B %e, %Y"}}</li>    
   {% endfor %}
 </ul>
