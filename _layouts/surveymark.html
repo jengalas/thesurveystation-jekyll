@@ -7,8 +7,61 @@ layout: default
 
 <h1>{{ page.designation }}</h1>
 
-<div class="data-map-wrapper">
+<div class="data-map-wrapper responsive-two-columns">
     <div class="data-wrapper">
+        <table>
+            {% if page.pid %}
+            <tr>
+                <td><b>NGS PID</b>:</td>
+                <td>{{ page.pid }}</td>
+            </tr>
+            {% endif %}
+            <tr>
+                <td><b>Coordinates:</b></td>
+                <td>N {{ page.latitude }}° W {{ page.longitude }}° 
+                    {% if page.estimate %}
+                        (estimate)
+                    {% endif %}</td>
+            </tr>
+            <tr>
+                <td><b>Location:</b></td>
+                <td><a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a>
+                    <br><a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a><br><a
+                        href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></td>
+            </tr>
+            <tr>
+                <td><b>Elevation:</b></td>
+                <td>{% if page.elevation %}
+                    {{ page.elevation }}
+                {% else %}
+                    Unknown
+                {% endif %}</td>
+            </tr>
+            <tr>
+                <td><b>Type:</b></td>
+                <td><a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></td>
+            </tr>
+            <tr>
+                <td><b>Setting:</b></td>
+                <td>{{ page.setting }}</td>
+            </tr>
+            <tr>
+                <td><b>Year Established:</b></td>
+                <td>{{ page.year_established }}</td>
+            </tr>
+            <tr>
+                <td><b>Established By:</b></td>
+                <td>{{ page.agency }}</td>
+            </tr>
+            <tr>
+                <td><b>Status:</b></td>
+                <td>{{ page.status }}</td>
+            </tr>
+            <tr>
+                <td><b>Condition:</b></td>
+                <td>{{ page.condition }} as of {{ page.date | date: "%B %e, %Y" }}</td>
+            </tr>
+        </table>
         <ul>
             {% if page.pid %}
             <li><b>NGS PID</b>: {{ page.pid }}</li>
