@@ -12,7 +12,7 @@ layout: default
         <table>
             {% if page.pid %}
             <tr>
-                <td><b>NGS PID</b>:</td>
+                <td><b>NGS PID:</b></td>
                 <td>{{ page.pid }}</td>
             </tr>
             {% endif %}
@@ -26,7 +26,8 @@ layout: default
             <tr>
                 <td><b>Location:</b></td>
                 <td><a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a>
-                    <br><a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a><br><a
+                    <br>&nbsp;&nbsp;&nbsp;<a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a>
+                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
                         href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></td>
             </tr>
             <tr>
@@ -63,29 +64,6 @@ layout: default
             </tr>
         </table>
         <ul>
-            {% if page.pid %}
-            <li><b>NGS PID</b>: {{ page.pid }}</li>
-            {% endif %}
-            <li><b>Coordinates:</b> N {{ page.latitude }}° W {{ page.longitude }}° 
-            {% if page.estimate %}
-                (estimate)
-            {% endif %}
-            </li>
-            <li><b>Location:</b> <a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a>
-                - <a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a> - <a
-                    href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></li>
-            <li><b>Elevation:</b>
-            {% if page.elevation %}
-                {{ page.elevation }}
-            {% else %}
-                Unknown
-            {% endif %}</li>
-            <li><b>Type:</b> <a href="/marker-types#{{ page.type | slugify }}">{{ page.type }}</a></li>
-            <li><b>Setting:</b> {{ page.setting }}</li>
-            <li><b>Year Established:</b> {{ page.year_established }}</li>
-            <li><b>Established By:</b> {{ page.agency }}</li>
-            <li><b>Status:</b> {{ page.status }}</li>
-            <li><b>Condition:</b> {{ page.condition }} as of {{ page.date | date: "%B %e, %Y" }}</li>
             {% if page.pid %}
             <li class="official-description"><b>Official Description:</b> <a
                     href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
