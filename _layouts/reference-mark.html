@@ -80,8 +80,18 @@ layout: default
 <div class="parent-mark"><i>For more information, see: </i><a href="/surveymarks/{{ page.parent }}">{{ page.parent_name
         }}</a></div>
 
+{% if page.coordinates_submitted %}
+<p class="coordinates-submitted">Updated GPS coordinates have been submitted to NGS.</p>
+{% endif %}
+
+{% if page.ngs_report %}
+    {% unless page.ngs_report_text %}
+    <div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS.</div> 
+    {% endunless %}   
+{% endif %}
+
 {% if page.ngs_report_text %}
-<p class="ngs-report">{{ page.ngs_report_text }}</p>
+<div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS, along with the following recovery note: {{ page.ngs_report_text | markdownify }}</div>
 {% endif %}
 
 <div class="recovery-notes">
