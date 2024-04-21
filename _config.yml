@@ -28,3 +28,12 @@ defaults:
       layout: "reference-mark"
       zoom: 15
           
+plugins:
+  - jekyll-datapage-generator
+
+page_gen:
+- data: 'types'
+  template: 'default'
+  index_files: true
+  name: type
+  dir: /
