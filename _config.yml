@@ -33,7 +33,7 @@ plugins:
 
 page_gen:
 - data: 'types'
-  template: 'default'
-  index_files: true
+  template: 'marker-types'
+  index_files: false
   name: type
-  dir: /
+  dir: marker-type

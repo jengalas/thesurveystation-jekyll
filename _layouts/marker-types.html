@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{{ page.type }}
+
+<ul>
+    {% assign types = site.surveymarks | concat: site.reference_marks | where: "type", page.type | sort: "date" | reverse %}
+  
+    {% for type in types %}
+        <li><a href="{{ type.url }}">{{ type.designation }}</a></li>
+    {% endfor %}
+</ul>
