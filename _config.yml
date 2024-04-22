@@ -37,3 +37,13 @@ page_gen:
   index_files: false
   name: type
   dir: marker-type
+- data: 'agencies'
+  template: 'agencies'
+  index_files: false
+  name: agency
+  dir: agency  
+- data: 'years'
+  template: 'years'
+  index_files: false
+  name: year
+  dir: year   
