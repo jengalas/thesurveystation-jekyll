@@ -1,55 +1,110 @@
 - agency: Adirondack Surveys
+  slug: adirondack-surveys
 - agency: Aquatrak
+  slug: aquatrak
 - agency: Army Corps of Engineers
+  slug: army-corps-of-engineers
 - agency: AT&T
+  slug: at-t
 - agency: AZDOT
+  slug: azdot
 - agency: Boston Museum of Science
+  slug: boston-museum-of-science
 - agency: Bureau of Land Management
+  slug: bureau-of-land-management
 - agency: Central Railroad of New Jersey
+  slug: central-railroad-of-new-jersey
 - agency: City of Hazleton
+  slug: city-of-hazleton
 - agency: Clark County Surveyor's Office
+  slug: clark-county-surveyor-s-office
 - agency: County of Carbon
+  slug: county-of-carbon
 - agency: Defense Map Agency
+  slug: defense-map-agency
 - agency: Delaware and Hudson Railroad
+  slug: delaware-and-hudson-railroad
 - agency: Delaware Dept. of Highways and Transportation
+  slug: delaware-dept-of-highways-and-transportation
 - agency: Erie Lackawanna Railroad
+  slug: erie-lackawanna-railroad
 - agency: Florida Dept. of Environmental Protection
+  slug: florida-dept-of-environmental-protection
 - agency: Florida Dept. of Natural Resources
+  slug: florida-dept-of-natural-resources
 - agency: Florida DOT
+  slug: florida-dot
 - agency: International Boundary and Water Commission
+  slug: international-boundary-and-water-commission
 - agency: International Boundary Commission
+  slug: international-boundary-commission
 - agency: Keith & Schnars
+  slug: keith-schnars
 - agency: Lehigh Valley Railroad
+  slug: lehigh-valley-railroad
 - agency: Local Engineer
+  slug: local-engineer
 - agency: MaineDOT
+  slug: mainedot
 - agency: MDDOT
+  slug: mddot
 - agency: Metropolitan Transportation Authority
+  slug: metropolitan-transportation-authority
 - agency: National Ocean Service
+  slug: national-ocean-service
 - agency: National Park Service
+  slug: national-park-service
 - agency: New Jersey Division of Conservation and Development
+  slug: new-jersey-division-of-conservation-and-development
 - agency: New Jersey Division of Parks & Forestry
+  slug: new-jersey-division-of-parks-forestry
 - agency: New Jersey Geodetic Survey
+  slug: new-jersey-geodetic-survey
 - agency: New Jersey Geological Survey
+  slug: new-jersey-geological-survey
 - agency: NGS
+  slug: ngs
 - agency: NYBE+A
+  slug: nybe-a
 - agency: NYPA
+  slug: nypa
 - agency: NYSDOT
+  slug: nysdot
 - agency: PA Dept. of Highways
+  slug: pa-dept-of-highways
 - agency: PennDOT
+  slug: penndot
 - agency: Pennsylvania State University
+  slug: pennsylvania-state-university
 - agency: Pima County DOT
+  slug: pima-county-dot
 - agency: Port Authority of NY & NJ
+  slug: port-authority-of-ny-nj
 - agency: Port Authority Trans-Hudson
+  slug: port-authority-trans-hudson
 - agency: Shephard-Wesnitzer
+  slug: shephard-wesnitzer
 - agency: U. S. Coast Guard
+  slug: u-s-coast-guard
 - agency: U. S. Department of Agriculture
+  slug: u-s-department-of-agriculture
 - agency: U. S. DOT
+  slug: u-s-dot
 - agency: U. S. Engineers
+  slug: u-s-engineers
 - agency: U. S. Forest Service
+  slug: u-s-forest-service
 - agency: U. S. General Land Office
+  slug: u-s-general-land-office
 - agency: U.S. Bureau of Public Roads
+  slug: u-s-bureau-of-public-roads
 - agency: U.S. Supreme Court
+  slug: u-s-supreme-court
 - agency: Unknown
+  slug: unknown
 - agency: USGS
+  slug: usgs
 - agency: Western Mapping Company
-- agency: Wilson and Company
+  slug: western-mapping-company
+- agency: Wilson and Company  
+  slug: wilson-and-company

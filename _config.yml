@@ -40,7 +40,7 @@ page_gen:
 - data: 'agencies'
   template: 'agencies'
   index_files: false
-  name: agency
+  name: slug
   dir: agency  
 - data: 'years'
   template: 'years'
