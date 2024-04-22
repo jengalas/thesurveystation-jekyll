@@ -10,16 +10,44 @@ layout: default
 {% assign nfMarks = marks | where: "status", "Not Found" | sort: "date" %}
 {% assign noteMarks = marks | where: "status", "Note Entered" | sort: "date" %}
 
-
-{% for rec in recMarks reversed %}
-    {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
-      <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a></li>    
-{% endfor %}
-
-{% for rec in nfMarks reversed %}
-      <li>NF: <a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
-{% endfor %}
-    
-{% for rec in noteMarks reversed %}
-      <li>Note: <a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
-{% endfor %}
+<div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
+    <ul class="js-tablist">
+        {% if recMarks %}
+        <li class="js-tablist__item">
+            <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Found or Confirmed Destroyed</a>
+        </li>
+        {% endif %}
+        {% if nfMarks %}
+        <li class="js-tablist__item">
+            <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Not Found</a>
+        </li>
+        {% endif %}
+        {% if noteMarks %}
+        <li class="js-tablist__item">
+            <a href="#id_third-{{ forloop.index }}" class="js-tablist__link">Notes Made</a>
+        </li>
+        {% endif %}
+    </ul>
+    {% if recMarks %}
+    <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
+        {% for rec in recMarks reversed %}
+            {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+            <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a></li>    
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% if nfMarks %}
+    <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+        {% for rec in nfMarks reversed %}
+            <li>NF: <a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% if noteMarks %}
+    <div id="id_third-{{ forloop.index }}" class="js-tabcontent">
+        {% for rec in noteMarks reversed %}
+            <li>Note: <a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
+        {% endfor %}
+    </div>
+    {% endif %}
+</div>
