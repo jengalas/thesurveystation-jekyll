@@ -1,0 +1,7 @@
+# https://stackoverflow.com/questions/47073346/how-to-create-three-level-object-in-yaml-metadata-in-rmd
+
+state: Pennsylvania
+county: county
+  quad:
+    - name: quad a
+    - name: quad b
