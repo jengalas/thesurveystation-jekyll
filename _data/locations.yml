@@ -1,7 +1,17 @@
 # https://stackoverflow.com/questions/47073346/how-to-create-three-level-object-in-yaml-metadata-in-rmd
 
-state: Pennsylvania
-county: county
-  quad:
-    - name: quad a
-    - name: quad b
+state: 
+  - name: Pennsylvania
+    county:
+    - name: Lackawanna County
+      quad:
+      - name: quad a
+      - name: quad b
+    - name: Luzerne County    
+  - name: Maine  
+    county:
+      - name: Washington County
+        quad:
+          - name: quad a
+          - name: quad b
+      - name: Waldo County   
