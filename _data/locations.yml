@@ -1,4 +1,5 @@
 # https://stackoverflow.com/questions/47073346/how-to-create-three-level-object-in-yaml-metadata-in-rmd
+# https://wordpress.stackexchange.com/questions/223716/create-a-hierarchical-taxonomy-list-in-wordpress
 
 state: 
   - name: Pennsylvania
