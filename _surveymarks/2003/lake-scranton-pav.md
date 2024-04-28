@@ -3,10 +3,9 @@ designation: LAKE SCRANTON PAV
 date: '2003-04-29T14:11:01'
 latitude: 41.397616
 longitude: 75.625733
-location:
-  - Pennsylvania
-  - Lackawanna County
-  - Scranton Quad
+state: Pennsylvania
+county: Lackawanna County
+quad: Scranton Quad
 type: Unspecified Disk
 setting: Concrete Sidewalk
 year_established: Unknown

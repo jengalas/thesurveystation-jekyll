@@ -5,10 +5,9 @@ designation: NESQUE AZ MK
 date: '2003-09-12T20:50:51'
 latitude: 40.878383
 longitude: 75.791533
-location:
-  - Pennsylvania
-  - Carbon County
-  - Weatherly Quad
+state: Pennsylvania
+county: Carbon County
+quad: Weatherly Quad
 type: Azimuth Mark Disk
 setting: Boulder
 year_established: '1969'

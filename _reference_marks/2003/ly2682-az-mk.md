@@ -5,10 +5,9 @@ designation: BEAVER AZ MK
 date: '2003-11-23T20:33:34'
 latitude: 41.22505
 longitude: 75.079383
-location:
-  - Pennsylvania
-  - Pike County
-  - Twelvemile Pond Quad
+state: Pennsylvania
+county: Pike County
+quad: Twelvemile Pond Quad
 type: Azimuth Mark Disk
 setting: Square Concrete Monument
 year_established: '1940'

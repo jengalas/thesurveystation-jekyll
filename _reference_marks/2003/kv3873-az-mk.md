@@ -7,10 +7,9 @@ date: '2003-11-02T13:54:57'
 latitude: 40.829133
 longitude: 75.851967
 estimate: null
-location:
-  - Pennsylvania
-  - Carbon County
-  - Nesquehoning Quad
+state: Pennsylvania
+county: Carbon County
+quad: Nesquehoning Quad
 elevation: Unknown
 type: Azimuth Mark Disk
 setting: Square Concrete Monument

@@ -25,10 +25,10 @@ layout: default
             </tr>
             <tr>
                 <td><b>Location:</b></td>
-                <td><a href="/location/{{ page.state | slugify }}">{{ page.state }}</a>
-                    <br>&nbsp;&nbsp;&nbsp;<a href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}">{{ page.county }}</a>
+                <td><a href="/locations/states#{{ page.location[0] | slugify }}">{{ page.location[0] }}</a>
+                    <br>&nbsp;&nbsp;&nbsp;<a href="/locations/counties#{{ page.location[1] | slugify }}">{{ page.location[1] }}</a>
                     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-                        href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}-{{ page.quad | slugify }}">{{ page.quad }}</a></td>
+                        href="/locations/quads#{{ page.location[2] | slugify }}">{{ page.location[2] }}</a></td>
             </tr>
             <tr>
                 <td><b>Elevation:</b></td>

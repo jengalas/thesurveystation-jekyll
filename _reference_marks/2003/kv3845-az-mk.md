@@ -5,10 +5,9 @@ designation: THORPE AZ MK
 date: '2003-09-07T21:53:08'
 latitude: 40.887983
 longitude: 75.71085
-location:
-  - Pennsylvania
-  - Carbon County
-  - Lehighton Quad
+state: Pennsylvania
+county: Carbon County
+quad: Lehighton Quad
 type: Azimuth Mark Disk
 setting: Boulder
 year_established: '1969'

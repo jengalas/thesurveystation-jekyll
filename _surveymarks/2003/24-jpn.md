@@ -3,10 +3,9 @@ designation: 24 JPN
 date: '2003-12-24T20:31:42'
 latitude: 41.398367
 longitude: 75.626833
-location:
-  - Pennsylvania
-  - Lackawanna County
-  - Scranton Quad
+state: Pennsylvania
+county: Lackawanna County
+quad: Scranton Quad
 elevation: 1318.169 ft.
 type: Bench Mark Disk
 setting: Rock Outcrop

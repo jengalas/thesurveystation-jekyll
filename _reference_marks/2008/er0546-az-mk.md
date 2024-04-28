@@ -5,7 +5,9 @@ designation: FLATTOP AZ MK
 date: 2008-09-19 02:00:00 -0500
 latitude: '34.830117'
 longitude: '109.823766'
-location: [Arizona, Apache County, Agate House Quad]
+state: Arizona
+county: Apache County
+quad: Agate House Quad
 elevation: Unknown
 type: Azimuth Mark Disk
 setting: Square Concrete Monument

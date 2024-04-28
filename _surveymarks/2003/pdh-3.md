@@ -3,10 +3,9 @@ designation: PDH
 date: '2003-07-04T18:24:16'
 latitude: 41.50915
 longitude: 75.842133
-location:
-  - Pennsylvania
-  - Wyoming County
-  - Factoryville Quad
+state: Pennsylvania
+county: Wyoming County
+quad: Factoryville Quad
 type: Elevation Mark
 setting: Bridge Wingwall
 year_established: Unknown

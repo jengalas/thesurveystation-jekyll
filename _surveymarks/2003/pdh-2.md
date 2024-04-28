@@ -3,10 +3,9 @@ designation: PDH
 date: '2003-07-04T18:18:49'
 latitude: 41.498366
 longitude: 76.1312
-location:
-  - Pennsylvania
-  - Wyoming County
-  - Dutch Mtn Quad
+state: Pennsylvania
+county: Wyoming County
+quad: Dutch Mtn Quad
 type: Elevation Mark
 setting: Bridge Wingwall
 year_established: Unknown

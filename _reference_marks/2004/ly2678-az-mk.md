@@ -5,10 +5,9 @@ designation: HIGH KNOB AZ MK
 date: '2004-01-01T19:32:58-05:00'
 latitude: 41.297
 longitude: 75.117883
-location:
-  - Pennsylvania
-  - Pike County
-  - Pecks Pond Quad
+state: Pennsylvania
+county: Pike County
+quad: Pecks Pond Quad
 type: Azimuth Mark Disk
 setting: Boulder
 year_established: '1940'

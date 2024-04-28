@@ -5,10 +5,9 @@ designation: OSTER AZ MK
 date: '2003-10-02T22:55:54'
 latitude: 41.513283
 longitude: 75.875183
-location:
-  - Pennsylvania
-  - Wyoming County
-  - Tunkhannock Quad
+state: Pennsylvania
+county: Wyoming County
+quad: Tunkhannock Quad
 type: Azimuth Mark Disk
 setting: Concrete Culvert
 year_established: '1968'

@@ -3,10 +3,9 @@ designation: 21Y RESET
 date: '2024-04-12T07:21:37'
 latitude: '36.121551'
 longitude: '115.172078'
-location:
-  - Nevada
-  - Clark County
-  - Las Vegas SW Quad
+state: Nevada
+county: Clark County
+quad: Las Vegas SW Quad
 type: Right of Way Disk
 setting: Concrete Sidewalk
 year_established: 2018?

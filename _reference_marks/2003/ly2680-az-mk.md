@@ -5,10 +5,9 @@ designation: WHITE AZ MK
 date: '2003-08-10T16:56:58'
 latitude: 41.416717
 longitude: 75.140567
-location:
-  - Pennsylvania
-  - Pike County
-  - Hawley Quad
+state: Pennsylvania
+county: Pike County
+quad: Hawley Quad
 type: Azimuth Mark Disk
 setting: Rock Outcrop
 year_established: '1940'

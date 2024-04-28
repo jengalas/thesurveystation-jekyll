@@ -5,10 +5,9 @@ designation: CLIFF ET AZ MK
 date: '2003-10-25T21:16:29'
 latitude: 41.442083
 longitude: 75.9963
-location:
-  - Pennsylvania
-  - Wyoming County
-  - Center Moreland Quad
+state: Pennsylvania
+county: Wyoming County
+quad: Center Moreland Quad
 elevation: 1530 ft.
 type: Landmark/Intersection Station
 setting: Microwave Tower

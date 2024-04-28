@@ -3,10 +3,9 @@ designation: PDH
 date: '2003-05-10T21:45:41'
 latitude: 41.390266
 longitude: 76.278016
-location:
-  - Pennsylvania
-  - Sullivan County
-  - Lopez Quad
+state: Pennsylvania
+county: Sullivan County
+quad: Lopez Quad
 type: Elevation Mark
 setting: Bridge Wingwall
 year_established: Unknown

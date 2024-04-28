@@ -3,10 +3,9 @@ designation: MARKET
 date: '2003-02-03T20:05:40'
 latitude: 41.248133
 longitude: 75.884666
-location:
-  - Pennsylvania
-  - Luzerne County
-  - Wilkes Barre West Quad
+state: Pennsylvania
+county: Luzerne County
+quad: Wilkes Barre West Quad
 type: Survey Mark
 setting: Concrete Wall
 year_established: '1983'
