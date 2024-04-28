@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<h2>{{ page.state }}</h2>
+
+{% assign allMarks = site.surveymarks | concat: site.reference_marks %}
+
+{% assign counties = page.county %}
+
+{{ page.county[0].quad.name }}
+
+{% for county in counties %}
+<h3>{{ county.name }}</h3>
+
+<!-- {% assign quads = county.quad %}
+
+{% for quad in quads %}
+{{ quad.name }}
+{% endfor %} -->
+
+<ul>
+
+    {% for mark in allMarks %}
+    {% if mark.location contains page.state %}
+
+    {% assign quads = county.quad %}
+
+      {% if mark.location[1] contains county.name %}
+
+      {% for quad in quads %}
+      {% if mark.location[2] contains quad.name %}
+
+      <li><a href="{{mark.url}}">{{ mark.designation }}</a>    
+        <ul>
+            <li>{{ mark.location[2] }}</li>
+        </ul>
+    </li>
+    {% endif %}
+    
+{% endfor %}
+    
+{% endif %}
+
+      {% endif %}
+    {% endfor %}
+</ul>
+
+{% endfor %}

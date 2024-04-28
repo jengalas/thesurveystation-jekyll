@@ -1,426 +1,425 @@
 # https://stackoverflow.com/questions/47073346/how-to-create-three-level-object-in-yaml-metadata-in-rmd
 # https://wordpress.stackexchange.com/questions/223716/create-a-hierarchical-taxonomy-list-in-wordpress
 
-state:
-  - name: Arizona
-    county:
-      - name: Apache County
-        quad:
-          - name: Adamana Quad
-          - name: Agate House Quad
-          - name: Del Muerto Quad
-          - name: Kachina Point Quad
-          - name: Little White House Ruins Quad
-          - name: Teec Nos Pos Quad
-      - name: Cochise County
-        quad:
-          - name: Bowie Mtn South Quad
-          - name: Cochise Head Quad
-          - name: Willcox North Quad      
-      - name: Coconino County
-        quad:
-          - name: Flagstaff East Quad
-          - name: Grand Canyon Quad
-          - name: Grandview Point Quad
-          - name: Mountainaire Quad
-          - name: Phantom Ranch Quad
-          - name: Sedona Quad
-          - name: Strawberry Crater Quad
-          - name: Wupatki SW Quad    
-      - name: Maricopa County
-        quad:
-          - name: Tempe Quad
-      - name: Navajo County
-        quad: 
-          - name: Little White House Ruins Quad  
-      - name: Pima County
-        quad: 
-          - name: Ajo North Quad
-          - name: Ajo South Quad
-          - name: Armenta Well Quad
-          - name: Avra Quad
-          - name: Brown Mountain Quad
-          - name: Cat Mountain Quad
-          - name: Chico Shunie Quad
-          - name: Gunsight Quad
-          - name: Kitt Peak Quad
-          - name: Lukeville Quad
-          - name: Maish Vaya Quad
-          - name: Quitobaquito Springs Quad
-          - name: San Xavier Mission Quad
-          - name: South of Lukeville Quad
-          - name: Tanque Verde Peak Quad
-          - name: Tillotson Peak Quad
-          - name: Tucson Quad
-          - name: West of Lukeville Quad
-          - name: West of Wahak Hotrontk Quad  
-      - name: Pinal County
-        quad:
-          - name: Cactus Forest Quad
-          - name: Florence Quad     
-      - name: Santa Cruz County
-        quad:
-          - name: Tubac Quad
-      - name: Yavapai County
-        quad:
-          - name: Clarkdale Quad
-          - name: Sedona Quad   
-  - name: California
-    county:
-      - name: Riverside County
-        quad:
-          - name: Cottonwood Spring Quad
-          - name: Malapai Hill Quad
-  - name: Colorado
-    county:
-      - name: Montezuma County
-        quad:
-          - name: Moccasin Mesa Quad
-          - name: Point Lookout Quad
-          - name: Teec Nos Pos Quad
-          - name: Weatherill Mesa Quad         
-  - name: Connecticut
-    county:
-      - name: New Haven County
-        quad:
-          - name: New Haven Quad         
-  - name: Delaware
-    county:
-      - name: Sussex County
-        quad:
-          - name: Assawoman Bay Quad
-          - name: Bethany Beach Quad
-          - name: Frankford Quad
-          - name: Rehoboth Beach Quad
-  - name: Florida
-    county:
-      - name: Hillsborough County
-        quad:
-          - name: Tampa Quad
-      - name: Miami-Dade County
-        quad:
-          - name: Fortymile Bend Quad
-          - name: Long Pine Key Quad
-      - name: Monroe County
-        quad:
-          - name: Big Pine Key Quad
-          - name: Dry Tortugas Quad
-          - name: Flamingo Quad
-          - name: Grassy Key Quad
-          - name: Key West Quad
-          - name: Long Key Quad
-          - name: Lower Matecumbe Key Quad
-          - name: Marathon Quad
-          - name: Plantation Key Quad
-          - name: Saddlebunch Keys
-          - name: Sevenmile Bridge Quad
-          - name: Sugarloaf Key Quad
-          - name: Summerland Key Quad
-  - name: Maine
-    county:
-      - name: Hancock County
-        quad:
-          - name: Baker Island Quad
-          - name: Bar Harbor Quad
-          - name: Bartlett Island Quad
-          - name: Bass Harbor Quad
-          - name: Blue Hill Quad
-          - name: Bucksport Quad
-          - name: Mount Desert Quad
-          - name: Penobscot Quad
-          - name: Salsbury Cove Quad
-          - name: Sargentville Quad
-          - name: Schoodic Head Quad
-          - name: Seal Harbor Quad
-          - name: Southwest Harbor Quad
-          - name: Swans Island Quad   
-      - name: Knox County
-        quad:
-          - name: Isle au Haut West Quad     
-      - name: Waldo County
-        quad:
-          - name: Bucksport Quad
-          - name: Castine Quad
-          - name: Searsport Quad   
-      - name: Washington County
-        quad:
-          - name: Eastport Quad       
-  - name: Maryland
-    county:
-      - name: Baltimore County
-        quad:
-          - name: Towson Quad
-      - name: Worcester County
-        quad:
-          - name: Assawoman Bay Quad
-          - name: Ocean City Quad
-  - name: Nevada
-    county: 
-      - name: Clark County
-        quad:
-          - name: Clark County
-  - name: New Hampshire
-    county:
-      - name: Coos County
-        quad:
-          - name: Bartlett Quad
-  - name: New Jersey
-    county:
-      - name: Atlantic County
-        quad:
-          - name: Atlantic City Quad
-      - name: Bergen County
-        quad:
-          - name: Yonkers Quad    
-      - name: Essex County
-        quad:
-          - name: Elizabeth Quad    
-      - name: Hudson County
-        quad:
-          - name: Weehawken Quad    
-      - name: Middlesex County
-        quad:
-          - name: South Amboy Quad  
-      - name: Passaic County
-        quad:
-          - name: Greenwood Lake Quad  
-          - name: Newfoundland Quad     
-      - name: Sussex County
-        quad:
-          - name: Culvers Gap Quad  
-          - name: Flatbrookville Quad   
-          - name: Lake Maskenozha Quad
-      - name: Warren County
-        quad:
-          - name: Flatbrookville Quad 
-          - name: Tranquility Quad
-  - name: New York
-    county: 
-      - name: Broome County
-        quad:
-          - name: Belden Quad
-          - name: Binghamton West Quad      
-      - name: Chenango County
-        quad:
-          - name: Sidney Quad
-      - name: Dutchess County
-        quad:
-          - name: Wappingers Falls Quad
-      - name: Essex County
-        quad:
-          - name: Lake Placid Quad
-      - name: Greene County
-        quad:
-          - name: Kaaterskill Quad
-      - name: New York County
-        quad:
-          - name: Brooklyn Quad
-          - name: Central Park Quad
-          - name: Jersey City Quad  
-      - name: Orange County
-        quad:
-          - name: Cornwall Quad
-          - name: Pine Island Quad
-          - name: Port Jervis North Quad
-          - name: Port Jervis South Quad
-          - name: Warwick Quad     
-      - name: Otsego County
-        quad:
-          - name: Cooperstown Quad
-          - name: Oneonta Quad      
-      - name: Putnam County
-        quad:
-          - name: West Point Quad
-      - name: Rockland County
-        quad:
-          - name: Haverstraw Quad
-      - name: Schuyler County
-        quad:
-          - name: Burdett Quad
-      - name: Ulster County
-        quad: 
-          - name: Clintondale Quad
-          - name: Ellenville Quad
-          - name: Gardiner Quad
-          - name: Napanoch Quad
-          - name: Pine Bush Quad       
-      - name: Westchester County
-        quad: 
-          - name: Peekskill Quad
-  - name: Pennsylvania
-    county:
-      - name: Berks County
-        quad:
-          - name: Bernville Quad
-          - name: Hamburg Quad
-          - name: Reading Quad     
-      - name: Bradford County    
-        quad:
-          - name: Troy Quad
-          - name: Wyalusing Quad   
-      - name: Bucks County
-        quad:
-          - name: Bedminster Quad
-          - name: Quakertown Quad  
-      - name: Carbon County
-        quad:
-          - name: Blakeslee Quad
-          - name: Christmans Quad
-          - name: Hickory Run Quad
-          - name: Lehighton Quad
-          - name: Nesquehoning Quad
-          - name: Palmerton Quad
-          - name: Weatherly Quad       
-      - name: Centre County
-        quad: 
-          - name: State College Quad
-      - name: Chester County
-        quad:
-          - name: Malvern Quad
-      - name: Columbia County
-        quad:
-          - name: Berwick Quad
-      - name: Dauphin County
-        quad:
-          - name: Harrisburg East Quad
-          - name: Harrisburg West Quad       
-      - name: Lackawanna County
-        quad:
-          - name: Avoca Quad
-          - name: Carbondale Quad
-          - name: Clifford Quad
-          - name: Dalton Quad
-          - name: Dundaff Quad
-          - name: Factoryville Quad
-          - name: Lake Ariel Quad
-          - name: Lenoxville Quad
-          - name: Moscow Quad
-          - name: Olyphant Quad
-          - name: Pittston Quad
-          - name: Pleasant View Summit Quad
-          - name: Scranton Quad
-          - name: Sterling Quad
-          - name: Stoddartsville Quad
-          - name: Thornhurst Quad
-      - name: Lebanon County
-        quad:
-          - name: Indiantown Gap Quad
-      - name: Lehigh County
-        quad:
-          - name: Slatedale Quad
-      - name: Luzerne County
-        quad: 
-          - name: Center Moreland Quad
-          - name: Freeland Quad
-          - name: Harveys Lake Quad
-          - name: Hazleton Quad
-          - name: Kingston Quad
-          - name: Nanticoke Quad
-          - name: Pittston Quad
-          - name: Stoddartsville Quad
-          - name: White Haven Quad
-          - name: Wilkes Barre West Quad
-          - name: Wilkes-Barre Quad        
-      - name: Monroe County
-        quad:
-          - name: Blakeslee Quad
-          - name: Kunkletown Quad
-          - name: Mount Pocono Quad
-          - name: Pocono Pines Quad
-          - name: Pohopoco Mountain Quad
-          - name: Skytop Quad
-          - name: Stoddartsville Quad
-          - name: Stroudsburg Quad
-          - name: Tobyhanna Quad    
-      - name: Northampton County
-        quad: 
-          - name: Allentown East Quad
-          - name: Easton Quad
-          - name: Hellertown Quad
-          - name: Kunkletown Quad
-          - name: Nazareth Quad
-          - name: Portland Quad
-          - name: Wind Gap Quad    
-      - name: Philadelphia County
-        quad:
-          - name: Philadelphia Quad
-      - name: Pike County
-        quad:
-          - name: Damascus Quad
-          - name: Hawley Quad
-          - name: Milford Quad
-          - name: Narrowsburg Quad
-          - name: Newfoundland Quad
-          - name: Pecks Pond Quad
-          - name: Port Jervis North Quad
-          - name: Promised Land Quad
-          - name: Rowland Quad
-          - name: Shohola Quad
-          - name: Twelvemile Pond Quad 
-      - name: Schuylkill County
-        quad:
-          - name: Nesquehoning Quad
-          - name: Pottsville Quad      
-      - name: Sullivan County
-        quad: 
-          - name: Lopez Quad
-      - name: Susquehanna County
-        quad:
-          - name: Clifford Quad
-          - name: Forest City Quad
-          - name: Franklin Forks Quad
-          - name: Great Bend Quad
-          - name: Hop Bottom Quad
-          - name: Laurel Lake Quad
-          - name: Lenoxville Quad
-          - name: Montrose West Quad
-          - name: Starrucca Quad
-          - name: Susquehanna Quad     
-      - name: Wayne County
-        quad:
-          - name: Aldenville Quad
-          - name: Forest City Quad
-          - name: Hancock Quad
-          - name: Hawley Quad
-          - name: Honesdale Quad
-          - name: Lake Ariel Quad
-          - name: Sterling Quad
-          - name: Tobyhanna Quad
-          - name: Waymart Quad
-          - name: White Mills Quad   
-      - name: Wyoming County
-        quad:
-          - name: Center Moreland Quad
-          - name: Dutch Mtn Quad
-          - name: Factoryville Quad
-          - name: Harveys Lake Quad
-          - name: Laceyville Quad
-          - name: Lopez Quad
-          - name: Meshoppen Quad
-          - name: Noxen Quad
-          - name: Pittston Quad
-          - name: Ransom Quad
-          - name: Tunkhannock Quad             
-  - name: Utah
-    county:
-      - name: San Juan County
-        quad:
-          - name: Goulding Quad       
-  - name: Virginia
-    county:
-      - name: Madison County
-        quad:
-          - name: Big Meadows Quad
-          - name: Old Rag Mountain Quad   
-      - name: Page County
-        quad:
-          - name: Big Meadows Quad
-          - name: Luray Quad
-          - name: Old Rag Mountain Quad
-          - name: Thornton Gap Quad       
-      - name: Rappahannock County
-        quad:
-          - name: Bentonville Quad
-          - name: Chester Gap Quad
-          - name: Old Rag Mountain Quad
-          - name: Thornton Gap Quad                     
+- state: Arizona
+  county:
+    - name: Apache County
+      quad:
+        - name: Adamana Quad
+        - name: Agate House Quad
+        - name: Del Muerto Quad
+        - name: Kachina Point Quad
+        - name: Little White House Ruins Quad
+        - name: Teec Nos Pos Quad
+    - name: Cochise County
+      quad:
+        - name: Bowie Mtn South Quad
+        - name: Cochise Head Quad
+        - name: Willcox North Quad      
+    - name: Coconino County
+      quad:
+        - name: Flagstaff East Quad
+        - name: Grand Canyon Quad
+        - name: Grandview Point Quad
+        - name: Mountainaire Quad
+        - name: Phantom Ranch Quad
+        - name: Sedona Quad
+        - name: Strawberry Crater Quad
+        - name: Wupatki SW Quad    
+    - name: Maricopa County
+      quad:
+        - name: Tempe Quad
+    - name: Navajo County
+      quad: 
+        - name: Little White House Ruins Quad  
+    - name: Pima County
+      quad: 
+        - name: Ajo North Quad
+        - name: Ajo South Quad
+        - name: Armenta Well Quad
+        - name: Avra Quad
+        - name: Brown Mountain Quad
+        - name: Cat Mountain Quad
+        - name: Chico Shunie Quad
+        - name: Gunsight Quad
+        - name: Kitt Peak Quad
+        - name: Lukeville Quad
+        - name: Maish Vaya Quad
+        - name: Quitobaquito Springs Quad
+        - name: San Xavier Mission Quad
+        - name: South of Lukeville Quad
+        - name: Tanque Verde Peak Quad
+        - name: Tillotson Peak Quad
+        - name: Tucson Quad
+        - name: West of Lukeville Quad
+        - name: West of Wahak Hotrontk Quad  
+    - name: Pinal County
+      quad:
+        - name: Cactus Forest Quad
+        - name: Florence Quad     
+    - name: Santa Cruz County
+      quad:
+        - name: Tubac Quad
+    - name: Yavapai County
+      quad:
+        - name: Clarkdale Quad
+        - name: Sedona Quad   
+- state: California
+  county:
+    - name: Riverside County
+      quad:
+        - name: Cottonwood Spring Quad
+        - name: Malapai Hill Quad
+- state: Colorado
+  county:
+    - name: Montezuma County
+      quad:
+        - name: Moccasin Mesa Quad
+        - name: Point Lookout Quad
+        - name: Teec Nos Pos Quad
+        - name: Weatherill Mesa Quad         
+- state: Connecticut
+  county:
+    - name: New Haven County
+      quad:
+        - name: New Haven Quad         
+- state: Delaware
+  county:
+    - name: Sussex County
+      quad:
+        - name: Assawoman Bay Quad
+        - name: Bethany Beach Quad
+        - name: Frankford Quad
+        - name: Rehoboth Beach Quad
+- state: Florida
+  county:
+    - name: Hillsborough County
+      quad:
+        - name: Tampa Quad
+    - name: Miami-Dade County
+      quad:
+        - name: Fortymile Bend Quad
+        - name: Long Pine Key Quad
+    - name: Monroe County
+      quad:
+        - name: Big Pine Key Quad
+        - name: Dry Tortugas Quad
+        - name: Flamingo Quad
+        - name: Grassy Key Quad
+        - name: Key West Quad
+        - name: Long Key Quad
+        - name: Lower Matecumbe Key Quad
+        - name: Marathon Quad
+        - name: Plantation Key Quad
+        - name: Saddlebunch Keys
+        - name: Sevenmile Bridge Quad
+        - name: Sugarloaf Key Quad
+        - name: Summerland Key Quad
+- state: Maine
+  county:
+    - name: Hancock County
+      quad:
+        - name: Baker Island Quad
+        - name: Bar Harbor Quad
+        - name: Bartlett Island Quad
+        - name: Bass Harbor Quad
+        - name: Blue Hill Quad
+        - name: Bucksport Quad
+        - name: Mount Desert Quad
+        - name: Penobscot Quad
+        - name: Salsbury Cove Quad
+        - name: Sargentville Quad
+        - name: Schoodic Head Quad
+        - name: Seal Harbor Quad
+        - name: Southwest Harbor Quad
+        - name: Swans Island Quad   
+    - name: Knox County
+      quad:
+        - name: Isle au Haut West Quad     
+    - name: Waldo County
+      quad:
+        - name: Bucksport Quad
+        - name: Castine Quad
+        - name: Searsport Quad   
+    - name: Washington County
+      quad:
+        - name: Eastport Quad       
+- state: Maryland
+  county:
+    - name: Baltimore County
+      quad:
+        - name: Towson Quad
+    - name: Worcester County
+      quad:
+        - name: Assawoman Bay Quad
+        - name: Ocean City Quad
+- state: Nevada
+  county: 
+    - name: Clark County
+      quad:
+        - name: Clark County
+- state: New Hampshire
+  county:
+    - name: Coos County
+      quad:
+        - name: Bartlett Quad
+- state: New Jersey
+  county:
+    - name: Atlantic County
+      quad:
+        - name: Atlantic City Quad
+    - name: Bergen County
+      quad:
+        - name: Yonkers Quad    
+    - name: Essex County
+      quad:
+        - name: Elizabeth Quad    
+    - name: Hudson County
+      quad:
+        - name: Weehawken Quad    
+    - name: Middlesex County
+      quad:
+        - name: South Amboy Quad  
+    - name: Passaic County
+      quad:
+        - name: Greenwood Lake Quad  
+        - name: Newfoundland Quad     
+    - name: Sussex County
+      quad:
+        - name: Culvers Gap Quad  
+        - name: Flatbrookville Quad   
+        - name: Lake Maskenozha Quad
+    - name: Warren County
+      quad:
+        - name: Flatbrookville Quad 
+        - name: Tranquility Quad
+- state: New York
+  county: 
+    - name: Broome County
+      quad:
+        - name: Belden Quad
+        - name: Binghamton West Quad      
+    - name: Chenango County
+      quad:
+        - name: Sidney Quad
+    - name: Dutchess County
+      quad:
+        - name: Wappingers Falls Quad
+    - name: Essex County
+      quad:
+        - name: Lake Placid Quad
+    - name: Greene County
+      quad:
+        - name: Kaaterskill Quad
+    - name: New York County
+      quad:
+        - name: Brooklyn Quad
+        - name: Central Park Quad
+        - name: Jersey City Quad  
+    - name: Orange County
+      quad:
+        - name: Cornwall Quad
+        - name: Pine Island Quad
+        - name: Port Jervis North Quad
+        - name: Port Jervis South Quad
+        - name: Warwick Quad     
+    - name: Otsego County
+      quad:
+        - name: Cooperstown Quad
+        - name: Oneonta Quad      
+    - name: Putnam County
+      quad:
+        - name: West Point Quad
+    - name: Rockland County
+      quad:
+        - name: Haverstraw Quad
+    - name: Schuyler County
+      quad:
+        - name: Burdett Quad
+    - name: Ulster County
+      quad: 
+        - name: Clintondale Quad
+        - name: Ellenville Quad
+        - name: Gardiner Quad
+        - name: Napanoch Quad
+        - name: Pine Bush Quad       
+    - name: Westchester County
+      quad: 
+        - name: Peekskill Quad
+- state: Pennsylvania
+  county:
+    - name: Berks County
+      quad:
+        - name: Bernville Quad
+        - name: Hamburg Quad
+        - name: Reading Quad     
+    - name: Bradford County    
+      quad:
+        - name: Troy Quad
+        - name: Wyalusing Quad   
+    - name: Bucks County
+      quad:
+        - name: Bedminster Quad
+        - name: Quakertown Quad  
+    - name: Carbon County
+      quad:
+        - name: Blakeslee Quad
+        - name: Christmans Quad
+        - name: Hickory Run Quad
+        - name: Lehighton Quad
+        - name: Nesquehoning Quad
+        - name: Palmerton Quad
+        - name: Weatherly Quad       
+    - name: Centre County
+      quad: 
+        - name: State College Quad
+    - name: Chester County
+      quad:
+        - name: Malvern Quad
+    - name: Columbia County
+      quad:
+        - name: Berwick Quad
+    - name: Dauphin County
+      quad:
+        - name: Harrisburg East Quad
+        - name: Harrisburg West Quad       
+    - name: Lackawanna County
+      quad:
+        - name: Avoca Quad
+        - name: Carbondale Quad
+        - name: Clifford Quad
+        - name: Dalton Quad
+        - name: Dundaff Quad
+        - name: Factoryville Quad
+        - name: Lake Ariel Quad
+        - name: Lenoxville Quad
+        - name: Moscow Quad
+        - name: Olyphant Quad
+        - name: Pittston Quad
+        - name: Pleasant View Summit Quad
+        - name: Scranton Quad
+        - name: Sterling Quad
+        - name: Stoddartsville Quad
+        - name: Thornhurst Quad
+    - name: Lebanon County
+      quad:
+        - name: Indiantown Gap Quad
+    - name: Lehigh County
+      quad:
+        - name: Slatedale Quad
+    - name: Luzerne County
+      quad: 
+        - name: Center Moreland Quad
+        - name: Freeland Quad
+        - name: Harveys Lake Quad
+        - name: Hazleton Quad
+        - name: Kingston Quad
+        - name: Nanticoke Quad
+        - name: Pittston Quad
+        - name: Stoddartsville Quad
+        - name: White Haven Quad
+        - name: Wilkes Barre West Quad
+        - name: Wilkes-Barre Quad        
+    - name: Monroe County
+      quad:
+        - name: Blakeslee Quad
+        - name: Kunkletown Quad
+        - name: Mount Pocono Quad
+        - name: Pocono Pines Quad
+        - name: Pohopoco Mountain Quad
+        - name: Skytop Quad
+        - name: Stoddartsville Quad
+        - name: Stroudsburg Quad
+        - name: Tobyhanna Quad    
+    - name: Northampton County
+      quad: 
+        - name: Allentown East Quad
+        - name: Easton Quad
+        - name: Hellertown Quad
+        - name: Kunkletown Quad
+        - name: Nazareth Quad
+        - name: Portland Quad
+        - name: Wind Gap Quad    
+    - name: Philadelphia County
+      quad:
+        - name: Philadelphia Quad
+    - name: Pike County
+      quad:
+        - name: Damascus Quad
+        - name: Hawley Quad
+        - name: Milford Quad
+        - name: Narrowsburg Quad
+        - name: Newfoundland Quad
+        - name: Pecks Pond Quad
+        - name: Port Jervis North Quad
+        - name: Promised Land Quad
+        - name: Rowland Quad
+        - name: Shohola Quad
+        - name: Twelvemile Pond Quad 
+    - name: Schuylkill County
+      quad:
+        - name: Nesquehoning Quad
+        - name: Pottsville Quad      
+    - name: Sullivan County
+      quad: 
+        - name: Lopez Quad
+    - name: Susquehanna County
+      quad:
+        - name: Clifford Quad
+        - name: Forest City Quad
+        - name: Franklin Forks Quad
+        - name: Great Bend Quad
+        - name: Hop Bottom Quad
+        - name: Laurel Lake Quad
+        - name: Lenoxville Quad
+        - name: Montrose West Quad
+        - name: Starrucca Quad
+        - name: Susquehanna Quad     
+    - name: Wayne County
+      quad:
+        - name: Aldenville Quad
+        - name: Forest City Quad
+        - name: Hancock Quad
+        - name: Hawley Quad
+        - name: Honesdale Quad
+        - name: Lake Ariel Quad
+        - name: Sterling Quad
+        - name: Tobyhanna Quad
+        - name: Waymart Quad
+        - name: White Mills Quad   
+    - name: Wyoming County
+      quad:
+        - name: Center Moreland Quad
+        - name: Dutch Mtn Quad
+        - name: Factoryville Quad
+        - name: Harveys Lake Quad
+        - name: Laceyville Quad
+        - name: Lopez Quad
+        - name: Meshoppen Quad
+        - name: Noxen Quad
+        - name: Pittston Quad
+        - name: Ransom Quad
+        - name: Tunkhannock Quad             
+- state: Utah
+  county:
+    - name: San Juan County
+      quad:
+        - name: Goulding Quad       
+- state: Virginia
+  county:
+    - name: Madison County
+      quad:
+        - name: Big Meadows Quad
+        - name: Old Rag Mountain Quad   
+    - name: Page County
+      quad:
+        - name: Big Meadows Quad
+        - name: Luray Quad
+        - name: Old Rag Mountain Quad
+        - name: Thornton Gap Quad       
+    - name: Rappahannock County
+      quad:
+        - name: Bentonville Quad
+        - name: Chester Gap Quad
+        - name: Old Rag Mountain Quad
+        - name: Thornton Gap Quad                     

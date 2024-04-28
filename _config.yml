@@ -47,3 +47,8 @@ page_gen:
   index_files: false
   name: year
   dir: year   
+- data: 'locations'
+  template: 'locations'
+  index_files: false
+  name: state
+  dir: location    
