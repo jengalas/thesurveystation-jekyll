@@ -17,10 +17,11 @@ layout: default
         {% for mark in allMarks %}          
           {% if mark.county == county.name %} 
             {% if mark.quad == quad.name %}
-              <li><a href="{{mark.url}}">{{ mark.designation }}</a></li> 
+              <li><a href="{{mark.url}}">{{ mark.designation }}</a> <i>({{ mark.date | date: "%B %e, %Y" }})</i></li> 
             {% endif %}
           {% endif %}
         {% endfor %}
       </ul>
   {% endfor %}
+  <hr style="border-top: 1px solid rgb(229, 229, 229);">
 {% endfor %}
