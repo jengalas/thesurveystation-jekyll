@@ -1,0 +1,36 @@
+.archive-grid.cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  gap: 1rem;
+
+  a {
+      color: $bodyColor;
+      text-decoration: none;
+  }
+
+  .card {
+      background-color: #fff;
+      padding: 1rem;
+      padding-bottom: 0.6rem;
+
+      img {
+      height: auto;
+      width: 100%;
+      }
+
+      h2 {
+      font-family: $bodyFont;
+      margin: 0;
+      text-align: center;
+      }
+  }
+
+  @media (min-width: 600px) {
+      grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 900px) {
+      grid-template-columns: repeat(4, 1fr);
+  }
+}

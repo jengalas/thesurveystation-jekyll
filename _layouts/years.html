@@ -30,10 +30,14 @@ layout: default
     </ul>
     {% if recMarks %}
     <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
+        <div class="archive-grid cards">
         {% for rec in recMarks reversed %}
-            {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
-            <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a></li>    
+            <div class="card">
+                {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+                <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a></li>    
+            </div>
         {% endfor %}
+        </div>
     </div>
     {% endif %}
     {% if nfMarks %}
