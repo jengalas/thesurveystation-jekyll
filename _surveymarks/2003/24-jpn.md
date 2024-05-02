@@ -1,5 +1,6 @@
 ---
 designation: 24 JPN
+is_parent: true
 date: '2003-12-24T20:31:42'
 latitude: 41.398367
 longitude: 75.626833
@@ -18,7 +19,7 @@ official_description: >-
     Reference mark; 18 ft W. of tablet; 30 ft NE. of rd.; about 4 ft higher than level of rd.; on top of outcrop; chiseled square. Elev. 1317.87 ft.
 status: Recovered
 condition: Good
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/24_JPN.pdf
 zhanna_text: >-
     Earlier this week, I'd been on my way home from a walk at Lake Scranton when
