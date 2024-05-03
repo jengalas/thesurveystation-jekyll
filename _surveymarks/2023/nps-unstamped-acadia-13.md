@@ -14,7 +14,7 @@ agency: National Park Service
 status: Recovered
 condition: Good
 zhanna_text: >-
-    This is the third of six NPS boundary markers I found on today's hike in the
+    This is the fourth of six NPS boundary markers I found on today's hike in the
     Kittredge Brook Forest Preserve. It is close to the spot where the Pine
     Ridge Loop diverges from the Vernal Pool Loop to head toward Long Heath.
     Like the others in this area, the disk is in fairly good condition, and the
