@@ -1,7 +1,7 @@
 /* Basic styles */
 
 nav {
-    background: #222;
+    background: #3f2f29;
     padding: 0 15px;
     z-index: 1040;
     
@@ -102,7 +102,7 @@ nav {
         padding: 10px 15px;
     }
     .submenu-active {
-        background-color: #111;
+        background-color: #342925;
         border-radius: 3px;
     }
 
@@ -173,7 +173,7 @@ nav {
             position: absolute;
             left: 0;
             top: 68px;
-            background: #111;
+            background: #342925;
         }
         .toggle {
             display: none;
