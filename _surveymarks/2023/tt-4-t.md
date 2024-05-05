@@ -3,7 +3,9 @@ designation: TT 4 T
 date: 2023-11-26
 latitude: '41.405873'
 longitude: '75.565436'
-location: [Pennsylvania, Lackawanna County, Olyphant Quad]
+state: Pennsylvania
+county: Lackawanna County
+quad: Olyphant Quad
 elevation: 1287.105 ft.
 type: Bench Mark Disk
 setting: Concrete Post
@@ -12,7 +14,7 @@ agency: USGS
 status: Recovered
 condition: Good 
 official_description:  >- 
-  Elmhurst, 2.25 mi NW. of; 4.6 mi SE. of Dunmore; on U. S. Highway 611; at big horseshoe bend in hwy.; 140 ft S. of front door of service station; 225 ft NW. of concrete bridge over small stream; between hwy. and Erie RR.; 51 ft N. of center of track; in concrete post; standard tablet stamped "TT 4 T 1932"
+  Elmhurst, 2.25 mi NW. of; 4.6 mi SE. of Dunmore; on U. S. Highway 611; at big horseshoe bend in hwy.; 140 ft S. of front door of service station; 225 ft NW. of concrete bridge over small stream; between hwy. and Erie RR.; 51 ft N. of center of track; in concrete post; standard tablet stamped “TT 4 T 1932”
 
   Reference mark; on concrete bridge; Pennsylvania Department of Highways standard disk
 zhanna_text:  >-
@@ -28,7 +30,7 @@ zhanna_text:  >-
   After a short walk into the woods, we reached the coordinates and began wandering around ... and spotted nothing other than a very thick layer of fallen leaves. I was beginning to think that the mark was covered by the leaves and that we would need to return with a metal detector, when I happened to turn my head to the right, and there was the turquoise-colored disk set in the top of a concrete post!
 
 
-  "I see it! I see it!" I exclaimed, probably a bit too excitedly, but it was an exciting moment. We both thought the disk looked a bit larger than the usual ones, for some reason. And it is in very good condition. Just a few yards away is the route of the old Erie Railroad, now abandoned and apparently used as a quad trail. A bit farther down the hill, Roaring Brook is visible.
+  “I see it! I see it!” I exclaimed, probably a bit too excitedly, but it was an exciting moment. We both thought the disk looked a bit larger than the usual ones, for some reason. And it is in very good condition. Just a few yards away is the route of the old Erie Railroad, now abandoned and apparently used as a quad trail. A bit farther down the hill, Roaring Brook is visible.
 
 
   After finishing our photos and documentation of the benchmark, we moved on to look for the nearby reference mark.
@@ -41,5 +43,24 @@ zhanna_text:  >-
 
 
   Something else of interest is that the walls of the old service station mentioned in the benchmark description are still here! The remnants of the building are on the north side of the highway, and can even be seen on Google Street View. I haven't yet been able to find out anything more about the service station, but the name CHICCO can be seen in the concrete.
+galleries:
+  gallery_zh:
+    images:
+      - filename: tt-4-t
+        alt: USGS Bench Mark Disk TT 4 T
+      - filename: tt-4-tg1
+        alt: Eyelevel view of the disk on the concrete post
+      - filename: tt-4-tg2
+        alt: Our first view of the mark   
+      - filename: tt-4-tg3
+        alt: Looking SW toward the old Erie Railroad tracks
+      - filename: tt-4-tg4
+        alt: Looking SSE toward Roaring Brook
+      - filename: tt-4-tg5
+        alt: Stone bridge/culvert built in 1939
+      - filename: tt-4-tg6
+        alt: Stone bridge/culvert and nearby concrete culvert   
+      - filename: PB265657
+        alt: In front of the remnants of CHICCO.                
 featured_image: tt-4-tcsm.jpg
 ---
