@@ -316,7 +316,9 @@
         - name: Kingston Quad
         - name: Nanticoke Quad
         - name: Pittston Quad
+        - name: Red Rock Quad
         - name: Stoddartsville Quad
+        - name: Sweet Valley Quad
         - name: White Haven Quad
         - name: Wilkes Barre West Quad
         - name: Wilkes-Barre Quad        
@@ -363,6 +365,7 @@
     - name: Sullivan County
       quad: 
         - name: Lopez Quad
+        - name: Red Rock Quad
     - name: Susquehanna County
       quad:
         - name: Clifford Quad
