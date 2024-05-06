@@ -6,6 +6,9 @@ html, body {
   height: 100%;
   width: 100%;
 }
+* {
+  box-sizing: border-box;
+}
 body {
   background: $backgroundColor;
   color: $bodyColor;
@@ -51,6 +54,10 @@ footer {
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
+
+    h2 {
+      color: antiquewhite;
+    }
 
     ul {
       list-style-type: none;
