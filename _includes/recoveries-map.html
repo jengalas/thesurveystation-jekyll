@@ -74,6 +74,12 @@
             }
         };
 
+        var dateOptions = {
+            month: "long",
+            day: "numeric",
+            year: "numeric"            
+        }
+
         var testlayer = L.geoJson(geojsonData, {
             pointToLayer: PoIstile,
             onEachFeature: function (feature, layer) {
@@ -85,7 +91,11 @@
                         return feature.properties.image;
                 }
 
-                layer.bindPopup("<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + feature.properties.date + "<br><img style='max-width:100%;' src='" + determineHasImage(feature.properties.image) + "'>");
+                const visitedDate = new Date(feature.properties.date);
+                                
+                var visitedDateFormatted = visitedDate.toLocaleString("en-US", dateOptions);
+
+                layer.bindPopup("<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + determineHasImage(feature.properties.image) + "'>");
             }
         });
 
