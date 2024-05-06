@@ -21,13 +21,16 @@ zhanna_text:  >-
   We've had our eye on TT 4 T for a few weeks, ever since we started going back through the USGS datasheets for local benchmarks that we somehow missed in the past.
 
 
-  Our research was promising. I couldn't see any reason that this mark would be gone, since it is in an undeveloped area and likely far enough away from the highway to avoid any disturbance from road construction. There is even a convenient parking pull-off very close to the coordinates. The only catch is that this stretch of Route 435 is scheduled to be closed for at least a year due to the replacement of the nearby I-380 twin bridges. And the closure is set to begin two days from now! So although it was a cold morning, we figured we might as well give it a try today.
+  Based on my research, our prospects were favorable. I couldn't see any reason that this mark would be gone, since it is in an undeveloped area and likely far enough away from the highway to avoid any disturbance from road construction. There is even a convenient parking pull-off very close to the coordinates. The only catch is that this stretch of Route 435 is scheduled to be closed for at least a year due to the replacement of the nearby I-380 twin bridges. And the closure is set to begin two days from now! So although it was a cold morning, we figured we might as well give it a try today.
 
 
   We drove down from Mt. Cobb, heading west on Route 435 North and then turning around via a section of the old Drinker Turnpike that connects the north- and southbound lanes of Route 435. We parked at the pull-off and noted that we were within 70 feet of the coordinates for the benchmark, which we had estimated from the topo map.
 
 
-  After a short walk into the woods, we reached the coordinates and began wandering around ... and spotted nothing other than a very thick layer of fallen leaves. I was beginning to think that the mark was covered by the leaves and that we would need to return with a metal detector, when I happened to turn my head to the right, and there was the turquoise-colored disk set in the top of a concrete post!
+  After a short walk into the woods, we reached the coordinates and began wandering around ... and spotted nothing other than a very thick layer of fallen leaves. I was beginning to think that the situation was hopeless for the time being, with so many fallen leaves covering the ground. It wouldn’t be the first time we needed to return to a location with a metal detector.  
+  
+  
+  But a moment later, I happened to turn my head to the right, and there was the turquoise-colored disk sitting on top of a concrete post!
 
 
   “I see it! I see it!” I exclaimed, probably a bit too excitedly, but it was an exciting moment. We both thought the disk looked a bit larger than the usual ones, for some reason. And it is in very good condition. Just a few yards away is the route of the old Erie Railroad, now abandoned and apparently used as a quad trail. A bit farther down the hill, Roaring Brook is visible.
