@@ -91,7 +91,7 @@
                         return feature.properties.image;
                 }
 
-                const visitedDate = new Date(feature.properties.date);
+                const visitedDate = new Date(feature.properties.time);
                                 
                 var visitedDateFormatted = visitedDate.toLocaleString("en-US", dateOptions);
 
@@ -145,6 +145,7 @@
             position: "bottomleft",
             range: true,
             timeAttribute: 'time',
+            orderDesc: true,
             showAllOnStart: true,
             timeStrLength: 10
         });
