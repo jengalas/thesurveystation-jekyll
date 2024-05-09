@@ -1,0 +1,195 @@
+---
+layout: default
+---
+
+{% capture imagePath %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
+{% capture thumb %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+
+<h1>{{ page.designation }}</h1>
+
+<div class="data-map-wrapper responsive-two-columns">
+    <div class="data-wrapper">
+        <p>{{ page.status }} {{ page.condition }} as of {{ page.date | date: "%B %e, %Y" }}</p>
+        <table>
+            {% if page.pid %}
+            <tr>
+                <td><b>NGS PID:</b></td>
+                <td>{{ page.pid }}</td>
+            </tr>
+            {% endif %}
+            <tr>
+                <td><b>Coordinates:</b></td>
+                <td>N {{ page.latitude }}° W {{ page.longitude }}° 
+                    {% if page.estimate %}
+                        (estimate)
+                    {% endif %}</td>
+            </tr>
+            <tr>
+                <td><b>Location:</b></td>
+                <td><a href="/location/{{ page.state | slugify }}">{{ page.state }}</a>
+                    <br>&nbsp;&nbsp;&nbsp;<a href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}">{{ page.county }}</a>
+                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+                        href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}-{{ page.quad | slugify }}">{{ page.quad }}</a></td>
+            </tr>
+            <tr>
+                <td><b>Elevation:</b></td>
+                <td>{% if page.elevation %}
+                    {{ page.elevation }}
+                {% else %}
+                    Unknown
+                {% endif %}</td>
+            </tr>
+            <tr>
+                <td><b>Type:</b></td>
+                <td><a href="/marker-type/{{ page.type | slugify }}">{{ page.type }}</a></td>
+            </tr>
+            <tr>
+                <td><b>Setting:</b></td>
+                <td>{{ page.setting }}</td>
+            </tr>
+            <tr>
+                <td><b>Monumented:</b></td>
+                <td>{{ page.year_established }}</td>
+            </tr>
+            <tr>
+                <td><b>Monumented By:</b></td>
+                <td><a href="/agency/{{ page.agency | slugify }}">{{ page.agency }}</a></td>
+            </tr>
+            <tr>
+                <td><b>Status:</b></td>
+                <td>{{ page.status }}</td>
+            </tr>
+            <tr>
+                <td><b>Condition:</b></td>
+                <td>{{ page.condition }} as of {{ page.date | date: "%B %e, %Y" }}</td>
+            </tr>
+        </table>
+        <ul>
+            {% if page.pid %}
+            <li class="official-description"><b>Official Description:</b> <a
+                    href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
+            {% elsif page.official_description %}
+            <li class="official-description"><b>Official {{ page.agency}} Description:</b> {{ page.official_description
+                }}</li>
+            {% else %}
+            <li class="official-description"><b>Official Description:</b> Unavailable.</li>
+            {% endif %}
+            {% if page.usgs_report %}
+            <li class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></li>
+            {% endif %}
+        </ul>
+
+    </div>
+    <div>
+        <img src='https://planetzhanna.com/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.date | date: "%d" }}/thumbnails/{{ page.featured_image }}'>
+    </div>
+</div>
+
+<div class="data-map-wrapper responsive-two-columns">
+    <div class="map-wrapper">
+        {% include map.html %}
+    </div>
+    <div class="data-wrapper">
+        <table>
+            {% if page.pid %}
+            <tr>
+                <td><b>NGS PID:</b></td>
+                <td>{{ page.pid }}</td>
+            </tr>
+            {% endif %}
+            <tr>
+                <td><b>Location:</b></td>
+                <td><a href="/location/{{ page.state | slugify }}">{{ page.state }}</a>
+                    <br>&nbsp;&nbsp;&nbsp;<a href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}">{{ page.county }}</a>
+                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+                        href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}-{{ page.quad | slugify }}">{{ page.quad }}</a></td>
+            </tr>
+            <tr>
+                <td><b>Type:</b></td>
+                <td><a href="/marker-type/{{ page.type | slugify }}">{{ page.type }}</a></td>
+            </tr>
+            <tr>
+                <td><b>Setting:</b></td>
+                <td>{{ page.setting }}</td>
+            </tr>
+            <tr>
+                <td><b>Monumented:</b></td>
+                <td>{{ page.year_established }}</td>
+            </tr>
+            <tr>
+                <td><b>Monumented By:</b></td>
+                <td><a href="/agency/{{ page.agency | slugify }}">{{ page.agency }}</a></td>
+            </tr>
+        </table>
+        <ul>
+            {% if page.pid %}
+            <li class="official-description"><b>Official Description:</b> <a
+                    href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
+            {% elsif page.official_description %}
+            <li class="official-description"><b>Official {{ page.agency}} Description:</b> {{ page.official_description
+                }}</li>
+            {% else %}
+            <li class="official-description"><b>Official Description:</b> Unavailable.</li>
+            {% endif %}
+            {% if page.usgs_report %}
+            <li class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></li>
+            {% endif %}
+        </ul>
+
+    </div>
+</div>
+
+{% if page.coordinates_submitted %}
+<p class="coordinates-submitted">Updated GPS coordinates have been submitted to NGS.</p>
+{% endif %}
+
+{% if page.ngs_report %}
+    {% unless page.ngs_report_text %}
+    <div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS.</div> 
+    {% endunless %}   
+{% endif %}
+
+{% if page.ngs_report_text %}
+<div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS, along with the following recovery note: {{ page.ngs_report_text | markdownify }}</div>
+{% endif %}
+
+<div class="recovery-notes">
+    {% if page.rich_text %}
+    <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
+        <ul class="js-tablist">
+            {% if page.zhanna_text %}
+            <li class="js-tablist__item">
+                <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's report</a>
+            </li>
+            {% endif %}
+            {% if page.rich_text %}
+            <li class="js-tablist__item">
+                <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's report</a>
+            </li>
+            {% endif %}
+        </ul>
+        {% if page.zhanna_text %}
+        <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
+            {{ page.zhanna_text | markdownify }}
+            {% assign gal_zh_class = page.image_gallery_zh_class %}
+            {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+        </div>
+        {% endif %}
+        {% if page.rich_text %}
+        <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+            {{ page.rich_text | markdownify }}
+            {% assign gal_r_class = page.image_gallery_r_class %}
+            {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
+        </div>
+        {% endif %}
+    </div>
+    {% else %}
+    {{ page.zhanna_text | markdownify }}
+    {% assign gal_zh_class = page.image_gallery_zh_class %}
+    {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+    {% endif %}
+</div>
+
+{% if page.is_parent == true %}
+<div class="reference-marks">{% include reference-marks.html %}</div>
+{% endif %}
