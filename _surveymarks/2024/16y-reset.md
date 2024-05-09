@@ -13,5 +13,14 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+galleries:
+  gallery_zh:
+    images:
+    - filename: 16y-reset
+      alt: Clark County Nevada Las Vegas Boulevard Right of Way Disk 16Y RESET
+    - filename: 16y-resetg1
+      alt: Looking W into the Mirage entrance      
+    - filename: 16y-resetg2
+      alt: Looking W from Las Vegas Boulevard; 17Y RESET is in the foreground
 featured_image: 16y-resetcsm.jpg
 ---
