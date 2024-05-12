@@ -26,8 +26,15 @@
       url: 
 - category: Maps & Imagery
   links: 
-    - title:
-      url:  
+    - title: 'BenchMap: NGS Control Marker Locator for Android'
+      url: https://play.google.com/store/apps/details?id=com.tsqmadness.bmmaps&feature=nav_result#?t=W251bGwsMSwyLDNd 
+    - title: Airway Maps on Internet Archive
+      url: http://archive.org/search.php?query=%22airway%20maps%22       
+    - title: PID Prefix Map
+      url: /pid-prefix-map/
+    - title: Historical Topo Map Explorer
+      url: https://livingatlas.arcgis.com/topomapexplorer/#maps=&loc=-98.54,40.15&LoD=4
+      description: The Historical Topo Map Explorer provides a visual way to search and explore the USGS topographic map collection via geographic extent, publication year, and map scale. A transparency slider allows you to easily compare historical maps with each other or with the current basemap. The map layers can also be downloaded.
 - category: Guides & Publications
   links: 
     - title: Results of Spirit Leveling in Arizona. 1899 to 1915, inclusive.
