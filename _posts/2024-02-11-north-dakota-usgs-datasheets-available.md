@@ -5,8 +5,7 @@ date: 2024-02-11
 tags: "USGS Datasheets"
 excerpt: >-
   
-featured_image: P7220034-Editcvx.jpg
-layout: default  
+featured_image: P7220034-Editcvx.jpg 
 ---
 
 I have obtained and posted 32 quads from southern North Dakota.
