@@ -8,6 +8,11 @@ permalink: /about-survey-mark-hunting/
 
 ## The What
 
+<figure class="alignright">
+    <img src="/assets/img/go0505csm.jpg" alt="NGS Triangulation Station BEAUTIFUL" title="NGS Triangulation Station BEAUTIFUL">
+    <figcaption>NGS Triangulation Station BEAUTIFUL</figcaption>
+</figure>
+
 Survey marks or monuments are objects used to mark a precise location and/or elevation on the earth. The markers most survey mark hunters look for most often are 4-inch brass or aluminum disks installed into a stable setting like bedrock, an embedded boulder, a specially-poured concrete monument, a large building or bridge. Earlier survey monuments were made of stone or even buried bottles or jugs.
 
 Some other types of survey marks are also included in the database, such as landmark stations—tall structures that can be sighted on from a distance so that trigonometric calculations can be made. Airway beacons are of this type.

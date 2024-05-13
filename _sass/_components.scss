@@ -36,11 +36,23 @@
 
 .accordion-content {
     height: 0;
+    margin-left: 2rem;
     overflow: hidden;
     transition: 0.5s;
 
     p {
         margin: 24px;
+    }
+
+    dt {
+        margin-bottom: .6rem;
+    }
+
+    dd {
+        border-bottom: 1px solid #f7f3ef;
+        font-size: 85%;
+        margin-left: 0;
+        padding-bottom: 1rem;
     }
 }
 

@@ -29,6 +29,32 @@ main {
     color: #7ba60d;
     text-decoration: none;
   }
+
+  .alignleft {
+    float: left;
+    margin-right: 2rem;
+  }
+
+  .alignright {
+    float: right;
+    margin-left: 2rem;
+  }
+
+  .gallery {
+    a {
+      border: 0;
+    }
+  }
+
+  figcaption {
+    font-size: 85%;
+  }  
+
+  figure img {
+    background-color: #fff;
+    padding: 4px;
+    box-shadow: 0 1px 2px #999999;
+  }
 }
 footer {
   background-color: #3f2f29;
