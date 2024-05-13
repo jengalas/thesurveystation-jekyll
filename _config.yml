@@ -29,7 +29,7 @@ defaults:
       zoom: 15
   - scope:
       path: ""
-      type: "post"
+      type: "posts"
     values:
       layout: "post"   
           

@@ -46,6 +46,7 @@
 
     dt {
         margin-bottom: .6rem;
+        margin-top: .9rem;
     }
 
     dd {
@@ -62,12 +63,6 @@
 
 .accordion-item.is-active .accordion-icon {
     transform: rotate(45deg);
-}
-
-.accordion-content {
-    height: 0;
-    overflow: hidden;
-    transition: 0.5s;
 }
 
 /* Tabs */
