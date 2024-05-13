@@ -6,8 +6,12 @@
       url: /usgs-datasheets/
     - title: Local Control Monument Databases
       url: /local-control-monument-databases/
+    - title: NOAA Tides & Currents Bench Mark Data Sheets
+      url: https://tidesandcurrents.noaa.gov/stations.html?type=Bench+Mark+Data+Sheets  
     - title: Waymarking search for “survey markers”
       url: http://www.waymarking.com/cat/search.aspx?f=1&cst=7&kw=survey%20markers&st=2
+    - title: GPS on BenchMarks (NGS)
+      url: https://www.ngs.noaa.gov/GPSonBM/
     - title: The National Bridge Inventory Database
       url: https://www.fhwa.dot.gov/bridge/nbi.cfm
     - title: AbandonedRails.com
@@ -22,8 +26,18 @@
       url: https://usmart.sec.usace.army.mil/w/map 
 - category: Tools
   links: 
-    - title: 
-      url: 
+    - title: NGS PID Search bookmarklet
+      url: javascript:void(str=prompt('PID:',''));if(str){location.href='http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=%27+escape(str);}
+    - title: GPS Visualizer
+      url: https://www.gpsvisualizer.com/
+    - title: 'GPS Visualizer: Calculators'
+      url: https://www.gpsvisualizer.com/calculators
+    - title: BM finder by radius
+      url: https://bm-finder-radius.netlify.app/
+    - title: GPX waypoint creator
+      url: https://gpx-waypoint-creator.netlify.app/
+    - title: NGS PC Software
+      url: http://www.ngs.noaa.gov/PC_PROD/pc_prod.shtml
 - category: Maps & Imagery
   links: 
     - title: 'BenchMap: NGS Control Marker Locator for Android'
@@ -37,6 +51,20 @@
       description: The Historical Topo Map Explorer provides a visual way to search and explore the USGS topographic map collection via geographic extent, publication year, and map scale. A transparency slider allows you to easily compare historical maps with each other or with the current basemap. The map layers can also be downloaded.
 - category: Guides & Publications
   links: 
+    - title: Benchmark Hunting in Yellowstone National Park
+      url: https://www.amazon.com/Benchmark-Hunting-Yellowstone-National-Park/dp/0985407204
+    - title: Finding RHONDA
+      url: /2019/03/17/finding-rhonda/
+    - title: 'The Information Literacy of Survey Mark Hunting: A Dialogue'
+      url: http://www.inthelibrarywiththeleadpipe.org/2016/survey-mark-hunting/
+    - title: 'Lasting Impressions: A Glimpse Into the Legacy of Surveying'
+      url: https://www.berntsen.com/Surveying/Collectibles/Books/ctl/ViewProduct/mid/612/itemID/881
+    - title: Geodetic Glossary from NGS
+      url: https://www.ngs.noaa.gov/CORS-Proxy/Glossary/xml/NGS_Glossary.xml
+    - title: Discovering The Cornerstones of Maine’s Mapping History
+      url: https://maineboats.com/print/issue-125/discovering-cornerstones-maine%E2%80%99s-mapping-history    
+    - title: Tri State Corners in the United States
+      url: /assets/docs/publications/tri-state-corners.pdf  
     - title: Results of Spirit Leveling in Arizona. 1899 to 1915, inclusive.
       url: /assets/docs/publications/spirit-leveling-arizona-1915.pdf 
 - category: Pretty Pictures
