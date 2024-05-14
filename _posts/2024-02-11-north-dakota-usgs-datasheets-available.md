@@ -10,7 +10,4 @@ featured_image: P7220034-Editcvx.jpg
 
 I have obtained and posted 32 quads from southern North Dakota.
 
-View North Dakota quads here: USGS Datasheets: North Dakota
-
-(Or view a standalone version of the map.)
-
+View North Dakota quads here: [USGS Datasheets: North Dakota](/usgs-datasheets/north-dakota/)

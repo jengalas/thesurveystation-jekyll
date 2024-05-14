@@ -1,10 +1,8 @@
 ---
 title: Airway Beacons
-layout: default
+layout: page
 permalink: /airway-beacons/
 ---
-
-# Airway Beacons
 
 ## Why airway beacons?
 

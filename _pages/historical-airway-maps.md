@@ -1,10 +1,8 @@
 ---
 title: Historical Airway Maps
-layout: default
+layout: page
 permalink: /historical-airway-maps/
 ---
-
-# Historical Airway Maps
 
 All maps were digitized and made available by the Library of Congress, and each link will take you to the appropriate map in their digital collection. I’ve created this index because their collection of airway maps does not contain individual metadata and is therefore difficult to search.
 

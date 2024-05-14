@@ -1,6 +1,6 @@
 ---
 title: NGS Recoveries
-layout: default
+layout: page
 permalink: /ngs-recoveries/
 ---
 

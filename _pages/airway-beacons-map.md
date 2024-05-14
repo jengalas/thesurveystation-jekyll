@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: Map of Airway Beacons
-permalink: /airway-beacons-map/
+permalink: /map-of-ngs-airway-beacons/
 ---
-
-# Map of Airway Beacons
 
 {% include beacon-map.html %}  

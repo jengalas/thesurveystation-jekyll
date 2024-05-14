@@ -10,6 +10,4 @@ featured_image: P7220034-Editcvx.jpg
 
 I have obtained and posted 46 quads from southern Louisiana.
 
-View Louisiana quads here: USGS Datasheets: Louisiana
-
-(Or view a standalone version of the map.)
+View Louisiana quads here: [USGS Datasheets: Louisiana](/usgs-datasheets/louisiana/)
