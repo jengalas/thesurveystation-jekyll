@@ -32,6 +32,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"   
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: pages # Apply the default values below only to pages
+    values:
+      css: /assets/usgs-datasheets/css/main.css
+      source: /assets/usgs-datasheets/js/usgs-quads.js    
           
 plugins:
   - jekyll-datapage-generator
@@ -57,3 +63,8 @@ page_gen:
   index_files: false
   name: state
   dir: location    
+- data: 'states-usgs-datasheets'
+  template: 'usgs-datasheets'
+  index_files: false
+  name: 'state'
+  dir: usgs-datasheets 

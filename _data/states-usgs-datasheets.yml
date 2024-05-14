@@ -1,0 +1,99 @@
+- state: Alabama
+  abbrev: AL
+  dev: false
+- state: Arizona
+  abbrev: AZ
+  dev: false
+- state: California
+  abbrev: CA
+  dev: false  
+- state: Connecticut
+  abbrev: CT
+  dev: false
+- state: Delaware
+  abbrev: DE
+  dev: false
+- state: Illinois
+  abbrev: IL
+  dev: false
+- state: Indiana
+  abbrev: IN
+  dev: false 
+- state: Iowa
+  abbrev: IA
+  dev: false  
+- state: Kansas
+  abbrev: KS
+  dev: false     
+- state: Kentucky
+  abbrev: KY
+  dev: false
+- state: Louisiana
+  abbrev: LA
+  dev: false  
+- state: Maine
+  abbrev: ME
+  dev: false
+- state: Maryland
+  abbrev: MD
+  dev: false
+- state: Massachusetts
+  abbrev: MA
+  dev: false
+- state: Michigan
+  abbrev: MI
+  dev: false
+- state: Minnesota
+  abbrev: MN
+  dev: false  
+- state: Mississippi
+  abbrev: MS
+  dev: false
+- state: Montana
+  abbrev: MT
+  dev: false  
+- state: New Hampshire
+  abbrev: NH
+  dev: false
+- state: New Jersey
+  abbrev: NJ
+  dev: false             
+- state: New York
+  abbrev: NY
+  dev: false 
+- state: North Carolina
+  abbrev: NC
+  dev: false 
+- state: North Dakota
+  abbrev: ND
+  dev: false  
+- state: Ohio
+  abbrev: OH
+  dev: false 
+- state: Oklahoma
+  abbrev: OK
+  dev: false 
+- state: Pennsylvania
+  abbrev: PA
+  dev: false
+- state: Rhode Island
+  abbrev: RI
+  dev: false 
+- state: South Carolina
+  abbrev: SC
+  dev: false 
+- state: Vermont
+  abbrev: VT
+  dev: false  
+- state: Virgin Islands
+  abbrev: VI
+  dev: false
+- state: Virginia
+  abbrev: VA
+  dev: false  
+- state: West Virginia
+  abbrev: WV
+  dev: false
+- state: Wyoming
+  abbrev: WY
+  dev: false           
