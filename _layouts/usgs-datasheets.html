@@ -2,8 +2,10 @@
 layout: usgs-default
 ---
 
-<div id="mapdiv"></div>
+<div class="fullscreen-map-wrapper" style="margin-bottom: 3rem;">
+    <div id="mapdiv" class="map"></div>
+</div>
 
 <script> let current_state = "{{ page.abbrev }}" </script>
-<script src="/assets/data/basemaps.js"></script> // Load common basemaps
+<script src="/assets/data/basemaps.js"></script>
 <script src="{{ page.source }}"></script>
