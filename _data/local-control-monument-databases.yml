@@ -87,4 +87,152 @@
 - state: Indiana 
   databases:
     - title: DNR “Division of Water” Primary Survey Control Data
-      url: http://www.in.gov/dnr/water/files/bm_vigo.pdf                                 
+      url: http://www.in.gov/dnr/water/files/bm_vigo.pdf        
+- state: Kansas 
+  databases:
+    - title: Johnson County Survey Control Network
+      url: http://maps.jocogov.org/ims/?z=11&ll=38.895,-94.83&op=0.5&ls=zs&bm=0        
+    - title: City of Wichita Bench Marks
+      url: /assets/docs/publications/Wichita_Bench_Marks_2005.pdf         
+- state: Kentucky 
+  databases:
+    - title: Geodetic Control in Kentucky
+      url: http://kygeonet.ky.gov/ngs/        
+    - title: Louisville/Jefferson County Geodetic Control Map
+      url: http://www.lojic.org/survey-control                
+- state: Louisiana 
+  databases:
+    - title: Louisiana Department of Natural Resources Survey Monuments
+      url: http://www.dnr.louisiana.gov/assets/purchasing/GrandLiard/AppF.pdf   
+- state: Maine 
+  databases:
+    - title: MaineDOT Survey Control Points Web Mapping Application Portal
+      url: http://mdotapps.maine.gov/dataviewer/?app=survey   
+- state: Massachusetts 
+  databases:
+    - title: MassDOT Geodetic Control
+      url: https://gis.massdot.state.ma.us/geodeticcontrol/          
+- state: Minnesota 
+  databases:
+    - title: Dakota County Public Land Survey Control Marks
+      url: http://gis.co.dakota.mn.us/maps/plspublic.htm  
+    - title: Hennepin County Geodetic Control
+      url: http://www.hennepin.us/residents/property/geodetic-control                          
+    - title: Minneapolis Survey Monument Viewer
+      url: https://www.arcgis.com/apps/PublicInformation/index.html?appid=55f47dde77a84e28976848741572d8bb                          
+    - title: Minnesota Department of Transportation Geodetic Database
+      url: http://www.dot.state.mn.us/maps/geodetic/  
+- state: Missouri 
+  databases:
+    - title: Springfield City Elevation Benchmarks
+      url: http://www.arcgis.com/home/webmap/viewer.html?webmap=6d1e6f3eb9ae41299ab40bb29d29c349     
+- state: Nebraska 
+  databases:
+    - title: Nebraska Department of Natural Resources Benchmark Search
+      url: https://dnr.nebraska.gov/data/benchmarks-data     
+- state: Nevada 
+  databases:
+    - title: Clark County Public Works – County Surveyor’s Benchmark Book
+      url: https://www.clarkcountynv.gov/government/departments/public_works_department/survey_benchmark_book.php
+- state: New Hampshire
+  databases:
+    - title: New Hampshire Geodetic Control Points Database
+      url: https://new-hampshire-geodata-portal-1-nhgranit.hub.arcgis.com/datasets/2fb2548ee4fa4570bb95dc46ccdd52e6_0/explore
+- state: New Jersey
+  databases:
+    - title: New Jersey Tidal Benchmark Network
+      url: http://www.nj.gov/dep/njgs/geodata/dgsdown/njtidalbm.pdf
+- state: New Mexico
+  databases:
+    - title: Albuquerque Survey Monument Database
+      url: http://www.cabq.gov/gis/map-views/geodetic-control-and-artgn  
+- state: North Carolina
+  databases:
+    - title: North Carolina Geodetic Survey
+      url: http://www.ncgs.state.nc.us/
+- state: Ohio
+  databases:
+    - title: Lucas County Survey Control Points Maps
+      url: https://lcenggis.co.lucas.oh.us/gisengportal/apps/View/index.html?appid=9333dfcde49240ab841d7b8754391f3a
+    - title: Medina County GPS Control Monuments
+      url: http://www.sanitaryengineer.co.medina.oh.us/downloads/allpages.pdf
+- state: Oklahoma
+  databases:
+    - title: Muskogee Survey Control System
+      url: http://www.muskogeeonline.org/departments/planning/survey_control_system.php 
+- state: Oregon
+  databases:
+    - title: Eugene City Benchmarks
+      url: https://www.eugene-or.gov/1071/Land-Survey-Benchmarks        
+    - title: Oregon Department of Transportation Geodetic Control and Benchmark Retrieval
+      url: http://www.oregon.gov/ODOT/ETA/Pages/Benchmarks.aspx     
+    - title: Lane County SIDO Maps
+      url: http://lcmaps.lanecounty.org/LaneCountyMaps/SIDOMapsApp/index.html           
+    - title: Linn County GIS Maps
+      url: https://www.co.linn.or.us/gis/page/maps-gis                      
+    - title: Medford City Surveyor’s Benchmarks
+      url: https://www.medfordoregon.gov/Government/Departments/Public-Works/Land-Survey     
+    - title: Polk County Benchmark Search
+      url: https://www.co.polk.or.us/pw/benchmarks-elevations                                                                                             
+    - title: Salem City Survey Control
+      url: https://data.cityofsalem.net/maps/salem::surveycontrol/explore   
+- state: Pennsylvania
+  databases:
+    - title: PennDOT PAMS (Photogrammetry Asset Management System)
+      url: https://www.surveycontrol.penndot.pa.gov/home.html    
+- state: South Carolina
+  databases:
+    - title: South Carolina Geodetic Survey
+      url: https://www.rfa.sc.gov/programs-services/geodetic                    
+- state: South Dakota
+  databases:
+    - title: South Dakota County Bench Mark Map
+      url: https://dot.sd.gov/doing-business/engineering/design-services/surveyors/county-bench-mark-map
+- state: Tennessee
+  databases:
+    - title: Knoxville Survey Control Points
+      url: https://www.knoxvilletn.gov/government/city_departments_offices/engineering/civil_engineering_division/survey_control_points
+- state: Texas
+  databases:
+    - title: Arlington City Monuments and Benchmarks
+      url: https://www.arlingtontx.gov/city_hall/departments/public_works/engineering/monuments___benchmarks
+    - title: Brazos County Survey Report 2014
+      url: http://brazoscountytx.gov/documentcenter/view/1514
+    - title: Carrollton GPS Benchmarks
+      url: http://www.cityofcarrollton.com/Home/ShowDocument?id=2859      
+    - title: Carrollton Vertical Benchmarks
+      url: http://www.cityofcarrollton.com/Home/ShowDocument?id=2227
+    - title: Photo ID and Monumentation for the City of Conroe, Montgomery County, Texas
+      url: /assets/docs/publications/CC-Control-Pulled-from-City-Website.pdf
+    - title: City of Conroe Coordinate List
+      url: /assets/docs/publications/CC-Control.xlsx
+    - title: Euless City Maps
+      url: https://experience.arcgis.com/experience/be84ce7f29c44dd68d35c68be6421d5f
+    - title: Harris County Floodplain Reference Marks
+      url: https://www.harriscountyfrm.org/
+    - title: City of Houston Street Centerlines
+      url: /assets/docs/publications/COH-Street-Reference-Monuments.pdf
+    - title: Huntsville Public GIS Mapping System
+      url: https://huntsville.maps.arcgis.com/apps/webappviewer/index.html?id=de44957e55ac4ffc98fa10d26f4a88e7
+    - title: Lower Colorado River Authority HARN Interactive Map
+      url: https://harn.lcra.org/
+    - title: City of Montgomery Control
+      url: /assets/docs/publications/City-Benchmarks.pdf
+    - title: Round Rock Survey Control Monuments
+      url: https://geohub.roundrocktexas.gov/maps/CORR::survey-control-points-and-benchmarks
+    - title: San Jacinto River Authority Groundwater Reduction Plan Program Survey Monumentation System
+      url: /assets/docs/publications/SJRA-GRP-Program_SurveyMonumentationSystem.pdf
+    - title: 'SJRA #12'
+      url: /assets/docs/publications/SJRA-12__-Conroe-CC-26_ADJ.pdf
+    - title: 'SJAR #12AZ'
+      url: /assets/docs/publications/SJRA-12-AZ__-Conroe-CC-26_AZ.pdf
+    - title: 'SJRA #13'
+      url: /assets/docs/publications/SJRA-13__-Conroe-CC-27.pdf
+    - title: SJRA Coordinate List
+      url: /assets/docs/publications/SJRA-GRID.xlsx
+    - title: City of Sugar Land Geodetic Survey Control
+      url: /assets/docs/publications/SugarLandMonsandControlMap.pdf
+- state: Vermont
+  databases:
+    - title: Vermont OnLine Geodetic Information System (VOLGIS)
+      url: https://vtransmaps.vermont.gov/VOLGIS/map.htm     
