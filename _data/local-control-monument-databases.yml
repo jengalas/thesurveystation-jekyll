@@ -235,4 +235,38 @@
 - state: Vermont
   databases:
     - title: Vermont OnLine Geodetic Information System (VOLGIS)
-      url: https://vtransmaps.vermont.gov/VOLGIS/map.htm     
+      url: https://vtransmaps.vermont.gov/VOLGIS/map.htm  
+- state: Virginia
+  databases:
+    - title: Arlington County Control Monuments/Maps
+      url: https://geocortex.arlingtonva.us/Html5Viewer/index.html?viewer=ACMaps.HTML5&layerTheme=null&scale=72223.819286&basemap=&center=-8582954.79343218%2C4704229.074623734&layers=3buIWz1lMGiZ
+    - title: Chesapeake City Survey Monuments
+      url: https://www.cityofchesapeake.net/1011/Survey-Monuments
+    - title: Gloucester County Survey Monuments 
+      url: https://gloucesterva.gov/geographic-information-systems/survey-monument
+    - title: Henrico County Control Network
+      url: https://henrico.us/it/gis/monumentation-network/
+    - title: City of Norfolk Survey Monuments Mapper
+      url: https://www.norfolk.gov/index.aspx?NID=1607
+    - title: Spotsylvania County GPS Monumentation Maps and Data
+      url: https://www.spotsylvania.va.us/1167/GPS-Monuments
+    - title: Stafford County Survey Monuments
+      url: https://gismapping.stafford.va.us/
+    - title: City of Virginia Beach Map 
+      url: https://vbgov.maps.arcgis.com/apps/webappviewer/index.html?id=642080e73b1640cc806b5468d0c6bff3&extent=-8569773.3301%2C4348358.3728%2C-8374706.0339%2C4443446.036%2C102100&showLayersEncoded=jlfr%3B2x5z%3Ba67h%3B9ur1%3Ba6zx%3Baj8t%3Bb7ql%3Bb4sd%3Ba2gt%3B8ykd%3B4ei2%3Bihjz%3Bihib%3Biq77%3Biuld%3Bh1ep%3Bkec2%3Bkp02%3Bkrde%3Bk3i2%3Bjqgq%3Bjxyy%3Bkeyi%3Bko1m%3Bfsts%3Bgjow%3Bgtkg%3Bf168%3Beto0%3Bfsvm%3Bfgmq%3Bghde%3Bg6pe%3Bgjqq%3Bgtma%3Bf182%3Betpu%3Bftn0%3Bg53g%3Bfsuk%3Bfglo%3Bg6oc%3Bgjpo%3Bgtl8%3Bf170%3Betos%3Bftkm%3Bg512%3Bfss6%3Bfgja%3Bgh9y%3B4ci2%3Ba6w3%3Baj4z%3B8ngr%3B2vj5%3Blpcb%3Blhu3%3Bg2dz%3Bfvo7%3Bfimv%3Bfq53%3Bg74n%3Bgg7r%3Bgk5z%3Bfzkg%3Bfm4w%3Bej0w%3Bemkw%3B3kh3%3B3srr%3B3887%3B4vvr%3Bclgg%3Bccdc%3Bc04g%3B6xlh%3B6ro5%3B6ff9%3B6kk5%3B5qxh%3B5uhh%3B67it%3B636d%3B772t%3B77h1%3Bjbxr%3Bjne7%3Bjb5b%3Biywf%3Bil2n%3Biaen%3Binfz%3Bh4xb%3Bgxf3%3Bjnfx%3Bjb71%3Biyy5%3Bil4d%3Biagd%3Binhp%3Bixd9%3Bh4z1%3Bgxgt%3Bjbyr%3Bjnf7%3Bjb6b%3Bca5z%3B3uzb%3B3iqf%3B3vrr%3Bc19d%3Biaeq%3Bing2
+- state: Washington
+  databases:
+    - title: Kirkland Survey Control Data
+      url: https://www.kirklandwa.gov/Government/Departments/Development-Services-Center/Tools-and-Resources
+    - title: Pierce County Survey Control Database
+      url: https://matterhornwab.co.pierce.wa.us/surveymonuments/
+    - title: Thurston County GeoData Center
+      url: https://www.thurstoncountywa.gov/departments/geodata-center
+    - title: Washington Council of County Surveyors (archive)
+      url: https://web.archive.org/web/20211026021234/https://www.wgsarchive.org/
+    - title: WSDOT Survey Monument Database
+      url: https://www.wsdot.wa.gov/monument/    
+- state: Wisconsin
+  databases:
+    - title: Wisconsin ControlFinder (contains NGS, USGS, and county data)
+      url: https://maps.sco.wisc.edu/surveycontrolfinder/#7/44.827/-90.143/NGS,county,USGS,CORS/terrain      

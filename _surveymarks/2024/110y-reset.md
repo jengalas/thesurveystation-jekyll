@@ -13,5 +13,14 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+galleries:
+  gallery_zh:
+    images:
+    - filename: 110y-reset
+      alt: Clark County Nevada Las Vegas Boulevard Right of Way Disk 110Y RESET
+    - filename: 110y-resetg1
+      alt: Looking NW across Las Vegas Boulevard, toward the Forum Shops at Caesar's Palace   
+    - filename: 110y-resetg2
+      alt: Looking SW along Las Vegas Boulevard 
 featured_image: 110y-resetcsm.jpg
 ---
