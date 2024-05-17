@@ -13,5 +13,16 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+galleries:
+  gallery_zh:
+    images:
+    - filename: 46x-reset
+      alt: Clark County Nevada Las Vegas Boulevard Right of Way Disk 46X RESET
+    - filename: 46x-resetg3
+      alt: Eyelevel view of the disk, surrounded by what appear to be survey nails      
+    - filename: 46x-resetg1
+      alt: Looking NW toward the walkway into Bellagio   
+    - filename: 46x-resetg2
+      alt: Looking SE toward The Cosmopolitan
 featured_image: 46x-resetcsm.jpg
 ---
