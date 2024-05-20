@@ -15,6 +15,7 @@ official_description: Unavailable
 status: Recovered
 condition: Good
 zhanna_text: >-
+  While on a photo walk near Kebo Mountain Golf Club, we spotted a stone monument holding an NPS disk that I was pretty sure we haven't recovered before. Just in case, we took photos and recorded coordinates for the mark, and then continued on our walk. When I later checked my notes, I was pleased to see that it was indeed a "new" mark for us. The monument and the disk are in good condition, and there is an orange NPS witness post next to the monument with pink flagging tape tied around it.
 galleries:
   gallery_zh:
     images:
