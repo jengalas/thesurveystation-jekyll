@@ -32,12 +32,12 @@ galleries:
   gallery_zh:
     images:
     - filename: rgh22
-      alt: USGS Gaging Station Disk 01449800   
+      alt: PennDOT Chiseled Square RGH 22    
     - filename: rgh22g1
-      alt: Eyelevel view of the disk set into the concrete base.
+      alt: Eye-level view of the chiseled square on the boulder.
     - filename: rgh22g2a
-      alt: The proximity of the mark to the side of the familiar green gaging station building.    
+      alt: Looking southeast toward the trail intersection.   
     - filename: rgh22diag
-      alt: The mark is set in the base of the tower-like structure to the left of the small building.     
+      alt: Diagram from the official datasheet. The trails can be identified in the previous photograph.    
 featured_image: rgh22csm.jpg
 ---
