@@ -16,20 +16,21 @@ official_description: >-
     bridge over Lackawaxen River; standard tablet stamped “PRIM TRAV STA NO 1 Y
     1925 RESET 1945”. Elev. 896.021 ft.
 
-
-    <table class="plane-coords"><thead>
-      <tr>
-        <th>Plane Coordinates (feet)</th>
-        <th>Latitude</th>
-        <th>Longitude</th>
-      </tr></thead>
-    <tbody>
-      <tr>
-        <td>X = 2,706,138 Y = 487,613</td>
-        <td>41 28 34.18</td>
-        <td>-75 10 22.03</td>
-      </tr>
-    </tbody>
+    <table class="plane-coords">
+      <thead>
+        <tr>
+          <th>Plane Coordinates (feet)</th>
+          <th>Latitude</th>
+          <th>Longitude</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>X = 2,706,138 Y = 487,613</td>
+          <td>41 28 34.18</td>
+          <td>-75 10 22.03</td>
+        </tr>
+      </tbody>
     </table>
 status: Recovered
 condition: Good
