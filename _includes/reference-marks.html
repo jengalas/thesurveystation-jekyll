@@ -1,7 +1,7 @@
 
 {% capture filename %}{{ page.url | remove: "/surveymarks/" | replace: "/", ""}}{% endcapture %}
-{% capture imagePath %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
-{% capture thumb %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+{% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
+{% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 
 {% assign referenceMarks = site.reference_marks | where: "parent", filename | sort: "designation" %}
 <table>

@@ -18,7 +18,7 @@ permalink: /locations/counties/
   <h2 class="county" id="{{ county | slugify }}">{{ county }}</h2>
   <ul>
   {% for mark in allMarks %}
-    {% capture thumb %}https://planetzhanna.com/images/{{ mark.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+    {% capture thumb %}https://images.planetzhanna.com/{{ mark.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
     {% if mark.location contains county %}
     <li><a href="{{mark.url}}"><img src="{{ thumb }}{{ mark.featured_image }}" style="width: 150px;"><br>{{ mark.designation }}</a></li>
     {% endif %}

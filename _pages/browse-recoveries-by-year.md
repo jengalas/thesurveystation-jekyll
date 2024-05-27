@@ -26,7 +26,7 @@ permalink: /browse-recoveries-by-year/
     <h2 id="{{ year }}">{{ year }}</h2>
     {% assign recs = recMarks | where: "date", year %}
     {% for rec in recs reversed %}
-    {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+    {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
       <li>R: <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a></li>    
     {% endfor %}
     {% assign recs = nfMarks | where: "date", year %}

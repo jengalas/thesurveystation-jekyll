@@ -33,7 +33,7 @@ layout: default
         <div class="archive-grid cards">
         {% for rec in recMarks reversed %}
             <div class="card">
-                {% capture thumb %}https://planetzhanna.com/images/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+                {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
                 <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a>  
             </div>
         {% endfor %}
