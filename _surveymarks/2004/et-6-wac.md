@@ -14,8 +14,22 @@ agency: USGS
 official_description: >-
     Cortez Post Office, 0.2 mi N. of, along hwy. to T-rd., thence 2.1 mi left to field rd. N., thence 1.2 mi N. along field rd. to T-rd. left and station on left; 56 ft from center of T-rd. intersection; in stone flush with ground; standard tablet stamped “ET 6 WAC 1963”
 
-
-    <table class="table table-responsive plane"><tr><th>Plane Coordinates (feet) </th><th>Latitude</th><th>Longitude</th></tr><tr><td>X = 2,621,525 Y = 493,266</td><td>41 29 53.40</td><td>-75 28 51.27</td></tr></table>
+    <table class="plane-coords">
+      <thead>
+        <tr>
+          <th>Plane Coordinates (feet)</th>
+          <th>Latitude</th>
+          <th>Longitude</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>X = 2,621,525 Y = 493,266</td>
+          <td>41 29 53.40</td>
+          <td>-75 28 51.27</td>
+        </tr>
+      </tbody>
+    </table>
 status: Recovered
 condition: Good
 usgs_report: true
