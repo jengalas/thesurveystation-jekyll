@@ -18,5 +18,16 @@ zhanna_text: >-
     
     
     I haven't been able to find any more information about this disk. so all we have is the type of station and the date it was set (1944). The disk is in good condition and I hope it remains so for a long time to come.
+galleries:
+  gallery_zh:
+    images:
+    - filename: hole
+      alt: NGS Topographic Station Disk HOLE 
+    - filename: holeg1
+      alt: HOLE is a nice example of a topographic station disk high on an outcrop above the sea …
+    - filename: holeg2
+      alt: … in one of the most beautiful spots imaginable!
+    - filename: holeg3
+      alt: Looking out to sea to the south, with Otter Cliffs in the background.         
 featured_image: holecsm.jpg
 ---
