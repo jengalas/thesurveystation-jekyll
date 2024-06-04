@@ -28,5 +28,5 @@ galleries:
       alt: Eyelevel view of the disk on the monument   
     - filename: r-us-3g2
       alt: Looking E toward the Seaside Path     
-featured_image: r-us-3.jpg
+featured_image: r-us-3csm.jpg
 ---

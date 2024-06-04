@@ -33,5 +33,5 @@ galleries:
       alt: Orientation view of azimuth mark with surroundings.   
     - filename: ly2680azmkrg3
       alt: Azimuth mark is in wooded area directly behind this sign.            
-featured_image: ly2680azcsm.jpg
+featured_image: ly2680azmkcsm.jpg
 ---
