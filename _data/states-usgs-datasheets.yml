@@ -49,6 +49,9 @@
 - state: Mississippi
   abbrev: MS
   dev: false
+- state: Missouri
+  abbrev: MO
+  dev: true  
 - state: Montana
   abbrev: MT
   dev: false  
