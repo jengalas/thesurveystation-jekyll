@@ -34,7 +34,11 @@ layout: default
         {% for rec in recMarks reversed %}
             <div class="card">
                 {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
-                <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a>  
+                {% if rec.featured_image %}
+                    <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a>  
+                {% else %} 
+                    <a href="{{ rec.url }}"><img src="/assets/img/default-bm-featured-image-150x150.jpg" style="width: 150px;"><br>{{ rec.designation }}</a>
+                {% endif %}   
             </div>
         {% endfor %}
         </div>
