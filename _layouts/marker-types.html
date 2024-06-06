@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{{ page.type }}
+<h1>Marker Type: {{ page.type }}</h1>
 
 <ul>
     {% assign types = site.surveymarks | concat: site.reference_marks | where: "type", page.type | sort: "date" | reverse %}
