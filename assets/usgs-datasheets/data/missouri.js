@@ -132,6 +132,56 @@ var geojsonFeature = {
           "coe": "https://thesurveystation.com/USGS/MO/9-Hickman/Corps-of-Engineers.pdf",
           "cyear": "1953"
         }
-      }    
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.25,36.5],[-89.25,36.75],[-89.5,36.75],[-89.5,36.5],[-89.25,36.5]]]
+        },
+        "properties": {
+          "name": "Bayouville",
+          "vertical": "https://thesurveystation.com/USGS/MO/10-Bayouville/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://thesurveystation.com/USGS/MO/10-Bayouville/Horizontal.pdf",
+          "hyear": "1976",
+          "coe": "https://thesurveystation.com/USGS/MO/10-Bayouville/Corps-of-Engineers.pdf",
+          "cyear": "1959"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.5,36.5],[-89.5,36.75],[-89.75,36.75],[-89.75,36.5],[-89.5,36.5]]]
+        },
+        "properties": {
+          "name": "New Madrid",
+          "vertical": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Corps-of-Engineers.pdf",
+          "cyear": "1968",
+          "recoveries": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Tri-Station-1028-Shade.pdf",
+          "ryear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.75,36.5],[-89.75,36.75],[-90,36.75],[-90,36.5],[-89.75,36.5]]]
+        },
+        "properties": {
+          "name": "Malden",
+          "vertical": "https://thesurveystation.com/USGS/MO/12-Malden/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://thesurveystation.com/USGS/MO/12-Malden/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://thesurveystation.com/USGS/MO/12-Malden/Corps-of-Engineers.pdf",
+          "cyear": "1954"
+        }
+      }     
     ]
   };
