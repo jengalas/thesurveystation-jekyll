@@ -4,7 +4,7 @@
 {% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 
 {% assign referenceMarks = site.reference_marks | where: "parent", filename | sort: "designation" %}
-<table>
+<table class="referenceMarks">
     <caption>Reference Objects</caption>
     <thead>
         <tr>

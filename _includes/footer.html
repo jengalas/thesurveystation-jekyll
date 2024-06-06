@@ -70,13 +70,18 @@
     }); 
   </script>
 
-{% if page.title == "Historical Airway Maps" %}
 <script>
     /* Datatables init */
     $(document).ready( function () {
         $('#historicalAirwayMaps').DataTable({
-            paging: false
+            paging: false,
+            responsive: true
+        });
+        $('.referenceMarks').DataTable({
+          info: false,  
+          paging: false,
+          searching: false,
+          responsive: true
         });
     } );
 </script>
-{% endif %}
