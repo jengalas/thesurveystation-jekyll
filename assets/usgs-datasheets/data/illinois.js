@@ -9,9 +9,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Smithland",
-          "vertical": "https://thesurveystation.com/USGS/IL/1-Smithland/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/1-Smithland/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/1-Smithland/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/1-Smithland/Horizontal.pdf",
           "hyear": "1978"
         }
       },
@@ -23,9 +23,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Paducah",
-          "vertical": "https://thesurveystation.com/USGS/IL/2-Paducah/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/2-Paducah/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/2-Paducah/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/2-Paducah/Horizontal.pdf",
           "hyear": "1978"
         }
       },
@@ -37,9 +37,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "La Center",
-          "vertical": "https://thesurveystation.com/USGS/IL/3-La-Center/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/3-La-Center/Vertical.pdf",
           "vyear": "1978",
-          "horizontal": "https://thesurveystation.com/USGS/IL/3-La-Center/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/3-La-Center/Horizontal.pdf",
           "hyear": "1977"
         }
       },
@@ -51,9 +51,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cairo",
-          "vertical": "https://thesurveystation.com/USGS/IL/4-Cairo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/4-Cairo/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/4-Cairo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/4-Cairo/Horizontal.pdf",
           "hyear": "1978"
         }
       },
@@ -65,9 +65,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Thebes",
-          "vertical": "https://thesurveystation.com/USGS/IL/5-Thebes/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/5-Thebes/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/5-Thebes/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/5-Thebes/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -79,9 +79,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cave-in-Rock",
-          "vertical": "https://thesurveystation.com/USGS/IL/6-Cave-in-Rock/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/6-Cave-in-Rock/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/6-Cave-in-Rock/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/6-Cave-in-Rock/Horizontal.pdf",
           "hyear": "1977"
         }
       },
@@ -93,9 +93,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Golconda",
-          "vertical": "https://thesurveystation.com/USGS/IL/7-Golconda/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/7-Golconda/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/7-Golconda/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/7-Golconda/Horizontal.pdf",
           "hyear": "1977"
         }
       },
@@ -107,9 +107,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Brownfield",
-          "vertical": "https://thesurveystation.com/USGS/IL/8-Brownfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/8-Brownfield/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/8-Brownfield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/8-Brownfield/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -121,9 +121,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Vienna",
-          "vertical": "https://thesurveystation.com/USGS/IL/9-Vienna/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/9-Vienna/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/9-Vienna/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/9-Vienna/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -135,9 +135,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dongola",
-          "vertical": "https://thesurveystation.com/USGS/IL/10-Dongola/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/10-Dongola/Vertical.pdf",
           "vyear": "1969",
-          "horizontal": "https://thesurveystation.com/USGS/IL/10-Dongola/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/10-Dongola/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -149,9 +149,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Jonesboro",
-          "vertical": "https://thesurveystation.com/USGS/IL/11-Jonesboro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/11-Jonesboro/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/11-Jonesboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/11-Jonesboro/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -163,9 +163,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cape Girardeau",
-          "vertical": "https://thesurveystation.com/USGS/IL/12-Cape-Girardeau/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/12-Cape-Girardeau/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/12-Cape-Girardeau/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/12-Cape-Girardeau/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -177,9 +177,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Shawneetown",
-          "vertical": "https://thesurveystation.com/USGS/IL/13-Shawneetown/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/13-Shawneetown/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/13-Shawneetown/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/13-Shawneetown/Horizontal.pdf",
           "hyear": "1977"
         }
       },
@@ -191,9 +191,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Equality",
-          "vertical": "https://thesurveystation.com/USGS/IL/14-Equality/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/14-Equality/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/14-Equality/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/14-Equality/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -205,9 +205,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Harrisburg",
-          "vertical": "https://thesurveystation.com/USGS/IL/15-Harrisburg/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/15-Harrisburg/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/15-Harrisburg/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/15-Harrisburg/Horizontal.pdf",
           "hyear": "1959"
         }
       },
@@ -219,9 +219,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Marion",
-          "vertical": "https://thesurveystation.com/USGS/IL/16-Marion/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/16-Marion/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/16-Marion/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/16-Marion/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -233,9 +233,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carbondale",
-          "vertical": "https://thesurveystation.com/USGS/IL/17-Carbondale/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/17-Carbondale/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/17-Carbondale/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/17-Carbondale/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -247,9 +247,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Alto Pass",
-          "vertical": "https://thesurveystation.com/USGS/IL/18-Alto-Pass/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/18-Alto-Pass/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/18-Alto-Pass/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/18-Alto-Pass/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -261,9 +261,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Altenborg",
-          "vertical": "https://thesurveystation.com/USGS/IL/19-Altenborg/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/19-Altenborg/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/19-Altenborg/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/19-Altenborg/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -275,9 +275,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Haven",
-          "vertical": "https://thesurveystation.com/USGS/IL/20-New-Haven/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/20-New-Haven/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/IL/20-New-Haven/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/20-New-Haven/Horizontal.pdf",
           "hyear": "1977"
         }
       },
@@ -289,9 +289,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Eldorado",
-          "vertical": "https://thesurveystation.com/USGS/IL/21-Eldorado/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/21-Eldorado/Vertical.pdf",
           "vyear": "1962",
-          "horizontal": "https://thesurveystation.com/USGS/IL/21-Eldorado/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/21-Eldorado/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -303,9 +303,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Galatia",
-          "vertical": "https://thesurveystation.com/USGS/IL/22-Galatia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/22-Galatia/Vertical.pdf",
           "vyear": "1962",
-          "horizontal": "https://thesurveystation.com/USGS/IL/22-Galatia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/22-Galatia/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -317,9 +317,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "West Frankfort",
-          "vertical": "https://thesurveystation.com/USGS/IL/23-West-Frankfort/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/23-West-Frankfort/Vertical.pdf",
           "vyear": "1962",
-          "horizontal": "https://thesurveystation.com/USGS/IL/23-West-Frankfort/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/23-West-Frankfort/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -331,9 +331,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Herrin",
-          "vertical": "https://thesurveystation.com/USGS/IL/24-Herrin/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/24-Herrin/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://thesurveystation.com/USGS/IL/24-Herrin/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/24-Herrin/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -345,9 +345,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Murphysboro",
-          "vertical": "https://thesurveystation.com/USGS/IL/25-Murphysboro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/25-Murphysboro/Vertical.pdf",
           "vyear": "1968",
-          "horizontal": "https://thesurveystation.com/USGS/IL/25-Murphysboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/25-Murphysboro/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -359,9 +359,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Campbell Hill",
-          "vertical": "https://thesurveystation.com/USGS/IL/26-Campbell-Hill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/26-Campbell-Hill/Vertical.pdf",
           "vyear": "1968",
-          "horizontal": "https://thesurveystation.com/USGS/IL/26-Campbell-Hill/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/26-Campbell-Hill/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -373,9 +373,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Chester",
-          "vertical": "https://thesurveystation.com/USGS/IL/27-Chester/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/27-Chester/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/27-Chester/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/27-Chester/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -387,9 +387,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Weingarten",
-          "vertical": "https://thesurveystation.com/USGS/IL/28-Weingarten/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/28-Weingarten/Vertical.pdf",
           "vyear": "1970",
-          "horizontal": "https://thesurveystation.com/USGS/IL/28-Weingarten/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/28-Weingarten/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -401,9 +401,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Harmony",
-          "vertical": "https://thesurveystation.com/USGS/IL/29-New-Harmony/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/29-New-Harmony/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/IL/29-New-Harmony/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/29-New-Harmony/Horizontal.pdf",
           "hyear": "1983"
         }
       },
@@ -415,9 +415,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carmi",
-          "vertical": "https://thesurveystation.com/USGS/IL/30-Carmi/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/30-Carmi/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/30-Carmi/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/30-Carmi/Horizontal.pdf",
           "hyear": "1983"
         }
       },
@@ -429,9 +429,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Enfield",
-          "vertical": "https://thesurveystation.com/USGS/IL/31-Enfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/31-Enfield/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/31-Enfield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/31-Enfield/Horizontal.pdf",
           "hyear": "1947"
         }
       },
@@ -443,9 +443,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "McLeansboro",
-          "vertical": "https://thesurveystation.com/USGS/IL/32-McLeansboro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/32-McLeansboro/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/32-McLeansboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/32-McLeansboro/Horizontal.pdf",
           "hyear": "1942"
         }
       },
@@ -457,9 +457,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ina",
-          "vertical": "https://thesurveystation.com/USGS/IL/33-Ina/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/33-Ina/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/33-Ina/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/33-Ina/Horizontal.pdf",
           "hyear": "1979"
         }
       },
@@ -471,9 +471,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "DuQuoin",
-          "vertical": "https://thesurveystation.com/USGS/IL/34-DuQuoin/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/34-DuQuoin/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://thesurveystation.com/USGS/IL/34-DuQuoin/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/34-DuQuoin/Horizontal.pdf",
           "hyear": "1947"
         }
       },
@@ -485,9 +485,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pinckneyville",
-          "vertical": "https://thesurveystation.com/USGS/IL/35-Pinckneyville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/35-Pinckneyville/Vertical.pdf",
           "vyear": "1968",
-          "horizontal": "https://thesurveystation.com/USGS/IL/35-Pinckneyville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/35-Pinckneyville/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -499,9 +499,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Coulterville",
-          "vertical": "https://thesurveystation.com/USGS/IL/36-Coulterville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/36-Coulterville/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/36-Coulterville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/36-Coulterville/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -513,9 +513,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Baldwin",
-          "vertical": "https://thesurveystation.com/USGS/IL/37-Baldwin/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/37-Baldwin/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/37-Baldwin/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/37-Baldwin/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -527,9 +527,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Renault",
-          "vertical": "https://thesurveystation.com/USGS/IL/38-Renault/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/38-Renault/Vertical.pdf",
           "vyear": "1969",
-          "horizontal": "https://thesurveystation.com/USGS/IL/38-Renault/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/38-Renault/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -541,9 +541,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Crystal City",
-          "vertical": "https://thesurveystation.com/USGS/IL/39-Crystal-City/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/39-Crystal-City/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/39-Crystal-City/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/39-Crystal-City/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -555,9 +555,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Princeton",
-          "vertical": "https://thesurveystation.com/USGS/IL/40-Princeton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/40-Princeton/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://thesurveystation.com/USGS/IL/40-Princeton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/40-Princeton/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -569,9 +569,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Carmel",
-          "vertical": "https://thesurveystation.com/USGS/IL/41-Mount-Carmel/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/41-Mount-Carmel/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://thesurveystation.com/USGS/IL/41-Mount-Carmel/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/41-Mount-Carmel/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -583,9 +583,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Albion",
-          "vertical": "https://thesurveystation.com/USGS/IL/42-Albion/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/42-Albion/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/IL/42-Albion/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/42-Albion/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -597,9 +597,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fairfield",
-          "vertical": "https://thesurveystation.com/USGS/IL/43-Fairfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/43-Fairfield/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://thesurveystation.com/USGS/IL/43-Fairfield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/43-Fairfield/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -611,9 +611,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Wayne City",
-          "vertical": "https://thesurveystation.com/USGS/IL/44-Wayne-City/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/44-Wayne-City/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://thesurveystation.com/USGS/IL/44-Wayne-City/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/44-Wayne-City/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -625,9 +625,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mt. Vernon",
-          "vertical": "https://thesurveystation.com/USGS/IL/45-Mt-Vernon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/45-Mt-Vernon/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/45-Mt-Vernon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/45-Mt-Vernon/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -639,9 +639,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ashley",
-          "vertical": "https://thesurveystation.com/USGS/IL/46-Ashley/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/46-Ashley/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/46-Ashley/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/46-Ashley/Horizontal.pdf",
           "hyear": "1946"
         }
       },
@@ -653,9 +653,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Nashville",
-          "vertical": "https://thesurveystation.com/USGS/IL/47-Nashville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/47-Nashville/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/47-Nashville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/47-Nashville/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -667,9 +667,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Okawville",
-          "vertical": "https://thesurveystation.com/USGS/IL/48-Okawville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/48-Okawville/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/48-Okawville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/48-Okawville/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -681,9 +681,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Athens",
-          "vertical": "https://thesurveystation.com/USGS/IL/49-New-Athens/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/49-New-Athens/Vertical.pdf",
           "vyear": "1969",
-          "horizontal": "https://thesurveystation.com/USGS/IL/49-New-Athens/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/49-New-Athens/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -695,9 +695,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Waterloo",
-          "vertical": "https://thesurveystation.com/USGS/IL/50-Waterloo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/50-Waterloo/Vertical.pdf",
           "vyear": "1964",
-          "horizontal": "https://thesurveystation.com/USGS/IL/50-Waterloo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/50-Waterloo/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -709,11 +709,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kimmswick",
-          "vertical": "https://thesurveystation.com/USGS/IL/51-Kimmswick/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/51-Kimmswick/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/51-Kimmswick/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/51-Kimmswick/Horizontal.pdf",
           "hyear": "1971",
-          "coe": "https://thesurveystation.com/USGS/IL/51-Kimmswick/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/51-Kimmswick/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -725,9 +725,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Montuers Pond",
-          "vertical": "https://thesurveystation.com/USGS/IL/52-Montuers-Pond/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/52-Montuers-Pond/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/IL/52-Montuers-Pond/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/52-Montuers-Pond/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -739,9 +739,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Vincennes",
-          "vertical": "https://thesurveystation.com/USGS/IL/53-Vincennes/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/53-Vincennes/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://thesurveystation.com/USGS/IL/53-Vincennes/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/53-Vincennes/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -753,9 +753,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sumner",
-          "vertical": "https://thesurveystation.com/USGS/IL/54-Sumner/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/54-Sumner/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/54-Sumner/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/54-Sumner/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -767,9 +767,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Olney",
-          "vertical": "https://thesurveystation.com/USGS/IL/55-Olney/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/55-Olney/Vertical.pdf",
           "vyear": "1970",
-          "horizontal": "https://thesurveystation.com/USGS/IL/55-Olney/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/55-Olney/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -781,9 +781,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Flora",
-          "vertical": "https://thesurveystation.com/USGS/IL/56-Flora/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/56-Flora/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/56-Flora/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/56-Flora/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -795,9 +795,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Xenia",
-          "vertical": "https://thesurveystation.com/USGS/IL/57-Xenia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/57-Xenia/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/57-Xenia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/57-Xenia/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -809,9 +809,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Salem",
-          "vertical": "https://thesurveystation.com/USGS/IL/58-Salem/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/58-Salem/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/58-Salem/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/58-Salem/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -823,9 +823,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Centralia",
-          "vertical": "https://thesurveystation.com/USGS/IL/59-Centralia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/59-Centralia/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/59-Centralia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/59-Centralia/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -837,9 +837,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carlyle",
-          "vertical": "https://thesurveystation.com/USGS/IL/60-Carlyle/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/60-Carlyle/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/60-Carlyle/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/60-Carlyle/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -851,9 +851,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Breese",
-          "vertical": "https://thesurveystation.com/USGS/IL/61-Breese/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/61-Breese/Vertical.pdf",
           "vyear": "1968",
-          "horizontal": "https://thesurveystation.com/USGS/IL/61-Breese/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/61-Breese/Horizontal.pdf",
           "hyear": "1959"
         }
       },
@@ -865,9 +865,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Belleville",
-          "vertical": "https://thesurveystation.com/USGS/IL/62-Belleville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/62-Belleville/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/62-Belleville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/62-Belleville/Horizontal.pdf",
           "hyear": "1956"
         }
       },
@@ -879,11 +879,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Louis",
-          "vertical": "https://thesurveystation.com/USGS/IL/63-St-Louis/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/63-St-Louis/Vertical.pdf",
           "vyear": "1978",
-          "horizontal": "https://thesurveystation.com/USGS/IL/63-St-Louis/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/63-St-Louis/Horizontal.pdf",
           "hyear": "1971",
-          "coe": "https://thesurveystation.com/USGS/IL/63-St-Louis/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/63-St-Louis/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -895,11 +895,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Webster Groves",
-          "vertical": "https://thesurveystation.com/USGS/IL/64-Webster-Groves/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/64-Webster-Groves/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/64-Webster-Groves/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/64-Webster-Groves/Horizontal.pdf",
           "hyear": "1971",
-          "coe": "https://thesurveystation.com/USGS/IL/64-Webster-Groves/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/64-Webster-Groves/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -911,9 +911,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carlisle",
-          "vertical": "https://thesurveystation.com/USGS/IL/65-Carlisle/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/65-Carlisle/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/IL/65-Carlisle/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/65-Carlisle/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -925,9 +925,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Birds",
-          "vertical": "https://thesurveystation.com/USGS/IL/66-Birds/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/66-Birds/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/66-Birds/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/66-Birds/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -939,9 +939,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hardinville",
-          "vertical": "https://thesurveystation.com/USGS/IL/67-Hardinville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/67-Hardinville/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/67-Hardinville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/67-Hardinville/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -953,9 +953,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Newton",
-          "vertical": "https://thesurveystation.com/USGS/IL/68-Newton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/68-Newton/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/68-Newton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/68-Newton/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -967,9 +967,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sailor",
-          "vertical": "https://thesurveystation.com/USGS/IL/69-Sailor/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/69-Sailor/Vertical.pdf",
           "vyear": "1985",
-          "horizontal": "https://thesurveystation.com/USGS/IL/69-Sailor/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/69-Sailor/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -981,9 +981,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Edgewood",
-          "vertical": "https://thesurveystation.com/USGS/IL/70-Edgewood/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/70-Edgewood/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/IL/70-Edgewood/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/70-Edgewood/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -995,9 +995,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kinmundy",
-          "vertical": "https://thesurveystation.com/USGS/IL/71-Kinmundy/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/71-Kinmundy/Vertical.pdf",
           "vyear": "1964",
-          "horizontal": "https://thesurveystation.com/USGS/IL/71-Kinmundy/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/71-Kinmundy/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1009,9 +1009,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Vandalia",
-          "vertical": "https://thesurveystation.com/USGS/IL/72-Vandalia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/72-Vandalia/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/72-Vandalia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/72-Vandalia/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -1023,9 +1023,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Greenville",
-          "vertical": "https://thesurveystation.com/USGS/IL/73-Greenville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/73-Greenville/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/IL/73-Greenville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/73-Greenville/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -1037,9 +1037,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Douglas",
-          "vertical": "https://thesurveystation.com/USGS/IL/74-New-Douglas/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/74-New-Douglas/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/74-New-Douglas/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/74-New-Douglas/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1051,9 +1051,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Edwardsville",
-          "vertical": "https://thesurveystation.com/USGS/IL/75-Edwardsville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/75-Edwardsville/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/75-Edwardsville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/75-Edwardsville/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1065,11 +1065,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Alton",
-          "vertical": "https://thesurveystation.com/USGS/IL/76-Alton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/76-Alton/Vertical.pdf",
           "vyear": "1962",
-          "horizontal": "https://thesurveystation.com/USGS/IL/76-Alton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/76-Alton/Horizontal.pdf",
           "hyear": "1963",
-          "coe": "https://thesurveystation.com/USGS/IL/76-Alton/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/76-Alton/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1081,11 +1081,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Charles",
-          "vertical": "https://thesurveystation.com/USGS/IL/77-St-Charles/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/77-St-Charles/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/77-St-Charles/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/77-St-Charles/Horizontal.pdf",
           "hyear": "1961",
-          "coe": "https://thesurveystation.com/USGS/IL/77-St-Charles/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/77-St-Charles/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1097,11 +1097,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Brussels",
-          "vertical": "https://thesurveystation.com/USGS/IL/78-Brussels/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/78-Brussels/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/IL/78-Brussels/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/78-Brussels/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/IL/78-Brussels/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/78-Brussels/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1113,9 +1113,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hutsonville",
-          "vertical": "https://thesurveystation.com/USGS/IL/79-Hutsonville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/79-Hutsonville/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/79-Hutsonville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/79-Hutsonville/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -1127,9 +1127,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Annapolis",
-          "vertical": "https://thesurveystation.com/USGS/IL/80-Annapolis/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/80-Annapolis/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/80-Annapolis/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/80-Annapolis/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1141,9 +1141,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Greenup",
-          "vertical": "https://thesurveystation.com/USGS/IL/81-Greenup/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/81-Greenup/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/81-Greenup/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/81-Greenup/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1155,9 +1155,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Teutopolis",
-          "vertical": "https://thesurveystation.com/USGS/IL/82-Teutopolis/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/82-Teutopolis/Vertical.pdf",
           "vyear": "1986",
-          "horizontal": "https://thesurveystation.com/USGS/IL/82-Teutopolis/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/82-Teutopolis/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1169,9 +1169,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Effingham",
-          "vertical": "https://thesurveystation.com/USGS/IL/83-Effingham/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/83-Effingham/Vertical.pdf",
           "vyear": "1985",
-          "horizontal": "https://thesurveystation.com/USGS/IL/83-Effingham/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/83-Effingham/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1183,9 +1183,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Elmo",
-          "vertical": "https://thesurveystation.com/USGS/IL/84-St-Elmo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/84-St-Elmo/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/IL/84-St-Elmo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/84-St-Elmo/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1197,9 +1197,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ramsey",
-          "vertical": "https://thesurveystation.com/USGS/IL/85-Ramsey/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/85-Ramsey/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/85-Ramsey/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/85-Ramsey/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1211,9 +1211,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hillsboro",
-          "vertical": "https://thesurveystation.com/USGS/IL/86-Hillsboro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/86-Hillsboro/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/86-Hillsboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/86-Hillsboro/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1225,9 +1225,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Olive",
-          "vertical": "https://thesurveystation.com/USGS/IL/87-Mount-Olive/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/87-Mount-Olive/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/87-Mount-Olive/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/87-Mount-Olive/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1239,9 +1239,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Gillespie",
-          "vertical": "https://thesurveystation.com/USGS/IL/88-Gillespie/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/88-Gillespie/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/88-Gillespie/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/88-Gillespie/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1253,9 +1253,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Brighton",
-          "vertical": "https://thesurveystation.com/USGS/IL/89-Brighton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/89-Brighton/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/89-Brighton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/89-Brighton/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1267,9 +1267,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Jerseyville",
-          "vertical": "https://thesurveystation.com/USGS/IL/90-Jerseyville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/90-Jerseyville/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/90-Jerseyville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/90-Jerseyville/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1281,11 +1281,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hardin",
-          "vertical": "https://thesurveystation.com/USGS/IL/91-Hardin/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/91-Hardin/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://thesurveystation.com/USGS/IL/91-Hardin/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/91-Hardin/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/IL/91-Hardin/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/91-Hardin/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1297,9 +1297,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Marshall",
-          "vertical": "https://thesurveystation.com/USGS/IL/92-Marshall/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/92-Marshall/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/92-Marshall/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/92-Marshall/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1311,9 +1311,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Casey",
-          "vertical": "https://thesurveystation.com/USGS/IL/93-Casey/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/93-Casey/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/IL/93-Casey/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/93-Casey/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -1325,9 +1325,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Toledo",
-          "vertical": "https://thesurveystation.com/USGS/IL/94-Toledo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/94-Toledo/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/IL/94-Toledo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/94-Toledo/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -1339,9 +1339,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mattoon",
-          "vertical": "https://thesurveystation.com/USGS/IL/95-Mattoon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/95-Mattoon/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/95-Mattoon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/95-Mattoon/Horizontal.pdf",
           "hyear": "1949"
         }
       },
@@ -1353,9 +1353,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Stewardson",
-          "vertical": "https://thesurveystation.com/USGS/IL/96-Stewardson/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/96-Stewardson/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/96-Stewardson/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/96-Stewardson/Horizontal.pdf",
           "hyear": "1942"
         }
       },
@@ -1367,9 +1367,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Shelbyville",
-          "vertical": "https://thesurveystation.com/USGS/IL/97-Shelbyville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/97-Shelbyville/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/97-Shelbyville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/97-Shelbyville/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1381,9 +1381,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pana",
-          "vertical": "https://thesurveystation.com/USGS/IL/98-Pana/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/98-Pana/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/98-Pana/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/98-Pana/Horizontal.pdf",
           "hyear": "1945"
         }
       },
@@ -1395,9 +1395,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Nokomis",
-          "vertical": "https://thesurveystation.com/USGS/IL/99-Nokomis/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/99-Nokomis/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/99-Nokomis/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/99-Nokomis/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -1409,9 +1409,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Raymond",
-          "vertical": "https://thesurveystation.com/USGS/IL/100-Raymond/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/100-Raymond/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/100-Raymond/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/100-Raymond/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1423,9 +1423,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carlinville",
-          "vertical": "https://thesurveystation.com/USGS/IL/101-Carlinville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/101-Carlinville/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/101-Carlinville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/101-Carlinville/Horizontal.pdf",
           "hyear": "1977"
         }
       },
@@ -1437,9 +1437,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Greenfield",
-          "vertical": "https://thesurveystation.com/USGS/IL/102-Greenfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/102-Greenfield/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/102-Greenfield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/102-Greenfield/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1451,9 +1451,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Roodhouse",
-          "vertical": "https://thesurveystation.com/USGS/IL/103-Roodhouse/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/103-Roodhouse/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/103-Roodhouse/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/103-Roodhouse/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1465,9 +1465,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pearl",
-          "vertical": "https://thesurveystation.com/USGS/IL/104-Pearl/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/104-Pearl/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/104-Pearl/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/104-Pearl/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -1479,11 +1479,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Nebo",
-          "vertical": "https://thesurveystation.com/USGS/IL/105-Nebo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/105-Nebo/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/IL/105-Nebo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/105-Nebo/Horizontal.pdf",
           "hyear": "1972",
-          "coe": "https://thesurveystation.com/USGS/IL/105-Nebo/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/105-Nebo/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1495,9 +1495,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bowling Green",
-          "vertical": "https://thesurveystation.com/USGS/IL/106-Bowling-Green/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/106-Bowling-Green/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/106-Bowling-Green/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/106-Bowling-Green/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -1509,9 +1509,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Paris",
-          "vertical": "https://thesurveystation.com/USGS/IL/107-Paris/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/107-Paris/Vertical.pdf",
           "vyear": "1993",
-          "horizontal": "https://thesurveystation.com/USGS/IL/107-Paris/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/107-Paris/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1523,9 +1523,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kansas",
-          "vertical": "https://thesurveystation.com/USGS/IL/108-Kansas/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/108-Kansas/Vertical.pdf",
           "vyear": "1964",
-          "horizontal": "https://thesurveystation.com/USGS/IL/108-Kansas/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/108-Kansas/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -1537,9 +1537,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Oakland",
-          "vertical": "https://thesurveystation.com/USGS/IL/109-Oakland/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/109-Oakland/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/109-Oakland/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/109-Oakland/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1551,9 +1551,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Arcola",
-          "vertical": "https://thesurveystation.com/USGS/IL/110-Arcola/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/110-Arcola/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/110-Arcola/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/110-Arcola/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -1565,9 +1565,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sullivan",
-          "vertical": "https://thesurveystation.com/USGS/IL/111-Sullivan/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/111-Sullivan/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/111-Sullivan/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/111-Sullivan/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1579,9 +1579,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dalton City",
-          "vertical": "https://thesurveystation.com/USGS/IL/112-Dalton-City/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/112-Dalton-City/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/112-Dalton-City/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/112-Dalton-City/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -1593,9 +1593,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Assumption",
-          "vertical": "https://thesurveystation.com/USGS/IL/113-Assumption/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/113-Assumption/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/113-Assumption/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/113-Assumption/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1607,9 +1607,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Taylorville",
-          "vertical": "https://thesurveystation.com/USGS/IL/114-Taylorville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/114-Taylorville/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/114-Taylorville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/114-Taylorville/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -1621,9 +1621,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Divernon",
-          "vertical": "https://thesurveystation.com/USGS/IL/115-Divernon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/115-Divernon/Vertical.pdf",
           "vyear": "1987",
-          "horizontal": "https://thesurveystation.com/USGS/IL/115-Divernon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/115-Divernon/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -1635,9 +1635,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Waverly",
-          "vertical": "https://thesurveystation.com/USGS/IL/116-Waverly/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/116-Waverly/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/IL/116-Waverly/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/116-Waverly/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -1649,9 +1649,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Jacksonville",
-          "vertical": "https://thesurveystation.com/USGS/IL/117-Jacksonville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/117-Jacksonville/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/117-Jacksonville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/117-Jacksonville/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1663,9 +1663,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Winchester",
-          "vertical": "https://thesurveystation.com/USGS/IL/118-Winchester/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/118-Winchester/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/118-Winchester/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/118-Winchester/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1677,9 +1677,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Griggsville",
-          "vertical": "https://thesurveystation.com/USGS/IL/119-Griggsville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/119-Griggsville/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/119-Griggsville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/119-Griggsville/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1691,9 +1691,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pittsfield",
-          "vertical": "https://thesurveystation.com/USGS/IL/120-Pittsfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/120-Pittsfield/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/IL/120-Pittsfield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/120-Pittsfield/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -1705,11 +1705,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Barry",
-          "vertical": "https://thesurveystation.com/USGS/IL/121-Barry/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/121-Barry/Vertical.pdf",
           "vyear": "1987",
-          "horizontal": "https://thesurveystation.com/USGS/IL/121-Barry/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/121-Barry/Horizontal.pdf",
           "hyear": "1971",
-          "coe": "https://thesurveystation.com/USGS/IL/121-Barry/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/121-Barry/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1721,11 +1721,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hannibal",
-          "vertical": "https://thesurveystation.com/USGS/IL/122-Hannibal/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/122-Hannibal/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://thesurveystation.com/USGS/IL/122-Hannibal/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/122-Hannibal/Horizontal.pdf",
           "hyear": "1969",
-          "coe": "https://thesurveystation.com/USGS/IL/122-Hannibal/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/122-Hannibal/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1737,9 +1737,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ridge Farm",
-          "vertical": "https://thesurveystation.com/USGS/IL/123-Ridge-Farm/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/123-Ridge-Farm/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://thesurveystation.com/USGS/IL/123-Ridge-Farm/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/123-Ridge-Farm/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -1751,9 +1751,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Newman",
-          "vertical": "https://thesurveystation.com/USGS/IL/124-Newman/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/124-Newman/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/124-Newman/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/124-Newman/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -1765,9 +1765,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Villa Grove",
-          "vertical": "https://thesurveystation.com/USGS/IL/125-Villa-Grove/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/125-Villa-Grove/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/125-Villa-Grove/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/125-Villa-Grove/Horizontal.pdf",
           "hyear": "1950"
         }
       },
@@ -1779,9 +1779,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tuscola",
-          "vertical": "https://thesurveystation.com/USGS/IL/126-Tuscola/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/126-Tuscola/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/126-Tuscola/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/126-Tuscola/Horizontal.pdf",
           "hyear": "1954"
         }
       },
@@ -1793,9 +1793,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bement",
-          "vertical": "https://thesurveystation.com/USGS/IL/127-Bement/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/127-Bement/Vertical.pdf",
           "vyear": "1968",
-          "horizontal": "https://thesurveystation.com/USGS/IL/127-Bement/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/127-Bement/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -1807,9 +1807,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Decatur",
-          "vertical": "https://thesurveystation.com/USGS/IL/128-Decatur/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/128-Decatur/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/128-Decatur/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/128-Decatur/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -1821,9 +1821,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Niantic",
-          "vertical": "https://thesurveystation.com/USGS/IL/129-Niantic/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/129-Niantic/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/129-Niantic/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/129-Niantic/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -1835,9 +1835,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mechanicsburg",
-          "vertical": "https://thesurveystation.com/USGS/IL/130-Mechanicsburg/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/130-Mechanicsburg/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/IL/130-Mechanicsburg/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/130-Mechanicsburg/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -1849,9 +1849,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Springfield",
-          "vertical": "https://thesurveystation.com/USGS/IL/131-Springfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/131-Springfield/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/131-Springfield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/131-Springfield/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -1863,9 +1863,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tallula",
-          "vertical": "https://thesurveystation.com/USGS/IL/132-Tallula/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/132-Tallula/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://thesurveystation.com/USGS/IL/132-Tallula/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/132-Tallula/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -1877,9 +1877,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Virginia",
-          "vertical": "https://thesurveystation.com/USGS/IL/133-Virginia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/133-Virginia/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/133-Virginia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/133-Virginia/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -1891,9 +1891,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Arenzville",
-          "vertical": "https://thesurveystation.com/USGS/IL/134-Arenzville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/134-Arenzville/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/134-Arenzville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/134-Arenzville/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -1905,9 +1905,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Meredosia",
-          "vertical": "https://thesurveystation.com/USGS/IL/135-Meredosia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/135-Meredosia/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/IL/135-Meredosia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/135-Meredosia/Horizontal.pdf",
           "hyear": "1949"
         }
       },
@@ -1919,9 +1919,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mt. Sterling",
-          "vertical": "https://thesurveystation.com/USGS/IL/136-Mt-Sterling/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/136-Mt-Sterling/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/136-Mt-Sterling/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/136-Mt-Sterling/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -1933,9 +1933,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Liberty",
-          "vertical": "https://thesurveystation.com/USGS/IL/137-Liberty/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/137-Liberty/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/137-Liberty/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/137-Liberty/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -1947,11 +1947,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Quincy",
-          "vertical": "https://thesurveystation.com/USGS/IL/138-Quincy/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/138-Quincy/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/138-Quincy/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/138-Quincy/Horizontal.pdf",
           "hyear": "1969",
-          "coe": "https://thesurveystation.com/USGS/IL/138-Quincy/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/138-Quincy/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -1963,9 +1963,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Danville",
-          "vertical": "https://thesurveystation.com/USGS/IL/139-Danville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/139-Danville/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://thesurveystation.com/USGS/IL/139-Danville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/139-Danville/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -1977,9 +1977,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fithian",
-          "vertical": "https://thesurveystation.com/USGS/IL/140-Fithian/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/140-Fithian/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/140-Fithian/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/140-Fithian/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -1991,9 +1991,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Urbana",
-          "vertical": "https://thesurveystation.com/USGS/IL/141-Urbana/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/141-Urbana/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/141-Urbana/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/141-Urbana/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -2005,9 +2005,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mahomet",
-          "vertical": "https://thesurveystation.com/USGS/IL/142-Mahomet/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/142-Mahomet/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/142-Mahomet/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/142-Mahomet/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -2019,9 +2019,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Monticello",
-          "vertical": "https://thesurveystation.com/USGS/IL/143-Monticello/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/143-Monticello/Vertical.pdf",
           "vyear": "1968",
-          "horizontal": "https://thesurveystation.com/USGS/IL/143-Monticello/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/143-Monticello/Horizontal.pdf",
           "hyear": "1950"
         }
       },
@@ -2033,9 +2033,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Maroa",
-          "vertical": "https://thesurveystation.com/USGS/IL/144-Maroa/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/144-Maroa/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/144-Maroa/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/144-Maroa/Horizontal.pdf",
           "hyear": "1956"
         }
       },
@@ -2047,9 +2047,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kenney",
-          "vertical": "https://thesurveystation.com/USGS/IL/145-Kenney/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/145-Kenney/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/145-Kenney/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/145-Kenney/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2061,9 +2061,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lincoln",
-          "vertical": "https://thesurveystation.com/USGS/IL/146-Lincoln/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/146-Lincoln/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/146-Lincoln/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/146-Lincoln/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2075,9 +2075,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mason City",
-          "vertical": "https://thesurveystation.com/USGS/IL/147-Mason-City/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/147-Mason-City/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/147-Mason-City/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/147-Mason-City/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2089,9 +2089,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Petersburg",
-          "vertical": "https://thesurveystation.com/USGS/IL/148-Petersburg/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/148-Petersburg/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/148-Petersburg/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/148-Petersburg/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -2103,9 +2103,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Chandlerville",
-          "vertical": "https://thesurveystation.com/USGS/IL/149-Chandlerville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/149-Chandlerville/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/149-Chandlerville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/149-Chandlerville/Horizontal.pdf",
           "hyear": "1959"
         }
       },
@@ -2117,9 +2117,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Beardstown",
-          "vertical": "https://thesurveystation.com/USGS/IL/150-Beardstown/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/150-Beardstown/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/150-Beardstown/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/150-Beardstown/Horizontal.pdf",
           "hyear": "1950"
         }
       },
@@ -2131,9 +2131,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Rushville",
-          "vertical": "https://thesurveystation.com/USGS/IL/151-Rushville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/151-Rushville/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/151-Rushville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/151-Rushville/Horizontal.pdf",
           "hyear": "1950"
         }
       },
@@ -2145,9 +2145,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Augusta",
-          "vertical": "https://thesurveystation.com/USGS/IL/152-Augusta/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/152-Augusta/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/152-Augusta/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/152-Augusta/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -2159,9 +2159,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Camp Point",
-          "vertical": "https://thesurveystation.com/USGS/IL/153-Camp-Point/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/153-Camp-Point/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/153-Camp-Point/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/153-Camp-Point/Horizontal.pdf",
           "hyear": "1949"
         }
       },
@@ -2173,9 +2173,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mendon",
-          "vertical": "https://thesurveystation.com/USGS/IL/154-Mendon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/154-Mendon/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/154-Mendon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/154-Mendon/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -2187,9 +2187,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hoopeston",
-          "vertical": "https://thesurveystation.com/USGS/IL/155-Hoopeston/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/155-Hoopeston/Vertical.pdf",
           "vyear": "1963?",
-          "horizontal": "https://thesurveystation.com/USGS/IL/155-Hoopeston/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/155-Hoopeston/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -2201,9 +2201,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Potomac",
-          "vertical": "https://thesurveystation.com/USGS/IL/156-Potomac/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/156-Potomac/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/156-Potomac/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/156-Potomac/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -2215,9 +2215,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Paxton",
-          "vertical": "https://thesurveystation.com/USGS/IL/157-Paxton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/157-Paxton/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/157-Paxton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/157-Paxton/Horizontal.pdf",
           "hyear": "1954"
         }
       },
@@ -2229,9 +2229,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Gibson City",
-          "vertical": "https://thesurveystation.com/USGS/IL/158-Gibson-City/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/158-Gibson-City/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/158-Gibson-City/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/158-Gibson-City/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -2243,9 +2243,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Arrowsmith",
-          "vertical": "https://thesurveystation.com/USGS/IL/159-Arrowsmith/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/159-Arrowsmith/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/159-Arrowsmith/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/159-Arrowsmith/Horizontal.pdf",
           "hyear": "1950"
         }
       },
@@ -2257,9 +2257,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Leroy",
-          "vertical": "https://thesurveystation.com/USGS/IL/160-Leroy/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/160-Leroy/Vertical.pdf",
           "vyear": "1986",
-          "horizontal": "https://thesurveystation.com/USGS/IL/160-Leroy/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/160-Leroy/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2271,9 +2271,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "McLean",
-          "vertical": "https://thesurveystation.com/USGS/IL/161-McLean/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/161-McLean/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/161-McLean/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/161-McLean/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2285,9 +2285,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Minier",
-          "vertical": "https://thesurveystation.com/USGS/IL/162-Minier/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/162-Minier/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/162-Minier/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/162-Minier/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -2299,9 +2299,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Delavan",
-          "vertical": "https://thesurveystation.com/USGS/IL/163-Delavan/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/163-Delavan/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/163-Delavan/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/163-Delavan/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -2313,9 +2313,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Manito",
-          "vertical": "https://thesurveystation.com/USGS/IL/164-Manito/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/164-Manito/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/164-Manito/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/164-Manito/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -2327,9 +2327,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Havana",
-          "vertical": "https://thesurveystation.com/USGS/IL/165-Havana/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/165-Havana/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/165-Havana/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/165-Havana/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -2341,9 +2341,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Vermont",
-          "vertical": "https://thesurveystation.com/USGS/IL/166-Vermont/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/166-Vermont/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/166-Vermont/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/166-Vermont/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2355,9 +2355,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Macomb",
-          "vertical": "https://thesurveystation.com/USGS/IL/167-Macomb/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/167-Macomb/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/167-Macomb/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/167-Macomb/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2369,9 +2369,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Colchester",
-          "vertical": "https://thesurveystation.com/USGS/IL/168-Colchester/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/168-Colchester/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/168-Colchester/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/168-Colchester/Horizontal.pdf",
           "hyear": "1949"
         }
       },
@@ -2383,9 +2383,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carthage",
-          "vertical": "https://thesurveystation.com/USGS/IL/169-Carthage/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/169-Carthage/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/169-Carthage/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/169-Carthage/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2397,11 +2397,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Keokuk",
-          "vertical": "https://thesurveystation.com/USGS/IL/170-Keokuk/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/170-Keokuk/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/IL/170-Keokuk/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/170-Keokuk/Horizontal.pdf",
           "hyear": "1964",
-          "coe": "https://thesurveystation.com/USGS/IL/170-Keokuk/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/IL/170-Keokuk/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
       },
@@ -2413,9 +2413,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Milford",
-          "vertical": "https://thesurveystation.com/USGS/IL/171-Milford/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/171-Milford/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/171-Milford/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/171-Milford/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -2427,9 +2427,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cissna Park",
-          "vertical": "https://thesurveystation.com/USGS/IL/172-Cissna-Park/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/172-Cissna-Park/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/172-Cissna-Park/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/172-Cissna-Park/Horizontal.pdf",
           "hyear": "1963"
         }
       },
@@ -2441,9 +2441,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Buckley",
-          "vertical": "https://thesurveystation.com/USGS/IL/173-Buckley/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/173-Buckley/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/173-Buckley/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/173-Buckley/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -2455,9 +2455,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sibley",
-          "vertical": "https://thesurveystation.com/USGS/IL/174-Sibley/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/174-Sibley/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/174-Sibley/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/174-Sibley/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -2469,9 +2469,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Colfax",
-          "vertical": "https://thesurveystation.com/USGS/IL/175-Colfax/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/175-Colfax/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/175-Colfax/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/175-Colfax/Horizontal.pdf",
           "hyear": "1956"
         }
       },
@@ -2483,9 +2483,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Normal",
-          "vertical": "https://thesurveystation.com/USGS/IL/176-Normal/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/176-Normal/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/IL/176-Normal/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/176-Normal/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -2497,9 +2497,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Danvers",
-          "vertical": "https://thesurveystation.com/USGS/IL/177-Danvers/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/177-Danvers/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/177-Danvers/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/177-Danvers/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -2511,9 +2511,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mackinaw",
-          "vertical": "https://thesurveystation.com/USGS/IL/178-Mackinaw/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/178-Mackinaw/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/178-Mackinaw/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/178-Mackinaw/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -2525,9 +2525,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Peoria",
-          "vertical": "https://thesurveystation.com/USGS/IL/179-Peoria/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/179-Peoria/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/179-Peoria/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/179-Peoria/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -2539,9 +2539,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Glasford",
-          "vertical": "https://thesurveystation.com/USGS/IL/180-Glasford/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/180-Glasford/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/180-Glasford/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/180-Glasford/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -2553,9 +2553,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Canton",
-          "vertical": "https://thesurveystation.com/USGS/IL/181-Canton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/181-Canton/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/181-Canton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/181-Canton/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -2567,9 +2567,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Avon",
-          "vertical": "https://thesurveystation.com/USGS/IL/182-Avon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/182-Avon/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/182-Avon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/182-Avon/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2581,9 +2581,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Good Hope",
-          "vertical": "https://thesurveystation.com/USGS/IL/183-Good-Hope/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/183-Good-Hope/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/IL/183-Good-Hope/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/183-Good-Hope/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -2595,9 +2595,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "La Harpe",
-          "vertical": "https://thesurveystation.com/USGS/IL/184-La-Harpe/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/184-La-Harpe/Vertical.pdf",
           "vyear": "1986",
-          "horizontal": "https://thesurveystation.com/USGS/IL/184-La-Harpe/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/184-La-Harpe/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -2609,9 +2609,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lomax",
-          "vertical": "https://thesurveystation.com/USGS/IL/185-Lomax/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/185-Lomax/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/185-Lomax/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/185-Lomax/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -2623,9 +2623,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fort Madison",
-          "vertical": "https://thesurveystation.com/USGS/IL/186-Fort-Madison/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/186-Fort-Madison/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/IL/186-Fort-Madison/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/186-Fort-Madison/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -2637,9 +2637,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Watseka",
-          "vertical": "https://thesurveystation.com/USGS/IL/187-Watseka/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/187-Watseka/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/187-Watseka/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/187-Watseka/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -2651,9 +2651,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Gilman",
-          "vertical": "https://thesurveystation.com/USGS/IL/188-Gilman/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/188-Gilman/Vertical.pdf",
           "vyear": "1934",
-          "horizontal": "https://thesurveystation.com/USGS/IL/188-Gilman/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/188-Gilman/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -2665,9 +2665,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Piper City",
-          "vertical": "https://thesurveystation.com/USGS/IL/189-Piper-City/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/189-Piper-City/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://thesurveystation.com/USGS/IL/189-Piper-City/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/189-Piper-City/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -2679,9 +2679,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cullom",
-          "vertical": "https://thesurveystation.com/USGS/IL/190-Cullom/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/190-Cullom/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/IL/190-Cullom/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/190-Cullom/Horizontal.pdf",
           "hyear": "1953"
         }
       },
@@ -2693,9 +2693,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pontiac",
-          "vertical": "https://thesurveystation.com/USGS/IL/191-Pontiac/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/191-Pontiac/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/IL/191-Pontiac/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/191-Pontiac/Horizontal.pdf",
           "hyear": "1982"
         }
       },
@@ -2707,9 +2707,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Flanagan",
-          "vertical": "https://thesurveystation.com/USGS/IL/192-Flanagan/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/192-Flanagan/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/IL/192-Flanagan/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/192-Flanagan/Horizontal.pdf",
           "hyear": "1956"
         }
       },
@@ -2721,9 +2721,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Minonk",
-          "vertical": "https://thesurveystation.com/USGS/IL/193-Minonk/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/193-Minonk/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://thesurveystation.com/USGS/IL/193-Minonk/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/193-Minonk/Horizontal.pdf",
           "hyear": "1944"
         }
       },
@@ -2735,9 +2735,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Metamora",
-          "vertical": "https://thesurveystation.com/USGS/IL/194-Metamora/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/194-Metamora/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://thesurveystation.com/USGS/IL/194-Metamora/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/194-Metamora/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -2749,9 +2749,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dunlap",
-          "vertical": "https://thesurveystation.com/USGS/IL/195-Dunlap/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/195-Dunlap/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/195-Dunlap/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/195-Dunlap/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2763,9 +2763,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Elmwood",
-          "vertical": "https://thesurveystation.com/USGS/IL/196-Elmwood/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/196-Elmwood/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/196-Elmwood/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/196-Elmwood/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -2777,9 +2777,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Maquon",
-          "vertical": "https://thesurveystation.com/USGS/IL/197-Maquon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/197-Maquon/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/197-Maquon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/197-Maquon/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -2791,9 +2791,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Galesburg",
-          "vertical": "https://thesurveystation.com/USGS/IL/198-Galesburg/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/198-Galesburg/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://thesurveystation.com/USGS/IL/198-Galesburg/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/198-Galesburg/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -2805,9 +2805,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Momence",
-          "vertical": "https://thesurveystation.com/USGS/IL/202-Momence/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/202-Momence/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/202-Momence/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/202-Momence/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -2819,9 +2819,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Crete",
-          "vertical": "https://thesurveystation.com/USGS/IL/217-Crete/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/217-Crete/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/IL/217-Crete/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/217-Crete/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -2833,9 +2833,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Calumet",
-          "vertical": "https://thesurveystation.com/USGS/IL/232-Calumet/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/IL/232-Calumet/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/IL/232-Calumet/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/IL/232-Calumet/Horizontal.pdf",
           "hyear": "1975"
         }
       }

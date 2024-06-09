@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mariposa",
-          "vertical": "https://thesurveystation.com/USGS/CA/419-Mariposa/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/419-Mariposa/Vertical.pdf",
           "vyear": "1976"
         }
       },
@@ -21,7 +21,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Indian Gulch",
-          "vertical": "https://thesurveystation.com/USGS/CA/420-Indian-Gulch/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/420-Indian-Gulch/Vertical.pdf",
           "vyear": "1960"
         }
       },
@@ -33,7 +33,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "San Jose",
-          "vertical": "https://thesurveystation.com/USGS/CA/427-San-Jose/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/427-San-Jose/Vertical.pdf",
           "vyear": "1966"
         }
       },
@@ -45,7 +45,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Palo Alto",
-          "vertical": "https://thesurveystation.com/USGS/CA/428-Palo-Alto/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/428-Palo-Alto/Vertical.pdf",
           "vyear": "1961"
         }
       },
@@ -57,11 +57,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Yosemite",
-          "vertical": "https://thesurveystation.com/USGS/CA/437-Yosemite/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/437-Yosemite/Vertical.pdf",
           "vyear": "Various dates",
-          "horizontal": "https://thesurveystation.com/USGS/CA/437-Yosemite/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/437-Yosemite/Horizontal.pdf",
           "hyear": "Various dates",
-          "recoveries": "https://thesurveystation.com/USGS/CA/437-Yosemite/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/437-Yosemite/Recoveries.pdf",
           "ryear": "1986"
         }
       },
@@ -73,7 +73,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "El Portal",
-          "vertical": "https://thesurveystation.com/USGS/CA/438-El-Portal/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/438-El-Portal/Vertical.pdf",
           "vyear": "1961"
         }
       },
@@ -85,9 +85,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mono Craters",
-          "vertical": "https://thesurveystation.com/USGS/CA/453-Mono-Craters/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/453-Mono-Craters/Vertical.pdf",
           "vyear": "1963",
-          "recoveries": "https://thesurveystation.com/USGS/CA/453-Mono-Craters/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/453-Mono-Craters/Recoveries.pdf",
           "ryear": "1985"
         }
       },
@@ -99,9 +99,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tuolumne Meadows",
-          "vertical": "https://thesurveystation.com/USGS/CA/454-Tuolumne-Meadows/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/454-Tuolumne-Meadows/Vertical.pdf",
           "vyear": "1954",
-          "recoveries": "https://thesurveystation.com/USGS/CA/454-Tuolumne-Meadows/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/454-Tuolumne-Meadows/Recoveries.pdf",
           "ryear": "1986, 1987"
         }
       },
@@ -113,9 +113,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hetch Hetchy Reservoir",
-          "vertical": "https://thesurveystation.com/USGS/CA/455-Hetch-Hetchy-Reservoir/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/455-Hetch-Hetchy-Reservoir/Vertical.pdf",
           "vyear": "1970",
-          "recoveries": "https://thesurveystation.com/USGS/CA/455-Hetch-Hetchy-Reservoir/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/455-Hetch-Hetchy-Reservoir/Recoveries.pdf",
           "ryear": "1986"
         }
       },
@@ -127,9 +127,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lake Eleanor",
-          "vertical": "https://thesurveystation.com/USGS/CA/456-Lake-Eleanor/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/456-Lake-Eleanor/Vertical.pdf",
           "vyear": "1961",
-          "recoveries": "https://thesurveystation.com/USGS/CA/456-Lake-Eleanor/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/456-Lake-Eleanor/Recoveries.pdf",
           "ryear": "1986"
         }
       },
@@ -141,9 +141,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tuolumne",
-          "vertical": "https://thesurveystation.com/USGS/CA/457-Tuolumne/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/457-Tuolumne/Vertical.pdf",
           "vyear": "1961",
-          "recoveries": "https://thesurveystation.com/USGS/CA/457-Tuolumne/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/457-Tuolumne/Recoveries.pdf",
           "ryear": "1979"
         }
       },
@@ -155,7 +155,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sonora",
-          "vertical": "https://thesurveystation.com/USGS/CA/458-Sonora/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/458-Sonora/Vertical.pdf",
           "vyear": "1961"
         }
       }         

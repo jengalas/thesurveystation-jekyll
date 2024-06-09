@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Clarks Hill",
-          "vertical": "https://thesurveystation.com/USGS/SC/61-Clarks-Hill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SC/61-Clarks-Hill/Vertical.pdf",
           "vyear": "1975"
         }
       },

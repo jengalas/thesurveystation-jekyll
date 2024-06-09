@@ -9,9 +9,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lawrence",
-          "vertical": "https://thesurveystation.com/USGS/NH/1-Lawrence/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/1-Lawrence/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/1-Lawrence/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/1-Lawrence/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -23,9 +23,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lowell",
-          "vertical": "https://thesurveystation.com/USGS/NH/2-Lowell/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/2-Lowell/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/2-Lowell/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/2-Lowell/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -37,9 +37,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Groton",
-          "vertical": "https://thesurveystation.com/USGS/NH/3-Groton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/3-Groton/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/3-Groton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/3-Groton/Horizontal.pdf",
           "hyear": "1922"
         }
       },
@@ -51,9 +51,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fitchburg",
-          "vertical": "https://thesurveystation.com/USGS/NH/4-Fitchburg/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/4-Fitchburg/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/4-Fitchburg/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/4-Fitchburg/Horizontal.pdf",
           "hyear": "1944"
         }
       },
@@ -65,9 +65,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Winchendon",
-          "vertical": "https://thesurveystation.com/USGS/NH/5-Winchendon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/5-Winchendon/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/5-Winchendon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/5-Winchendon/Horizontal.pdf",
           "hyear": "1944"
         }
       },
@@ -79,9 +79,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Warwick",
-          "vertical": "https://thesurveystation.com/USGS/NH/6-Warwick/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/6-Warwick/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/6-Warwick/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/6-Warwick/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -93,9 +93,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Exeter",
-          "vertical": "https://thesurveystation.com/USGS/NH/7-Exeter/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/7-Exeter/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/7-Exeter/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/7-Exeter/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -107,9 +107,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Haverhill",
-          "vertical": "https://thesurveystation.com/USGS/NH/8-Haverhill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/8-Haverhill/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/NH/8-Haverhill/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/8-Haverhill/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -121,9 +121,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Manchester",
-          "vertical": "https://thesurveystation.com/USGS/NH/9-Manchester/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/9-Manchester/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/NH/9-Manchester/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/9-Manchester/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -135,9 +135,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Milford",
-          "vertical": "https://thesurveystation.com/USGS/NH/10-Milford/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/10-Milford/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/10-Milford/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/10-Milford/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -149,9 +149,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Peterborough",
-          "vertical": "https://thesurveystation.com/USGS/NH/11-Peterborough/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/11-Peterborough/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/11-Peterborough/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/11-Peterborough/Horizontal.pdf",
           "hyear": "1951"
         }
       },
@@ -163,9 +163,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Monadnock",
-          "vertical": "https://thesurveystation.com/USGS/NH/12-Monadnock/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/12-Monadnock/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/NH/12-Monadnock/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/12-Monadnock/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -177,9 +177,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Keene",
-          "vertical": "https://thesurveystation.com/USGS/NH/13-Keene/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/13-Keene/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/13-Keene/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/13-Keene/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -191,9 +191,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Brattleboro",
-          "vertical": "https://thesurveystation.com/USGS/NH/14-Brattleboro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/14-Brattleboro/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/NH/14-Brattleboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/14-Brattleboro/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -205,9 +205,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "York",
-          "vertical": "https://thesurveystation.com/USGS/NH/15-York/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/15-York/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/15-York/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/15-York/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -219,9 +219,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dover",
-          "vertical": "https://thesurveystation.com/USGS/NH/16-Dover/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/16-Dover/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/16-Dover/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/16-Dover/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -233,9 +233,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Pawtuckaway",
-          "vertical": "https://thesurveystation.com/USGS/NH/17-Mount-Pawtuckaway/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/17-Mount-Pawtuckaway/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/17-Mount-Pawtuckaway/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/17-Mount-Pawtuckaway/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -247,9 +247,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Suncook",
-          "vertical": "https://thesurveystation.com/USGS/NH/18-Suncook/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/18-Suncook/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/18-Suncook/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/18-Suncook/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -261,9 +261,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Concord",
-          "vertical": "https://thesurveystation.com/USGS/NH/19-Concord/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/19-Concord/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/19-Concord/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/19-Concord/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -275,9 +275,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hillsboro",
-          "vertical": "https://thesurveystation.com/USGS/NH/20-Hillsboro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/20-Hillsboro/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/20-Hillsboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/20-Hillsboro/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -289,9 +289,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lovewell Mountain",
-          "vertical": "https://thesurveystation.com/USGS/NH/21-Lovewell-Mountain/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/21-Lovewell-Mountain/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/NH/21-Lovewell-Mountain/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/21-Lovewell-Mountain/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -303,9 +303,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bellows Falls",
-          "vertical": "https://thesurveystation.com/USGS/NH/22-Bellows-Falls/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/22-Bellows-Falls/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/NH/22-Bellows-Falls/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/22-Bellows-Falls/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -317,9 +317,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Berwick",
-          "vertical": "https://thesurveystation.com/USGS/NH/23-Berwick/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/23-Berwick/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/23-Berwick/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/23-Berwick/Horizontal.pdf",
           "hyear": "1941"
         }
       },
@@ -331,9 +331,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Alton",
-          "vertical": "https://thesurveystation.com/USGS/NH/24-Alton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/24-Alton/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/24-Alton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/24-Alton/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -345,9 +345,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Gilmanton",
-          "vertical": "https://thesurveystation.com/USGS/NH/25-Gilmanton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/25-Gilmanton/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/25-Gilmanton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/25-Gilmanton/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -359,7 +359,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Penacook",
-          "vertical": "https://thesurveystation.com/USGS/NH/26-Penacook/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/26-Penacook/Vertical.pdf",
           "vyear": "1974"
         }
       },
@@ -371,7 +371,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Kearsarge",
-          "vertical": "https://thesurveystation.com/USGS/NH/27-Mount-Kearsarge/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/27-Mount-Kearsarge/Vertical.pdf",
           "vyear": "1976"
         }
       },
@@ -383,9 +383,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sunapee",
-          "vertical": "https://thesurveystation.com/USGS/NH/28-Sunapee/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/28-Sunapee/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/28-Sunapee/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/28-Sunapee/Horizontal.pdf",
           "hyear": "1979"
         }
       },
@@ -397,9 +397,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Claremont",
-          "vertical": "https://thesurveystation.com/USGS/NH/29-Claremont/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/29-Claremont/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/29-Claremont/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/29-Claremont/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -411,9 +411,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Newfield",
-          "vertical": "https://thesurveystation.com/USGS/NH/30-Newfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/30-Newfield/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/30-Newfield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/30-Newfield/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -425,9 +425,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Wolfeboro",
-          "vertical": "https://thesurveystation.com/USGS/NH/31-Wolfeboro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/31-Wolfeboro/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/31-Wolfeboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/31-Wolfeboro/Horizontal.pdf",
           "hyear": "1955"
         }
       },
@@ -439,9 +439,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Winnipesaukee",
-          "vertical": "https://thesurveystation.com/USGS/NH/32-Winnipesaukee/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/32-Winnipesaukee/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/32-Winnipesaukee/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/32-Winnipesaukee/Horizontal.pdf",
           "hyear": "1954"
         }
       },
@@ -453,7 +453,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Holderness",
-          "vertical": "https://thesurveystation.com/USGS/NH/33-Holderness/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/33-Holderness/Vertical.pdf",
           "vyear": "1984"
         }
       },
@@ -465,7 +465,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cardigan",
-          "vertical": "https://thesurveystation.com/USGS/NH/34-Cardigan/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/34-Cardigan/Vertical.pdf",
           "vyear": "1974"
         }
       },
@@ -477,9 +477,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mascoma",
-          "vertical": "https://thesurveystation.com/USGS/NH/35-Mascoma/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/35-Mascoma/Vertical.pdf",
           "vyear": "1984",
-          "horizontal": "https://thesurveystation.com/USGS/NH/35-Mascoma/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/35-Mascoma/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -491,9 +491,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hanover",
-          "vertical": "https://thesurveystation.com/USGS/NH/36-Hanover/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/36-Hanover/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NH/36-Hanover/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/36-Hanover/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -505,9 +505,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kezar Falls",
-          "vertical": "https://thesurveystation.com/USGS/NH/37-Kezar-Falls/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/37-Kezar-Falls/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/37-Kezar-Falls/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/37-Kezar-Falls/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -519,9 +519,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ossipee Lake",
-          "vertical": "https://thesurveystation.com/USGS/NH/38-Ossipee-Lake/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/38-Ossipee-Lake/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/38-Ossipee-Lake/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/38-Ossipee-Lake/Horizontal.pdf",
           "hyear": "1957"
         }
       },
@@ -533,9 +533,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Chocorua",
-          "vertical": "https://thesurveystation.com/USGS/NH/39-Mount-Chocorua/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/39-Mount-Chocorua/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/39-Mount-Chocorua/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/39-Mount-Chocorua/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -547,7 +547,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Plymouth",
-          "vertical": "https://thesurveystation.com/USGS/NH/40-Plymouth/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/40-Plymouth/Vertical.pdf",
           "vyear": "1975"
         }
       },
@@ -559,9 +559,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Rumney",
-          "vertical": "https://thesurveystation.com/USGS/NH/41-Rumney/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/41-Rumney/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/41-Rumney/Vertical.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/41-Rumney/Vertical.pdf",
           "hyear": "1974"
         }
       },
@@ -573,9 +573,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Cube",
-          "vertical": "https://thesurveystation.com/USGS/NH/42-Mount-Cube/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/42-Mount-Cube/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/42-Mount-Cube/Vertical.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/42-Mount-Cube/Vertical.pdf",
           "hyear": "1974"
         }
       },
@@ -587,9 +587,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fryeburg",
-          "vertical": "https://thesurveystation.com/USGS/NH/43-Fryeburg/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/43-Fryeburg/Vertical.pdf",
           "vyear": "1961",
-          "horizontal": "https://thesurveystation.com/USGS/NH/43-Fryeburg/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/43-Fryeburg/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -601,9 +601,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "North Conway",
-          "vertical": "https://thesurveystation.com/USGS/NH/44-North-Conway/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/44-North-Conway/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NH/44-North-Conway/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/44-North-Conway/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -615,9 +615,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Crawford Notch",
-          "vertical": "https://thesurveystation.com/USGS/NH/45-Crawford-Notch/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/45-Crawford-Notch/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/45-Crawford-Notch/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/45-Crawford-Notch/Horizontal.pdf",
           "hyear": "1943"
         }
       },
@@ -629,9 +629,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Franconia",
-          "vertical": "https://thesurveystation.com/USGS/NH/46-Franconia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/46-Franconia/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://thesurveystation.com/USGS/NH/46-Franconia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/46-Franconia/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -643,9 +643,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Moosilauke",
-          "vertical": "https://thesurveystation.com/USGS/NH/47-Moosilauke/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/47-Moosilauke/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NH/47-Moosilauke/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/47-Moosilauke/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -657,9 +657,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Woodsville",
-          "vertical": "https://thesurveystation.com/USGS/NH/48-Woodsville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/48-Woodsville/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NH/48-Woodsville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/48-Woodsville/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -671,9 +671,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Gorham",
-          "vertical": "https://thesurveystation.com/USGS/NH/49-Gorham/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/49-Gorham/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/49-Gorham/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/49-Gorham/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -685,7 +685,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Washington",
-          "vertical": "https://thesurveystation.com/USGS/NH/50-Mount-Washington/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/50-Mount-Washington/Vertical.pdf",
           "vyear": "1974"
         }
       },
@@ -697,9 +697,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Whitefield",
-          "vertical": "https://thesurveystation.com/USGS/NH/51-Whitefield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/51-Whitefield/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/51-Whitefield/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/51-Whitefield/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -711,9 +711,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Littleton",
-          "vertical": "https://thesurveystation.com/USGS/NH/52-Littleton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/52-Littleton/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/NH/52-Littleton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/52-Littleton/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -725,9 +725,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Johnsbury",
-          "vertical": "https://thesurveystation.com/USGS/NH/53-St-Johnsbury/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/53-St-Johnsbury/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/NH/53-St-Johnsbury/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/53-St-Johnsbury/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -739,9 +739,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Milan",
-          "vertical": "https://thesurveystation.com/USGS/NH/54-Milan/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/54-Milan/Vertical.pdf",
           "vyear": "1978",
-          "horizontal": "https://thesurveystation.com/USGS/NH/54-Milan/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/54-Milan/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -753,9 +753,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Percy",
-          "vertical": "https://thesurveystation.com/USGS/NH/55-Percy/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/55-Percy/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/55-Percy/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/55-Percy/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -767,9 +767,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Guildhall",
-          "vertical": "https://thesurveystation.com/USGS/NH/56-Guildhall/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/56-Guildhall/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/56-Guildhall/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/56-Guildhall/Horizontal.pdf",
           "hyear": "1953"
         }
       },
@@ -781,9 +781,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Errol",
-          "vertical": "https://thesurveystation.com/USGS/NH/57-Errol/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/57-Errol/Vertical.pdf",
           "vyear": "1993",
-          "horizontal": "https://thesurveystation.com/USGS/NH/57-Errol/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/57-Errol/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -795,9 +795,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dixville",
-          "vertical": "https://thesurveystation.com/USGS/NH/58-Dixville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/58-Dixville/Vertical.pdf",
           "vyear": "1992",
-          "horizontal": "https://thesurveystation.com/USGS/NH/58-Dixville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/58-Dixville/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -809,9 +809,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Averill",
-          "vertical": "https://thesurveystation.com/USGS/NH/59-Averill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/59-Averill/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/59-Averill/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/59-Averill/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -823,9 +823,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Second Lake",
-          "vertical": "https://thesurveystation.com/USGS/NH/60-Second-Lake/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/60-Second-Lake/Vertical.pdf",
           "vyear": "1992",
-          "horizontal": "https://thesurveystation.com/USGS/NH/60-Second-Lake/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/60-Second-Lake/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -837,9 +837,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Indian Stream",
-          "vertical": "https://thesurveystation.com/USGS/NH/61-Indian-Stream/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/61-Indian-Stream/Vertical.pdf",
           "vyear": "1992",
-          "horizontal": "https://thesurveystation.com/USGS/NH/61-Indian-Stream/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/61-Indian-Stream/Horizontal.pdf",
           "hyear": "1953"
         }
       },
@@ -851,9 +851,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Moose Bog",
-          "vertical": "https://thesurveystation.com/USGS/NH/62-Moose-Bog/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NH/62-Moose-Bog/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/NH/62-Moose-Bog/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NH/62-Moose-Bog/Horizontal.pdf",
           "hyear": "1950"
         }
       },

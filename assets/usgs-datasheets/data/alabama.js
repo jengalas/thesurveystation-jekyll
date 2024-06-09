@@ -9,9 +9,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Congo",
-          "vertical": "https://thesurveystation.com/USGS/AL/206-Congo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AL/206-Congo/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/AL/206-Congo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AL/206-Congo/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -23,9 +23,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bear Creek",
-          "vertical": "https://thesurveystation.com/USGS/AL/214-Bear-Creek/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AL/214-Bear-Creek/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://thesurveystation.com/USGS/AL/214-Bear-Creek/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AL/214-Bear-Creek/Horizontal.pdf",
           "hyear": "1972"
         }
       }      

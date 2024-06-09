@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Clayton",
-          "vertical": "https://thesurveystation.com/USGS/OK/69-Clayton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/OK/69-Clayton/Vertical.pdf",
           "vyear": "1971"
         }
       },
@@ -21,9 +21,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hollis",
-          "vertical": "https://thesurveystation.com/USGS/OK/87-Hollis/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/OK/87-Hollis/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://thesurveystation.com/USGS/OK/87-Hollis/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/OK/87-Hollis/Horizontal.pdf",
           "hyear": "1970"
         }
       },

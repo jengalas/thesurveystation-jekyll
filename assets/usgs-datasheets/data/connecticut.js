@@ -9,9 +9,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Oyster Bay",
-        "vertical": "https://thesurveystation.com/USGS/CT/1-Oyster-Bay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/1-Oyster-Bay/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://thesurveystation.com/USGS/CT/1-Oyster-Bay/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/1-Oyster-Bay/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -23,7 +23,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bridgeport",
-        "vertical": "https://thesurveystation.com/USGS/CT/2-Bridgeport/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/2-Bridgeport/Vertical.pdf",
         "vyear": "1972"
       }
     },
@@ -35,9 +35,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Norwalk",
-        "vertical": "https://thesurveystation.com/USGS/CT/3-Norwalk/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/3-Norwalk/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/CT/3-Norwalk/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/3-Norwalk/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -49,9 +49,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Stamford",
-        "vertical": "https://thesurveystation.com/USGS/CT/4-Stamford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/4-Stamford/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/4-Stamford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/4-Stamford/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -63,9 +63,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Stonington",
-        "vertical": "https://thesurveystation.com/USGS/CT/5-Stonington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/5-Stonington/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/5-Stonington/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/5-Stonington/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -77,9 +77,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New London",
-        "vertical": "https://thesurveystation.com/USGS/CT/6-New-London/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/6-New-London/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/6-New-London/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/6-New-London/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -91,9 +91,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Saybrook",
-        "vertical": "https://thesurveystation.com/USGS/CT/7-Saybrook/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/7-Saybrook/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/7-Saybrook/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/7-Saybrook/Horizontal.pdf",
         "hyear": "1949"
       }
     },
@@ -105,9 +105,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Guilford",
-        "vertical": "https://thesurveystation.com/USGS/CT/8-Guilford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/8-Guilford/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/8-Guilford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/8-Guilford/Horizontal.pdf",
         "hyear": "1949"
       }
     },
@@ -119,7 +119,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New Haven",
-        "vertical": "https://thesurveystation.com/USGS/CT/9-New-Haven/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/9-New-Haven/Vertical.pdf",
         "vyear": "1972"
       }
     },    
@@ -131,9 +131,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Derby",
-        "vertical": "https://thesurveystation.com/USGS/CT/10-Derby/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/10-Derby/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/10-Derby/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/10-Derby/Horizontal.pdf",
         "hyear": "1957"
       }
     },
@@ -145,9 +145,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Danbury",
-        "vertical": "https://thesurveystation.com/USGS/CT/11-Danbury/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/11-Danbury/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/11-Danbury/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/11-Danbury/Horizontal.pdf",
         "hyear": "1957"
       }
     },
@@ -159,9 +159,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Carmel",
-        "vertical": "https://thesurveystation.com/USGS/CT/12-Carmel/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/12-Carmel/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/12-Carmel/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/12-Carmel/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -173,9 +173,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Moosup",
-        "vertical": "https://thesurveystation.com/USGS/CT/13-Moosup/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/13-Moosup/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/13-Moosup/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/13-Moosup/Horizontal.pdf",
         "hyear": "1954"
       }
     },
@@ -187,9 +187,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Norwich",
-        "vertical": "https://thesurveystation.com/USGS/CT/14-Norwich/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/14-Norwich/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/14-Norwich/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/14-Norwich/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -201,9 +201,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Gilead",
-        "vertical": "https://thesurveystation.com/USGS/CT/15-Gilead/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/15-Gilead/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/15-Gilead/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/15-Gilead/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -215,9 +215,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Middletown",
-        "vertical": "https://thesurveystation.com/USGS/CT/16-Middletown/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/16-Middletown/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/16-Middletown/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/16-Middletown/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -229,9 +229,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Meriden",
-        "vertical": "https://thesurveystation.com/USGS/CT/17-Meriden/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/17-Meriden/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/CT/17-Meriden/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/17-Meriden/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -243,9 +243,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Waterbury",
-        "vertical": "https://thesurveystation.com/USGS/CT/18-Waterbury/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/18-Waterbury/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/CT/18-Waterbury/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/18-Waterbury/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -257,9 +257,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New Milford",
-        "vertical": "https://thesurveystation.com/USGS/CT/19-New-Milford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/19-New-Milford/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/CT/19-New-Milford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/19-New-Milford/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -271,9 +271,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Clove",
-        "vertical": "https://thesurveystation.com/USGS/CT/20-Clove/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/20-Clove/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/20-Clove/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/20-Clove/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -285,9 +285,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Putnam",
-        "vertical": "https://thesurveystation.com/USGS/CT/21-Putnam/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/21-Putnam/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/21-Putnam/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/21-Putnam/Horizontal.pdf",
         "hyear": "1958"
       }
     },
@@ -299,9 +299,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Woodstock",
-        "vertical": "https://thesurveystation.com/USGS/CT/22-Woodstock/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/22-Woodstock/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/22-Woodstock/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/22-Woodstock/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -313,9 +313,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Tolland",
-        "vertical": "https://thesurveystation.com/USGS/CT/23-Tolland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/23-Tolland/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://thesurveystation.com/USGS/CT/23-Tolland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/23-Tolland/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -327,9 +327,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Hartford",
-        "vertical": "https://thesurveystation.com/USGS/CT/24-Hartford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/24-Hartford/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/CT/24-Hartford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/24-Hartford/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -341,9 +341,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Granby",
-        "vertical": "https://thesurveystation.com/USGS/CT/25-Granby/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/25-Granby/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/25-Granby/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/25-Granby/Horizontal.pdf",
         "hyear": "1957"
       }
     },
@@ -355,9 +355,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Winsted",
-        "vertical": "https://thesurveystation.com/USGS/CT/26-Winsted/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/26-Winsted/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/26-Winsted/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/26-Winsted/Horizontal.pdf",
         "hyear": "1968"
       }
     },
@@ -369,9 +369,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cornwall",
-        "vertical": "https://thesurveystation.com/USGS/CT/27-Cornwall/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/27-Cornwall/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/27-Cornwall/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/27-Cornwall/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -383,9 +383,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Millbrook",
-        "vertical": "https://thesurveystation.com/USGS/CT/28-Millbrook/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/28-Millbrook/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/28-Millbrook/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/28-Millbrook/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -397,9 +397,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Webster",
-        "vertical": "https://thesurveystation.com/USGS/CT/29-Webster/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/29-Webster/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://thesurveystation.com/USGS/CT/29-Webster/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/29-Webster/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -411,9 +411,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Brookfield",
-        "vertical": "https://thesurveystation.com/USGS/CT/30-Brookfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/30-Brookfield/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/30-Brookfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/30-Brookfield/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -425,9 +425,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Palmer",
-        "vertical": "https://thesurveystation.com/USGS/CT/31-Palmer/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/31-Palmer/Vertical.pdf",
         "vyear": "1981",
-        "horizontal": "https://thesurveystation.com/USGS/CT/31-Palmer/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/31-Palmer/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -439,9 +439,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Springfield",
-        "vertical": "https://thesurveystation.com/USGS/CT/32-Springfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/32-Springfield/Vertical.pdf",
         "vyear": "1981",
-        "horizontal": "https://thesurveystation.com/USGS/CT/32-Springfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/32-Springfield/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -453,9 +453,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Granville",
-        "vertical": "https://thesurveystation.com/USGS/CT/33-Granville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/33-Granville/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/33-Granville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/33-Granville/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -467,9 +467,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sandisfield",
-        "vertical": "https://thesurveystation.com/USGS/CT/34-Sandisfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/34-Sandisfield/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://thesurveystation.com/USGS/CT/34-Sandisfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/34-Sandisfield/Horizontal.pdf",
         "hyear": "1971"
       }
     },
@@ -481,9 +481,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sheffield",
-        "vertical": "https://thesurveystation.com/USGS/CT/35-Sheffield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/CT/35-Sheffield/Vertical.pdf",
         "vyear": "1982",
-        "horizontal": "https://thesurveystation.com/USGS/CT/35-Sheffield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/CT/35-Sheffield/Horizontal.pdf",
         "hyear": "1976"
       }
     }

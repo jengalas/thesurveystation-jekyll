@@ -9,9 +9,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Maumee Bay",
-        "vertical": "https://thesurveystation.com/USGS/MI/1-Maumee-Bay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/1-Maumee-Bay/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://thesurveystation.com/USGS/MI/1-Maumee-Bay/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/1-Maumee-Bay/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -23,9 +23,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Toledo",
-        "vertical": "https://thesurveystation.com/USGS/MI/2-Toledo/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/2-Toledo/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://thesurveystation.com/USGS/MI/2-Toledo/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/2-Toledo/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -37,9 +37,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Swanton",
-        "vertical": "https://thesurveystation.com/USGS/MI/3-Swanton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/3-Swanton/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://thesurveystation.com/USGS/MI/3-Swanton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/3-Swanton/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -51,9 +51,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wauseon",
-        "vertical": "https://thesurveystation.com/USGS/MI/4-Wauseon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/4-Wauseon/Vertical.pdf",
         "vyear": "1986",
-        "horizontal": "https://thesurveystation.com/USGS/MI/4-Wauseon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/4-Wauseon/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -65,9 +65,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Alvordton",
-        "vertical": "https://thesurveystation.com/USGS/MI/5-Alvordton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/5-Alvordton/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://thesurveystation.com/USGS/MI/5-Alvordton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/5-Alvordton/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -79,9 +79,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Pioneer",
-        "vertical": "https://thesurveystation.com/USGS/MI/6-Pioneer/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/6-Pioneer/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://thesurveystation.com/USGS/MI/6-Pioneer/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/6-Pioneer/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -93,9 +93,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Angola East",
-        "vertical": "https://thesurveystation.com/USGS/MI/7-Angola-East/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/7-Angola-East/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://thesurveystation.com/USGS/MI/7-Angola-East/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/7-Angola-East/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -107,9 +107,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Reading",
-        "vertical": "https://thesurveystation.com/USGS/MI/14-Reading/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/14-Reading/Vertical.pdf",
         "vyear": "1970",
-        "horizontal": "https://thesurveystation.com/USGS/MI/14-Reading/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/14-Reading/Horizontal.pdf",
         "hyear": "1970"
       }
     },
@@ -121,9 +121,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Coldwater",
-        "vertical": "https://thesurveystation.com/USGS/MI/15-Coldwater/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/15-Coldwater/Vertical.pdf",
         "vyear": "1970",
-        "horizontal": "https://thesurveystation.com/USGS/MI/15-Coldwater/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/15-Coldwater/Horizontal.pdf",
         "hyear": "1970"
       }
     },
@@ -135,9 +135,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sturgis",
-        "vertical": "https://thesurveystation.com/USGS/MI/16-Sturgis/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/16-Sturgis/Vertical.pdf",
         "vyear": "1970",
-        "horizontal": "https://thesurveystation.com/USGS/MI/16-Sturgis/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/16-Sturgis/Horizontal.pdf",
         "hyear": "1970"
       }
     },
@@ -149,9 +149,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Three Rivers",
-        "vertical": "https://thesurveystation.com/USGS/MI/17-Three-Rivers/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/17-Three-Rivers/Vertical.pdf",
         "vyear": "1970",
-        "horizontal": "https://thesurveystation.com/USGS/MI/17-Three-Rivers/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/17-Three-Rivers/Horizontal.pdf",
         "hyear": "1966"
       }
     },
@@ -163,9 +163,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Vandalia",
-        "vertical": "https://thesurveystation.com/USGS/MI/18-Vandalia/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/18-Vandalia/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://thesurveystation.com/USGS/MI/18-Vandalia/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/18-Vandalia/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -177,9 +177,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cassopolis",
-        "vertical": "https://thesurveystation.com/USGS/MI/19-Cassopolis/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/19-Cassopolis/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/MI/19-Cassopolis/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/19-Cassopolis/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -191,9 +191,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Niles",
-        "vertical": "https://thesurveystation.com/USGS/MI/20-Niles/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/20-Niles/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/MI/20-Niles/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/20-Niles/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -205,9 +205,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Three Oaks",
-        "vertical": "https://thesurveystation.com/USGS/MI/21-Three-Oaks/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/21-Three-Oaks/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/MI/21-Three-Oaks/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/21-Three-Oaks/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -219,9 +219,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "III",
-        "vertical": "https://thesurveystation.com/USGS/MI/22-III/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/22-III/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://thesurveystation.com/USGS/MI/22-III/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/22-III/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -233,9 +233,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Hart",
-        "vertical": "https://thesurveystation.com/USGS/MI/132-Hart/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/132-Hart/Vertical.pdf",
         "vyear": "1982",
-        "horizontal": "https://thesurveystation.com/USGS/MI/132-Hart/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/132-Hart/Horizontal.pdf",
         "hyear": "1970"
       }
     },
@@ -247,9 +247,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Epoufette",
-        "vertical": "https://thesurveystation.com/USGS/MI/274-Epoufette/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/274-Epoufette/Vertical.pdf",
         "vyear": "1970",
-        "horizontal": "https://thesurveystation.com/USGS/MI/274-Epoufette/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/274-Epoufette/Horizontal.pdf",
         "hyear": "1960"
       }
     },
@@ -261,9 +261,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Shelldrake",
-        "vertical": "https://thesurveystation.com/USGS/MI/320-Shelldrake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/320-Shelldrake/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://thesurveystation.com/USGS/MI/320-Shelldrake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/320-Shelldrake/Horizontal.pdf",
         "hyear": "1966"
       }
     },
@@ -275,9 +275,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Traverse Point",
-        "vertical": "https://thesurveystation.com/USGS/MI/354-Traverse-Point/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/354-Traverse-Point/Vertical.pdf",
         "vyear": "1981",
-        "horizontal": "https://thesurveystation.com/USGS/MI/354-Traverse-Point/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/354-Traverse-Point/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -289,9 +289,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lake Linden",
-        "vertical": "https://thesurveystation.com/USGS/MI/355-Lake-Linden/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MI/355-Lake-Linden/Vertical.pdf",
         "vyear": "1981",
-        "horizontal": "https://thesurveystation.com/USGS/MI/355-Lake-Linden/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MI/355-Lake-Linden/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -303,9 +303,9 @@ var geojsonFeature = {
       },
       "properties": {
           "name": "Houghton",
-          "vertical": "https://thesurveystation.com/USGS/MI/356-Houghton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MI/356-Houghton/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/MI/356-Houghton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MI/356-Houghton/Horizontal.pdf",
           "hyear": "1952"
       }
     },
@@ -317,9 +317,9 @@ var geojsonFeature = {
       },
       "properties": {
           "name": "Beacon Hill",
-          "vertical": "https://thesurveystation.com/USGS/MI/357-Beacon-Hill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MI/357-Beacon-Hill/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/MI/357-Beacon-Hill/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MI/357-Beacon-Hill/Horizontal.pdf",
           "hyear": "1973"
       }
     },
@@ -331,7 +331,7 @@ var geojsonFeature = {
       },
       "properties": {
           "name": "Keweenaw Point",
-          "horizontal": "https://thesurveystation.com/USGS/MI/358-Keweenaw-Point/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MI/358-Keweenaw-Point/Horizontal.pdf",
           "hyear": "1966"
       }
     },
@@ -343,9 +343,9 @@ var geojsonFeature = {
       },
       "properties": {
           "name": "Copper Harbor",
-          "vertical": "https://thesurveystation.com/USGS/MI/359-Copper-Harbor/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MI/359-Copper-Harbor/Vertical.pdf",
           "vyear": "1970",
-          "horizontal": "https://thesurveystation.com/USGS/MI/359-Copper-Harbor/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MI/359-Copper-Harbor/Horizontal.pdf",
           "hyear": "1973"
       }
     },
@@ -357,9 +357,9 @@ var geojsonFeature = {
       },
       "properties": {
           "name": "Eagle Harbor",
-          "vertical": "https://thesurveystation.com/USGS/MI/360-Eagle-Harbor/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MI/360-Eagle-Harbor/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/MI/360-Eagle-Harbor/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MI/360-Eagle-Harbor/Horizontal.pdf",
           "hyear": "1973"
       }
     },
@@ -371,9 +371,9 @@ var geojsonFeature = {
       },
       "properties": {
           "name": "Eagle River",
-          "vertical": "https://thesurveystation.com/USGS/MI/361-Eagle-River/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MI/361-Eagle-River/Vertical.pdf",
           "vyear": "1981",
-          "horizontal": "https://thesurveystation.com/USGS/MI/361-Eagle-River/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MI/361-Eagle-River/Horizontal.pdf",
           "hyear": "1973"
       }
     }

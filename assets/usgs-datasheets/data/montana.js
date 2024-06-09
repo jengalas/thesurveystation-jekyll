@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Elkhorn Creek",
-          "vertical": "https://thesurveystation.com/USGS/MT/34-Elkhorn-Creek/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MT/34-Elkhorn-Creek/Vertical.pdf",
           "vyear": "1975"
         }
       },
@@ -21,7 +21,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ericson No. 3",
-          "vertical": "https://thesurveystation.com/USGS/MT/35-Ericson-No-3/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MT/35-Ericson-No-3/Vertical.pdf",
           "vyear": "1975"
         }
       },
@@ -33,9 +33,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Capitol",
-          "vertical": "https://thesurveystation.com/USGS/MT/73-Capitol/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MT/73-Capitol/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/MT/73-Capitol/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MT/73-Capitol/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -47,7 +47,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Midland No. 3",
-          "vertical": "https://thesurveystation.com/USGS/MT/115-Midland-No-3/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MT/115-Midland-No-3/Vertical.pdf",
           "vyear": "1975"
         }
       },
@@ -59,7 +59,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Midland No. 1",
-          "vertical": "https://thesurveystation.com/USGS/MT/157-Midland-No-1/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MT/157-Midland-No-1/Vertical.pdf",
           "vyear": "1975"
         }
       },              

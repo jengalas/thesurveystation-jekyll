@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cape May",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/4-Dennisville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/4-Dennisville/Horizontal.pdf",
           "hyear": "1993"
         }
       },
@@ -21,9 +21,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cape Henlopen",
-          "vertical": "https://thesurveystation.com/USGS/NJ/2-Cape-Henlopen/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/2-Cape-Henlopen/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/2-Cape-Henlopen/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/2-Cape-Henlopen/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -35,7 +35,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sea Isle City",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/4-Dennisville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/4-Dennisville/Horizontal.pdf",
           "hyear": "1993"
         }
       },
@@ -47,7 +47,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dennisville",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/4-Dennisville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/4-Dennisville/Horizontal.pdf",
           "hyear": "1993"
         }
       },
@@ -59,7 +59,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Port Norris",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/5-Port-Norris/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/5-Port-Norris/Horizontal.pdf",
           "hyear": "1938"
         }
       },
@@ -71,9 +71,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bowers",
-          "vertical": "https://thesurveystation.com/USGS/NJ/6-Bowers/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/6-Bowers/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/6-Bowers/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/6-Bowers/Horizontal.pdf",
           "hyear": "1955"
         }
       },
@@ -85,7 +85,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Atlantic City",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
           "hyear": "1986"
         }
       },
@@ -97,7 +97,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pleasantville",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
           "hyear": "1986"
         }
       },
@@ -109,9 +109,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tuckahoe",
-          "vertical": "https://thesurveystation.com/USGS/NJ/9-Tuckahoe/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/9-Tuckahoe/Vertical.pdf",
           "vyear": "1954",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/9-Tuckahoe/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/9-Tuckahoe/Horizontal.pdf",
           "hyear": "1986"
         }
       },
@@ -123,7 +123,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bridgeton",
-          "coe": "https://thesurveystation.com/USGS/NJ/10-Bridgeton/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/NJ/10-Bridgeton/Corps-of-Engineers.pdf",
           "cyear": "Various dates"
         }
       },
@@ -135,11 +135,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Shiloh",
-          "vertical": "https://thesurveystation.com/USGS/NJ/11-Shiloh/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/11-Shiloh/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/11-Shiloh/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/11-Shiloh/Horizontal.pdf",
           "hyear": "1989",
-          "coe": "https://thesurveystation.com/USGS/NJ/11-Shiloh/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/NJ/11-Shiloh/Corps-of-Engineers.pdf",
           "cyear": "Various dates"
         }
       },
@@ -151,9 +151,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Smyrna",
-          "vertical": "https://thesurveystation.com/USGS/NJ/12-Smyrna/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/12-Smyrna/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/12-Smyrna/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/12-Smyrna/Horizontal.pdf",
           "hyear": "1942"
         }
       },
@@ -165,7 +165,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Long Beach",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
           "hyear": "1986"
         }
       },
@@ -177,7 +177,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tuckerton",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/8-Pleasantville/Horizontal.pdf",
           "hyear": "1986"
         }
       },
@@ -189,7 +189,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Egg Harbor",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/15-Egg-Harbor/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/15-Egg-Harbor/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -201,7 +201,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hammonton",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/16-Hammonton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/16-Hammonton/Horizontal.pdf",
           "hyear": "1990"
         }
       },
@@ -213,7 +213,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Glassboro",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/17-Glassboro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/17-Glassboro/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -225,9 +225,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Salem",
-          "vertical": "https://thesurveystation.com/USGS/NJ/18-Salem/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/18-Salem/Vertical.pdf",
           "vyear": "1952",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/18-Salem/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/18-Salem/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -239,9 +239,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Wilmington",
-          "vertical": "https://thesurveystation.com/USGS/NJ/19-Wilmington/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/19-Wilmington/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/19-Wilmington/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/19-Wilmington/Horizontal.pdf",
           "hyear": "1951"
         }
       },
@@ -253,9 +253,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tom's River",
-          "vertical": "https://thesurveystation.com/USGS/NJ/20-Toms-River/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/20-Toms-River/Vertical.pdf",
           "vyear": "1956",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/20-Toms-River/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/20-Toms-River/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -267,9 +267,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Whiting",
-          "vertical": "https://thesurveystation.com/USGS/NJ/21-Whiting/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/21-Whiting/Vertical.pdf",
           "vyear": "1956",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/21-Whiting/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/21-Whiting/Horizontal.pdf",
           "hyear": "1943"
         }
       },
@@ -281,9 +281,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pemberton",
-          "vertical": "https://thesurveystation.com/USGS/NJ/22-Pemberton/Horizontal-Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/22-Pemberton/Horizontal-Vertical.pdf",
           "vyear": "1943",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/22-Pemberton/Horizontal-Vertical.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/22-Pemberton/Horizontal-Vertical.pdf",
           "hyear": "1943"
         }
       },
@@ -295,7 +295,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Holly",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/23-Mount-Holly/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/23-Mount-Holly/Horizontal.pdf",
           "hyear": "1936"
         }
       },
@@ -307,9 +307,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Philadelphia",
-          "vertical": "https://thesurveystation.com/USGS/NJ/24-Philadelphia/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/24-Philadelphia/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/24-Philadelphia/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/24-Philadelphia/Horizontal.pdf",
           "hyear": "1951"
         }
       },
@@ -321,9 +321,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Chester",
-          "vertical": "https://thesurveystation.com/USGS/NJ/25-Chester/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/25-Chester/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/25-Chester/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/25-Chester/Horizontal.pdf",
           "hyear": "1979"
         }
       },
@@ -335,7 +335,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Asbury Park",
-          "vertical": "https://thesurveystation.com/USGS/NJ/26-Asbury-Park/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/26-Asbury-Park/Vertical.pdf",
           "vyear": "1959"
         }
       },
@@ -347,9 +347,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lakehurst",
-          "vertical": "https://thesurveystation.com/USGS/NJ/27-Lakehurst/Horizontal-Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/27-Lakehurst/Horizontal-Vertical.pdf",
           "vyear": "1943",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/27-Lakehurst/Horizontal-Vertical.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/27-Lakehurst/Horizontal-Vertical.pdf",
           "hyear": "1943"
         }
       },
@@ -361,9 +361,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bordentown",
-          "vertical": "https://thesurveystation.com/USGS/NJ/28-Bordentown/Horizontal-Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/28-Bordentown/Horizontal-Vertical.pdf",
           "vyear": "Unknown date",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/28-Bordentown/Horizontal-Vertical.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/28-Bordentown/Horizontal-Vertical.pdf",
           "hyear": "Unknown date"
         }
       },
@@ -375,7 +375,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Burlington",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/29-Burlington/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/29-Burlington/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -387,9 +387,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Germantown",
-          "vertical": "https://thesurveystation.com/USGS/NJ/29A-Germantown/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/29A-Germantown/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/29A-Germantown/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/29A-Germantown/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -401,7 +401,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Highlands",
-          "vertical": "https://thesurveystation.com/USGS/NJ/30-Highlands/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/30-Highlands/Vertical.pdf",
           "vyear": "1978"
         }
       },
@@ -413,7 +413,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sandy Hook",
-          "vertical": "https://thesurveystation.com/USGS/NJ/31-Sandy-Hook/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/31-Sandy-Hook/Vertical.pdf",
           "vyear": "1945"
         }
       },
@@ -425,9 +425,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Brunswick",
-          "vertical": "https://thesurveystation.com/USGS/NJ/32-New-Brunswick/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/32-New-Brunswick/Vertical.pdf",
           "vyear": "1945",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/32-New-Brunswick/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/32-New-Brunswick/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -439,9 +439,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Princeton",
-          "coe": "https://thesurveystation.com/USGS/NJ/33-Princeton/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/NJ/33-Princeton/Corps-of-Engineers.pdf",
           "cyear": "Unknown date",
-          "vertical": "https://thesurveystation.com/USGS/NJ/33-Princeton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/33-Princeton/Vertical.pdf",
           "vyear": "1959"
         }
       },
@@ -453,7 +453,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lambertville",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/34-Lambertville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/34-Lambertville/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -465,9 +465,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Doylestown",
-          "vertical": "https://thesurveystation.com/USGS/NJ/35-Doylestown/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/35-Doylestown/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/35-Doylestown/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/35-Doylestown/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -479,9 +479,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Staten Island",
-          "vertical": "https://thesurveystation.com/USGS/NJ/38-Somerville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/38-Somerville/Vertical.pdf",
           "vyear": "1952",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/38-Somerville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/38-Somerville/Horizontal.pdf",
           "hyear": "1990"
         }
       },
@@ -493,9 +493,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Plainfield",
-          "vertical": "https://thesurveystation.com/USGS/NJ/37-Plainfield/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/37-Plainfield/Vertical.pdf",
           "vyear": "1959",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/38-Somerville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/38-Somerville/Horizontal.pdf",
           "hyear": "1990"
         }
       },
@@ -507,9 +507,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Somerville",
-          "vertical": "https://thesurveystation.com/USGS/NJ/38-Somerville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/38-Somerville/Vertical.pdf",
           "vyear": "1952",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/38-Somerville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/38-Somerville/Horizontal.pdf",
           "hyear": "1990"
         }
       },
@@ -521,9 +521,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "High Bridge",
-          "vertical": "https://thesurveystation.com/USGS/NJ/38-Somerville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/38-Somerville/Vertical.pdf",
           "vyear": "1952",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/39-High-Bridge/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/39-High-Bridge/Horizontal.pdf",
           "hyear": "1995"
         }
       },
@@ -535,9 +535,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Easton",
-          "vertical": "https://thesurveystation.com/USGS/NJ/40-Easton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/40-Easton/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/40-Easton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/40-Easton/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -549,9 +549,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Harlem",
-          "vertical": "https://thesurveystation.com/USGS/NJ/41-Harlem/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/41-Harlem/Vertical.pdf",
           "vyear": "1978",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/41-Harlem/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/41-Harlem/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -563,9 +563,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Paterson",
-          "vertical": "https://thesurveystation.com/USGS/NJ/42-Paterson/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/42-Paterson/Vertical.pdf",
           "vyear": "1953",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/42-Paterson/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/42-Paterson/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -577,9 +577,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Morristown",
-          "vertical": "https://thesurveystation.com/USGS/NJ/43-Morristown/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/43-Morristown/Vertical.pdf",
           "vyear": "1952",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/43-Morristown/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/43-Morristown/Horizontal.pdf",
           "hyear": "1992"
         }
       },
@@ -591,9 +591,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lake Hopatcong",
-          "vertical": "https://thesurveystation.com/USGS/NJ/44-Lake-Hopatcong/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/44-Lake-Hopatcong/Vertical.pdf",
           "vyear": "1953",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/44-Lake-Hopatcong/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/44-Lake-Hopatcong/Horizontal.pdf",
           "hyear": "1953"
         }
       },
@@ -605,9 +605,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hackettstown",
-          "vertical": "https://thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Horizontal.pdf",
           "hyear": "1955"
         }
       },
@@ -619,9 +619,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Delaware Water Gap",
-          "vertical": "https://thesurveystation.com/USGS/NJ/46-Delaware-Water-Gap/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/46-Delaware-Water-Gap/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/46-Delaware-Water-Gap/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/46-Delaware-Water-Gap/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -633,9 +633,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tarrytown",
-          "vertical": "https://thesurveystation.com/USGS/NJ/47-Tarrytown/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/47-Tarrytown/Vertical.pdf",
           "vyear": "1983",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/47-Tarrytown/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/47-Tarrytown/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -647,9 +647,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ramapo",
-          "vertical": "https://thesurveystation.com/USGS/NJ/48-Ramapo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/48-Ramapo/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/48-Ramapo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/48-Ramapo/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -661,9 +661,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Greenwood Lake",
-          "vertical": "https://thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Horizontal.pdf",
           "hyear": "1955"
         }
       },
@@ -675,9 +675,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Franklin",
-          "vertical": "https://thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/49-Greenwood-Lake/Horizontal.pdf",
           "hyear": "1955"
         }
       },
@@ -689,9 +689,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dingman's Ferry",
-          "vertical": "https://thesurveystation.com/USGS/NJ/51-Dingmans-Ferry/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/51-Dingmans-Ferry/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/51-Dingmans-Ferry/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/51-Dingmans-Ferry/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -703,9 +703,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bushkill",
-          "vertical": "https://thesurveystation.com/USGS/NJ/52-Bushkill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/52-Bushkill/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/52-Bushkill/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/52-Bushkill/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -717,7 +717,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Goshen",
-          "vertical": "https://thesurveystation.com/USGS/NJ/53-Goshen/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/53-Goshen/Vertical.pdf",
           "vyear": "1977"
         }
       },
@@ -729,9 +729,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Port Jervis",
-          "vertical": "https://thesurveystation.com/USGS/NJ/54-Port-Jervis/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/54-Port-Jervis/Vertical.pdf",
           "vyear": "1977",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/54-Port-Jervis/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/54-Port-Jervis/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -743,9 +743,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Milford",
-          "vertical": "https://thesurveystation.com/USGS/NJ/55-Milford/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/NJ/55-Milford/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://thesurveystation.com/USGS/NJ/55-Milford/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/NJ/55-Milford/Horizontal.pdf",
           "hyear": "1975"
         }
       },

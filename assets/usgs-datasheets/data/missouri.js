@@ -9,13 +9,13 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Caruthersville",
-          "vertical": "https://thesurveystation.com/USGS/MO/1-Caruthersville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/1-Caruthersville/Vertical.pdf",
           "vyear": "1969",
-          "horizontal": "https://thesurveystation.com/USGS/MO/1-Caruthersville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/1-Caruthersville/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/MO/1-Caruthersville/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/1-Caruthersville/Corps-of-Engineers.pdf",
           "cyear": "1967",
-          "recoveries": "https://thesurveystation.com/USGS/MO/1-Caruthersville/Tri-Station-1028-Shade.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/MO/1-Caruthersville/Tri-Station-1028-Shade.pdf",
           "ryear": "1972"
         }
       },
@@ -27,11 +27,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hayti",
-          "vertical": "https://thesurveystation.com/USGS/MO/2-Hayti/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/2-Hayti/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/MO/2-Hayti/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/2-Hayti/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/MO/2-Hayti/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/2-Hayti/Corps-of-Engineers.pdf",
           "cyear": "1971"
         }
       },
@@ -43,7 +43,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kennett",
-          "vertical": "https://thesurveystation.com/USGS/MO/3-Kennett/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/3-Kennett/Vertical.pdf",
           "vyear": "1982"
         }
       },
@@ -55,7 +55,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Marmaduke",
-          "vertical": "https://thesurveystation.com/USGS/MO/4-Marmaduke/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/4-Marmaduke/Vertical.pdf",
           "vyear": "1980"
         }
       },
@@ -67,9 +67,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Reelfoot Lake",
-          "vertical": "https://thesurveystation.com/USGS/MO/5-Reelfoot-Lake/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/5-Reelfoot-Lake/Vertical.pdf",
           "vyear": "1975",
-          "horizontal": "https://thesurveystation.com/USGS/MO/5-Reelfoot-Lake/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/5-Reelfoot-Lake/Horizontal.pdf",
           "hyear": "1970, 1977"
         }
       },
@@ -81,11 +81,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Portageville",
-          "vertical": "https://thesurveystation.com/USGS/MO/6-Portageville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/6-Portageville/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://thesurveystation.com/USGS/MO/6-Portageville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/6-Portageville/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/MO/6-Portageville/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/6-Portageville/Corps-of-Engineers.pdf",
           "cyear": "1954"
         }
       },
@@ -97,11 +97,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pascola",
-          "vertical": "https://thesurveystation.com/USGS/MO/7-Pascola/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/7-Pascola/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/MO/7-Pascola/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/7-Pascola/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/MO/7-Pascola/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/7-Pascola/Corps-of-Engineers.pdf",
           "cyear": "1954"
         }
       },
@@ -113,7 +113,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Piggot",
-          "vertical": "https://thesurveystation.com/USGS/MO/8-Piggot/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/8-Piggot/Vertical.pdf",
           "vyear": "1976"
         }
       },
@@ -125,11 +125,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hickman",
-          "vertical": "https://thesurveystation.com/USGS/MO/9-Hickman/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/9-Hickman/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/MO/9-Hickman/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/9-Hickman/Horizontal.pdf",
           "hyear": "1978",
-          "coe": "https://thesurveystation.com/USGS/MO/9-Hickman/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/9-Hickman/Corps-of-Engineers.pdf",
           "cyear": "1953"
         }
       },
@@ -141,11 +141,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bayouville",
-          "vertical": "https://thesurveystation.com/USGS/MO/10-Bayouville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/10-Bayouville/Vertical.pdf",
           "vyear": "1974",
-          "horizontal": "https://thesurveystation.com/USGS/MO/10-Bayouville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/10-Bayouville/Horizontal.pdf",
           "hyear": "1976",
-          "coe": "https://thesurveystation.com/USGS/MO/10-Bayouville/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/10-Bayouville/Corps-of-Engineers.pdf",
           "cyear": "1959"
         }
       },
@@ -157,13 +157,13 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Madrid",
-          "vertical": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/11-New-Madrid/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/11-New-Madrid/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/11-New-Madrid/Corps-of-Engineers.pdf",
           "cyear": "1968",
-          "recoveries": "https://thesurveystation.com/USGS/MO/11-New-Madrid/Tri-Station-1028-Shade.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/MO/11-New-Madrid/Tri-Station-1028-Shade.pdf",
           "ryear": "1970"
         }
       },
@@ -175,12 +175,26 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Malden",
-          "vertical": "https://thesurveystation.com/USGS/MO/12-Malden/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/12-Malden/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://thesurveystation.com/USGS/MO/12-Malden/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/12-Malden/Horizontal.pdf",
           "hyear": "1970",
-          "coe": "https://thesurveystation.com/USGS/MO/12-Malden/Corps-of-Engineers.pdf",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/12-Malden/Corps-of-Engineers.pdf",
           "cyear": "1954"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90,36.5],[-90,36.75],[-90.25,36.75],[-90.25,36.5],[-90,36.5]]]
+        },
+        "properties": {
+          "name": "Valley Ridge",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/13-Valley-Ridge/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/13-Valley-Ridge/Horizontal.pdf",
+          "hyear": "1963"
         }
       }     
     ]
