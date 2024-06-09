@@ -196,6 +196,68 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/13-Valley-Ridge/Horizontal.pdf",
           "hyear": "1963"
         }
-      }     
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.25,36.5],[-90.25,36.75],[-90.5,36.75],[-90.5,36.5],[-90.25,36.5]]]
+        },
+        "properties": {
+          "name": "Harviell",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/14-Harviell/Vertical.pdf",
+          "vyear": "1987",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/14-Harviell/Horizontal.pdf",
+          "hyear": "1963",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/14-Harviell/Corps-of-Engineers.pdf",
+          "cyear": "1959"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.5,36.5],[-90.5,36.75],[-90.75,36.75],[-90.75,36.5],[-90.5,36.5]]]
+        },
+        "properties": {
+          "name": "Naylor",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/15-Naylor/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/15-Naylor/Horizontal.pdf",
+          "hyear": "1963",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/15-Naylor/Corps-of-Engineers.pdf",
+          "cyear": "1959"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.75,36.5],[-90.75,36.75],[-91,36.75],[-91,36.5],[-90.75,36.5]]]
+        },
+        "properties": {
+          "name": "Doniphan",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/16-Doniphan/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/16-Doniphan/Horizontal.pdf",
+          "hyear": "1966",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/16-Doniphan/Corps-of-Engineers.pdf",
+          "cyear": "1959"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,36.5],[-91,36.75],[-91.25,36.75],[-91.25,36.5],[-91,36.5]]]
+        },
+        "properties": {
+          "name": "Gatewood",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/17-Gatewood/Vertical.pdf",
+          "vyear": "1967",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/17-Gatewood/Horizontal.pdf",
+          "hyear": "1964"
+        }
+      }    
     ]
   };
