@@ -32,5 +32,5 @@ galleries:
       alt: Eyelevel view of the disk on the ledge   
     - filename: long-pondg2
       alt: The ledge is quite deep in the woods.     
-featured_image: long-pond.jpg
+featured_image: long-pondcsm.jpg
 ---
