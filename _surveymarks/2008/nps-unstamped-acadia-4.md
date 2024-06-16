@@ -28,5 +28,5 @@ galleries:
       alt: 'NPS Boundary Monument NPS (Unstamped, Acadia #4)'
     - filename: nps2g1
       alt: Looking WNW toward Otter Cliff Road.
-featured_image: nps2csm8.jpg
+featured_image: nps2csm.jpg
 ---
