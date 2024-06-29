@@ -25,5 +25,16 @@ zhanna_text: >-
     we found, is undated (but based on the style was likely established between
     1900 and 1910) and is in fairly good condition, with some minor damage to
     one edge that probably doesn't compromise its position.
+galleries:
+  gallery_zh:
+    images:
+    - filename: 5866canyon
+      alt: USGS Bench Mark Disk 5866 CANYON
+    - filename: 5866canyong1
+      alt: Eyelevel view of the BM disk
+    - filename: 5866canyong2
+      alt: The BM is on a tilted rock ledge.    
+    - filename: 5866canyong3
+      alt: View NE toward the Bright Angel Trail in the distance    
 featured_image: 5866canyoncsm.jpg
 ---
