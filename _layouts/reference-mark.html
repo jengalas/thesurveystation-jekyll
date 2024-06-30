@@ -83,6 +83,10 @@ layout: default
 <p class="coordinates-submitted">Updated GPS coordinates have been submitted to NGS.</p>
 {% endif %}
 
+{% if page.photos_submitted %}
+<p class="photos-submitted">Photos of this mark have been submitted to NGS.</p>
+{% endif %}
+
 {% if page.ngs_report %}
     {% unless page.ngs_report_text %}
     <div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS.</div> 
