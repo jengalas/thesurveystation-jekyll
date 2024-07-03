@@ -282,7 +282,10 @@
     - name: Dauphin County
       quad:
         - name: Harrisburg East Quad
-        - name: Harrisburg West Quad       
+        - name: Harrisburg West Quad  
+    - name: Lancaster County
+      quad:
+        - name: Columbia West Quad         
     - name: Lackawanna County
       quad:
         - name: Avoca Quad
@@ -402,7 +405,10 @@
         - name: Noxen Quad
         - name: Pittston Quad
         - name: Ransom Quad
-        - name: Tunkhannock Quad             
+        - name: Tunkhannock Quad     
+    - name: York County
+      quad:
+        - name: Columbia West Quad              
 - state: Utah
   county:
     - name: San Juan County
