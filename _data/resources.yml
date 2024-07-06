@@ -67,6 +67,12 @@
       url: /assets/docs/publications/tri-state-corners.pdf  
     - title: Results of Spirit Leveling in Arizona. 1899 to 1915, inclusive.
       url: /assets/docs/publications/spirit-leveling-arizona-1915.pdf 
+    - title: Triangulation in Maine
+      url: /assets/docs/publications/triangulation-in-maine.pdf
+      description: By Walter F. Reynolds. 1918.
+    - title: Triangulation in Arizona
+      url: /assets/docs/publications/triangulation-in-arizona.pdf      
+      description: "1927 datum. Part 1: First- and second-order triangulation in south central part of state, by Clement L. Garner. 1941."
 - category: Pretty Pictures
   links: 
     - title: "Flickr: USGS Geodetic Survey Markers"
