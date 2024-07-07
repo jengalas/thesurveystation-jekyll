@@ -6,7 +6,6 @@ longitude: 76.031083
 state: Pennsylvania
 county: Berks County
 quad: Bernville Quad
-elevation: Unknown
 type: Survey Mark
 setting: Round Concrete Monument
 year_established: Unknown

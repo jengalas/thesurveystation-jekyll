@@ -6,7 +6,6 @@ longitude: 111.733667
 state: Arizona
 county: Coconino County
 quad: Mountainaire Quad
-elevation: Unknown
 type: Unspecified Disk
 setting: Rock Wall
 year_established: '1971'

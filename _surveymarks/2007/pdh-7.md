@@ -6,7 +6,6 @@ longitude: 75.60815
 state: Pennsylvania
 county: Lackawanna County
 quad: Moscow Quad
-elevation: Unknown
 type: Elevation Mark
 setting: Bridge Wingwall
 year_established: Unknown

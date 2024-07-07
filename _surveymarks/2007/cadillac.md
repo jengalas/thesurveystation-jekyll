@@ -6,7 +6,6 @@ longitude: 68.225389
 state: Maine
 county: Hancock County
 quad: Seal Harbor Quad
-elevation: Unknown
 type: Electronic Traverse Station Disk
 setting: Rock Outcrop
 year_established: '1975'
