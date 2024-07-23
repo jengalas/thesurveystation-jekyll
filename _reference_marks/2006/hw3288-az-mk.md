@@ -15,5 +15,14 @@ agency: USGS
 status: Recovered
 condition: Good
 zhanna_text: ''
+galleries:
+  gallery_zh: 
+    images:
+    - filename: hw3288azmk
+      alt: NGS Azimuth Mark Disk ET 29 WCE AZ MK 
+    - filename: hw3288azmkg1
+      alt: Eyelevel view of the azimuth mark set in concrete pad. 
+    - filename: hw3288azmkg2
+      alt: Looking approximately WSW, toward the station.  
 featured_image: hw3288azmkcsm.jpg
 ---
