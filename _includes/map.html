@@ -8,10 +8,14 @@
 
 {% assign uid = uid | slugify %}
 
+{% if page.basemap %}
+      {% assign basemap = page.basemap %}
+   {% else %}
+     {% assign basemap = 'USGS Topo' %}
+{% endif %}
+
 <div class="map" id="{{ uid }}"></div>
 <div><a href="https://www.google.com/maps/search/?api=1&query={{ page.latitude }},-{{ page.longitude }}">Google Map</a></div>
-
-<!-- TODO: accept parameter for basemap type to account for special cases like Dry Tortugas with no USGS Topo coverage -->
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
@@ -21,7 +25,7 @@
    var marker = L.marker([{{ page.latitude }}, -{{ page.longitude }}]).addTo(markMap);
    marker.bindPopup("<h1>{{ page.designation }}</h1><p>Visited on {{ page.date | date: '%B %e, %Y' }}</p>");
 
-   objBasemaps['USGS Topo'].addTo(markMap); // Assign default basemap
+   objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
    
    var objOverlays = {
       '{{ page.designation }}' : marker
