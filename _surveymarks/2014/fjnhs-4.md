@@ -3,6 +3,7 @@ designation: FJNHS - 4
 date: '2014-02-22T11:18:22-05:00'
 latitude: 24.62795
 longitude: 82.874433
+basemap: OpenStreetMap
 state: Florida
 county: Monroe County
 quad: Dry Tortugas Quad
