@@ -51,5 +51,5 @@ galleries:
       alt: Proximity of the disk to the sign currently on the outcrop  
     - filename: tt34tg3
       alt: Looking NW along Route 247     
-featured_image: tt34tcsm-240x188.jpg
+featured_image: tt34tcsm.jpg
 ---
