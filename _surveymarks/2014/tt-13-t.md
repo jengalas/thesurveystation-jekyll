@@ -15,6 +15,7 @@ official_description: >-
     South Canaan, 3.6 mi NE. of; 2.1 mi N. of East School; on State Highway 159; 127 ft NE. of crossroad (rd. W. is third-class); in large rock outcrop; standard tablet stamped “TT STA NO 13 T 1932”
  
  
+
     <table class="plane-coords">
       <thead>
         <tr>
