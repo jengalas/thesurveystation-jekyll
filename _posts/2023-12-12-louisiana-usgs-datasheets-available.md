@@ -1,11 +1,11 @@
 ---
 title: Louisiana USGS Datasheets Available
 author: Zhanna
-date: 2023-12-12
+date: '2023-12-12T19:15:00-05:00'
 tags: ["USGS Datasheets"]
 excerpt: >-
-  
-featured_image: P7220034-Editcvx.jpg 
+  46 quads for Louisiana are now available!
+featured_image: la-featured-image.jpg
 ---
 
 I have obtained and posted 46 quads from southern Louisiana.

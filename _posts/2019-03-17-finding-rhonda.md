@@ -1,8 +1,8 @@
 ---
 title: Finding RHONDA
 author: Zhanna
-date: 2019-03-17
-tags: ["USGS Datasheets"]
+date: '2019-03-17T09:43:00-04:00'
+tags: [humor, publicity]
 excerpt: >-
   Rich and I wrote _Finding RHONDA_ in 2008 as a contribution to Rhonda Rushing's online publication _Caching Now_. That publication seems to be defunct now and the previous content is gone, so I'm publishing our article here in its original form.
 featured_image:  

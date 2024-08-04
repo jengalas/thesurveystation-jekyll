@@ -1,11 +1,11 @@
 ---
 title: North Dakota USGS Datasheets Available
 author: Zhanna
-date: 2024-02-11
+date: '2024-02-11T18:10:00-05:00'
 tags: ["USGS Datasheets"]
 excerpt: >-
-  
-featured_image: P7220034-Editcvx.jpg 
+  23 quads for North Dakota are now available!
+featured_image: nd-featured-image.jpg
 ---
 
 I have obtained and posted 32 quads from southern North Dakota.
