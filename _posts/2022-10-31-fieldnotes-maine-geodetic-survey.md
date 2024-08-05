@@ -8,6 +8,8 @@ excerpt: >-
 featured_image: sources-of-overlooked-control.png
 ---
 
+<!-- TODO: Move blog images to assets/img/posts-images and create new snippet for these images -->
+
 Thanks to Harry Nelson, Senior Geodesist and CORS Project Manager at the MaineDOT Property Office, today we have an article about marks placed by the Maine Geodetic Survey, a Civil Works Administration program. 
 
 As Harry notes, I have Maine Geodetic Survey Station data and diagrams available [here](/assets/docs/publications/Maine-Geodetic-Survey-Stations-1933-1935.pdf).
