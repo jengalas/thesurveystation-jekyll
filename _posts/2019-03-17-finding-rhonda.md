@@ -5,7 +5,7 @@ date: '2019-03-17T09:43:00-04:00'
 tags: [humor, publicity]
 excerpt: >-
   Rich and I wrote _Finding RHONDA_ in 2008 as a contribution to Rhonda Rushing's online publication _Caching Now_. That publication seems to be defunct now and the previous content is gone, so I'm publishing our article here in its original form.
-featured_image:  
+featured_image: P1040731csm.jpg
 ---
 
 **Originally published in 2008 in _Caching Now_, a former publication of Berntsen International, Inc.**
