@@ -34,7 +34,7 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-    - filename: dunmoreres3a
+    - filename: dunmoreres3
       alt: PennDOT Chiseled Square BM DUNMORE RESERVOIR 3   
     - filename: dunmoreres3g1
       alt: An eye-level view of the chiseled mark.
