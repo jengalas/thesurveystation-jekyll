@@ -51,7 +51,7 @@ collections_config:
         label: PID
       type:
         type: select    
-        _select_data: types
+        _select_data: type
       status:
         type: select  
         options:
@@ -70,7 +70,7 @@ collections_config:
             - Destroyed  
       ngs_report:
         type: checkbox      
-        label: NGS Report
+        label: NGS Report Submitted
       coordinates_submitted:
         type: checkbox      
       ngs_report_text:
