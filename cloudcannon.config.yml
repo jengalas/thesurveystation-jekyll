@@ -50,6 +50,13 @@ collections_config:
       type:
         type: select    
         _select_data: types
+      status:
+        type: select  
+        options:
+        values:
+          - Recovered
+          - Not Found
+          - Note Entered
     preview:
       text:
       - key: designation
