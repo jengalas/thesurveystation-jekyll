@@ -53,10 +53,10 @@ collections_config:
       status:
         type: select  
         options:
-        values:
-          - Recovered
-          - Not Found
-          - Note Entered
+          values:
+            - Recovered
+            - Not Found
+            - Note Entered
     preview:
       text:
       - key: designation
