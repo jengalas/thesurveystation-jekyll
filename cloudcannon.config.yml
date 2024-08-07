@@ -47,6 +47,8 @@ collections_config:
     _enabled_editors:
       - data  
     _inputs:
+      pid:
+        label: PID
       type:
         type: select    
         _select_data: types
