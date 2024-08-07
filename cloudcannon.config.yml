@@ -68,6 +68,10 @@ collections_config:
             - Poor 
             - Unknown (Not Found)  
             - Destroyed  
+      ngs_report:
+        type: checkbox      
+      coordinates_submitted:
+        type: checkbox      
       ngs_report_text:
         type: markdown      
       zhanna_text:
