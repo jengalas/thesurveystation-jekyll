@@ -46,6 +46,8 @@ collections_config:
     preview:
       text:
       - key: designation
+      subtext:
+      - key: pid
   reference_marks:
     path: _reference_marks
     output: true
