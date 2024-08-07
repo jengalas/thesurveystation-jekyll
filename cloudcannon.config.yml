@@ -57,6 +57,17 @@ collections_config:
             - Recovered
             - Not Found
             - Note Entered
+      condition:
+        type: select  
+        options:
+          values:
+            - Good
+            - Fair
+            - Poor 
+            - Unknown (Not Found)  
+            - Destroyed  
+      zhanna_text:
+        type: markdown      
     preview:
       text:
       - key: designation
