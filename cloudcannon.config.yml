@@ -43,8 +43,7 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-    data_config:
-      types: true
+    data_config: true
     _enabled_editors:
       - data  
     _inputs:
