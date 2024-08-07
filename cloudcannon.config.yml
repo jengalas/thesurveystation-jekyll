@@ -68,6 +68,8 @@ collections_config:
             - Poor 
             - Unknown (Not Found)  
             - Destroyed  
+      ngs_report_text:
+        type: markdown      
       zhanna_text:
         type: markdown      
     preview:
