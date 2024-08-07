@@ -70,10 +70,12 @@ collections_config:
             - Destroyed  
       ngs_report:
         type: checkbox      
+        label: NGS Report
       coordinates_submitted:
         type: checkbox      
       ngs_report_text:
-        type: markdown      
+        type: markdown  
+        label: NGS Report Text    
       zhanna_text:
         type: markdown      
     preview:
