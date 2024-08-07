@@ -50,9 +50,11 @@ collections_config:
       pid:
         label: PID
       type:
-        type: select    
-        options:
-          values: _select_data.types
+        _inputs:
+          items:
+            type: select    
+            options:
+              values: _select_data.types
       status:
         type: select  
         options:
