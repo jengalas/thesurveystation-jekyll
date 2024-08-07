@@ -44,9 +44,12 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
     data_config:
-      locations: true
+      types: true
     _enabled_editors:
-      - data    
+      - data  
+    _inputs:
+      type:
+        type: select    
     preview:
       text:
       - key: designation
