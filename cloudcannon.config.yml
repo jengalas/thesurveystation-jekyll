@@ -49,6 +49,7 @@ collections_config:
     _inputs:
       type:
         type: select    
+        _select_data: types
     preview:
       text:
       - key: designation
