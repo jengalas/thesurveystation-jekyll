@@ -43,6 +43,9 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    preview:
+      text:
+      - key: designation
   reference_marks:
     path: _reference_marks
     output: true
