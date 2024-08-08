@@ -52,10 +52,9 @@ collections_config:
       type:
         type: select
         _inputs:
-          items:
-            type: select    
-            options:
-              values: _select_data.types
+          type: select    
+          options:
+            values: _select_data.types
       status:
         type: select  
         options:
