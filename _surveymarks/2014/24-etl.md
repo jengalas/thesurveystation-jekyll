@@ -3,7 +3,7 @@ designation: 24 ETL
 date: '2014-08-01T15:51:14-04:00'
 latitude: 41.647063
 longitude: 75.703484
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Susquehanna County
 quad: Lenoxville Quad

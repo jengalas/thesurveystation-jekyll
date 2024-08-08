@@ -5,7 +5,7 @@ designation: ELLENVILLE AZ MK RESET
 date: '2009-05-25T17:51:40-04:00'
 latitude: 41.718084
 longitude: 74.385416
-estimate: '1'
+estimate: true
 state: New York
 county: Ulster County
 quad: Napanoch Quad

@@ -3,7 +3,7 @@ designation: TT 27 T
 date: '2014-07-19T19:28:10-04:00'
 latitude: 41.61278
 longitude: 75.55811
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Lackawanna County
 quad: Carbondale Quad

@@ -5,7 +5,7 @@ designation: SAMS POINT AZ MK
 date: '2005-10-21T16:00:13-04:00'
 latitude: 41.673417
 longitude: 74.358867
-estimate: '1'
+estimate: true
 state: New York
 county: Ulster County
 quad: Napanoch Quad

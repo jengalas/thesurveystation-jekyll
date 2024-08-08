@@ -3,7 +3,7 @@ designation: TT 16 T
 date: '2014-07-12T15:47:30-04:00'
 latitude: 41.641185
 longitude: 75.419565
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Wayne County
 quad: Forest City Quad

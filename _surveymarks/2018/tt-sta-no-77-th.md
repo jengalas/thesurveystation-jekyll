@@ -3,7 +3,7 @@ designation: TT STA NO 77 TH
 date: '2018-05-28T19:59:31-04:00'
 latitude: 41.684426
 longitude: 75.497352
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Susquehanna County
 quad: Forest City Quad

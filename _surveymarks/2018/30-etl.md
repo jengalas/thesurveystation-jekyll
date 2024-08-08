@@ -3,7 +3,7 @@ designation: 30 ETL
 date: '2018-05-28T19:54:38-04:00'
 latitude: 41.681889
 longitude: 75.553209
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Susquehanna County
 quad: Clifford Quad

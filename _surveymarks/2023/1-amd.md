@@ -3,7 +3,7 @@ designation: 1 AMD
 date: '2023-05-06T21:03:36-04:00'
 latitude: 41.42543
 longitude: 76.03023
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Wyoming County
 quad: Noxen Quad

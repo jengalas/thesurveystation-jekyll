@@ -3,7 +3,7 @@ designation: 45 DSW
 date: '2014-07-06T21:50:29-04:00'
 latitude: 41.471617
 longitude: 75.379365
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Wayne County
 quad: Lake Ariel Quad

@@ -5,7 +5,7 @@ designation: ELEPHANT AZ MK
 date: '2013-04-21T21:58:07-04:00'
 latitude: 40.420999
 longitude: 75.245932
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Bucks County
 quad: Bedminster Quad

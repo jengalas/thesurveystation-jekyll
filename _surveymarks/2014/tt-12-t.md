@@ -3,7 +3,7 @@ designation: TT 12 T
 date: '2014-06-28T17:55:23-04:00'
 latitude: 41.516675
 longitude: 75.402743
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Wayne County
 quad: Waymart Quad

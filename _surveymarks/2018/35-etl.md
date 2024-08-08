@@ -4,7 +4,7 @@ is_parent: true
 date: '2018-05-28T16:28:00-04:00'
 latitude: 41.591689
 longitude: 75.554483
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Lackawanna County
 quad: Carbondale Quad

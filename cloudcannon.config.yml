@@ -48,6 +48,8 @@ collections_config:
     _inputs:
       pid:
         label: PID
+      estimate:
+        type: checkbox  
       type:
         type: select
       status:
@@ -95,6 +97,8 @@ collections_config:
     _inputs:
       pid:
         label: PID
+      estimate:
+        type: checkbox  
       type:
         type: select
       status:

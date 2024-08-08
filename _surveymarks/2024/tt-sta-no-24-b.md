@@ -3,7 +3,7 @@ designation: TT STA NO 24 B
 date: '2024-05-04T09:08:00'
 latitude: 41.34858
 longitude: 76.30069
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Sullivan County
 quad: Red Rock Quad

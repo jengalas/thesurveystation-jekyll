@@ -3,7 +3,7 @@ designation: 35 JPN
 date: '2014-05-26T13:00:43-04:00'
 latitude: 41.300636
 longitude: 75.511426
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Lackawanna County
 quad: Moscow Quad

@@ -5,7 +5,7 @@ designation: URBAN AZ MK
 date: '2014-05-03T17:40:04-04:00'
 latitude: 41.352637
 longitude: 75.377626
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Wayne County
 quad: Sterling Quad

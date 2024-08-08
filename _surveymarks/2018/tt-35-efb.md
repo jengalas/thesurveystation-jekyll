@@ -3,7 +3,7 @@ designation: TT 35 EFB
 date: '2018-04-22T19:53:41-04:00'
 latitude: 40.775602
 longitude: 75.422816
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Northampton County
 quad: Kunkletown Quad

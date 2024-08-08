@@ -3,7 +3,7 @@ designation: TT 9 J
 date: '2014-06-28T08:48:51-04:00'
 latitude: 41.508963
 longitude: 75.288588
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Wayne County
 quad: Honesdale Quad

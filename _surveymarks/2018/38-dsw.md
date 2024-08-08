@@ -3,7 +3,7 @@ designation: 38 DSW
 date: '2018-07-04T15:15:24-04:00'
 latitude: 41.442062
 longitude: 75.399469
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Lackawanna County
 quad: Lake Ariel Quad

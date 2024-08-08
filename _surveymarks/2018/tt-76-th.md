@@ -3,7 +3,7 @@ designation: TT 76 TH
 date: '2018-05-28T20:05:18-04:00'
 latitude: 41.659821
 longitude: 75.514566
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Susquehanna County
 quad: Clifford Quad

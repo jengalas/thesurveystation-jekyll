@@ -3,7 +3,7 @@ designation: TT 33 T
 date: '2018-05-28T16:16:28-04:00'
 latitude: 41.570515
 longitude: 75.558976
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Lackawanna County
 quad: Carbondale Quad

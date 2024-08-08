@@ -3,7 +3,7 @@ designation: TT 1 J
 date: '2014-05-26T13:04:47-04:00'
 latitude: 41.27615
 longitude: 75.507003
-estimate: '1'
+estimate: true
 state: Pennsylvania
 county: Lackawanna County
 quad: Moscow Quad

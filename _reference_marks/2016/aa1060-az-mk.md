@@ -5,7 +5,7 @@ designation: BUNCH AZ MK
 date: '2016-02-20T16:20:09-05:00'
 latitude: 24.599804
 longitude: 81.594459
-estimate: '1'
+estimate: true
 state: Florida
 county: Monroe County
 quad: Saddlebunch Keys Quad
