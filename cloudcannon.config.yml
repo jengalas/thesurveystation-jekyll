@@ -52,6 +52,8 @@ collections_config:
         type: checkbox  
       type:
         type: select
+        options:
+         values: data.types
       status:
         type: select  
         options:
