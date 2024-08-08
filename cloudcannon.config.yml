@@ -43,7 +43,6 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-    data_config: true
     _enabled_editors:
       - data  
     _inputs:
@@ -51,8 +50,6 @@ collections_config:
         label: PID
       type:
         type: select
-        options:
-          values: _select_data.types
       status:
         type: select  
         options:
@@ -100,14 +97,9 @@ collections_config:
         label: PID
       type:
         type: select
-        _inputs:
-          items:
-            type: select    
-            options:
-              values: _select_data.types
       status:
         type: select  
-        options:
+        options:  
           values:
             - Recovered
             - Not Found
@@ -185,7 +177,7 @@ _select_data:
       index_files: false
       name: state
       dir: usgs-datasheets
-data_config: {}
+data_config: true
 editor:
   default_path:
 source_editor:
