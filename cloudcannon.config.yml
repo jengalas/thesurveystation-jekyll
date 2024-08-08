@@ -50,8 +50,6 @@ collections_config:
         label: PID
       type:
         type: select
-        options:
-          values: data.types
       status:
         type: select  
         options:
