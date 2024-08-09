@@ -2,11 +2,9 @@
 parent: kv3873
 parent_name: SUMMIT
 designation: SUMMIT AZ MK
-pid: null
 date: '2003-11-02T13:54:57'
 latitude: 40.829133
 longitude: 75.851967
-estimate: null
 state: Pennsylvania
 county: Carbon County
 quad: Nesquehoning Quad
