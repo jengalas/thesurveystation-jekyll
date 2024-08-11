@@ -13,5 +13,12 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+galleries:
+  gallery_zh:
+    images:
+    - filename: 23x-reset
+      alt: Clark County Nevada Las Vegas Boulevard Right of Way Disk 23X RESET
+    - filename: 23x-resetg1
+      alt: Eyelevel view of the disk at the outer edge of the sidewalk; looking E from Las Vegas Boulevard toward a driveway between Walgreen's and Target
 featured_image: 23x-resetcsm.jpg
 ---

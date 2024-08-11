@@ -17,7 +17,7 @@ galleries:
   gallery_zh:
     images:
     - filename: 19y-reset
-      alt: Clark County Nevada Las Vegas Boulevard Right of Way Disk 19y RESET
+      alt: Clark County Nevada Las Vegas Boulevard Right of Way Disk 19Y RESET
     - filename: 19y-resetg1
       alt: Eyelevel view of the disk at the outer edge of the sidewalk        
     - filename: 19y-resetg2
