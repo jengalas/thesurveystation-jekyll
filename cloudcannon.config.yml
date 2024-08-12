@@ -135,7 +135,9 @@ collections_config:
       zhanna_text:
         type: markdown      
       rich_text:
-        type: markdown   
+        type: markdown  
+      featured_image:
+        type: text
     preview:
       text:
       - key: designation
@@ -189,7 +191,9 @@ collections_config:
       zhanna_text:
         type: markdown   
       rich_text:
-        type: markdown      
+        type: markdown 
+      featured_image:
+        type: text     
     preview:
       text:
       - key: designation
