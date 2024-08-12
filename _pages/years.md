@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /years/
+_unlisted: true
 ---
 
 <h2>Browse By Year</h2>
