@@ -2,6 +2,7 @@
 layout: default
 title: Posts
 permalink: /posts/
+_unlisted: true
 ---
 <h1>Latest Posts</h1>
 

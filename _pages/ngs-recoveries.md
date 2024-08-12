@@ -2,6 +2,7 @@
 title: NGS Recoveries
 layout: page
 permalink: /ngs-recoveries/
+_unlisted: true
 ---
 
 <ul>

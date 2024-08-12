@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /browse-recoveries-by-year/
+_unlisted: true
 ---
 <div>
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /marker-type/
+_unlisted: true
 ---
 
 <h2>Marker Types</h2>

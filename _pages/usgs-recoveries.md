@@ -2,6 +2,7 @@
 title: USGS Recoveries
 layout: page
 permalink: /usgs-recoveries/
+_unlisted: true
 ---
 
 <ul>
