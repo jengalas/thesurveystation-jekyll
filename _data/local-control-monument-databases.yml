@@ -39,7 +39,7 @@
     - title: Santa Barbara City Survey Benchmarks
       url: https://santabarbaraca.gov/government/departments/public-works/engineering-division/survey-benchmarks  
     - title: Stockton City Benchmarks, Elevations and Descriptions
-      url: http://www.ci.stockton.ca.us/files/BenchmarkBook.pdf
+      url: https://www.stocktonca.gov/Documents/Services/Public%20Works/Main%20Web%20Page/BenchmarkBook.pdf
 - state: Colorado  
   databases:
     - title: Boulder County Control Network
@@ -47,7 +47,7 @@
     - title: Douglas County Control
       url: https://dougco.maps.arcgis.com/apps/webappviewer/index.html?id=843b75a47022498b88ea1d9b8bd43cfb  
     - title: Thornton City Control Network
-      url: https://www.thorntonco.gov/government/infrastructure/engineering/Documents/Benchmark%20List.pdf  
+      url: https://www.thorntonco.gov/media/file/survey-benchmarks  
 - state: Delaware  
   databases:
     - title: The Delaware Geological Society Guide to Information on Benchmarks in Delaware
