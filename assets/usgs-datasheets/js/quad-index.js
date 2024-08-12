@@ -53,7 +53,7 @@ function clearFeature(e) {
 
 function goToState(e) {
     var stateUrlName = e.target.feature.properties.NAME.toLowerCase().replace(/\s+/g, "-");
-    var stateUrl = stateUrlName + '/';
+    var stateUrl = stateUrlName;
     window.open(stateUrl, "_parent");
 }
 

@@ -22,7 +22,7 @@
       {% if page.title == "Index" %}
       <ul>
         {% for item in site.data.states-usgs-datasheets %}
-          <li><a href="/usgs-datasheets/{{ item.state | slugify }}/">{{ item.state }}</a></li>
+          <li><a href="/usgs-datasheets/{{ item.state | slugify }}">{{ item.state }}</a></li>
         {% endfor %}
         </ul>
       {% endif %}
