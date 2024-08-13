@@ -40,7 +40,7 @@ _inputs:
       type:
         type: select
         options:
-         values:
+          values:
           - Azimuth Mark Disk
           - Bench Mark Disk
           - Boundary Monument
