@@ -41,52 +41,52 @@ _inputs:
         type: select
         options:
           values:
-          - Azimuth Mark Disk
-          - Bench Mark Disk
-          - Boundary Monument
-          - Cadastral Survey Disk
-          - Chiseled Cross
-          - Chiseled Square
-          - Chiseled T
-          - Control Point
-          - Copper Bolt
-          - CORS Station
-          - Downtown Restoration Program Disk
-          - Drill Hole
-          - Earthquake Research Disk
-          - Electronic Traverse Station Disk
-          - Elevation Mark
-          - Forest Health Inventory and Monitoring Disk
-          - Gaging Station Disk
-          - Geodetic Control Survey Disk
-          - GPS Survey Monument
-          - Gravity Station Disk
-          - Horizontal Control Disk
-          - Hydrographic Station Disk
-          - Iron Bolt
-          - Landmark/Intersection Station
-          - Lead Bolt
-          - Mag Nail with Washer
-          - Project Control Marker
-          - Railroad Spike
-          - Range Marker
-          - Reference Mark Disk
-          - Right of Way Disk
-          - Rivet
-          - Shelf
-          - Steel Rod
-          - Survey Control Mark
-          - Survey Disk
-          - Survey Mark
-          - Tidal Bench Mark Disk
-          - Topographic Station Disk
-          - Transit Traverse Station Disk
-          - Traverse Rod with Disk
-          - Traverse Station Disk
-          - Triangulation Station Disk
-          - Unspecified Disk
-          - Vertical Control Mark
-          - Vista Management Area Disk
+            - Azimuth Mark Disk
+            - Bench Mark Disk
+            - Boundary Monument
+            - Cadastral Survey Disk
+            - Chiseled Cross
+            - Chiseled Square
+            - Chiseled T
+            - Control Point
+            - Copper Bolt
+            - CORS Station
+            - Downtown Restoration Program Disk
+            - Drill Hole
+            - Earthquake Research Disk
+            - Electronic Traverse Station Disk
+            - Elevation Mark
+            - Forest Health Inventory and Monitoring Disk
+            - Gaging Station Disk
+            - Geodetic Control Survey Disk
+            - GPS Survey Monument
+            - Gravity Station Disk
+            - Horizontal Control Disk
+            - Hydrographic Station Disk
+            - Iron Bolt
+            - Landmark/Intersection Station
+            - Lead Bolt
+            - Mag Nail with Washer
+            - Project Control Marker
+            - Railroad Spike
+            - Range Marker
+            - Reference Mark Disk
+            - Right of Way Disk
+            - Rivet
+            - Shelf
+            - Steel Rod
+            - Survey Control Mark
+            - Survey Disk
+            - Survey Mark
+            - Tidal Bench Mark Disk
+            - Topographic Station Disk
+            - Transit Traverse Station Disk
+            - Traverse Rod with Disk
+            - Traverse Station Disk
+            - Triangulation Station Disk
+            - Unspecified Disk
+            - Vertical Control Mark
+            - Vista Management Area Disk
       status:
         type: select  
         options:
