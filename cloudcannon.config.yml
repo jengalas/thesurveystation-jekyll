@@ -53,6 +53,9 @@ collections_config:
     disable_file_actions: false
     _enabled_editors:
       - data  
+    schemas:
+      default:
+        path: .cloudcannon/schemas/surveymark.md  
     preview:
       text:
       - key: designation
