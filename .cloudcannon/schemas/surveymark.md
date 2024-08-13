@@ -31,7 +31,6 @@ galleries:
     - filename: 
       alt: 
 featured_image: 
----
 
 _inputs:
   pid:
@@ -118,3 +117,4 @@ _inputs:
     type: markdown  
   featured_image:
     type: text
+---
