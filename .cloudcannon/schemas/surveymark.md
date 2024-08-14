@@ -240,6 +240,7 @@ _inputs:
     label: Rich's Narrative
   featured_image:
     type: text
+  remove_empty_inputs: hidden   
     
 remove_empty_inputs: true    
 ---
