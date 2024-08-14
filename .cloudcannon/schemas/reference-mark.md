@@ -20,6 +20,8 @@ official_description: >-
 status:
 condition:
 ngs_report:
+coordinates_submitted:
+photos_submitted:
 ngs_report_text: >-
 
 usgs_report: 
@@ -239,6 +241,8 @@ _inputs:
     type: checkbox      
     label: NGS Report Submitted
   coordinates_submitted:
+    type: checkbox    
+  photos_submitted:
     type: checkbox      
   ngs_report_text:
     type: markdown  
