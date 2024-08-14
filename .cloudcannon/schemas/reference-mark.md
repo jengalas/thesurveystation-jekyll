@@ -160,6 +160,65 @@ _inputs:
         - Water Tank
         - Water Tower
         - Wooden Cross
+  agency:
+    type: select
+    options:
+      values:
+        - Adirondack Surveys
+        - Aquatrak
+        - Army Corps of Engineers
+        - AT&T
+        - AZDOT
+        - Boston Museum of Science
+        - Bureau of Land Management
+        - Central Railroad of New Jersey
+        - City of Hazleton
+        - Clark County Surveyor’s Office
+        - County of Carbon
+        - Defense Map Agency
+        - Delaware and Hudson Railroad
+        - Delaware Dept. of Highways and Transportation
+        - Erie Lackawanna Railroad
+        - Florida Dept. of Environmental Protection
+        - Florida Dept. of Natural Resources
+        - Florida DOT
+        - International Boundary and Water Commission
+        - International Boundary Commission
+        - Keith & Schnars
+        - Lehigh Valley Railroad
+        - Local Engineer
+        - MaineDOT
+        - MDDOT
+        - Metropolitan Transportation Authority
+        - National Ocean Service
+        - National Park Service
+        - New Jersey Division of Conservation and Development
+        - New Jersey Division of Parks & Forestry
+        - New Jersey Geodetic Survey
+        - New Jersey Geological Survey
+        - NGS
+        - NYBE+A
+        - NYPA
+        - NYSDOT
+        - PA Dept. of Highways
+        - PennDOT
+        - Pennsylvania State University
+        - Pima County DOT
+        - Port Authority of NY & NJ
+        - Port Authority Trans-Hudson
+        - Shephard-Wesnitzer
+        - U. S. Coast Guard
+        - U. S. Department of Agriculture
+        - U. S. DOT
+        - U. S. Engineers
+        - U. S. Forest Service
+        - U. S. General Land Office
+        - U.S. Bureau of Public Roads
+        - U.S. Supreme Court
+        - Unknown
+        - USGS
+        - Western Mapping Company
+        - Wilson and Company 
   status:
     type: select  
     options:
