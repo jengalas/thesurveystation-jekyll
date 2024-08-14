@@ -230,7 +230,6 @@ _inputs:
     type: markdown
     label: Zhanna's Narrative
   rich_text:
-    type: markdown
     label: Rich's Narrative
   featured_image:
     type: text
