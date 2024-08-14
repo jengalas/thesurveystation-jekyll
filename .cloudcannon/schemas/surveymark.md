@@ -241,8 +241,7 @@ _inputs:
   featured_image:
     type: text
   remove_empty_inputs:
-    options: 
-      hidden: true  
+    hidden: true  
     
 remove_empty_inputs: true    
 ---
