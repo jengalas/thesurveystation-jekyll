@@ -21,6 +21,6 @@ galleries:
     - filename: 43x-resetg1
       alt: Eyelevel view of the disk; looking NW across Las Vegas Boulevard
     - filename: 43x-resetg2
-      alt: Looking SE toward the intersection of Stanley Brook Road and Jordan Pond Road 
+      alt: The disk is near an escalator at the Miracle Mile Shops plaza
 featured_image: 43x-resetcsm.jpg
 ---
