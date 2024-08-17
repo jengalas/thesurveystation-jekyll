@@ -13,5 +13,14 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+galleries:    
+  gallery_zh:
+    images:    
+    - filename: 54x-reset
+      alt: Clark County Nevada Las Vegas Boulevard Right of Way Disk 54 X RESET    
+    - filename: 54x-resetg1
+      alt: Eyelevel view of the disk; looking SW across Las Vegas Boulevard
+    - filename: 54x-resetg2
+      alt: Looking N along Las Vegas Boulevard
 featured_image: 54x-resetcsm.jpg
 ---
