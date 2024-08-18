@@ -261,8 +261,7 @@ _inputs:
     label: Rich's Narrative
   featured_image:
     type: text
-  remove_empty_inputs:
-    hidden: true
+  remove_empty_inputs: true
     
 remove_empty_inputs: true    
 ---
