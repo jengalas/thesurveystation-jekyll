@@ -4,7 +4,11 @@ layout: default
 permalink: /resurvey-of-the-heart-of-the-grand-canyon/
 ---
 
-# {{ page.title }}
+# Resurvey of the Heart of the Grand Canyon
+
+* TOC
+{:toc}
+{::options toc_levels="2" /}
 
 1971-1978
 
@@ -15,10 +19,6 @@ A joint project under the direction of **Bradford Washburn**.
 Final Report by Bradford Washburn, Director of the Museum
 
 The first formal map of the Bright Angel area of the Grand Canyon was published in 1903 as a result of the extraordinary survey of 1902-03 by parties of the U. S. Geological Survey under the leadership of E. M. Douglas — with topography by François Matthes and control by H. L. Baldwin, Jr., and J. T. Stewart. This excellent “reconnaissance” map (scale 1:48,000, with 40-foot contours) was not materially improved until the new USGS Bright Angel Quadrangle (scale 1:62,500, with 80-foot contours) was published in 1960, by photogrammetric methods, from aerial photographs taken in 1954 and 1960.
-
-* TOC
-{:toc}
-{::options toc_levels="2" /}
 
 ## Narrative
 
@@ -314,18 +314,18 @@ Delivery of final cronaflex copies of scribed sheets:
 
 **Applications and Approvals**
 
-1. Application made on October 15, 1971\
+18. Application made on October 15, 1971\
 Approval on December 10, 1971:      **$30,000**  
-2. Application made on May 2, 1972\
+19. Application made on May 2, 1972\
 Approval on June 8, 1972 (add 1 mile to N. edge):      **$5,000**  
-3. Application made on November 13, 1972 (letter-report of October 30)\
+20. Application made on November 13, 1972 (letter-report of October 30)\
 Approval on December 20, 1972\
 (add 3 more miles to N. edge and 2 miles all along E. edge):   **$22,537**  
-4. Final accounting sent to the NGS on December 5, 1974 and response from Dr. Payne on December 9, 1974
-5. Map was printed in May, 1978\
+21. Final accounting sent to the NGS on December 5, 1974 and response from Dr. Payne on December 9, 1974
+22. Map was printed in May, 1978\
 10,485,000 sheets, 6 colors (reduced size to fit magazine)\
 In June 1978 34,500 full-size sheets were printed for public sale and inclusions, later, with final report on project in National Geographic Research Reports
-6. Manuscript finally revised by Bradford Washburn in the winter of 1979 and completely-revised final scribed manuscript sent for filing at NGS on November 15, 1979. One set of 17 composite scribed positive cronaflex sheets sent to BW and NGS on the same date.
+23. Manuscript finally revised by Bradford Washburn in the winter of 1979 and completely-revised final scribed manuscript sent for filing at NGS on November 15, 1979. One set of 17 composite scribed positive cronaflex sheets sent to BW and NGS on the same date.
 
 ## Grand Canyon Survey 1971 – 75 Station Types
 
@@ -593,3 +593,7 @@ Three USGS stations were occupied with both theodolite and laser:\
 | "                | "           | Rowe            | 11,160.76      | 11,156.02     |
 | "                | "           | Middle          | 10,292.05      | 10,285.93     |
 | Zoroaster        | 7121.70     | Obi             | 17,321.00      | 17,294.21     |
+
+## View Original Report
+
+[View/download the original report: Resurvey of the Heart of the Grand Canyon](/assets/docs/publications/canyonsurvey.pdf)
