@@ -5,6 +5,7 @@ $bodyFontSize: 1.2rem;
 html, body {
   height: 100%;
   width: 100%;
+  scroll-behavior: smooth;
 }
 * {
   box-sizing: border-box;
@@ -98,5 +99,26 @@ footer {
     footer-widgets > * {
         width: calc(100% / 3);
     }
+  }
+}
+#scroll-to-top {
+  background-color: rgba( 0,0,0,0.4 ); 
+  border: 3px solid white;
+  border-radius: 3px;
+  bottom: 20px;
+  color: white;
+  cursor: pointer;
+  display: none; 
+  font-size: 18px;
+  font-weight: 700;
+  outline: none; 
+  padding: 12px 12px 7px 12px; 
+  position: fixed;    
+  right: 30px; 
+  transition: all 3s ease-in-out;
+  z-index: 99;
+
+  &:hover {
+    background-color: rgba( 0,0,0,0.6 );
   }
 }

@@ -596,4 +596,4 @@ Three USGS stations were occupied with both theodolite and laser:\
 
 ## View Original Report
 
-[View/download the original report: Resurvey of the Heart of the Grand Canyon](/assets/docs/publications/canyonsurvey.pdf)
+View/download the original report: [Resurvey of the Heart of the Grand Canyon](/assets/docs/publications/canyonsurvey.pdf)

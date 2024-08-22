@@ -105,3 +105,40 @@ const resetAccordions = (targetIndex) => {
   });
 };
 
+/******************************************************************************
+Back-to-Top Button 
+*******************************************************************************/
+
+const header = document.querySelector('.nav-wrapper');
+
+const scrollTopBtn = document.getElementById("scroll-to-top");
+
+function scrollHeader() {
+  let top = window.scrollY;
+
+  if (top >= 80) {
+      header.classList.add('active');
+  } else {
+      header.classList.remove('active');
+  }
+}
+
+// When the user scrolls down 20px from the top of the document, show the back-to-top button
+function scrollToTop() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    scrollTopBtn.style.display = "block";
+  } else {
+    scrollTopBtn.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+window.onscroll = function() {
+  scrollHeader();
+  scrollToTop();
+}
