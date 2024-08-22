@@ -1,0 +1,325 @@
+- d0: Geodetic Control Diagrams
+  d1:
+    - name: Alabama
+      file:
+        - name: Andalusia, Alabama (NH 16-2).pdf
+        - name: Birmingham, Alabama (NI 16-8).pdf
+        - name: Dothan, Alabama_Georgia_Florida (NH 16-3).pdf
+        - name: Gadsen, Alabama_TN (NI 16-5).pdf
+        - name: Mobile, Alabama- Mississippi_Louisiana (NH 16-4).pdf
+        - name: Montgomery, Alabama (NI 16-11).pdf
+        - name: Phenix City, Alabama_Georgia (NI 16-12).pdf
+    - name: Alaska
+      file:
+        - name: Anchorage, Alaska U.S. , Yukon, Can.pdf
+        - name: Anchorage, Alaska_Yukon, Canada.pdf
+        - name: Bethel, Alaska April 1983.pdf
+        - name: Cold Bay, Alaska April 1985.pdf
+        - name: Cold Bay, Alaska.pdf
+        - name: Dawson, Yukon, Can. _ Alaska, U.S. April 1987.pdf
+        - name: Dutch Harbor, Alaska.pdf
+        - name: Fairbanks, Alaska June 1985.pdf
+        - name: Fairbanks, Alaska.pdf
+        - name: Juneau, Alaska U.S. _ British Columbia, Can. July 1984.pdf
+        - name: Ketchikan, Alaska U.S. _ British Columbia, Can. , Sept. 1986.pdf
+        - name: Ketchikan, Alaska_British Columbia, Canada.pdf
+        - name: Kodiak, Alaska, May 1987.pdf
+        - name: Kodiak, Alaska.pdf
+        - name: McGrath, Alaska, April 1984.pdf
+        - name: McGrath, Alaska.pdf
+        - name: Nome, Alaska U.S., U.S.S.R. , Nov. 1981.pdf
+        - name: Nome, Alaska_USSR.pdf
+        - name: Western Aleutian Islands, Alaska June 1987.pdf
+    - name: Arizona
+      file:
+        - name: Ajo, Arizona USA_Mexico (NI 12-10).pdf
+        - name: Clifton, Arizona_NM (NI 12-9).pdf
+        - name: Douglas, Arizona_NM (NH 12-3).pdf
+        - name: Flagstaff, Arizona (NI 12-2).pdf
+        - name: Grand Canyon, Arizona (NJ 12-10).pdf
+        - name: Holbrook, Arizona (NI 12-5).pdf
+        - name: Kingman, Arizona_Nevada_California (NI 11-3).pdf
+        - name: Lukeville, Arizona (NH 12-1).pdf
+        - name: Marble Canyon, Arizona_UT (NJ 12-11).pdf
+        - name: Mesa, Arizona (NI 12-8).pdf
+        - name: Nogales, Arizona (NH 12-2).pdf
+        - name: Phoenix, Arizona (NI 12-7).pdf
+        - name: Prescott, Arizona (NI 12-4).pdf
+        - name: Saint Johns, Arizona_NM (NI 12-6).pdf
+        - name: Tucson, Arizona (NI 12-11).pdf
+        - name: Williams, Arizona (NI 12-1).pdf
+    - name: Arkansas
+      file:
+        - name: Blytheville, Arkansas_TN_AL_MO (NI 16-1).pdf
+        - name: El Dorado, Arkansas_Louisiana (NI 15-8).pdf
+        - name: Fort Smith, Arkansas_OK (NI 15-1).pdf
+        - name: Harrison, Arkansas_MO (NJ 15-11).pdf
+        - name: Helena, Arkansas_MS_TN (NI 15-6).pdf
+        - name: Little Rock, Arkansas (NI 15-5).pdf
+        - name: Russellville, Arkansas (NI 15-2).pdf
+    - name: California
+      file:
+        - name: Alturas, California_OR (NK 10-9).pdf
+        - name: Bakersfield, California (NI 11-1).pdf
+        - name: Chico, California_NV (NJ 10-3).pdf
+        - name: Death Valley, California_NV (NJ 11-11).pdf
+        - name: El Centro, California_Arizona (NI 11-12).pdf
+        - name: Eureka, California_OR (NK 10-7, 10).pdf
+        - name: Fresno, California (NJ 11-10).pdf
+        - name: Long Beach, California (NI 11-7).pdf
+        - name: Los Angeles, California (NI 11-4).pdf
+        - name: Mariposa, California_NV (NJ 11-7).pdf
+        - name: Needles, California_AZ (NI 11-6).pdf
+        - name: Redding, California (NK 10-11).pdf
+        - name: Sacramento, California (NJ 10-6).pdf
+        - name: Salton Sea, California_Arizona (NI 11-9).pdf
+        - name: San Bernadino, California (NI 11-5).pdf
+        - name: San Diego, California (NI 11-11).pdf
+        - name: San Francisco, California (NJ 10-8).pdf
+        - name: San Jose, California (NJ 10-9).pdf
+        - name: San Luis Obispo, California (NI 10-3).pdf
+        - name: Santa Ana, California (NI 11-8).pdf
+        - name: Santa Cruz, California (NJ 10-12).pdf
+        - name: Santa Maria, California (NI 10-6, 9).pdf
+        - name: Santa Rosa, California (NJ 10-5).pdf
+        - name: Trona, California (NI 11-2).pdf
+        - name: Ukiah, California (NJ 10-2).pdf
+        - name: Weed, California_OR (NK 10-8).pdf
+        - name: Westwood, California (NK 10-12).pdf
+    - name: Canada
+      file:
+        - name: Blind River, Ontario, Canada_MI (NL 17-4).pdf
+        - name: Campbellton, New Brunswick, Canada_Maine (NL 19-3).pdf
+        - name: Edmundston, New Brunswick, Quebec, Canada_Maine (NL 19-2).pdf
+        - name: Fort William, Ontario, Canada_MI (NM 16-10).pdf
+        - name: Fredericton, New Brunswick, Canada_Maine (Nl 19-9).pdf
+        - name: Kingston, Ontario, Canada_NY (NL 18-10).pdf
+        - name: Ogdensburg_USA_Canada (NL 18-11).pdf
+        - name: Quebec, Quebec, Canada_Maine (NL 19-4).pdf
+        - name: Quetico Ontario, Canada_MN (NM 15-12).pdf
+        - name: Sherbrooke, Canada_USA (NL 19-7).pdf
+        - name: Toronto, Canada_USA (NK 17-3).pdf
+        - name: Victoria, BC, Canada_WA (NM 10-11).pdf
+        - name: Woodstock, New Brunswick Canada_Maine (NL 19-6).pdf
+    - name: Colorado
+      file:
+        - name: Cortez, Colorado_UT (NJ 12-9).pdf
+        - name: Craig, Colorado_WY (NK 13-10).pdf
+        - name: Denver, Colorado (NJ 13-2).pdf
+        - name: Durango, Colorado (NJ 13-7).pdf
+        - name: Grand Junction, Colorado_UT (NJ 12-3).pdf
+        - name: Greeley, Colorado_WY (NK 13-11).pdf
+        - name: La Junta, Colorado_KS (NJ 13-9).pdf
+        - name: Lamar, Colorado_KS (NJ 13-6).pdf
+        - name: Leadville, Colorado (NJ 13-1).pdf
+        - name: Limon, Colorado_KS (NJ 13-3).pdf
+        - name: Montrose, Colorado (NJ 13-4).pdf
+        - name: Pueblo, Colorado (NJ 13-5).pdf
+        - name: Sterling, Colorado_NB_KS (NK 13-12).pdf
+        - name: Trinidad, Colorado (NJ 13-8).pdf
+    - name: Connecticut
+      file:
+        - name: Hartford, Connecticut_NY (NK 18-9).pdf
+    - name: Delaware
+      file:
+        - name: Wilmington, Delaware_NJ_PA_MD (NJ 18-2).pdf
+    - name: Florida
+      file:
+        - name: Apalachicola, Florida (NH 16-9).pdf
+        - name: Daytona Beach, Florida (NH 17-8).pdf
+        - name: Fort Pierce, Florida (NG 17-2).pdf
+        - name: Gainesville, Florida (NH 17-7).pdf
+        - name: Jacksonville, Florida- Georgia (NH 17-5).pdf
+        - name: Key West, Florida (NG 17-11).pdf
+        - name: Miami, Florida (NG 17-8).pdf
+        - name: Orlando, Florida (NH 17-11).pdf
+        - name: Pensacola, Florida-Alabama (NH 16-5).pdf
+        - name: Plant City, Florida (NH 17-10).pdf
+        - name: Tallahassee, Florida-Georgia-Alabama (NH 16-6).pdf
+        - name: Tampa, Florida (NG 17-1,4).pdf
+        - name: West Palm Beach, Florida (NG 17-5).pdf
+    - name: Georgia
+      file:
+        - name: Athens, Georgia_South Carolina (NI 17-7).pdf
+        - name: Atlanta, Georgia_Alabama (NI 16-9).pdf
+        - name: Augusta, Georgia_South Carolina (NI 17-8).pdf
+        - name: Brunswick, Georgia (NH 17-2).pdf
+        - name: Macon, Georgia (NI 17-10).pdf
+        - name: Rome, Georgia_AL_TN_NC (NI 16-6).pdf
+        - name: Savannah,Georgia_South Carolina (NI 17-11).pdf
+        - name: Valdosta, Georgia- Florida (NH 17-4).pdf
+        - name: Waycross, Georgia (NH 17-1).pdf
+    - name: Hawaii
+      file:
+        - name: Hawaii, Hawaii (NE 5-1, 5).pdf
+        - name: Kauai, Hawaii (NF 4-6).pdf
+        - name: Maui, Hawaii (NF 4-16).pdf
+        - name: Oahu, Hawaii (NF 4-11).pdf
+    - name: Idaho
+      file:
+        - name: Ashton, Idaho_MT_WY (NL 12-11).pdf
+        - name: Boise, Idaho_OR (NK 11-2).pdf
+        - name: Challis, Idaho (NL 11-12).pdf
+        - name: Driggs, Idaho_WY (NK 12-2).pdf
+        - name: DuBois, Idaho_MT (NL 12-10).pdf
+        - name: Elk City, Idaho_MT (NL 11-9).pdf
+        - name: Grangeville, Idaho_OR_WA (NL 11-8).pdf
+        - name: Hailey, Idaho (NK 11-3).pdf
+        - name: Idaho Falls, Idaho (NK 12-1).pdf
+        - name: Pocatello, Idaho (NK 12-4).pdf
+        - name: Preston, Idaho_WY (NK 12-5).pdf
+        - name: Sandpoint Idaho, WA_MT (NM 11-11).pdf
+        - name: Twin Falls, Idaho (NK 11-6).pdf
+        - name: Wallace, Idaho_MT (NL 11-3).pdf
+    - name: Illinois
+      file:
+        - name: Aurora, Illinois (NK 16-7).pdf
+        - name: Belleville, Illinois_IN (NJ 16-4).pdf
+        - name: Chicago, Illinois, IN, MI (NK 16-8).pdf
+        - name: Danville, Illinois_IN (NK 16-11).pdf
+        - name: Decatur, IL (NJ 16-1).pdf
+        - name: Peoria, Illinois (NK 16-10).pdf
+        - name: Quincy, IL_MO (NJ 15-3).pdf
+        - name: Rockford, Illinois_WI (NK 16-4).pdf
+    - name: Indiana
+      file: 
+        - name: Evansville, Indiana_KY (NJ 16-8).pdf
+        - name: Fort Wayne, Indiana_MI_OH (NK 16-9).pdf
+        - name: Indianapolis, Indiana_IL (NJ 16-2).pdf
+        - name: Muncie, Indiana_OH (NK 16-12).pdf
+        - name: Vincennes, Indiana_IL_KY (NJ 16-5).pdf
+    - name: Iowa
+      file:
+        - name: Burlington, Iowa_IL_MO (NK 15-12).pdf
+        - name: Centerville, Iowa_MO (NK 15-11).pdf
+        - name: Davenport, Iowa_IL (NK 15-9).pdf
+        - name: Des Moines, Iowa (NK 15-8).pdf
+        - name: Dubuque, Iowa_WI_IL (NK 15-6).pdf
+        - name: Fort Dodge, Iowa (NK 15-4).pdf
+        - name: Mason City, Iowa_MN (NK 15-2).pdf
+        - name: Sioux City, Iowa_NE_SD (NK 14-6).pdf
+        - name: Waterloo, Iowa (NK 15-5).pdf
+    - name: Kansas
+      file: 
+        - name: Beloit, Kansas (NJ 14-2).pdf
+        - name: Dodge City, Kansas (NJ 14-7).pdf
+        - name: Goodland, Kansas (NJ 14-1).pdf
+        - name: Great Bend, Kansas (NJ 14-5).pdf
+        - name: Hutchinson, Kansas (NJ 14-6).pdf
+        - name: Manhattan, Kansas (NJ 14-3).pdf
+        - name: Pratt, Kansas (NJ 14-8).pdf
+        - name: Scott City, Kansas (NJ 14-4).pdf
+        - name: Wichita, Kansas (NJ 14-9).pdf
+    - name: Kentucky
+      file: 
+        - name: Corbin, Kentucky_TN (NJ 16-12).pdf
+        - name: Jenkins, Kentucky_VA_WV (NJ 17-7).pdf
+        - name: Louisville, Kentucky IN_OH (NJ 16-6).pdf
+        - name: Paducah, Kentucky_IL_MO_IN (NJ 16-7).pdf
+        - name: Winchester, Kentucky (NJ 16-9).pdf
+    - name: Louisiana
+      file: 
+        - name: Alexandria, Louisiana _ Texas (NH 15-2).pdf
+        - name: Baton Rouge, Louisiana (NH 15-6).pdf
+        - name: Breton Sound, Louisiana (NH 16-7).pdf
+        - name: Lake Charles, Louisiana_Texas (NH 15-5).pdf
+        - name: New Orleans, Louisiana (NH 15-9).pdf
+        - name: Port Arthur, Texas_ Louisiana (NH 15-8).pdf
+        - name: Shreveport, Louisiana (NI 15-11).pdf
+    - name: Maine
+      file:
+        - name: Bangor, Maine (NL 19-11).pdf
+        - name: Bath, Maine (NK 19-2).pdf
+        - name: Eastport, Maine USA_Nova Scotia_New Brunswick_Canada (NL 19-12).pdf
+        - name: Lewiston, Maine_NH_VT (NL 19-10).pdf
+        - name: Millinocket, Maine (NL 19-8).pdf
+        - name: Portland, Maine_NH (NK 19-1).pdf
+        - name: Presque Isle, Maine_Quebec (NL 19-5).pdf
+    - name: Maryland
+      file: 
+        - name: Baltimore, Maryland_VA_WV_PA (NJ 18-1).pdf
+        - name: Cumberland, MD_PA_VA_WV (NJ 17-3).pdf
+        - name: Salisbury, Maryland_DE_NJ_VA (NJ 18-5).pdf
+    - name: Massachusetts
+      file:
+        - name: Boston, MA_NH_CT_RI_ME (NK 19-4).pdf
+    - name: Michigan
+      file:
+        - name: Alpena, Michigan (NL 17-7).pdf
+        - name: Cheboygan Michigan (NL 16-9).pdf
+        - name: Detroit, Michigan_Canada (NK 17-4).pdf
+        - name: Escanaba, Michigan_WI (NL 16-8).pdf
+        - name: Flint, Michigan_USA_Canada (NK 17-1 (40-0) ).pdf
+        - name: Grand Rapids, Michigan (NK 16-6).pdf
+        - name: Hancock, Michigan_WI (Nl 16-1.2).pdf
+        - name: Iron Mountain, Michigan_WI (NL 16-7).pdf
+        - name: Iron River, Michigan_WI (NL 16-4).pdf
+        - name: Marquette, Michigan (NL 16-5).pdf
+        - name: Midland, Michigan (NK 16-3).pdf
+        - name: Sault Sainte Marie, Michgan (Nl 16-6 (41-K)).pdf
+        - name: Tawas City, Michigan (NL 17-10).pdf
+        - name: Traverse City, Michigan (NL 16-12).pdf
+    - name: Minnesota
+      file: 
+        - name: Bemidji, Minnesota (NL 15-1).pdf
+        - name: Brainerd, Minnesota (NL 15-4).pdf
+        - name: Duluth, Minnesota_WI (NL 15-5).pdf
+        - name: Fairmont, Minnesota_IA (NK 15-1).pdf
+        - name: Hibbing, Minnesota (NL 15-2).pdf
+        - name: International Falls, Minnesota (NM 15-11 (52-C)).pdf
+        - name: New Ulm, Minnesota (NL 15-10).pdf
+        - name: Roseau, Minnesota (NM 15-10(52-D)).pdf
+        - name: Saint Cloud, Minnesota (NL 15-7).pdf
+        - name: Saint Paul, Minnesota_WI (NL 15-11).pdf
+        - name: Stillwater, Minnesota_WI (NL 15-8).pdf
+        - name: Thief River Falls, Minnesota_ND (NM 14-12).pdf
+        - name: Two Harbors, MN_WI_MI (NL 15-3).pdf
+    - name: Mississippi
+      file:
+        - name: Greenwood, Mississippi_Arkansas_Louisana (NI 15-9).pdf
+        - name: Hattiesburg, Mississippi_ Alabama_Louisiana (NH 16-1).pdf
+        - name: Jackson, Mississippi_Louisiana (NI 15-12).pdf
+        - name: Meridian, Mississippi_Alabama (NI 16-10).pdf
+        - name: Natchez, Mississippi_Louisiana (NH 15-3).pdf
+        - name: Tupelo, Mississippi_AL_TN (NI 16-4).pdf
+        - name: West Point, Mississippi_Alabama (NI 16-7).pdf
+    - name: Missouri
+      file: 
+        - name: Jefferson City, Missouri (NJ 15-5).pdf
+        - name: Joplin, Missouri_KS (NJ 15-7).pdf
+        - name: Kansas City, Missouri_KS (NJ 15-1).pdf
+        - name: Lawrence, Kansas_MO (NJ 15-4).pdf
+        - name: Moberly, Missouri (NJ 15-2).pdf
+        - name: Poplar Bluff, Missouri_AR (NJ 15-12).pdf
+        - name: Rolla, Missouri_IL (NJ 15-9).pdf
+        - name: Springfield, Missouri (NJ 15-8).pdf
+        - name: St. Louis, Missouri_IL (NJ 15-6).pdf
+    - name: Montana
+    - name: Nebraska
+    - name: Nevada
+    - name: New Jersey
+    - name: New Mexico
+    - name: New York
+    - name: North Carolina
+    - name: North Dakota
+    - name: Ohio
+    - name: Oklahoma
+    - name: Oregon
+    - name: Pennsylvania
+    - name: Rhode Island
+    - name: South Carolina
+    - name: South Dakota
+    - name: Tennessee
+    - name: Texas
+    - name: Utah
+    - name: Virginia
+    - name: Washington DC
+    - name: Washington
+    - name: West Virginia
+    - name: Wisconsin
+    - name: Wyoming
+    - name: Geodetic Control Diagram Index MAP.pdf
+    - name: Puerto Rico - Virgin Islands.pdf
+    - name: Quad_45x122.pdf
+    - name: Quad_45x84.pdf
+- d0: California
