@@ -137,3 +137,22 @@
     border: 1px solid #d1d3e2;
     padding: 1rem 3rem;
 }
+
+/* NGS documents treeview */
+
+.tree {
+    padding-left: .2rem;
+
+  li {
+    cursor: pointer;
+    list-style-type: none;
+  }
+
+  summary:focus {
+    outline: none;
+  }
+      
+  summary:focus-visible {
+    outline: 1px dotted #000;
+  }
+}
