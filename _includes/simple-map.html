@@ -13,7 +13,7 @@
 {% assign height = include.height %}
 {% assign width = include.width %}
 
-<div style="height: {{ height }}; width: {{ width }}; margin-bottom: 2rem;" class="align{{ align }} clearboth">
+<div style="height: {{ height }}; width: {{ width }}; margin-bottom: 1rem; display: flex; flex-direction: column;" class="align{{ align }} clearboth">
    <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
    <div><a href="https://www.google.com/maps/search/?api=1&query={{ latitude }},{{ longitude }}">Google Map</a></div>
 </div>

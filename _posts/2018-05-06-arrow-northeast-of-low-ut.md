@@ -5,15 +5,21 @@ date: '2018-05-06T17:27:00-05:00'
 tags: ["airway beacons"]
 excerpt: >-
   Dave Izatt has submitted some photos of the arrow at the site of San Francisco—Salt Lake Airway Beacon 57! 
-featured_image: 
+featured_image: lp0496.jpg
 galleries:
   gallery1:
     images:    
-    - filename: 
-      alt: 
+    - filename: IMG_0031cl-1024x768
+      alt: View NE
+    - filename: IMG_0033cl-1024x768
+      alt: View SE
+    - filename: IMG_0034cl-1024x768
+      alt: Looking southeast toward I-80
+    - filename: IMG_0035cl-1024x768
+      alt: You can drive to this one, just be prepared!                  
 ---
 
-{% include simple-map.html map_id="1" latitude="40.826389" longitude="-112.903333" zoom="15" marker_name="San Francisco—Salt Lake Airway Beacon 57" align="right" height="490px" width="650px" %}
+{% include simple-map.html map_id="1" latitude="40.8265113" longitude="-112.905751" zoom="15" marker_name="San Francisco—Salt Lake Airway Beacon 57" align="right" height="490px" width="650px" %}
 
 Dave Izatt has submitted the following photos of [LP0496](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0496) - SAN FRANCIS SALT LK AWY BN 57. The tower is gone, but the arrow is intact. Dave says that a 4-wheel drive vehicle with high clearance is required to drive directly to the arrow.
 
@@ -31,4 +37,4 @@ The beacon tower's description is difficult to find now, because it has been mar
 
 Thanks, Dave, for your contribution!
 
-[justified_image_grid row_height=200 exclude=15971]
+{% include post_gallery.html gallery_id="gallery1" class="justify" %}
