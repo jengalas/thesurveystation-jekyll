@@ -4,7 +4,7 @@ date: '2022-09-14T09:48:04-04:00'
 latitude: 44.300752
 longitude: 68.244226
 state: Maine
-county: Hancock
+county: Hancock County
 quad: Seal Harbor Quad
 type: Boundary Monument
 setting: Granite Post
