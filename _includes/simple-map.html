@@ -4,23 +4,32 @@
      {% assign basemap = 'USGS Topo' %}
 {% endif %}
 
-<div style="height: {{ page.height_px }}px; width: {{ page.width_px }}px" class="align{{ page.align }}">
-   <div class="map" id="{{ page.id }}"></div>
-   <div><a href="https://www.google.com/maps/search/?api=1&query={{ page.latitude }},{{ page.longitude }}">Google Map</a></div>
+{% assign mapid = include.map_id %}
+{% assign latitude = include.latitude %}
+{% assign longitude = include.longitude %}
+{% assign zoom = include.zoom %}
+{% assign marker_name = include.marker_name %}
+{% assign align = include.align %}
+{% assign height = include.height %}
+{% assign width = include.width %}
+
+<div style="height: {{ height }}; width: {{ width }}; margin-bottom: 1rem; display: flex; flex-direction: column;" class="align{{ align }} clearboth">
+   <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
+   <div><a href="https://www.google.com/maps/search/?api=1&query={{ latitude }},{{ longitude }}">Google Map</a></div>
 </div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-   var markMap = L.map('{{ page.id }}', { fullscreenControl: true, }).setView([{{ page.latitude }}, {{ page.longitude }}], {{ page.zoom }});
+   var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([{{ latitude }}, {{ longitude }}], {{ zoom }});
    
-   var marker = L.marker([{{ page.latitude }}, {{ page.longitude }}]).addTo(markMap);
-   marker.bindPopup("{{ page.marker_name }}");
+   var marker = L.marker([{{ latitude }}, {{ longitude }}]).addTo(markMap);
+   marker.bindPopup("{{ marker_name }}");
 
    objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
    
    var objOverlays = {
-      '{{ page.marker_name }}' : marker
+      '{{ marker_name }}' : marker
    };     
 
    var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);  
