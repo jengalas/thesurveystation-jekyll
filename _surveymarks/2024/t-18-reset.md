@@ -1,17 +1,16 @@
 ---
-designation: 102
-pid: PE0905
-date: '2024-09-05T11:09:00-04:00'
-latitude: 44.426158
-longitude: 69.008282
+designation: T 18 RESET
+date: '2024-09-05T11:36:00-04:00'
+latitude: 44.431177
+longitude: 69.010081
 state: Maine
 county: Waldo County
 quad: Belfast Quad
-elevation: 101.84 ft.
+elevation: Unknown
 type: Bench Mark Disk
-setting: Water Table
-year_established: 1904
-agency: USGS
+setting: Bridge Abutment
+year_established: 2005
+agency: NGS
 status: Recovered
 condition: Good
 zhanna_text: >-
