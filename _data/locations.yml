@@ -139,6 +139,7 @@
         - name: Isle au Haut West Quad     
     - name: Waldo County
       quad:
+        - name: Belfast Quad
         - name: Bucksport Quad
         - name: Castine Quad
         - name: Searsport Quad   
