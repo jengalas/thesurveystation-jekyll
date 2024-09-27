@@ -1,0 +1,13 @@
+To add new marks, move the all-points.md file out of drafts and into _pages, so it will render.
+
+Go to the rendered page on the website at /all-points/
+
+Highlight and copy the new marks, then paste into a csv file.
+
+Open the .csv file in Excel; may need to do some manipulation to prevent Excel from converting the time/date field. 
+
+Add the header row: designation,status,condition,time,permalink,lon,lat,image and save the file.
+
+Then go to geojson.io and click Open. Open the .csv file and let it create the geojson file.
+
+Select and copy the new marks from the generated file, and then paste them at the top of /assets/data/all-points.geojson. Then check the map of recoveries to make sure the new marks were added and look correct.

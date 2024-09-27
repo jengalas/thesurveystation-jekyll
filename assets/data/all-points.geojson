@@ -4,6 +4,582 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "16718-11",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-18 13:14:11 -0400",
+          "permalink": "/surveymarks/16718-11-2/",
+          "image": "https://images.planetzhanna.com/2024/09/18/thumbnails/16718-11csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.238861,
+            44.295917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "HIGGINS RM 2",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-14 12:41:00 -0400",
+          "permalink": "/reference-marks/pe1870-rm-2-2/",
+          "image": "https://images.planetzhanna.com/2024/09/14/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.368774,
+            44.38902
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "HIGGINS RM 1",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-14 12:40:00 -0400",
+          "permalink": "/reference-marks/pe1870-rm-1-2/",
+          "image": "https://images.planetzhanna.com/2024/09/14/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.368542,
+            44.388964
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "HIGGINS",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-14 12:39:00 -0400",
+          "permalink": "/surveymarks/pe1870-2/",
+          "image": "https://images.planetzhanna.com/2024/09/14/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.368658,
+            44.388899
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "K 6",
+          "status": "Note Entered",
+          "condition": "Unknown (Not Found)",
+          "time": "2024-09-14 10:35:00 -0400",
+          "permalink": "/surveymarks/k-6/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.361975,
+            44.383142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "TIDAL 5 STA 12",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-12 11:05:00 -0400",
+          "permalink": "/surveymarks/pe0301/",
+          "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.311803,
+            44.27579
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "TIDAL 2 STA 12",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-12 11:00:00 -0400",
+          "permalink": "/surveymarks/pe0300/",
+          "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.312011,
+            44.275573
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "TIDAL 6 STA 12",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-12 10:40:00 -0400",
+          "permalink": "/surveymarks/pe0299/",
+          "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.312085,
+            44.275621
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "C 145",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "2024-09-12 10:30:00 -0400",
+          "permalink": "/surveymarks/pe0303/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.33448,
+            44.26362
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "F 145",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-11 12:58:00 -0400",
+          "permalink": "/surveymarks/pe0312/",
+          "image": "https://images.planetzhanna.com/2024/09/11/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.367861,
+            44.250694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "K 16",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-11 12:37:00 -0400",
+          "permalink": "/surveymarks/pe0318/",
+          "image": "https://images.planetzhanna.com/2024/09/11/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.404722,
+            44.314805
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "S 144",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "2024-09-10 13:10:00 -0400",
+          "permalink": "/surveymarks/pe0291/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.33337,
+            44.32946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "A 145",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-10 12:57:00 -0400",
+          "permalink": "/surveymarks/pe0294/",
+          "image": "https://images.planetzhanna.com/2024/09/10/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.329601,
+            44.290013
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "K 12",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-10 12:46:00 -0400",
+          "permalink": "/surveymarks/pe0292/",
+          "image": "https://images.planetzhanna.com/2024/09/10/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.333072,
+            44.313798
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "Q 144 RESET",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-10 12:32:00 -0400",
+          "permalink": "/surveymarks/pe0287/",
+          "image": "https://images.planetzhanna.com/2024/09/10/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.337821,
+            44.357146
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "NPS (Unstamped, Acadia #20)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-08 11:46:00 -0400",
+          "permalink": "/surveymarks/nps-unstamped-acadia-20/",
+          "image": "https://images.planetzhanna.com/2024/09/08/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.2868,
+            44.407676
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "NPS (Unstamped, Acadia #19)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-07 12:35:00 -0400",
+          "permalink": "/surveymarks/nps-unstamped-acadia-19/",
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.285908,
+            44.41655
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "NPS (Unstamped, Acadia #18)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-07 12:30:00 -0400",
+          "permalink": "/surveymarks/nps-unstamped-acadia-18/",
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.286295,
+            44.418198
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "NPS (Unstamped, Acadia #17)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-07 12:22:00 -0400",
+          "permalink": "/surveymarks/nps-unstamped-acadia-17/",
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.285543,
+            44.41943
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "NPS (Unstamped, Acadia #16)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-07 12:19:00 -0400",
+          "permalink": "/surveymarks/nps-unstamped-acadia-16/",
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.2856,
+            44.419631
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "Boundary Monument (Unstamped, #2)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-06 13:53:00 -0400",
+          "permalink": "/surveymarks/boundary-monument-unstamped-2/",
+          "image": "https://images.planetzhanna.com/2024/09/06/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.242992,
+            44.311268
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "T 18 RESET",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-05 11:36:00 -0400",
+          "permalink": "/surveymarks/t-18-reset/",
+          "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.010081,
+            44.431177
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "S 18",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-05 11:18:00 -0400",
+          "permalink": "/surveymarks/pe0901/",
+          "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.007538,
+            44.425281
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": 102,
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-05 11:09:00 -0400",
+          "permalink": "/surveymarks/pe0905/",
+          "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.008282,
+            44.426158
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "TIDAL 2 STA 31",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-05 10:47:00 -0400",
+          "permalink": "/surveymarks/pe0902/",
+          "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.999286,
+            44.425041
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "TIDAL 3 STA 31",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-05 10:45:00 -0400",
+          "permalink": "/surveymarks/pe0903/",
+          "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.99908,
+            44.425028
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "TIDAL 7 STA 31",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-05 10:34:00 -0400",
+          "permalink": "/surveymarks/pe0904/",
+          "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.999086,
+            44.425018
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "MAPLE RM 2",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-06-29 15:20:59 -0400",
+          "permalink": "/reference-marks/kw1072/",
+          "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw1072csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.529422,
+            40.022311
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "MAPLE RM 1",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-06-29 15:19:59 -0400",
+          "permalink": "/reference-marks/kw1070/",
+          "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw1070csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.529094,
+            40.022333
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "MAPLE",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "2024-06-29 15:18:59 -0400",
+          "permalink": "/surveymarks/kw1071/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.529114,
+            40.022161
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "WRIGHTSVILLE RESET",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-06-29 15:09:59 -0400",
+          "permalink": "/surveymarks/kw3233/",
+          "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw3233csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.529383,
+            40.024992
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "COLUMBIA W BASE",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-06-29 14:56:59 -0400",
+          "permalink": "/surveymarks/kw0803/",
+          "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw0803csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.523453,
+            40.02679
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "TT STA NO 24 B",
           "status": "Not Found",
           "condition": "Unknown (Not Found)",
