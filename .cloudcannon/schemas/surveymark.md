@@ -38,6 +38,5 @@ galleries:
     images:
     - filename: 
       alt:     
-featured_image: 
-remove_empty_inputs: true    
+featured_image:   
 ---

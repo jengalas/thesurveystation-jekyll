@@ -319,7 +319,7 @@ collections_config:
         label: Rich's Narrative
       featured_image:
         type: text
-      remove_empty_inputs: true    
+    remove_empty_inputs: true    
     preview:
       text:
       - key: designation
