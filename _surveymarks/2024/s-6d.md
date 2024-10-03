@@ -36,5 +36,4 @@ galleries:
       - filename:
         alt:
 featured_image: s-6dcsm.jpg
-remove_empty_inputs: true
 ---
