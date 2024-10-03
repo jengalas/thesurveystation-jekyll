@@ -53,9 +53,9 @@ collections_config:
     disable_file_actions: false
     _enabled_editors:
       - data  
-    schemas:
-      default:
-        path: .cloudcannon/schemas/surveymark.md  
+    # schemas:
+    #   default:
+    #     path: .cloudcannon/schemas/surveymark.md  
     preview:
       text:
       - key: designation
@@ -70,9 +70,9 @@ collections_config:
     disable_file_actions: false
     _enabled_editors:
       - data
-    schemas:
-      default:
-        path: .cloudcannon/schemas/reference-mark.md  
+    # schemas:
+    #   default:
+    #     path: .cloudcannon/schemas/reference-mark.md  
     _inputs:
       pid:
         label: PID
