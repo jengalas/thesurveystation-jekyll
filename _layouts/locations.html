@@ -4,7 +4,7 @@ layout: default
 
 <h2>{{ page.state }}</h2>
 
-{% assign allMarks = site.surveymarks | concat: site.reference_marks | where: "state", page.state %}
+{% assign allMarks = site.surveymarks | concat: site.reference_marks | where: "state", page.state | sort: "date" | reverse %}
 
 {% assign counties = page.county %}
 
