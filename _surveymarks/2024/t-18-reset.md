@@ -14,7 +14,7 @@ agency: NGS
 status: Recovered
 condition: Good
 zhanna_text: >-
-    
+  We thought we were done with our Belfast benchmark bonanza, so we headed down toward the footbridge. And of course, I looked at the top of one of the bridge abutments and what did I see? Yes, another benchmark disk! At first I expected it to be a MaineDOT disk, but it was actually an NGS disk: T 18 RESET (2005). Interestingly, I couldn't find an entry for this marker in the database. I did find its now-destroyed predecessor, T 18 (PE0906) dating from 1933. The marker is in good condition, as you would expect. I'm just curious as to why it doesn't appear in the NGS database. 
 galleries:
   gallery_zh:
     images:
