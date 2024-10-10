@@ -309,6 +309,7 @@
     - name: Lebanon County
       quad:
         - name: Indiantown Gap Quad
+        - name: Pine Grove Quad
     - name: Lehigh County
       quad:
         - name: Slatedale Quad
