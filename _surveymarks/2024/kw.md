@@ -1,0 +1,39 @@
+---
+_schema: default
+designation: B 249
+pid: KW0229
+is_parent:
+date: 2024-10-07 10:24:00 -0400
+latitude: '40.52271'
+longitude: '76.46815'
+estimate: true
+state: Pennsylvania
+county: Schuylkill County
+quad: Pine Grove Quad
+elevation: 479.33 ft.
+type: Bench Mark Disk
+setting: Bridge Wingwall
+year_established: '1960'
+agency: NGS
+official_description: ''
+status: Not Found
+condition: Unknown (Not Found)
+ngs_report:
+coordinates_submitted:
+photos_submitted:
+ngs_report_text: ''
+usgs_report:
+usgs_report_link:
+zhanna_text: ''
+rich_text: ''
+galleries:
+  gallery_zh:
+    images:
+      - filename:
+        alt:
+  gallery_r:
+    images:
+      - filename:
+        alt:
+featured_image:
+---
