@@ -223,6 +223,7 @@ collections_config:
       agency:
         type: select
         options:
+          allow_create: true
           values:
             - Adirondack Surveys
             - Aquatrak
