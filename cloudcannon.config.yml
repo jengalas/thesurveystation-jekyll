@@ -51,6 +51,7 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    remove_empty_inputs: true
     _enabled_editors:
       - data  
     schemas:
