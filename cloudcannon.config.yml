@@ -51,12 +51,12 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-    remove_empty_inputs: true
     _enabled_editors:
       - data  
     schemas:
       default:
-        path: .cloudcannon/schemas/surveymark.md    
+        path: .cloudcannon/schemas/surveymark.md
+        remove_empty_inputs: true  
     _inputs:
       pid:
         label: PID
