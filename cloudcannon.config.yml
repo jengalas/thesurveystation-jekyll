@@ -340,6 +340,7 @@ collections_config:
     schemas:
       default:
         path: .cloudcannon/schemas/reference-mark.md  
+        remove_empty_inputs: true 
     _inputs:
       pid:
         label: PID
