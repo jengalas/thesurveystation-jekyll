@@ -1,0 +1,24 @@
+---
+layout: page
+title: Contact Me
+no_groups: false
+permalink: /contact/
+---
+
+<div class="container contact-form">
+    <form name="contact" action="/contact-success" method="POST" class="form" data-netlify="true">
+        <div class="form-group">
+            <input type="text" class="form-control" placeholder="Name" id="name" name="name" tabindex="1" required>
+            <label for="name" class="form-label">Your Name</label>
+        </div>
+        <div class="form-group">
+            <input type="email" class="form-control" placeholder="me@example.com" id="email" name="email" tabindex="2" required>
+            <label for="email" class="form-label">Your Email</label>
+        </div>
+        <div class="form-group">
+            <textarea id="comment" name="comment" placeholder="Your Comment" class="form-control" tabindex="3" required></textarea>
+            <label for="comment" class="form-label textarea">Your Comment</label>
+        </div>
+        <button type="submit">Send Message</button>
+    </form>
+</div>
