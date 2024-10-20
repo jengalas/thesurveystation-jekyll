@@ -62,7 +62,6 @@ main {
   }
 }
 footer {
-  background-color: #3f2f29;
   background-color: #442a2f;
   border-top: 3px solid #b09890;
   
@@ -79,8 +78,7 @@ footer {
   }
 
   footer-widgets {
-    background-color: #7d593f;
-    background-color: #54343b;
+    background-color: #442a2f;
     display: flex;
     flex-wrap: wrap;
     text-align: center;
@@ -101,7 +99,7 @@ footer {
   }
   @media (min-width:768px) {
     footer-widgets > * {
-        width: calc(100% / 3);
+        width: calc(100% / 4);
     }
   }
 }
