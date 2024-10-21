@@ -12,7 +12,7 @@
               </ul>
             </li>            
           {% else %}
-            <li class="item"><a href="{{ item.url | replace: ' ', '-'}}">{{ item.title }}</a></li>
+            <li class="item {% if page.url contains item.url %}active{% endif %}"><a href="{{ item.url | replace: ' ', '-'}}">{{ item.title }}</a></li>
           {% endif %}              
         {% endfor %}
         <li class="toggle"><a href="#"><i class="fas fa-bars"></i></a></li>
