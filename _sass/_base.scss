@@ -57,6 +57,15 @@ main {
     clear: both;
   }
 
+  #banner {
+    background-image: url(/assets/img/dave-hoefler-cls3zN5wte0-unsplash.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 28em;
+    text-align: center;
+    position: relative;
+  }
+
   .gallery {
     a {
       border: 0;
