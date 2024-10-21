@@ -4,34 +4,35 @@
   {% include head.html %}
 
   <body>
-    {% include nav.html %}
-    <main class="default-template">
-    
-      {{ content }}
+    <div id="page-wrapper">
+      {% include nav.html %}
+      <main class="default-template">
       
-      {% if paginator.total_pages > 1 %}
-      <div class="pagination">
-        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path }}"><i class="fa-solid fa-arrow-left"></i></a>
+        {{ content }}
+        
+        {% if paginator.total_pages > 1 %}
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}"><i class="fa-solid fa-arrow-left"></i></a>
+          {% endif %}
+          {% if paginator.page_trail %}
+            {% for trail in paginator.page_trail %}
+              {% if trail.num == paginator.page %}
+                <span>{{ trail.num }}</span>
+              {% else %}
+                <a href="{{ trail.path }}">{{ trail.num }}</a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}"><i class="fa-solid fa-arrow-right"></i></a>
+          {% endif %}
+        </div>
         {% endif %}
-        {% if paginator.page_trail %}
-          {% for trail in paginator.page_trail %}
-            {% if trail.num == paginator.page %}
-              <span>{{ trail.num }}</span>
-            {% else %}
-              <a href="{{ trail.path }}">{{ trail.num }}</a>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path }}"><i class="fa-solid fa-arrow-right"></i></a>
-        {% endif %}
-      </div>
-      {% endif %}
-    
-    </main>
-    
-    {% include footer.html %}  
-
+      
+      </main>
+      
+      {% include footer.html %}  
+    </div>
   </body>
 </html>
