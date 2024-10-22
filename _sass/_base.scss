@@ -21,11 +21,16 @@ body {
   font-weight: 300;
   min-height: 100vh;
 }
-main {
+.default-template {
   flex-grow: 1;
-  margin: 0 auto;
+  margin: 2rem auto 0 auto;
   max-width: 1200px;
   width: 100%;
+
+  &.home {
+    max-width: unset;
+    width: 100%;
+  }
 
   h1, h2, h3 {
     color: #474747;
@@ -120,7 +125,7 @@ footer {
   }
   @media (min-width:768px) {
     footer-widgets > * {
-        width: calc(100% / 4);
+        width: calc(100% / 3);
     }
   }
 }

@@ -1,7 +1,7 @@
 <nav class="nav-wrapper">
     {% if site.data.navigation.toc[0] %}
       <ul class="menu">
-        <li class="logo"><a href="/">Zhanna's SurveyStation</a></li>
+        <li class="logo" style="float: left;"><a href="/"><img src="/assets/img/logo.png" alt="Zhanna's SurveyStation"></a></li>
         {% for item in site.data.navigation.toc %}  
           {% if item.subfolderitems[0] %}
             <li class="item has-submenu"><a tabindex="0">{{ item.title }}</a>

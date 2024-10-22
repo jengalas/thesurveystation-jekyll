@@ -1,10 +1,13 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Zhanna's SurveyStation—All About Survey Marks"
 ---
 
 <section id="banner"></section>
 
-## You're ready to go!
+<div class="default-template">
 
-Start developing your Jekyll website.
+
+
+
+</div>

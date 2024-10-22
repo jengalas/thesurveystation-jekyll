@@ -2,6 +2,7 @@
 
 nav {
     background: #333;
+    padding: 0 20px;
     z-index: 1040;
     
     ul {
@@ -14,10 +15,17 @@ nav {
     .menu,
     .submenu {   
         list-style-type: none;
+        margin-top: 0;
     }
     .logo {
-        font-size: 20px;
-        padding: 10px 10px 7.5px 0;
+        float: left;
+        height: 80px;
+        margin-right: 2rem;
+
+        img {
+            height: 100px;
+            width: 100px;
+        }
     }
     .item {
         padding: 10px;
@@ -163,7 +171,7 @@ nav {
     /* Desktop menu */
     @media all and (min-width: 960px) {
         .menu {
-            align-items: flex-start;     
+            align-items: flex-end;     
             flex-wrap: nowrap;
             background: none;
         }
@@ -175,6 +183,8 @@ nav {
             position: relative;
             display: block; 
             width: auto;
+            margin-left: .75rem;
+            margin-right: .75rem;
         }
         .button {
             order: 2;
@@ -198,7 +208,8 @@ nav {
 nav:after {
     content: '';
     display: block;
-    width: 100%;
+    width: calc(100% + 40px);
     height: 0.75em;
     background-color: #37c0fb;
+    margin-left: -20px;
 }
