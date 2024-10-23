@@ -7,10 +7,14 @@
 
     {% include nav.html %}
 
-    <main class="default-template {% if page.url == '/' %}home {% endif %}">
-    
-      {{ content }}
+    <main class="default-template">
 
+        <div class="container">
+
+          {{ content }}
+
+        </div>
+        
     </main>
     
     {% include footer.html %}  

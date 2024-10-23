@@ -7,26 +7,30 @@
     {% include nav.html %}
     <main class="default-template">
     
-      {% if page.title != "Index" %}
-        <h1>USGS Datasheets: {{ page.title }}</h1>
-      {% else %}
-        <h1>USGS Datasheets</h1>
-      {% endif %}
+      <div class="container">
 
-      {% if page.additional_text %}
-        <p>{{ page.additional_text | markdownify }}</p>
-      {% endif %}
+        {% if page.title != "Index" %}
+          <h1>USGS Datasheets: {{ page.title }}</h1>
+        {% else %}
+          <h1>USGS Datasheets</h1>
+        {% endif %}
 
-      {{ content }}
+        {% if page.additional_text %}
+          <p>{{ page.additional_text | markdownify }}</p>
+        {% endif %}
 
-      {% if page.title == "Index" %}
-      <ul>
-        {% for item in site.data.states-usgs-datasheets %}
-          <li><a href="/usgs-datasheets/{{ item.state | slugify }}">{{ item.state }}</a></li>
-        {% endfor %}
-        </ul>
-      {% endif %}
-      
+        {{ content }}
+
+        {% if page.title == "Index" %}
+        <ul>
+          {% for item in site.data.states-usgs-datasheets %}
+            <li><a href="/usgs-datasheets/{{ item.state | slugify }}">{{ item.state }}</a></li>
+          {% endfor %}
+          </ul>
+        {% endif %}
+        
+      </div>
+
     </main>
     
     {% include usgs-footer.html %}  
