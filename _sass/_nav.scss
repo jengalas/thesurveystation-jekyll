@@ -16,6 +16,8 @@ nav {
     .submenu {   
         list-style-type: none;
         margin-top: 0;
+        justify-content: space-between;
+        margin: 0 auto;
     }
     .logo {
         float: left;
@@ -131,7 +133,8 @@ nav {
     /* Tablet menu */
     @media all and (min-width: 700px) {
         .menu {
-            justify-content: center;
+            justify-content: space-between;
+            margin: 0 auto;
         }
         .item.button {
             width: auto;

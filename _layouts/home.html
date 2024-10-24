@@ -11,7 +11,7 @@
 
       <section id="banner"></section>
 
-        <div class="grid-container">
+        <div class="grid-container three-col">
 
           <a href="/survey-mark-hunting">
             <div class="grid-item">
@@ -20,28 +20,41 @@
               </div>
               <div class="section-text">
                 <h2>Survey Mark Hunting</h2>
+                <p>Learn about how to search for survey markers</p>
               </div>
             </div>
-          </a>
-          <a href=".survey-data">
+          </a>          
+          <a href="/survey-data">
             <div class="grid-item">
               <div class="image">
                 <img src="/assets/img/logo.png" alt="">
               </div>
-              <h2>Survey Data</h2>          
+              <div class="section-text">
+                <h2>Survey Data</h2>
+                <p>Current and historical data from NGS, USGS, and other agencies</p>  
+              </div>        
             </div>
           </a>
-          <a href="airway-beacons">
+          <a href="/airway-beacons">
             <div class="grid-item">
               <div class="image">
                 <img src="/assets/img/logo.png" alt="">
               </div>
-              <h2>Airway Beacons</h2>
+              <div class="section-text">
+                <h2>Airway Beacons</h2>
+                <p>History, images, and maps related to historical airway beacons in the U.S.</p>
+              </div>
             </div>
           </a>
 
         </div>
 
+      <section class="blog" style="background-color: #f8f8f8; padding: 3rem 0 5rem 0;">
+        <div class="section-text container"><h2>Recent Posts</h2></div>
+        <div class="grid-container two-col">
+          {% include recent-posts.html %}
+        </div>
+      </section>  
     </main>
     
     {% include footer.html %}  

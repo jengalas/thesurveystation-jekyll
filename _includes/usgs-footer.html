@@ -1,14 +1,14 @@
 <footer>
-    <footer-widgets>
-        <recent-posts>
-            {% include recent-posts.html %}        
-        </recent-posts>
+    <footer-widgets class="container">
         <popular-pages>
             {% include popular-pages.html %}
         </popular-pages>
         <recent-recoveries>
             {% include recent-recoveries.html %}
         </recent-recoveries>
+        <contact-form>
+          {% include contact-form.html %}
+        </contact-form>
     </footer-widgets>
     <site-info>©{{ 'now' | date: "%Y" }} • <a href="{{ site.url }}">{{ site.title }}</a></site-info>
 </footer>
