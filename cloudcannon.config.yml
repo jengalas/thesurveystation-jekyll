@@ -69,7 +69,7 @@ collections_config:
         type: select
         options:
           allow_create: true
-          values: data.types
+          values: _select_data.types
           value_key: 'type'
       setting:
         type: select
