@@ -23,4 +23,5 @@ galleries:
     images:
       - filename:
         alt:
+homepage_featured_image: kw0226g3.jpg
 ---

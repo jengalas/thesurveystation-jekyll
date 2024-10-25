@@ -1,0 +1,12 @@
+{% assign allMarks = site.surveymarks | sort: "date" | reverse %}
+
+{% for post in allMarks limit:3  %}
+    <div class="grid-item">
+        <a href="{{ post.url }}">
+            <img src="https://images.planetzhanna.com/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%d" }}/{{ post.homepage_featured_image }}" alt=""  style="object-fit: cover; width: 100%; max-height: 100%;">
+            <p><b>{{ post.designation }}</b><br>
+                <i>{{ post.county }}, {{ post.state }}<br>
+                {{ post.date | date: "%B %-d, %Y" }}</i></p>
+        </a>
+    </div>
+{% endfor %}
