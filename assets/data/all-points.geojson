@@ -4,6 +4,222 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "PROP COR REF EL 329.99",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "10/7/2024 16:29",
+          "permalink": "/surveymarks/prop-cor-ref-el-329-99/",
+          "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/prop-cor-329-99csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.881109,
+            40.260519
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": 327.5,
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "10/7/2024 16:25",
+          "permalink": "/surveymarks/327-50/",
+          "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/327-50csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.879867,
+            40.261985
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "X 248",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "10/7/2024 13:15",
+          "permalink": "/surveymarks/kw0226/",
+          "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/kw0226csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.489355,
+            40.52637
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "B 46",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/7/2024 12:40",
+          "permalink": "/surveymarks/kw0209/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.447167,
+            40.528917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "IRVING AZ MK",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "10/7/2024 12:24",
+          "permalink": "/surveymarks/kw0234/",
+          "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/kw0234csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.435395,
+            40.533578
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "RV 128",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "10/7/2024 12:20",
+          "permalink": "/surveymarks/kw0208/",
+          "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/kw0208csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.438273,
+            40.530495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "HUBER AZ MK",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/7/2024 11:45",
+          "permalink": "/reference-marks/kw0231-az-mk/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.483964,
+            40.516003
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "HUBER RM 2",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/7/2024 11:30",
+          "permalink": "/reference-marks/kw0232/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.483275,
+            40.518261
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "HUBER RM 1",
+          "status": "Note Entered",
+          "condition": "Unknown (Not Found)",
+          "time": "10/7/2024 11:20",
+          "permalink": "/reference-marks/kw0230/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.482991,
+            40.518225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "HUBER",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/7/2024 11:15",
+          "permalink": "/surveymarks/kw0231/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.483189,
+            40.518136
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "B 249",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/7/2024 10:24",
+          "permalink": "/surveymarks/kw0229/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.467979,
+            40.522787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "RV 129 RDGRR",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/7/2024 10:20",
+          "permalink": "/surveymarks/kw0210/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.465143,
+            40.527288
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "16718-11",
           "status": "Recovered",
           "condition": "Good",
