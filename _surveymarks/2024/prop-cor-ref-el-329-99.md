@@ -17,11 +17,14 @@ condition: Good
 galleries:
   gallery_zh:
     images:
-      - filename:
-        alt:
-  gallery_r:
-    images:
-      - filename:
-        alt:
-homepage_featured_image: kw0226g3.jpg
+      - filename: prop-cor-329-99
+        alt: Property Corner PROP COR REF EL 329.99
+      - filename: prop-cor-329-99g1
+        alt: Eyelevel view of the disk in the sidewalk
+      - filename: prop-cor-329-99g2
+        alt: Looking NE along Market Street          
+      - filename: prop-cor-329-99g3
+        alt: Looking SW along Market Street, mark indicated            
+featured_image: prop-cor-329-99csm.jpg
+homepage_featured_image: prop-cor-329-99g2.jpg
 ---
