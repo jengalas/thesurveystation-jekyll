@@ -24,7 +24,11 @@ galleries:
       - filename: prop-cor-329-99g2
         alt: Looking NE along Market Street          
       - filename: prop-cor-329-99g3
-        alt: Looking SW along Market Street, mark indicated            
+        alt: Looking SW along Market Street, mark indicated       
+      - filename: prop-cor-329-99g4
+        alt: Looking S, mark indicated 
+      - filename: prop-cor-329-99g5
+        alt: Looking SE across Market Street toward the Harrisburg High School SciTech campus                       
 featured_image: prop-cor-329-99csm.jpg
 homepage_featured_image: prop-cor-329-99g2.jpg
 ---
