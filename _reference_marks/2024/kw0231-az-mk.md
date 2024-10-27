@@ -26,6 +26,10 @@ zhanna_text: ''
 galleries:
   gallery_zh:
     images:
-      - filename:
-        alt:
+      - filename: kw0231azmk
+        alt: Wooden fenceline found while approaching the azimuth mark site
+      - filename: kw0231azmkg1
+        alt: Stone fenceline on the east side of the road
+      - filename: kw0231azmkg2
+        alt: Looking W toward the road. Wooden beam and stone fenceline in view.               
 ---
