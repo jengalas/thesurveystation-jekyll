@@ -14,6 +14,8 @@ year_established: Unknown
 agency: Unknown
 status: Recovered
 condition: Good
+zhanna_text: >-
+  On my late afternoon walk around town after a very filling lunch at El Sol nearby, and just after finding an elevation mark nearby, I spotted this property corner reference mark along Market Street in front of the Whitaker Center for Science and the Arts. The mark is set into concrete surrounding a sidewalk grate. Similar to the other mark I found this afternoon, I haven't been able to find any data for it. 
 galleries:
   gallery_zh:
     images:
