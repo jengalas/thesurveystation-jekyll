@@ -21,20 +21,24 @@ body {
   font-weight: 300;
   min-height: 100vh;
 }
+  
+h1, h2, h3 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+}
+
 .default-template {
   flex-grow: 1;
   margin: 2rem auto 0 auto;
+
+  h1, h2, h3 {
+    color: #474747;
+  }
 
   &.home {
     margin-top: 0;
     max-width: unset;
     width: 100%;
-  }
-
-  h1, h2, h3 {
-    color: #474747;
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: 600;
   }
 
   p {
@@ -190,15 +194,29 @@ body {
 
 footer {
   background-color: #242943;
-  
+  color: #ececec;
+  padding: 2rem 0;
+
   a {
-    color: #b59e96;
+    color: #ececec;
+    text-decoration: none;
+    border-bottom: 1px transparent;
+
+    &:hover {
+      border-bottom: 1px solid #67c1e8;
+      color: #67c1e8;
+      transition: color 0.3s ease-in-out, border-bottom-color 0.4s ease-in-out;
+    }
+  }
+
+  .form-control {
+    margin: .5rem 0;
   }
 
   site-info {
-    color: #b59e96;
+    color: #ececec;
     display: block;
-    font-weight: 600;
+    font-weight: 400;
     padding: 2rem;
     text-align: center;
   }
@@ -209,17 +227,29 @@ footer {
     text-align: center;
     justify-content: center;
 
-    h2 {
-      color: antiquewhite;
-    }
-
     ul {
+      line-height: 1.6;
       list-style-type: none;
       padding-left: 0;
     }
     
     &> * {
       width:100%;
+    }
+
+    input, textarea {
+      color: #67c1e8;
+      font-size: 1.4rem;
+      font-weight: 300;
+      padding: 1rem .5rem;
+      width: 100%;
+      height: 3rem;
+      background: rgba(212, 212, 255, 0.035);
+      border: 0;
+    }
+
+    textarea {
+      height: 7rem;
     }
   }
   @media (min-width:768px) {
@@ -228,13 +258,33 @@ footer {
         text-align: left;
     }
     contact-form {
-      width: 40%;
+      width: 40%;  
+      
+      form {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: .6rem;
+      }
 
-      input, textarea {
-        width: 100%;
-        height: 2.75em;
-        background: rgba(212, 212, 255, 0.035);
-        border: 0;
+      .form-group.comment {
+        display: grid;
+        grid-column-start: 1;
+        grid-column-end: 3;
+      }
+
+      button {
+        background-color: transparent;
+        color: #ececec;
+        border: 3px solid #ececec;
+        cursor: pointer;
+        font-size: 1.2rem;
+        padding: 1rem 2rem; 
+        
+        &:hover {
+          border-color: #67c1e8;
+          color: #67c1e8;
+          transition: border-color 0.5s ease-in-out, color 0.5s ease-in-out;
+        }
       }
     }
   }
