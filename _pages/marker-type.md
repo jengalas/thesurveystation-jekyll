@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /marker-type/
+title: Marker Types
 _unlisted: true
 ---
 

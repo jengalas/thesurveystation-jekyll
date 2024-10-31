@@ -1,5 +1,6 @@
 ---
 layout: default
+title: NGS Historical Geodetic Control Diagrams
 permalink: /ngs/
 ---
 
