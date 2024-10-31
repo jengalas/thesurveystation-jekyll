@@ -49,6 +49,12 @@ h1, h2, h3 {
     border-bottom: 1px dotted #7ba60d;
     color: #7ba60d;
     text-decoration: none;
+
+    &:hover {
+      border-bottom: 1px solid #a1cf2d;
+      color: #a1cf2d;
+      transition: color 0.3s ease-in-out;
+    }
   }
 
   .alignleft {
@@ -232,14 +238,34 @@ footer {
     color: #ececec;
     display: block;
     font-weight: 400;
-    padding: 2rem;
-    text-align: center;
+    padding: 2rem 0;
   }
 
   footer-widgets {
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 1fr auto;
+    gap: 10px;
+
+    .c1 {
+      grid-column: auto / span 12;
+    }
+    
+    @media screen and (min-width: $mobile) {
+      .c1-2-md {
+        grid-column: auto / span 6;
+      }
+      .c1-md {
+        grid-column: auto / span 12;
+      }
+    }
+    
+    @media screen and (min-width: $normal) {
+      .c1-3-lg {
+        grid-column: auto / span 4;
+      }
+    }
+      
     justify-content: center;
 
     ul {
@@ -265,27 +291,6 @@ footer {
 
     textarea {
       height: 7rem;
-    }
-  }
-  @media (min-width:$narrow) {
-    footer-widgets > * {
-        width: 30%;
-        text-align: left;
-    }
-    contact-form {
-      width: 40%;  
-      
-      form {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: .6rem;
-      }
-
-      .form-group.comment {
-        display: grid;
-        grid-column-start: 1;
-        grid-column-end: 3;
-      }
     }
   }
 }
