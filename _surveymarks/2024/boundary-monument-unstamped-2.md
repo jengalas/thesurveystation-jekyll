@@ -14,5 +14,5 @@ agency: Unknown
 status: Recovered
 condition: Good
 zhanna_text: >-
-    
+featured_image:     
 ---
