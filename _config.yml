@@ -68,3 +68,6 @@ page_gen:
   index_files: false
   name: 'state'
   dir: usgs-datasheets 
+
+sass:
+  quiet_deps: true

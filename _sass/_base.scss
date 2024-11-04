@@ -256,6 +256,7 @@ footer {
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 1fr auto;
     gap: 10px;
+    justify-content: center;
 
     .c1 {
       grid-column: auto / span 12;
@@ -275,8 +276,6 @@ footer {
         grid-column: auto / span 4;
       }
     }
-      
-    justify-content: center;
 
     ul {
       line-height: 1.6;
