@@ -2,5 +2,10 @@
 ---
 
 @use 'reset' as *;
+@use 'base' as *;
+@use 'nav' as *;
+@use 'components' as *;
+@use 'maps' as *;
+@use 'surveymarks' as *;
+@use 'archive' as *;
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
-@import "breakpoints", "base", "nav", "components", "maps", "surveymarks", "archive";
