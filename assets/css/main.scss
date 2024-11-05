@@ -1,5 +1,6 @@
 ---
 ---
 
+@use 'reset' as *;
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
-@import "reset", "breakpoints", "base", "nav", "components", "maps", "surveymarks", "archive";
+@import "breakpoints", "base", "nav", "components", "maps", "surveymarks", "archive";
