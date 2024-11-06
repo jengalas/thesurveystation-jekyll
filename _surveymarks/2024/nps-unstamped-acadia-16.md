@@ -14,5 +14,6 @@ agency: National Park Service
 status: Recovered
 condition: Good
 zhanna_text: >-
+    This was the first, and northernmost, of four Acadia boundary monuments we found on our drive along the paved portion of Old Norway Drive this afternoon. The park boundary crosses the road in several places here, hence the abundance of boundary markers.  
 featured_image: 
 ---

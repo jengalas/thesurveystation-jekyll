@@ -490,6 +490,42 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "S 7",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-09 13:28:00 -0400",
+          "permalink": "/surveymarks/s-7/",
+          "image": "https://images.planetzhanna.com/2024/09/09/thumbnails/s7csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.339243,
+            44.299373
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "S 6D",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-09-09 13:26:00 -0400",
+          "permalink": "/surveymarks/s-6d/",
+          "image": "https://images.planetzhanna.com/2024/09/09/thumbnails/s6dcsm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.3394,
+            44.299363
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "NPS (Unstamped, Acadia #20)",
           "status": "Recovered",
           "condition": "Good",
