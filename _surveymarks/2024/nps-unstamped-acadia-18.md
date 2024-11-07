@@ -14,5 +14,5 @@ agency: National Park Service
 status: Recovered
 condition: Good
 zhanna_text: >-
-    
+featured_image: nps-unstamped-acadia-18csm.jpg    
 ---
