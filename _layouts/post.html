@@ -8,4 +8,8 @@ layout: default
 
 <hr class="clearboth">
 
-Posted on {{ page.date | date: "%B %-d, %Y" }} by Zhanna
+<span class="byline">Posted on {{ page.date | date: "%B %-d, %Y" }} by Zhanna</span>
+
+<section class="comments">
+    {% include comment-form.html %}
+</section>
