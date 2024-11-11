@@ -8,27 +8,26 @@ excerpt: >-
 featured_image: mag-station.jpg
 ---
 
-I received three documents from Harry Nelson of MaineDOT concerning magnetic stations. 
+Returning to [Results of Magnetic Observations Made by the United States Coast and Geodetic Survey in 1914](/assets/docs/publications/SP-No-25-Results-Mag-Obsv-1914.pdf/), I researched two other magnetic station locations that are close enough to me that I might be able to search for them, although they are both long shots.
 
-As described in [Uses of Magnetic Stations](/assets/docs/publications/Special_Publication_No_213-magnetic-stations.pdf) (U. S. Coast & Geodetic Survey Special Publication No. 213 from 1937), magnetic stations provide known points at which magnetic declination can be measured and tracked over time.
+The first is:
 
-The first document provided by Mr. Nelson, and the only one that lists magnetic stations in Pennsylvania, is [Results of Magnetic Observations Made by the United States Coast and Geodetic Survey in 1914](/assets/docs/publications/SP-No-25-Results-Mag-Obsv-1914.pdf/).
-
-This station, in Hamburg, PA, might be possible for me to find:
-
-> Hamburg, Berks County.-The station of 1910 was reoccupied. It is in the western one of two circular plots 
-near the center of the Union Cemetery, belonging to the Reformed Lutheran Church, about one-fourth mile from the 
-center of town. The station is 6 feet west of the west edge of the driveway, 40.7 feet west of the southwest comer of 
-the base of the tombstone of Stephen J. Smith, 49.6 feet south of the south face of the base of the tombstone of David 
-Keller, and about 170 feet south of the gate of the cemetery. It is marked by a marble post 6 by 6 by 24 inches, lettered 
-U.S. C. & G. S., set flush with the ground. The following true bearings were determined: 
+> Easton, Northampton County.-The station of 1910 was reoccupied. It is in the northwest part of the March
+athletic field of Lafayette College, 38 feet southeast of the concrete wall surrounding the field, 12 feet northwest of the
+outer edge of the running track, and 1 foot southwest of the continuation of one of the sides of the baseball diamond.
+The station is marked by a marble post 6 by 6 by 15 inches, lettered U. S. C. & G. S., and buried with its face
+flush with the ground. The following true bearings were determined in 1914: 
 >
-> South gable of stone farmhouse one-half mile away (mark) ................... 20° 37.6' west of north
-> 
-> Cupola of barn 800 feet away................................................ 60° 48.8' east of north 
+> Tower of courthouse ......................................................... 23 30.0 west of south
+>
+> South College ............................................................... 36 44.8 east of south
+>
+> Northwest gable of fraternity house ......................................... 65 25.5 east of north
 
-When I first looked at the map, I couldn't even find the circular cemetery plots. At least according to Google Maps, there is no longer a Union Cemetery or a Reformed Lutheran Church in Hamburg, and at first glance I didn't see any obvious circular plots in the large cemeteries I saw in town. But I used FindaGrave.com to look up the graves of the two people mentioned in the description, and the coordinates of those gravestones took me directly to the site. 
+Given all the changes that tend to accumulate on college campuses over the years, it's unlikely this station still exists (or is findable). But it's worth a look, particularly if I'm in the area. 
 
-My best guess at the coordinates is: **40.557284, -75.976726**:
+March Field still exists, although Google Maps doesn't label it as such (Waze does - and a monument to "March Field" is visible on Google Street View). PennPilot imagery from 1938 indicates that is has changed size a shape a bit over the years, and new buildings now surround it. But the old imagery depicts the baseball diamond, which may help in determining the site of the station. 
 
-{% include simple-map.html map_id="1" latitude="40.557284" longitude="-75.976726" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
+Using the bearings provided, and assuming the surveyors used the obvious high points on the Northampton County Courthouse and South Hall, an estimate of the station coordinates is **40.698472, -75.21125**. This is on the site of the former Olin Hall, built in 1956-7 (now refurbished and incorporated into the Hugel Science Center, circa 2001). So assuming these bearings are correct, it looks like the station is probably gone, or at least covered by buildings that were erected long after this document was published. But there is always a chance, and I would love to check it out!
+
+{% include simple-map.html map_id="1" latitude="40.698472" longitude="-75.21125" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}

@@ -8,7 +8,7 @@ excerpt: >-
 featured_image: mag-station.jpg
 ---
 
-I received three documents from Harry Nelson of MaineDOT concerning magnetic stations. 
+I received three documents from Harry Nelson of MaineDOT concerning magnetic stations.  He states that "The description of magnetic stations are not published by NGS other than in these publications."
 
 As described in [Uses of Magnetic Stations](/assets/docs/publications/Special_Publication_No_213-magnetic-stations.pdf) (U. S. Coast & Geodetic Survey Special Publication No. 213 from 1937), magnetic stations provide known points at which magnetic declination can be measured and tracked over time.
 
@@ -25,7 +25,7 @@ U.S. C. & G. S., set flush with the ground. The following true bearings were det
 >
 > South gable of stone farmhouse one-half mile away (mark) ................... 20° 37.6' west of north
 > 
-> Cupola of barn 800 feet away................................................ 60° 48.8' east of north 
+> Cupola of barn 800 feet away................................................ 60° 48.8' east of north
 
 When I first looked at the map, I couldn't even find the circular cemetery plots. At least according to Google Maps, there is no longer a Union Cemetery or a Reformed Lutheran Church in Hamburg, and at first glance I didn't see any obvious circular plots in the large cemeteries I saw in town. But I used FindaGrave.com to look up the graves of the two people mentioned in the description, and the coordinates of those gravestones took me directly to the site. 
 
