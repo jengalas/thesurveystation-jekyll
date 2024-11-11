@@ -1,7 +1,7 @@
 ---
-title: Magnetic Stations, Part 1
+title: Magnetic Stations, Part 2
 author: Zhanna
-date: '2024-11-07T20:39:00-05:00'
+date: '2024-11-10T19:03:00-05:00'
 tags: ["datasheets, history"]
 excerpt: >-
   
