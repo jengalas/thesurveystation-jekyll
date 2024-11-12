@@ -5,9 +5,11 @@ permalink: /ngs-recoveries/
 _unlisted: true
 ---
 
+{% assign reports = site.surveymarks | concat: site.reference_marks | sort: "date" | reverse | where: "ngs_report", "true" %}
+
+The following {{ reports | size }} survey marks have been reported to NGS; updates have been added to the [NGS database](https://geodesy.noaa.gov/datasheets/index.shtml).
+
 <ul>
-  {% assign reports = site.surveymarks | concat: site.reference_marks | sort: "date" | reverse | where: "ngs_report", "true" %}
- 
   {% for report in reports %}
       <li><a href="{{ report.url }}">{{ report.designation }}</a> {{ report.date | date: "%B %e, %Y"}}</li>    
   {% endfor %}

@@ -32,7 +32,7 @@ official_description: >-
     </table>
 status: Recovered
 condition: Good
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/tt2h.pdf
 zhanna_text: >-
     TT 2 H was the second of the two USGS marks we had learned about when viewing maps of this area prior to searching for the [Painter Creek Cache](https://www.geocaching.com/geocache/GCNCG2) a few weeks ago. We knew we wouldn't have time to search for both marks that day, so we focused on [TT 1 H](/surveymarks/tt-1-h/), which is the closer of the two to the geocache, and planned to come back to search for TT 2 H. 

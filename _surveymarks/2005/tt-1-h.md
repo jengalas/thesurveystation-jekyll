@@ -19,7 +19,7 @@ official_description: >-
     tablet stamped “TT 1 H 1943”.
 status: Recovered
 condition: Poor
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/TT1H.pdf
 zhanna_text: >-
     Several weeks ago, while searching USGS datasheets and topo maps, I noticed two interesting marks in the Painter Creek area. Skipsp's new [Painter Creek geocache](https://www.geocaching.com/geocache/GCNCG2_painter-creek-cache) gave us yet another reason to visit and explore this area. We chose a beautiful Wednesday morning for our adventure. Our goal was simply to find the cache, explore the area and possibly scout out the mark nearest to the parking area (we knew we'd have to leave the second mark for another day).

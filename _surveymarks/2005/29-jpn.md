@@ -17,7 +17,7 @@ official_description: >-
     tablet stamped “29 JPN 1942 836”. Elev. 836.487 ft.
 status: Recovered
 condition: Good
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/29_JPN.pdf
 zhanna_text: >-
     We found this mark on our way home from a messy encounter with Skipsp's

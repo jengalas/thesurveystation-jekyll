@@ -18,7 +18,7 @@ official_description: >-
     Reference mark; 27 ft S. of tablet; on small boulder; chiseled square. Elev. 1814.46 ft.
 status: Recovered
 condition: Good
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/39_jpn.pdf
 zhanna_text: >-
     On miserable days when I just can't spend time outdoors, I love to “explore” by going through my maps and studying areas that intrigue me. Rich and I had both been interested in this so-called “Boar Hole” and the network of trails and old roads and railbeds surrounding it, and we chose this chilly May Sunday to explore the area in person. A bonus, for me, was the numerous benchmarks in the area, mostly along the old railroad bed from north of the Boar Hole (Old Pittston Road) down through Clifton and all the way south to Brady's Lake. Of course we wouldn't be able to tackle the whole area in one excursion, so we decided to focus on the northern part (including the Boar Hole) this time.

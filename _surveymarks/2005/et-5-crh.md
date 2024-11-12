@@ -32,7 +32,7 @@ official_description: >-
     </table>
 status: Recovered
 condition: Good
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/et5_crh.pdf
 zhanna_text: >-
     This horizontal control station is conveniently located along the trail to

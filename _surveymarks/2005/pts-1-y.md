@@ -34,7 +34,7 @@ official_description: >-
     </table>
 status: Recovered
 condition: Good
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/Pts1y.pdf
 zhanna_text: >-
     PTS 1 Y is situated as described (the steel bridge has been replaced, but

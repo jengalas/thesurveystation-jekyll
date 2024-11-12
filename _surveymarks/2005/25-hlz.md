@@ -17,7 +17,7 @@ official_description: >-
     abutment; standard tablet stamped “25 HLZ 1964 1717”. Elev. 1717.653 ft.
 status: Recovered
 condition: Good
-usgs_report: Reported to USGS
+usgs_report: true
 usgs_report_link: /assets/docs/usgs-reports/25_hlz.pdf
 zhanna_text: >-
     Today one unexpected find ([15 C](/surveymarks/15-c/)) in Clifton
