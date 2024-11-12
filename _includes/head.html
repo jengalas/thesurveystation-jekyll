@@ -13,14 +13,14 @@
   
   {% if page.title == "Historical Airway Maps" %}
    <!-- Load only for table of historical airway maps -->
-   <link rel="stylesheet" href="https://cdn.datatables.net/2.0.0/css/dataTables.dataTables.css" />  
-   <script src="https://cdn.datatables.net/2.0.0/js/dataTables.js"></script>
+   <link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css" />  
+   <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
   {% endif %}
 
-  <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />  
-  <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
-  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/3.0.2/css/responsive.dataTables.min.css" />  
-  <script src="https://cdn.datatables.net/responsive/3.0.2/js/dataTables.responsive.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css" />  
+  <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/3.0.3/css/responsive.dataTables.min.css" />  
+  <script src="https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js"></script>
 
   <!-- Leaflet.js -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -37,8 +37,8 @@
    {% if page.title == "Map of Recoveries" or page.title == "Map of Airway Beacons" or page.title == "PID Prefix Map" or page.title == "USGS Datasheets" %}
       <!-- Load only for recoveries map, airway beacons map, PID prefix map, USGS datasheets map -->
       <!-- Geocoder API -->
-      <link rel="stylesheet" href="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.0/geocoder.min.css">
-      <script src="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.0/geocoder.min.js"></script>
+      <link rel="stylesheet" href="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.css">
+      <script src="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.js"></script>
       <!-- Leaflet Search -->
       <link rel="stylesheet" href="/assets/css/leaflet-search.min.css">
       <script src="/assets/js/leaflet-search.min.js"></script>
@@ -49,13 +49,13 @@
 
    {% if page.title == "Map of Recoveries" %}
       <!-- Load only for recoveries map -->
-      <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
-      <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
-      <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+      <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+      <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+      <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
       <script src="https://unpkg.com/leaflet.markercluster.layersupport@2.0.1/dist/leaflet.markercluster.layersupport.js"></script>        
       <script src="https://unpkg.com/leaflet.featuregroup.subgroup@1.0.2/dist/leaflet.featuregroup.subgroup.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>  
-      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"></script>  
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.css">
       <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
       <script src="/assets/vendor/SliderControlLabels.js"></script>
    {% endif %}
