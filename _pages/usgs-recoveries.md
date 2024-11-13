@@ -5,7 +5,7 @@ permalink: /usgs-recoveries/
 _unlisted: true
 ---
 
-{% assign reports = site.surveymarks | where: "usgs_report", "true" %}
+{% assign reports = site.surveymarks | sort: "date" | reverse | where: "usgs_report", "true" %}
 
 The following {{ reports | size }} survey marks have been reported to USGS; updates have been added to USGS datasheets.
 
