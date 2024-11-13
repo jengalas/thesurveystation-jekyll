@@ -82,9 +82,28 @@
       url: https://www.flickr.com/groups/usgsmarkers/pool/
       description: Not all are actually USGS markers, or geodetic markers; many different agencies and types are represented.    
     - title: Recoveries Gallery (2019)
-      url: /recoveries-gallery/2019/
+      url: /year/2019/
       description: Zhanna’s recoveries from 2019—there are a few nice images here, if I may say so myself.      
 - category: Airway Beacons & Arrows
   links: 
-    - title: 
-      url:           
+    - title: Airport Lighting Brochures
+      url: https://archive.org/details/buildingtechnologyheritagelibrary?tab=collection&query=airport+lighting
+      description: These brochures from the 1920s and 1930s are provided by the Building Technology Heritage Library. 
+    - title: Arrows Across America
+      url: https://www.dreamsmithphotos.com/arrow/
+      description: More about the beacon and arrow system that guided our pioneer aviators.        
+    - title: Historical Map and Chart Collection, Office of Coast Survey
+      url: https://historicalcharts.noaa.gov/
+      description: Aeronautical charts, among other types of maps, are available at this site. 
+    - title: Maintenance of Airway Beacon Facilities, 1962 manual
+      url: /assets/docs/publications/Maintenance-of-Airway-Beacon-Facilities.pdf
+      description: Learn about the characteristics, operation and maintenance of airway beacon facilities, from the early acetylene-powered beacons to the familiar Crouse-Hinds DCB-36 beacons!
+    - title: Numidia Airport
+      url: http://numidiaairport.com/numidiaairport.html
+      description: Numidia Airport is the home of a lovingly restored tower beacon and caretaker’s shanty. The airport’s owner has provided a detailed history of the airport and the U. S. Airmail system.    
+    - title: Point of View, by Angela Minor
+      url: https://angelaminor.com/wp-content/uploads/2022/07/Point-of-View-Oklahoma-Today.pdf
+      description: Hiding in plain sight, massive arrows—about fifty to seventy feet long and made of concrete—lie across the country, slowly succumbing to the ravages of time. First published in _Oklahoma Today Magazine_.
+    - title: Strange Arrows Upon the Land, by Angela Minor
+      url: https://angelaminor.com/wp-content/uploads/2022/07/Strange-Arrows-Upon-the-Land-Blue-Ridge-Country-by-Angela-Minor.pdf
+      description: They’re oftentimes visible only from the sky. They point in seemingly random directions. They’re about 70 feet long and made of deeply sun-bleached concrete. What are they? First published in _Blue Ridge Country Magazine_.
