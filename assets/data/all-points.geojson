@@ -531,7 +531,7 @@
           "condition": "Good",
           "time": "2024-09-08 11:46:00 -0400",
           "permalink": "/surveymarks/nps-unstamped-acadia-20/",
-          "image": "https://images.planetzhanna.com/2024/09/08/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/08/thumbnails/nps-unstamped-acadia-20csm.jpg"
         },
         "geometry": {
           "type": "Point",
@@ -549,7 +549,7 @@
           "condition": "Good",
           "time": "2024-09-07 12:35:00 -0400",
           "permalink": "/surveymarks/nps-unstamped-acadia-19/",
-          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-19csm.jpg"
         },
         "geometry": {
           "type": "Point",
@@ -567,7 +567,7 @@
           "condition": "Good",
           "time": "2024-09-07 12:30:00 -0400",
           "permalink": "/surveymarks/nps-unstamped-acadia-18/",
-          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-18csm.jpg"
         },
         "geometry": {
           "type": "Point",
@@ -585,7 +585,7 @@
           "condition": "Good",
           "time": "2024-09-07 12:22:00 -0400",
           "permalink": "/surveymarks/nps-unstamped-acadia-17/",
-          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-17csm.jpg"
         },
         "geometry": {
           "type": "Point",
@@ -603,7 +603,7 @@
           "condition": "Good",
           "time": "2024-09-07 12:19:00 -0400",
           "permalink": "/surveymarks/nps-unstamped-acadia-16/",
-          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-16csm.jpg"
         },
         "geometry": {
           "type": "Point",
@@ -621,7 +621,7 @@
           "condition": "Good",
           "time": "2024-09-06 13:53:00 -0400",
           "permalink": "/surveymarks/boundary-monument-unstamped-2/",
-          "image": "https://images.planetzhanna.com/2024/09/06/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/06/thumbnails/boundary-monument-unstamped-2csm.jpg"
         },
         "geometry": {
           "type": "Point",
@@ -2315,6 +2315,60 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "Boundary Monument (Unstamped, #1)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2022-09-14T09:48:04-04:00",
+          "permalink": "/surveymarks/boundary-monument-unstamped-1/",
+          "image": "https://images.planetzhanna.com/2022/09/14/thumbnails/boundary-monument-unstamped-1csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.244226,
+            44.300752
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "S 127",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2022-09-11T17:28:04-04:00",
+          "permalink": "/surveymarks/s-127/",
+          "image": "https://images.planetzhanna.com/2022/09/11/thumbnails/s127csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.247133,
+            44.312746
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "USA/PVT",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2022-09-10T17:20:21-04:00",
+          "permalink": "/surveymarks/usa-pvt/",
+          "image": "https://images.planetzhanna.com/2022/09/10/thumbnails/usa-pvtcsm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.239177,
+            44.315917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": 2496,
           "status": "Recovered",
           "condition": "Good",
@@ -2344,6 +2398,96 @@
           "coordinates": [
             -68.794911,
             44.571315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "Q 145",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2021-09-19T09:55:18-04:00",
+          "permalink": "/surveymarks/pe0323-3/",
+          "image": "https://images.planetzhanna.com/2021/09/19/thumbnails/pe0323csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.35277,
+            44.35539
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "USGS (Unstamped, Acadia #1)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2021-09-11T16:23:18-04:00",
+          "permalink": "/surveymarks/usgs-unstamped-acadia-1/",
+          "image": "https://images.planetzhanna.com/2021/09/11/thumbnails/usgs-unstamped-1csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.206064,
+            44.36218
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "19197-150",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2021-09-11T09:53:28-04:00",
+          "permalink": "/surveymarks/19197-150/",
+          "image": "https://images.planetzhanna.com/2021/09/11/thumbnails/19197-150csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.211416,
+            44.38625
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "NPS (Unstamped, Acadia #8)",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2021-09-11T08:00:38-04:00",
+          "permalink": "/surveymarks/nps-unstamped-acadia-8/",
+          "image": "https://images.planetzhanna.com/2021/09/11/thumbnails/nps8csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.212266,
+            44.372233
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "841 3320 TIDAL 13",
+          "status": "Recovered",
+          "condition": "Fair",
+          "time": "2021-09-10T09:52:48-04:00",
+          "permalink": "/surveymarks/841-3320-tidal-13-2/",
+          "image": "https://images.planetzhanna.com/2021/09/10/thumbnails/841-3320-tidal-13csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.204033,
+            44.3913
           ]
         }
       },

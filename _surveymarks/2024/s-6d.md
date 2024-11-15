@@ -19,7 +19,11 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-      - filename:
-        alt:
+      - filename: s6d
+        alt: National Park Service Boundary Monument S 6D
+      - filename: s6dg1
+        alt: Eyelevel view of the disk on the pipe
+      - filename: s6dg2
+        alt: Looking S from Lurvey Spring Road toward the mark                
 featured_image: s6dcsm.jpg
 ---
