@@ -1,8 +1,8 @@
 ---
 designation: T 18 RESET
 date: '2024-09-05T11:36:00-04:00'
-latitude: 44.431177
-longitude: 69.010081
+latitude: 44.431249
+longitude: 69.009942
 state: Maine
 county: Waldo County
 quad: Belfast Quad
