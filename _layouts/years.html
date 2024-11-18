@@ -15,7 +15,7 @@ layout: default
     <ul class="js-tablist">
         {% if recMarks.size > 0 %}
         <li class="js-tablist__item">
-            <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Found or Confirmed Destroyed</a>
+            <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Found or Confirmed Destroyed ({{ recMarks.size }})</a>
         </li>
         {% endif %}
         {% if nfMarks.size > 0 %}
