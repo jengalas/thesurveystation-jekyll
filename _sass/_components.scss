@@ -169,3 +169,14 @@
     outline: 1px dotted #000;
   }
 }
+
+/* Browse List */
+
+.browseList {
+    display: flex; 
+    flex-wrap: wrap;
+    gap: 2rem; 
+    list-style: none; 
+    margin: 0 0 2rem 0; 
+    padding: 0; 
+}
