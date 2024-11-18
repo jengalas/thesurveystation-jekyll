@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<h1>Survey Mark Recoveries</h1>
 <h2>{{ page.year }}</h2>
 
 {% assign marks = site.surveymarks | concat: site.reference_marks | where: "date", page.year  | sort: "date" | reverse %}
@@ -12,23 +13,23 @@ layout: default
 
 <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
     <ul class="js-tablist">
-        {% if recMarks %}
+        {% if recMarks.size > 0 %}
         <li class="js-tablist__item">
             <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Found or Confirmed Destroyed</a>
         </li>
         {% endif %}
-        {% if nfMarks %}
+        {% if nfMarks.size > 0 %}
         <li class="js-tablist__item">
             <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Not Found</a>
         </li>
         {% endif %}
-        {% if noteMarks %}
+        {% if noteMarks.size > 0 %}
         <li class="js-tablist__item">
             <a href="#id_third-{{ forloop.index }}" class="js-tablist__link">Notes Made</a>
         </li>
         {% endif %}
     </ul>
-    {% if recMarks %}
+    {% if recMarks.size > 0 %}
     <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
         <div class="archive-grid cards">
         {% for rec in recMarks reversed %}
@@ -44,18 +45,22 @@ layout: default
         </div>
     </div>
     {% endif %}
-    {% if nfMarks %}
+    {% if nfMarks.size > 0 %}
     <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+        <ul>
         {% for rec in nfMarks reversed %}
-            <li>NF: <a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
+            <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
         {% endfor %}
+        </ul>
     </div>
     {% endif %}
-    {% if noteMarks %}
+    {% if noteMarks.size > 0 %}
     <div id="id_third-{{ forloop.index }}" class="js-tabcontent">
+        <ul>
         {% for rec in noteMarks reversed %}
-            <li>Note: <a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
+            <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
         {% endfor %}
+        </ul>
     </div>
     {% endif %}
 </div>
