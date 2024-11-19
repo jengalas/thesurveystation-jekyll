@@ -2,7 +2,7 @@
 title: Magnetic Stations, Part 2
 author: Zhanna
 date: '2024-11-10T19:03:00-05:00'
-tags: ["datasheets, history"]
+tags: [datasheets, history]
 excerpt: >-
   
 featured_image: mag-station.jpg
