@@ -4,18 +4,18 @@ title: Posts
 permalink: /posts/
 _unlisted: true
 ---
-<h1>Latest Posts</h1>
 
-<div>
-  {% for post in site.posts %}
-    <article>   
-      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <div class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
-      {% if post.featured_image %}
-        <div class="post-featured-image"><img src="/assets/img/posts/featured-images/{{ post.featured_image }}"></div>
-      {% endif %}
-      <div class="post-summary">{{ post.excerpt | markdownify }}</div>
-    </article>
-    <hr>    
-  {% endfor %}
+{% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+<h1>All Posts</h1>
+
+<div class="blog">
+{% for year in years %}
+  <h2>{{ year.name }}</h2>
+
+    {% for post in year.items %}
+      {% include blog-index.html %}
+    {% endfor %}
+ 
+{% endfor %} 
 </div>

@@ -23,19 +23,7 @@
     </div>
     <div>
         {% for post in site.posts limit:4 %}
-            <div style="display: flex; align-items: center; flex-direction: row; border-bottom: 1px solid #e5e7eb; line-height: 2.5;">
-                <div style="width: 20rem; flex-shrink: 0; font-size: 1rem;">
-                    {{ post.date | date: "%B %-d, %Y" }}
-                </div>
-                <h3 style="flex-grow: 1; margin-bottom: 0;">
-                    <a style="border-bottom: 0;" href="{{ post.url }}">{{ post.title }}</a>
-                </h3>
-                <div style="width: 20rem; flex-shrink: 0; font-size: 1rem; text-align: right;">
-                    {% for tag in post.tags %}
-                        {{ tag }}
-                    {% endfor %}
-                </div>
-            </div>
+            {% include blog-index.html %}
         {% endfor %}
     </div>
 </div>
