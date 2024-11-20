@@ -15,17 +15,17 @@ layout: default
     <ul class="js-tablist">
         {% if recMarks.size > 0 %}
         <li class="js-tablist__item">
-            <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Found or Confirmed Destroyed <span style="font-weight: 200;">({{ recMarks.size }})</span></a>
+            <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Found or Confirmed Destroyed <span class="mark-count">({{ recMarks.size }})</span></a>
         </li>
         {% endif %}
         {% if nfMarks.size > 0 %}
         <li class="js-tablist__item">
-            <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Not Found ({{ nfMarks.size }})</a>
+            <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Not Found <span class="mark-count">({{ nfMarks.size }})</span></a>
         </li>
         {% endif %}
         {% if noteMarks.size > 0 %}
         <li class="js-tablist__item">
-            <a href="#id_third-{{ forloop.index }}" class="js-tablist__link">Notes Made ({{ noteMarks.size }})</a>
+            <a href="#id_third-{{ forloop.index }}" class="js-tablist__link">Notes Made <span class="mark-count">({{ noteMarks.size }})</span></a>
         </li>
         {% endif %}
     </ul>

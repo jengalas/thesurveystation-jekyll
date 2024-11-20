@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Posts
+title: Tags
 permalink: /tags/
 _unlisted: true
 ---
@@ -14,16 +14,16 @@ _unlisted: true
 
 <div class="blog">
 {% for item in (0..site.tags.size) %}
-{% unless forloop.last %}
-  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-    <article id="{{ this_word }}">
-        <h2 class="tag-heading tag-name">{{ this_word }}</h2>
-        {% for post in site.tags[this_word] %}
-            {% if post.title != null %}
-                {% include blog-index.html %}
-            {% endif %}
-        {% endfor %}
-    </article>
-{% endunless %}
+    {% unless forloop.last %}
+    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+        <article id="{{ this_word }}">
+            <h2 class="tag-heading tag-name">{{ this_word }}</h2>
+            {% for post in site.tags[this_word] %}
+                {% if post.title != null %}
+                    {% include blog-index.html %}
+                {% endif %}
+            {% endfor %}
+        </article>
+    {% endunless %}
 {% endfor %}
 </div>

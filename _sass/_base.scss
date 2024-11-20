@@ -37,7 +37,7 @@ h1, h2, h3 {
   }
 
   h1, h2, h3 {
-    color: #474747;
+    color: $bodyColor;
   }
 
   &.home {
@@ -227,11 +227,7 @@ h1, h2, h3 {
 .recent-recoveries {
   background-color: #eff0f3;
   padding: 2rem 0 3rem 0;
-}
 
-.blog { 
-  padding: 2rem 0 5rem 0;
-  
   .img-container {
     width: 25%;
   }
@@ -241,9 +237,69 @@ h1, h2, h3 {
     margin-right: 2rem;
     width: 100%;
   }
-  // .blog-inner {
-  //   margin-left: calc(25% + 2rem);
-  // }
+  .blog-inner {
+    margin-left: calc(25% + 2rem);
+  }
+}
+
+.blog { 
+  padding: 2rem 0 5rem 0;
+
+  .header-row {
+    align-items: center; 
+    border-bottom: 1px solid #e5e7eb;
+    display: flex; 
+    justify-content: space-between;  
+  }
+  
+  .blog-index {
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;  
+    flex-direction: column;
+    line-height: 2.5;
+    padding: 1rem 0;
+
+    .post-meta {
+      flex-shrink: 0; 
+      font-size: 1rem;
+      width: 20rem; 
+    }
+
+    h3 {
+      flex-grow: 1; 
+      margin-bottom: 0;
+
+      a {
+        border-bottom: 0;
+      }
+    }
+
+    .tags {
+      
+      a {
+        border: 1px solid #e5e7eb;
+        border-radius: 1rem; 
+        padding: .5rem;
+        transition: color 1s ease, border-color 1s ease;
+        
+        &:hover {
+          border: 1px solid#cccccc;
+          color: #474747;
+        }
+      }
+    }
+
+    @media screen and (min-width: $normal) {
+      align-items: center;
+      flex-direction: row;
+      padding: 0;
+
+      .tags {
+        text-align: right;
+      }
+    }
+  }
+  
   h3 {
     margin-top: 0;
   }
@@ -258,7 +314,7 @@ h1, h2, h3 {
 }
 
 footer {
-  background-color: #242424;
+  background-color: #292929;
   color: #ececec;
   padding: 2rem 0;
 

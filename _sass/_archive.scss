@@ -1,4 +1,9 @@
 @use 'base' as *;
+
+.mark-count {
+  font-weight: 200;
+}
+
 .archive-grid.cards {
   margin: 0 auto;
   display: grid;
