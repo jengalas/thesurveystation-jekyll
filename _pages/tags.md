@@ -15,10 +15,10 @@ _unlisted: true
 <div class="blog">
 {% for item in (0..site.tags.size) %}
     {% unless forloop.last %}
-    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-        <article id="{{ this_word }}">
-            <h2 class="tag-heading tag-name">{{ this_word }}</h2>
-            {% for post in site.tags[this_word] %}
+    {% capture term %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+        <article id="{{ term }}">
+            <h2 class="tag-heading tag-name">{{ term }}</h2>
+            {% for post in site.tags[term] %}
                 {% if post.title != null %}
                     {% include blog-index.html %}
                 {% endif %}
