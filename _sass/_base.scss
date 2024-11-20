@@ -49,6 +49,16 @@ h1, h2, h3 {
       border-bottom: 0;
       color: $bodyColor;
     }
+
+    .blog { 
+      background-color: #f8f9fa;
+    }
+
+    .grid-container {
+      a {
+        padding: 5rem 0;
+      }
+    }
   }
 
   p {
@@ -220,7 +230,6 @@ h1, h2, h3 {
 }
 
 .blog { 
-  background-color: #f8f9fa;
   padding: 2rem 0 5rem 0;
   
   .img-container {

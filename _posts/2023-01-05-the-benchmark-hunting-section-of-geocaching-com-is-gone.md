@@ -53,34 +53,34 @@ If you are at all interested in this topic, please also take a moment to read th
 My post to that thread (which is quite similar to what I've written above) follows:
 
 > As someone who has searched for and documented well over 1,200 benchmarks over the past 20 years, it certainly was very surprising and disappointing to discover that the benchmark hunting section of Geocaching.com was gone without any warning to me. I do not regularly read the forums, so I had no idea this change was imminent. I only found out when I researched it after the fact. I receive plenty of emails from Geocaching.com about souvenirs and their latest promotions -- would it have been that difficult for them to send a message about the "retirement" of the benchmark pages?
-
+>
 > Another thing that should have been done was to add a deprecation announcement to each benchmark page, so it would be obvious to anyone viewing the pages that after a certain date, the benchmark pages would no longer be available. It's just standard practice.
-
+>
 > But apparently it's too late for any of that.
-
+>
 > I understand the need to move away from legacy code that has become a maintenance burden, hinders future innovation, and does not fit the current goals of the organization. Frankly, given the lack of updates to the benchmarking portion of the site, I expected this to happen a long time ago, and that's why I began documenting my survey mark recoveries on my own website instead. But many people did not have that option, and they put a lot of time and effort into their benchmark logs on Geocaching.com. We have also heard over and over how useful geocachers' logs have been for professional surveyors. We had built an impressive archive of historical documentation over the decades, much of which is not available elsewhere, and it is a shame to lose that.
-
+>
 > For anyone who wants to retrieve the text (not the photos) of their benchmark logs and see others' logs for a particular mark, you can use Internet Archive's Wayback Machine.
-
+>
 > The benchmarking home page (as of December 30, 2022) is available here:
-
+>
 > [https://web.archive.org/web/20221230041305/https://www.geocaching.com/mark/](https://web.archive.org/web/20221230041305/https://www.geocaching.com/mark/)
-
+>
 > The postal code search doesn't work, but the PID search does, at least for all PIDs I have tried.
-
+>
 > To go directly to a mark's page, you can use URLs of the form:
-
+>
 > [https://web.archive.org/web/20221208090238/https://www.geocaching.com/mark/details.aspx?PID=](https://web.archive.org/web/20221208090238/https://www.geocaching.com/mark/details.aspx?PID=)[PID]
-
+>
 > where [PID] is the mark's PID.
-
+>
 > Unfortunately, because I don't see a way to view the marks a user has logged, you will need to know the PIDs of any marks you want to look up on the Wayback Machine archive.
-
+>
 > The NGS Data Explorer can help with that:
-
+>
 > [https://geodesy.noaa.gov/NGSDataExplorer/](https://geodesy.noaa.gov/NGSDataExplorer/)
-
+>
 > I hope this is useful. 
-
+>
 > To anyone who enjoyed this activity, took it seriously, and understands its value, please spend some time on the NGS website and learn how to submit your data directly to them instead. Survey marks are still in constant use and your efforts will be appreciated there.
 

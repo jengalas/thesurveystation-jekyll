@@ -2,7 +2,7 @@
 title: Wyoming USGS Datasheets Now Available
 author: Zhanna
 date: '2022-07-26T17:45:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   Some USGS datasheets for Wyoming are available.
 featured_image: wy-featured-image.jpg

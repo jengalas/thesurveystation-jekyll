@@ -2,7 +2,7 @@
 title: New York USGS Datasheets Available
 author: Zhanna
 date: '2019-10-24T18:30:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   New York USGS datasheets are available. They include some very interesting history!
 featured_image: ny-featured-image.jpg

@@ -2,7 +2,7 @@
 title: Kentucky USGS Datasheets Available
 author: Zhanna
 date: '2018-12-05T13:53:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for Kentucky are available!
 featured_image: ky-featured-image.jpg

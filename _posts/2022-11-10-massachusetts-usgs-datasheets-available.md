@@ -2,7 +2,7 @@
 title: Massachusetts USGS Datasheets Available!
 author: Zhanna
 date: '2022-11-10T18:00:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for Massachusetts are now available!
 featured_image: ma-featured-image.jpg

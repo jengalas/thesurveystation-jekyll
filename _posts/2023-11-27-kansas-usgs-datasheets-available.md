@@ -2,7 +2,7 @@
 title: Kansas USGS Datasheets Available
 author: Zhanna
 date: '2023-11-27T15:58:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   Two quads for Kansas are available!
 featured_image: ks-featured-image.jpg

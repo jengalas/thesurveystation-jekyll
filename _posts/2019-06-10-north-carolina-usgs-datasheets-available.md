@@ -2,7 +2,7 @@
 title: North Carolina USGS Datasheets Available
 author: Zhanna
 date: '2019-06-10T20:03:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for North Carolina are available!
 featured_image: nc-featured-image.jpg

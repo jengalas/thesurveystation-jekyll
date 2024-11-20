@@ -2,7 +2,7 @@
 title: North Dakota USGS Datasheets Available
 author: Zhanna
 date: '2024-02-11T18:10:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   23 quads for North Dakota are now available!
 featured_image: nd-featured-image.jpg

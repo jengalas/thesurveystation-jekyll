@@ -2,7 +2,7 @@
 title: Vermont USGS Datasheets Now Available
 author: Zhanna
 date: '2022-11-16T14:45:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for Vermont are now available!
 featured_image: vt-featured-image.jpg

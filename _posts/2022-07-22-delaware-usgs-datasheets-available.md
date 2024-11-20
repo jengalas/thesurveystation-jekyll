@@ -2,7 +2,7 @@
 title: Delaware USGS Datasheets Available
 author: Zhanna
 date: '2022-07-22T11:54:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for Delaware are now available!
 featured_image: de-featured-image.jpg

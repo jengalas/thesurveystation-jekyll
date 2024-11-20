@@ -2,7 +2,7 @@
 title: Montana USGS Datasheets Available
 author: Zhanna
 date: '2023-01-14T17:13:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   Some USGS quads for Montana are available!
 featured_image: mt-featured-image.jpg

@@ -2,7 +2,7 @@
 title: Minnesota USGS Datasheets Available
 author: Zhanna
 date: '2023-01-11T20:32:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   Some USGS quads for Minnesota are available!
 featured_image: mn-featured-image.jpg

@@ -2,7 +2,7 @@
 title: Alabama USGS Datasheets Available
 author: Zhanna
 date: '2023-12-10T16:06:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   Two quads for Alabama are available!
 featured_image: al-featured-image.jpg

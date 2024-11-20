@@ -2,7 +2,7 @@
 title: Maryland USGS Datasheets Posted!
 author: Zhanna
 date: '2018-10-12T15:15:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for Maryland are now available!
 featured_image: md-featured-image.png

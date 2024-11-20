@@ -2,7 +2,7 @@
 title: Iowa USGS Datasheets Available
 author: Zhanna
 date: '2023-01-13T13:37:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   Some USGS quads for Iowa are available!
 featured_image: ia-featured-image.jpg

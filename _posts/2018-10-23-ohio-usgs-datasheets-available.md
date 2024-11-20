@@ -2,7 +2,7 @@
 title: Ohio USGS Datasheets Available
 author: Zhanna
 date: '2018-10-23T19:57:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for Ohio are now available!
 featured_image: oh-featured-image.png

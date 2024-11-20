@@ -2,7 +2,7 @@
 title: Indiana USGS Datasheets Available!
 author: Zhanna
 date: '2022-12-19T09:46:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS quads for Indiana are available!
 featured_image: in-featured-image.jpg

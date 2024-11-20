@@ -2,7 +2,7 @@
 title: Additional Michigan USGS Datasheets Available
 author: Zhanna
 date: '2022-12-20T10:54:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   More USGS quads for Michigan are available!
 featured_image: mi-featured-image.jpg

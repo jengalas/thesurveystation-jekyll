@@ -2,7 +2,7 @@
 title: Maine USGS Datasheets Available!
 author: Zhanna
 date: '2022-09-04T20:05:00-05:00'
-tags: ["USGS Datasheets"]
+tags: ["USGS datasheets"]
 excerpt: >-
   USGS datasheets for Maine are now available!
 featured_image: me-featured-image.jpg
