@@ -1,12 +1,19 @@
-{% assign allMarks = site.surveymarks | sort: "date" | reverse %}
+{% assign allMarks = site.surveymarks | where: "status", "Recovered" | sort: "date" | reverse %}
 
-{% for post in allMarks limit:3  %}
-    <div class="grid-item">
-        <a href="{{ post.url }}">
-            <img src="https://images.planetzhanna.com/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/{{ post.date | date: '%d' }}/{{ post.homepage_featured_image }}" alt=""  style="object-fit: cover; width: 100%; max-height: 100%;">
-            <p><b>{{ post.designation }}</b><br>
-                <i>{{ post.county }}, {{ post.state }}<br>
-                {{ post.date | date: "%B %-d, %Y" }}</i></p>
-        </a>
+{% for post in allMarks limit:4  %}
+
+    <div class="grid-item blog-index">
+        
+        <div class="img-container">
+            <a href="{{ post.url }}"><img src="https://images.planetzhanna.com/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/{{ post.date | date: '%d' }}/thumbnails/{{ post.featured_image }}" alt=""></a>
+        </div>
+        <div class="blog-inner">
+            <h3><a href="{{ post.url }}">{{ post.designation }}</a></h3>
+            <p>{{ post.excerpt }}<br><i>{{ post.date | date: "%B %-d, %Y" }}</i></p>
+            <p>{% for tag in post.tags %}
+                {{ tag }}
+                {% endfor %}
+            </p>
+        </div>
     </div>
 {% endfor %}
