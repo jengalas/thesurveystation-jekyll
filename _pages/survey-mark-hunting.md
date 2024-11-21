@@ -24,13 +24,28 @@ Survey mark hunting, sometimes referred to as “benchmark hunting” regardless
 Beginner's Guide to Survey Mark Hunting
 
 
+## Resources for Survey Mark Hunters
+
+[Survey Mark Data](/survey-data)
+: Links to official datasheets, data sets, and other sources of survey control
+{: .resources-list}
+
+
+### Inspiration
+
+[Flickr: USGS Geodetic Survey Markers](https://www.flickr.com/groups/usgsmarkers/pool/)
+: 
+[Zhanna’s recoveries from 2024](/year/2024/)
+: There are a few nice images here, if I may say so myself.
+{: .resources-list}
+
 ## Zhanna's Recoveries
 
 ### Browse by year
 
 {% for year in site.data.years %}
 * [{{ year.year }}](/year/{{ year.year }}){% endfor %}
-{: .browseList}
+{: .browse-list}
 
 ### Map of survey mark recoveries
 
@@ -40,4 +55,4 @@ Beginner's Guide to Survey Mark Hunting
 
 * [NGS](/ngs-recoveries/)
 * [USGS](/usgs-recoveries/)
-{: .browseList}
+{: .browse-list}

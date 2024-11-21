@@ -170,13 +170,26 @@
   }
 }
 
-/* Browse List */
+/* Landing Pages Lists */
 
-.browseList {
+.browse-list {
     display: flex; 
     flex-wrap: wrap;
     gap: 2rem; 
     list-style: none; 
     margin: 0 0 2rem 0; 
     padding: 0; 
+}
+
+dl.resources-list {
+    dd {
+        border-bottom: 1px solid #f7f3ef;
+        font-size: 85%;
+        margin-left: 0;
+        padding-bottom: 1rem;
+    }
+    dt {
+        margin-bottom: 0.6rem;
+        margin-top: 0.9rem;
+    }
 }
