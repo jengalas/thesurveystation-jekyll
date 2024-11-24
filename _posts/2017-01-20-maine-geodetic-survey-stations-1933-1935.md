@@ -2,7 +2,7 @@
 title: Maine Geodetic Survey Stations, 1933-1935
 author: Zhanna
 date: '2017-01-20T19:05:00-04:00'
-tags: [diagrams, NGS, USGS datasheets]
+tags: [diagrams, NGS, "USGS datasheets"]
 excerpt: >-
   From Harold Nelson of MaineDOT comes a survey report and station descriptions from a 1930s survey of Maine.
 featured_image: featured-maine-gs.jpg

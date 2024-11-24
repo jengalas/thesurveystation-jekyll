@@ -10,6 +10,13 @@ layout: default
 
 <span class="byline">Posted on {{ page.date | date: "%B %-d, %Y" }} by Zhanna</span>
 
+<!-- TODO: style tags as in blog index -->
+<!-- <div class="post-meta tags">
+    {% for tag in page.tags %}
+        <a href="/tags/#{{ tag }}">{{ tag }}</a>
+    {% endfor %}
+</div> -->
+
 <section class="comments">
     {% include comment-form.html %}
 </section>
