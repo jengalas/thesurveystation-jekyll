@@ -3,6 +3,16 @@
   
   {% include head.html %}
 
+  <style>
+    .background {
+      background-image: url('/assets/img/stacked-waves-haikei.png');
+      background-size: cover;
+      background-position: center;
+      height: auto;
+      width: 100%;
+      }
+    </style>
+
   <body>
 
     {% include nav.html %}
@@ -47,7 +57,7 @@
           </a>
         </div>
 
-        <section class="blog">
+        <section class="blog background">
           {% include recent-posts.html %}
         </section>
 
