@@ -23,18 +23,46 @@ Survey mark hunting, sometimes referred to as “benchmark hunting” regardless
 
 Beginner's Guide to Survey Mark Hunting
 
+[Geodetic Glossary (HTML version)](https://www.ngs.noaa.gov/CORS-Proxy/Glossary/xml/NGS_Glossary.xml)
+: This is a hypertext version of the 1986 publication by the National Geodetic Survey (also available in [.pdf format](https://repository.library.noaa.gov/view/noaa/2827/noaa_2827_DS1.pdf))
+[Joy of Geodetics Part IV: ](https://www.usps.org/images/Exec/CoopCh/PDFs/2020_JOG_Part_4_IV.pdf)
+: The United States Power Squadrons have provided a series of presentations to instruct members on methods of surveying, types of markers, and procedures for reporting recoveries.
+{: .resources-list}
 
 ## Resources for Survey Mark Hunters
+
+### Data
 
 [Survey Mark Data](/survey-data)
 : Links to official datasheets, data sets, and other sources of survey control
 {: .resources-list}
 
+### Tools
+
+[NGS PID Search bookmarklet](javascript:void(str=prompt('PID:',''));if(str){location.href='http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=%27+escape(str);})
+: 
+
+[GPS Visualizer](https://www.gpsvisualizer.com/)
+: 
+
+[GPS Visualizer: Calculators](https://www.gpsvisualizer.com/calculators)
+: 
+
+[BM finder by radius](https://bm-finder-radius.netlify.app/)
+: 
+
+[GPX waypoint creator](https://gpx-waypoint-creator.netlify.app/)
+: 
+
+[NGS PC Software](http://www.ngs.noaa.gov/PC_PROD/pc_prod.shtml)
+: 
+{: .resources-list}
 
 ### Inspiration
 
 [Flickr: USGS Geodetic Survey Markers](https://www.flickr.com/groups/usgsmarkers/pool/)
-: 
+: Not all are actually USGS markers, or geodetic markers; many different agencies and types are represented.
+
 [Zhanna’s recoveries from 2024](/year/2024/)
 : There are a few nice images here, if I may say so myself.
 {: .resources-list}
