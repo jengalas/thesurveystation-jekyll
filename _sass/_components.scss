@@ -1,3 +1,4 @@
+@use 'breakpoints' as *;
 /* Accordion */
 
 .accordion-container {
@@ -181,7 +182,7 @@
     padding: 0; 
 }
 
-dl.resources-list {
+.resources-list {
     dd {
         border-bottom: 1px solid #f7f3ef;
         font-size: 85%;
@@ -191,6 +192,24 @@ dl.resources-list {
     dt {
         margin-bottom: 0.6rem;
         margin-top: 0.9rem;
+    }
+}
+
+.dl-horizontal {
+    dt {
+        font-weight: 500;
+    }
+    
+    @media (min-width: $narrower) {
+        dt {
+            float: left;
+            text-align: left;
+            width: 300px;
+        }
+    
+        dd {
+            margin: 0 1.5em .1em 310px;
+        }
     }
 }
 
