@@ -51,6 +51,6 @@ bearings were determined:
 
 This one is very difficult to determine! Right now my best guess, based on nothing but going back and forth between the description, PennPilot imagery, and modern maps, is somewhere around **41.4310285, -76.490615**. I will have to check it against the bearings but a preliminary look doesn't seem to work out.
 
-See: https://sites.rootsweb.com/~pasulliv/churches/Adona.htm for discussion of the church(es).
+See: [https://sites.rootsweb.com/~pasulliv/churches/Adona.htm](https://sites.rootsweb.com/~pasulliv/churches/Adona.htm) for discussion of the church(es).
 
 {% include simple-map.html map_id="2" latitude="41.4310285" longitude="-76.490615" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
