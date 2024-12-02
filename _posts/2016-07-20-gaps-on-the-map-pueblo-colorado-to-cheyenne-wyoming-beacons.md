@@ -40,16 +40,47 @@ Jeff writes:
 >
 > I’m just fascinated by the interactive map on your web page: not so much the lines of dots, but the gaps in the lines of dots.
 
-[table id=5 /]
+| State | City                  | Legend | Beacon # | Coordinates (Interpolated) | Coordinates (Actual)   | NGS PID | Notes                                                  |
+|-------|-----------------------|--------|----------|----------------------------|------------------------|---------|--------------------------------------------------------|
+| CO    | Pueblo                | 2 LF   | 0?       | 38.2527, -104.6367         |                        |         |                                                        |
+| CO    |                       |        | 1        | 38.4075, -104.6104         | 38.400627,-104.615438  | JK1093  |                                                        |
+| CO    |                       | 1 LF   | 2        | 38.5337, -104.6484         |                        |         |                                                        |
+| CO    |                       |        | 3        | 38.6975, -104.6904         | 38.690014,-104.696597  | JK1181  |                                                        |
+| CO    | Colorado Springs      | 2 LF   | 4        | 38.8202, -104.7053         |                        |         |                                                        |
+| CO    |                       |        | 5        | 38.99, -104.8136           | 38.991679,-104.812878  | JK1199  | Concrete base remains                                  |
+| CO    | Charted off position? | 1 LF   | 6        | 39.0653, -104.8486         | 39.122724,-104.867966  | KK1650  | Along Beacon Lite Road                                 |
+| CO    |                       |        | 7        | 39.2654, -104.8819         |                        |         |                                                        |
+| CO    | 1928 Chart            | 1 LF   | 8        | 39.4223, -104.864          |                        |         |                                                        |
+| CO    | 1930 Chart            | 1 LF   | 8A       | 39.3303, -104.8851         |                        |         |                                                        |
+| CO    | 1930 Chart            |        | 8B       | 39.3763, -104.8614         |                        |         |                                                        |
+| CO    |                       |        | 9        | 39.5088, -104.8839         |                        |         |                                                        |
+| CO    |                       |        | 10       | 39.6293, -104.8956         |                        |         |                                                        |
+| CO    | Denver                | 2 LF   | 11?      | 39.7628, -104.8611         |                        |         |                                                        |
+| CO    | Unmarked Beacon?      | 3 LF   |          | 39.7609, -104.8924         |                        |         |                                                        |
+| CO    | Unmarked Beacon?      |        |          | 39.7525, -104.9935         |                        |         |                                                        |
+| CO    |                       |        | 12       | 39.9167, -104.8516         |                        |         |                                                        |
+| CO    |                       | 1 LF   | 13       | 40.0837, -104.7875         |                        |         |                                                        |
+| CO    |                       |        | 14       | 40.2723, -104.8126         |                        |         |                                                        |
+| CO    | Greeley               | 2 LF   | 15?      | 40.4017, -104.6862         | 40.397018,-104.690711  | LL1223  |                                                        |
+| CO    |                       |        | 16       | 40.5847, -104.7308         | 40.581291,-104.730876  | LL1260  |                                                        |
+| CO    |                       |        | 17       | 40.6988, -104.773          | 40.704521,-104.780116  | LL1264  |                                                        |
+| CO    |                       | 1 LF   | 18       | 40.8308, -104.8045         | 40.826392,-104.810442  | LL1277  |                                                        |
+| CO    |                       |        | 19       | 40.9754, -104.8138         | 40.989763,-104.801369  | LL1272  | Concrete base from generator shed remains              |
+| WY    | Cheyenne              | 2 LF   | 20?      | 41.1596, -104.813          |                        |         |                                                        |
+| WY    | Laramie               | 2 LF   | 37       | 41.287, -105.5816          |                        |         |                                                        |
+| WY    |                       |        | 38       | 41.2713, -105.4403         | 41.267875,-105.433681  | MO1245  | Arrow and concrete foundation of generator shed intact |
+| WY    |                       |        | 39       | 41.2281, -105.2469         | 41.226233,-105.243205  | MO1218  | Arrow intact                                           |
+| WY    |                       |        | 40       | 41.1984, -105.0489         | 41.196879, -105.047821 |         | Arrow intact                                           |
+| WY    | Cheyenne              | 2 LF   | 41?      | 41.1596, -104.813          |                        |         |                                                        |
+| WY    |                       |        | 42       | 41.165, -104.6626          | 41.164783, -104.674532 |         | Arrow intact                                           |
+| WY    |                       |        | 43       | 41.1856, -104.511          | 41.181384, -104.503738 |         | Arrow intact                                           |
+| WY    |                       | 1 LF   | 44       | 41.1815, -104.3281         |                        |         |                                                        |
+{:.post-table}
 
-<strong>Legend</strong>
-<ul>		
-	<li><strong>1</strong> Department of Commerce Intermediate Field (an emergency field for mail planes?)</li>
-	<li><strong>2</strong>	Commercial or Municipal Airport</li>
-        <li><strong>3</strong>	Army Navy or Marine Corps Field</li>
-        <li><strong>LF</strong>	Lighting Facilities</li>
-</ul>
-
-<br style="clear:both;">
+**Legend**
+- **1** Department of Commerce Intermediate Field (an emergency field for mail planes?)
+- **2** Commercial or Municipal Airport
+- **3** Army Navy or Marine Corps Field
+- **LF** Lighting Facilities
 
 
