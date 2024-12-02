@@ -1,5 +1,6 @@
 ---
 layout: default
+class: blog-post
 ---
 
 <h1>{{ page.title }}</h1>
@@ -8,14 +9,16 @@ layout: default
 
 <hr class="clearboth">
 
-<span class="byline">Posted on {{ page.date | date: "%B %-d, %Y" }} by Zhanna</span>
+<div class="post-meta">
+    <div class="byline">Posted on {{ page.date | date: "%B %-d, %Y" }} by Zhanna</div>
 
 <!-- TODO: style tags as in blog index -->
-<!-- <div class="post-meta tags">
-    {% for tag in page.tags %}
-        <a href="/tags/#{{ tag }}">{{ tag }}</a>
-    {% endfor %}
-</div> -->
+    <div class="tags">
+        {% for tag in page.tags %}
+            <a href="/tags/#{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+    </div>
+</div>
 
 <section class="comments">
     {% include comment-form.html %}
