@@ -3,7 +3,7 @@
   
   {% include head.html %}
 
-  <body>
+  <body {% if layout.class %} class="{{ layout.class }}" {% endif %}>
 
     {% include nav.html %}
 
