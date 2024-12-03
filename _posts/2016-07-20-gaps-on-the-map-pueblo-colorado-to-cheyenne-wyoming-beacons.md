@@ -82,5 +82,3 @@ Jeff writes:
 - **2** Commercial or Municipal Airport
 - **3** Army Navy or Marine Corps Field
 - **LF** Lighting Facilities
-
-
