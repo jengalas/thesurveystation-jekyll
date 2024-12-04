@@ -11,7 +11,7 @@ The following is an incomplete list of airway beacons and arrows. The original l
 
 Any item that does not have a PID is not in the NGS database but was discovered by other methods.
 
-<table>
+<table class="airway-beacons-table">
 	<thead>
 		<tr>
 			<th>PID</th>
