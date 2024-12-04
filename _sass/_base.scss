@@ -210,6 +210,17 @@ b, strong {
     flex-direction: row;
     height: 100%;
     padding-top: 1rem;
+    border: 0;
+
+    &.main-section:hover {
+      transform: translateY(-5px);
+      transition: transform .5s ease;
+
+      h1 {
+        color: #858585;
+        transition: color .5s ease;
+      }
+    }    
     
     .image {
       text-align: center;
