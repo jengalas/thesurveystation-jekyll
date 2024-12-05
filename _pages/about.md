@@ -1,10 +1,8 @@
 ---
 title: About Survey Mark Hunting
-layout: default
+layout: page
 permalink: /about-survey-mark-hunting/
 ---
-
-# About Survey Mark Hunting
 
 ## The What
 

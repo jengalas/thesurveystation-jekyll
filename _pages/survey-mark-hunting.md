@@ -1,10 +1,8 @@
 ---
-title: About Survey Mark Hunting
-layout: default
+title: Survey Mark Hunting
+layout: page
 permalink: /survey-mark-hunting/
 ---
-
-# Survey Mark Hunting
 
 <figure class="alignright">
     <img src="/assets/img/go0505csm.jpg" alt="NGS Triangulation Station BEAUTIFUL" title="NGS Triangulation Station BEAUTIFUL">

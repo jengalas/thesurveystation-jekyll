@@ -1,10 +1,8 @@
 ---
 title: Survey Mark Data
-layout: default
+layout: page
 permalink: /survey-data/
 ---
-
-# Survey Mark Data
 
 ## Data from official agencies
 
