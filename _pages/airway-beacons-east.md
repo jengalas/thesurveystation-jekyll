@@ -7,7 +7,7 @@ _unlisted: true
 
 **Last updated {{ 'now' | date: "%B %e, %Y" }}**
 
-<div class="box alignright">Test links</div>
+<div class="box alignright"></div>
 
 The following is an incomplete list of airway beacons and arrows. The original list, compiled by Roger Barnes in 2003, was drawn from the NGS database of survey marks. In recent years, many other contributors have shared their knowledge and added other beacon and arrow sites to the list. Many of these beacons no longer exist, but their locations and remains are of historical interest.
 
