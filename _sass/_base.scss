@@ -212,12 +212,18 @@ b, strong {
     padding-top: 1rem;
     border: 0;
 
-    &.main-section:hover {
-      transform: translateY(-5px);
+    &.main-section {
       transition: transform .5s ease;
 
-      h1 {
-        color: #858585;
+      &:hover {
+        transform: translateY(-5px);
+
+        h1 {
+          color: #858585;
+        }
+      }
+
+      h1 {        
         transition: color .5s ease;
       }
     }    

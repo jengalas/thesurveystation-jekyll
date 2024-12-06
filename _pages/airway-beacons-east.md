@@ -7,7 +7,9 @@ _unlisted: true
 
 **Last updated {{ 'now' | date: "%B %e, %Y" }}**
 
-<div class="box alignright"></div>
+<div class="box alignright">
+For airway beacons in the western U.S., see: <a href="/airway-beacons-list-western-u-s/">Airway Beacons List—Western U.S.</a>
+</div>
 
 The following is an incomplete list of airway beacons and arrows. The original list, compiled by Roger Barnes in 2003, was drawn from the NGS database of survey marks. In recent years, many other contributors have shared their knowledge and added other beacon and arrow sites to the list. Many of these beacons no longer exist, but their locations and remains are of historical interest.
 
