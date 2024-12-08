@@ -13,7 +13,9 @@ But this one in Ellsworth gives me a bit of hope. We can visit the location easi
 
 So far we've determined that:
 - It's likely that the old fair grounds were at the site of the current-day Fairground Road.
-- The former house of Senator Eugene Hale was 
+- The former house of Senator Eugene Hale was somewhere on the high spot north-northwest of the fair grounds. We suspect somewhere on Maddocks Avenue, although the nearby, suspiciously-named Hale Place is another slight possibility (I say slight because assuming we have the correct location of the entrance road to the fair grounds, the bearing doesn't line up).
+- The two churches referred to in the description are still in place, and bearings taken from the points cross near the fairgrounds road.
+- We have no idea what the "brown house" might have been and if it's still standing.
 
 > Ellsworth, Hancock County.-The station is one-half mile east of the center of town in the old fair grounds, about 
 180 feet south of the entrance gate. It is outside of the race track, and about 8 feet west of the foot of the embankment 
