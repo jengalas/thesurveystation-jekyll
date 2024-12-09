@@ -11,6 +11,38 @@
       height: auto;
       width: 100%;
       }
+
+      header {
+        display: grid;
+        grid-template-areas: "hero";
+        height: 28em;
+        max-height: 600px;
+        align-items: center;
+        justify-content: center;
+
+        > * {
+          grid-area: hero;
+        }
+
+        .hero__content {
+          text-align: left;
+          max-width: 680px;
+
+          h1 {
+            color: #ffffff;
+            font-size: 3rem;
+            margin-top: 0;
+          }
+
+          p {
+            color: #ffffff;
+            font-size: 1.5rem;
+            font-weight: 300;
+            text-shadow: 2px 2px 5px black;
+          }
+        }
+      }
+
     </style>
 
   <body>
@@ -19,7 +51,15 @@
 
     <main class="default-template home">
 
-      <section id="banner"></section>
+      <section id="banner">
+        <header>
+          <div class="hero__content">
+            <h1>TheSurveyStation</h1>
+            <p>Follow along with Zhanna as she searches for survey marks, airway beacons, and other relics of infrastructure!</p>
+            <a href="/about-survey-mark-hunting/" class="button">Learn more ...</a>
+          </div>
+        </header>
+      </section>
 
         <div class="grid-container three-col">
           <a href="/survey-mark-hunting">

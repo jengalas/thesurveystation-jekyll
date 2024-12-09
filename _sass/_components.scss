@@ -155,11 +155,11 @@
 /* NGS documents treeview */
 
 .tree {
-    padding-left: .2rem;
 
   li {
     cursor: pointer;
     list-style-type: none;
+    padding-left: 1.5rem;
   }
 
   summary:focus {
@@ -180,6 +180,11 @@
     list-style: none; 
     margin: 0 0 2rem 0; 
     padding: 0; 
+}
+
+.compact-list {
+    margin: 0;
+    padding-left: 2rem;
 }
 
 .resources-list {
