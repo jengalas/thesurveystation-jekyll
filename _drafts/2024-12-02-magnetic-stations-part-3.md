@@ -11,12 +11,6 @@ This magnetic station has sent us down several historical rabbit holes, and we h
 
 But this one in Ellsworth gives me a bit of hope. We can visit the location easily, next year when we're in Maine, and the mark is set on a relatively large monument. 
 
-So far we've determined that:
-- It's likely that the old fair grounds were at the site of the current-day Fairground Road.
-- The former house of Senator Eugene Hale was somewhere on the high spot north-northwest of the fair grounds. We suspect somewhere on Maddocks Avenue, although the nearby, suspiciously-named Hale Place is another slight possibility (I say slight because assuming we have the correct location of the entrance road to the fair grounds, the bearing doesn't line up).
-- The two churches referred to in the description are still in place, and bearings taken from the points cross near the fairgrounds road.
-- We have no idea what the "brown house" might have been and if it's still standing.
-
 > Ellsworth, Hancock County.-The station is one-half mile east of the center of town in the old fair grounds, about 
 180 feet south of the entrance gate. It is outside of the race track, and about 8 feet west of the foot of the embankment 
 at the west end of the course. The station is marked by a bronze disk set in the top of a concrete block 6 by 6 inches 
@@ -30,7 +24,12 @@ on top and projecting 16 inches above ground. The following true bearings were d
 >
 > Vane on steeple of Congregational Church ................................. 86 31.6 west of south 
 
+So far we've determined that:
 
+1. It's likely that the old fair grounds were at the site of the current-day Fairground Road.
+2. The former house of Senator Eugene Hale was somewhere on the high spot north-northwest of the fair grounds. We suspect somewhere on Maddocks Avenue, although the nearby, suspiciously-named Hale Place is another slight possibility (I say slight because assuming we have the correct location of the entrance road to the fair grounds, the bearing doesn't line up).
+3. The two churches referred to in the description are still in place, and bearings taken from the points cross near the fairgrounds road.
+4. We have no idea what the "brown house" might have been and if it's still standing.
 
 {% include simple-map.html map_id="1" latitude="44.543507" longitude="-68.413275" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
 
