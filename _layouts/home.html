@@ -3,49 +3,6 @@
   
   {% include head.html %}
 
-  <style>
-    .background {
-      background-image: url('/assets/img/stacked-waves-haikei-greenish.png');
-      background-size: cover;
-      background-position: center;
-      height: auto;
-      width: 100%;
-      }
-
-      header {
-        display: grid;
-        grid-template-areas: "hero";
-        height: 28em;
-        max-height: 600px;
-        align-items: center;
-        justify-content: center;
-
-        > * {
-          grid-area: hero;
-        }
-
-        .hero__content {
-          text-align: left;
-          max-width: 680px;
-
-          h1 {
-            color: #ffffff;
-            font-size: 3rem;
-            margin-top: 0;
-            text-shadow: 2px 2px 5px black;
-          }
-
-          p {
-            color: #ffffff;
-            font-size: 1.5rem;
-            font-weight: 300;
-            text-shadow: 2px 2px 5px black;
-          }
-        }
-      }
-
-    </style>
-
   <body>
 
     {% include nav.html %}
@@ -56,8 +13,9 @@
         <header>
           <div class="hero__content">
             <h1>TheSurveyStation</h1>
+            <img src="" alt="Zhanna documenting a mark" id="profileImage">
             <p>Follow along with Zhanna as she searches for survey marks, airway beacons, and other relics of infrastructure!</p>
-            <a href="/about-survey-mark-hunting/" class="button">Learn more ...</a>
+            <a href="/about-survey-mark-hunting/" class="button">Learn more</a>
           </div>
         </header>
       </section>
@@ -114,4 +72,11 @@
     {% include footer.html %}  
 
   </body>
+  <script>
+    let imageArray = ["/assets/img/4850canyong4csm-featured.jpg","/assets/img/aa0389g1csm-featured.jpg","/assets/img/homepage-feature.jpg"];
+    let i = Math.floor(Math.random() * imageArray.length);
+    let selectedImage = imageArray[i];
+    let profileImage = document.getElementById("profileImage");
+    profileImage.src = selectedImage;
+  </script>
 </html>
