@@ -66,6 +66,10 @@ Beginner's Guide to Survey Mark Hunting
 : There are a few nice images here, if I may say so myself.
 {: .resources-list}
 
+<div class="box" markdown=1>
+{% include zhannas-recoveries.md %}
+</div>
+
 ## Zhanna's Recoveries
 
 ### Browse by year
