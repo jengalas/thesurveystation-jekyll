@@ -17,6 +17,28 @@ Survey mark hunting, sometimes referred to as “benchmark hunting” regardless
 
 [Learn more ...](/about-survey-mark-hunting/)
 
+<div class="box alignright" markdown=1>
+
+## Zhanna's Recoveries
+
+### Browse by year
+
+{% for year in site.data.years %}
+* [{{ year.year }}](/year/{{ year.year }}){% endfor %}
+{: .browse-list}
+
+### Map of survey mark recoveries
+
+[Map of recoveries, 2002 - {{ 'now' | date: "%Y" }}](/map-of-recoveries/)
+
+### Official reports submitted
+
+* [NGS](/ngs-recoveries/)
+* [USGS](/usgs-recoveries/)
+{: .browse-list}
+
+</div>
+
 ## Getting Started
 
 Beginner's Guide to Survey Mark Hunting
@@ -66,24 +88,3 @@ Beginner's Guide to Survey Mark Hunting
 : There are a few nice images here, if I may say so myself.
 {: .resources-list}
 
-<div class="box" markdown=1>
-{% include zhannas-recoveries.md %}
-</div>
-
-## Zhanna's Recoveries
-
-### Browse by year
-
-{% for year in site.data.years %}
-* [{{ year.year }}](/year/{{ year.year }}){% endfor %}
-{: .browse-list}
-
-### Map of survey mark recoveries
-
-[Map of recoveries, 2002 - {{ 'now' | date: "%Y" }}](/map-of-recoveries/)
-
-### Official reports submitted
-
-* [NGS](/ngs-recoveries/)
-* [USGS](/usgs-recoveries/)
-{: .browse-list}
