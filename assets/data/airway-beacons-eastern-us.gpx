@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="30.96132667" lon="-87.70389309">
+  <name>BG4136</name>
+  <desc>ATLANTA MOBILE AWY BCN 15</desc>
+</wpt>
+<wpt lat="31.62060943" lon="-85.68796">
+  <name>BT2172</name>
+  <desc>MEMPHIS TAMPA AIRWAY BCN 37</desc>
+</wpt>
+<wpt lat="33.54416418" lon="-86.5027225">
+  <name>DH2498</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 66</desc>
+</wpt>
+<wpt lat="33.54515898" lon="-86.71662741">
+  <name>DH2502</name>
+  <desc>FORT WORTH ATLANTA AWY BCN RED</desc>
+</wpt>
+<wpt lat="31.85260915" lon="-86.71867806">
+  <name>BU1878</name>
+  <desc>BEACON 24 GREEN AIRWAY 6</desc>
+</wpt>
+<wpt lat="31.71425227" lon="-86.82270091">
+  <name>BU1892</name>
+  <desc>BEACON 23 GREEN AIRWAY 6</desc>
+</wpt>
+<wpt lat="32.8703972" lon="-85.19659773">
+  <name>CM2197</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 35</desc>
+</wpt>
+<wpt lat="32.756832" lon="-85.31916543">
+  <name>CM2264</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 34</desc>
+</wpt>
+<wpt lat="32.788053" lon="-86.4323246">
+  <name>CN2944</name>
+  <desc>BIRMINGHAM MONTGOMERY BCN 28</desc>
+</wpt>
+<wpt lat="33.64028621" lon="-85.46046903">
+  <name>DG3461</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 72</desc>
+</wpt>
+<wpt lat="33.64253415" lon="-85.63495086">
+  <name>DG3612</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 71</desc>
+</wpt>
+<wpt lat="31.56845525" lon="-86.9637519">
+  <name>BU1894</name>
+  <desc>BEACON 21 GREEN AIRWAY 6</desc>
+</wpt>
+<wpt lat="31.42085661" lon="-87.04107818">
+  <name>BU1915</name>
+  <desc>BEACON 20 GREEN AIRWAY 6</desc>
+</wpt>
+<wpt lat="31.31047646" lon="-87.23431949">
+  <name>BU1919</name>
+  <desc>BEACON 19 GREEN AIRWAY 6</desc>
+</wpt>
+<wpt lat="32.50753053" lon="-86.98807451">
+  <name>CN2983</name>
+  <desc>NEW ORLEANS ATLANTA AVN BCN</desc>
+</wpt>
+<wpt lat="32.40022222" lon="-87.03991667">
+  <name>CN3042</name>
+  <desc>AVIATION BEACON</desc>
+</wpt>
+<wpt lat="32.45580018" lon="-86.05003077">
+  <name>CN2945</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 30</desc>
+</wpt>
+<wpt lat="31.17307725" lon="-87.42682671">
+  <name>BU1939</name>
+  <desc>ATLANTA MOBILE AIRWAY BCN 18</desc>
+</wpt>
+<wpt lat="32.90480005" lon="-88.01986547">
+  <name>CO1141</name>
+  <desc>AIRWAY BCN 56 SW OF CLINTON</desc>
+</wpt>
+<wpt lat="33.01629876" lon="-87.87754358">
+  <name>DH2628</name>
+  <desc>FT WORTH ATLANTA AWY BCN 57</desc>
+</wpt>
+<wpt lat="31.04230048" lon="-85.3068099">
+  <name>BT2097</name>
+  <desc>MEMPHIS TAMPA AIRWAY BCN 41</desc>
+</wpt>
+<wpt lat="33.48479399" lon="-86.9594675">
+  <name>DH2490</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 63</desc>
+</wpt>
+<wpt lat="33.53692056" lon="-86.66785527">
+  <name>DH2499</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 65</desc>
+</wpt>
+<wpt lat="33.42886509" lon="-87.11951677">
+  <name>DH2507</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 62</desc>
+</wpt>
+<wpt lat="32.61654628" lon="-85.43761069">
+  <name>CM2251</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 33</desc>
+</wpt>
+<wpt lat="31.98506547" lon="-86.58929443">
+  <name>BU1875</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 25</desc>
+</wpt>
+<wpt lat="32.12105351" lon="-86.47993517">
+  <name>CN2950</name>
+  <desc>BEACON 26 GREEN AIRWAY 6</desc>
+</wpt>
+<wpt lat="32.5613446" lon="-85.66647553">
+  <name>CM2310</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 32</desc>
+</wpt>
+<wpt lat="30.60688606" lon="-88.25465502">
+  <name>BH2032</name>
+  <desc>AIRWAY BEACON 11</desc>
+</wpt>
+<wpt lat="30.57440059" lon="-88.39252788">
+  <name>BH2039</name>
+  <desc>AIRWAY BEACON 10</desc>
+</wpt>
+<wpt lat="32.21270004" lon="-86.09173178">
+  <name>CN2946</name>
+  <desc>BIRMINGHAM JACKSONVILLE BCN 32</desc>
+</wpt>
+<wpt lat="31.81715461" lon="-85.82926993">
+  <name>BT2183</name>
+  <desc>MEMPHIS TAMPA AIRWAY BCN 35</desc>
+</wpt>
+<wpt lat="33.18233257" lon="-86.58431434">
+  <name>DH2457</name>
+  <desc>COLUMBIANA MTN BCN</desc>
+</wpt>
+<wpt lat="32.68959098" lon="-88.30005672">
+  <name>CO1164</name>
+  <desc>AIRWAY BCN 54 4 MI N OF BOYD</desc>
+</wpt>
+<wpt lat="33.57129322" lon="-85.84508346">
+  <name>DG3626</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 70B</desc>
+</wpt>
+<wpt lat="33.57307269" lon="-86.07457205">
+  <name>DH2430</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 68</desc>
+</wpt>
+<wpt lat="32.50669955" lon="-85.85970741">
+  <name>CM2320</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 31</desc>
+</wpt>
+<wpt lat="33.36576083" lon="-87.26680359">
+  <name>DH2563</name>
+  <desc>FT WORTH ATLANTA AWY BCN 61</desc>
+</wpt>
+<wpt lat="33.28837158" lon="-87.45900043">
+  <name>DH2567</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 60</desc>
+</wpt>
+<wpt lat="33.12520482" lon="-87.73978237">
+  <name>DH2620</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 58</desc>
+</wpt>
+<wpt lat="41.439664" lon="-72.992296">
+  <desc>Arrow at former Bethany Airport in Bethany, CT</desc>
+</wpt>
+<wpt lat="41.28425941" lon="-73.09477835">
+  <name>LX3641</name>
+  <desc>AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="41.25150988" lon="-73.28351364">
+  <name>LX3813</name>
+  <desc>AIRWAY BEACON 1</desc>
+</wpt>
+<wpt lat="41.67244768" lon="-72.338169">
+  <name>LX4840</name>
+  <desc>AIRWAY BEACON 11</desc>
+</wpt>
+<wpt lat="41.58722619" lon="-72.48851743">
+  <name>LX4898</name>
+  <desc>AIRWAY BEACON 10</desc>
+</wpt>
+<wpt lat="41.33114561" lon="-72.04610027">
+  <name>LX5194</name>
+  <desc>GROTON AIRPORT AIRWAY BCN</desc>
+</wpt>
+<wpt lat="41.46522108" lon="-72.73592458">
+  <name>LX6298</name>
+  <desc>READS GAP AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="41.60942904" lon="-72.65844356">
+  <name>LX6975</name>
+  <desc>CROMWELL AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="39.70322616" lon="-75.52975812">
+  <name>JU3678</name>
+  <desc>AIRWAY BEACON 66A</desc>
+</wpt>
+<wpt lat="39.66445702" lon="-75.58859639">
+  <name>JU3720</name>
+  <desc>NEW CASTLE AIRPORT AWY BCN 65</desc>
+</wpt>
+<wpt lat="39.63843141" lon="-75.75256373">
+  <name>JU3837</name>
+  <desc>WASHINGTON NY AWY BCN 64</desc>
+</wpt>
+<wpt lat="25.77373732" lon="-80.19005433">
+  <name>AC3516</name>
+  <desc>MIAMI INGRAHAM BLDG AIRWAY BCN</desc>
+</wpt>
+<wpt lat="25.83368556" lon="-80.90695425">
+  <name>AC4462</name>
+  <desc>AIRWAY BCN 18 N OF 40 MI BEND</desc>
+</wpt>
+<wpt lat="26.69130952" lon="-80.09527032">
+  <name>AD6588</name>
+  <desc>AIRWAY BCN 6 WEST PALM BEACH</desc>
+</wpt>
+<wpt lat="26.07858218" lon="-80.14354961">
+  <name>AD7061</name>
+  <desc>AIRWAY BEACON 2</desc>
+</wpt>
+<wpt lat="26.13871785" lon="-81.34540429">
+  <name>AD7512</name>
+  <desc>MILES CITY AIRWAY BEACON 14</desc>
+</wpt>
+<wpt lat="26.352781" lon="-81.78064811">
+  <name>AD7631</name>
+  <desc>AIRWAY BCN 11 BONITA SPRINGS</desc>
+</wpt>
+<wpt lat="27.64599976" lon="-80.41349367">
+  <name>AF0082</name>
+  <desc>AIRWAY BCN 13 NEAR VERO BEACH</desc>
+</wpt>
+<wpt lat="27.04224525" lon="-80.16403895">
+  <name>AF0149</name>
+  <desc>AIRWAY BEACON 9</desc>
+</wpt>
+<wpt lat="27.20121104" lon="-80.22002485">
+  <name>AF0185</name>
+  <desc>AIRWAY BEACON 10 NEAR STUART</desc>
+</wpt>
+<wpt lat="27.19642008" lon="-80.22613548">
+  <name>AF0187</name>
+  <desc>AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="27.4106069" lon="-80.32574031">
+  <name>AF0229</name>
+  <desc>AIRWAY BEACON 11</desc>
+</wpt>
+<wpt lat="27.96522663" lon="-80.56905213">
+  <name>AF0289</name>
+  <desc>AIRWAY BEACON 15</desc>
+</wpt>
+<wpt lat="27.82618893" lon="-80.50311364">
+  <name>AF0327</name>
+  <desc>AIRWAY BEACON 14 NEAR ROSELAND</desc>
+</wpt>
+<wpt lat="26.80509676" lon="-82.03148982">
+  <name>AG1106</name>
+  <desc>CAA AIRWAYS BEACON</desc>
+</wpt>
+<wpt lat="27.01867645" lon="-82.18549991">
+  <name>AG1467</name>
+  <desc>AIRWAY BEACON 7 NW OF MURDOCK</desc>
+</wpt>
+<wpt lat="27.97921572" lon="-82.5262548">
+  <name>AG2081</name>
+  <desc>TAMPA DREW APT AWY BCN</desc>
+</wpt>
+<wpt lat="28.36048605" lon="-80.74667083">
+  <name>AK5765</name>
+  <desc>AIRWAY BEACON 19 NEAR COCA</desc>
+</wpt>
+<wpt lat="28.34453516" lon="-80.69051224">
+  <name>AK5814</name>
+  <desc>CENTRAL BREVARD AIRWAY BN 4L31</desc>
+</wpt>
+<wpt lat="28.10001274" lon="-80.62231218">
+  <name>AK5965</name>
+  <desc>AIRWAY BCN 16 S OF EAU GALLIE</desc>
+</wpt>
+<wpt lat="28.23513957" lon="-80.6758056">
+  <name>AK6009</name>
+  <desc>MIAMI JACKSONVILLE AWY BCN 17</desc>
+</wpt>
+<wpt lat="28.48369296" lon="-80.7818566">
+  <name>AK6065</name>
+  <desc>AIRWAY BEACON 19</desc>
+</wpt>
+<wpt lat="28.61909363" lon="-80.83141156">
+  <name>AK6375</name>
+  <desc>AIRWAY BCN 20 NEAR TITUSVILLE</desc>
+</wpt>
+<wpt lat="28.86421233" lon="-80.86832168">
+  <name>AK6442</name>
+  <desc>AIRWAY BEACON 22 NEAR OAK HILL</desc>
+</wpt>
+<wpt lat="29.71803495" lon="-81.23461725">
+  <name>AQ2005</name>
+  <desc>AIRWAY BEACON 28</desc>
+</wpt>
+<wpt lat="29.47404886" lon="-81.12606753">
+  <name>AQ2101</name>
+  <desc>FLAGLER BEACH AIRWAY BEACON 26</desc>
+</wpt>
+<wpt lat="29.17328426" lon="-81.06874507">
+  <name>AQ2117</name>
+  <desc>AIRWAY BCN 24 AT STA DAYPORT</desc>
+</wpt>
+<wpt lat="30.59534091" lon="-81.59593133">
+  <name>BC2333</name>
+  <desc>AIRWAY BEACON 1</desc>
+</wpt>
+<wpt lat="30.40599039" lon="-87.28903767">
+  <name>BG3862</name>
+  <desc>CORRY FIELD AIR BEACON</desc>
+</wpt>
+<wpt lat="30.34733074" lon="-87.31408731">
+  <name>BG4823</name>
+  <desc>SHERMAN FIELD AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="34.364781" lon="-82.966706">
+  <desc>Arrow at site of Atlanta-New York Airway Beacon #9</desc>
+</wpt>
+<wpt lat="30.93647493" lon="-81.50737402">
+  <name>BC2261</name>
+  <desc>AIRWAY BEACON 3</desc>
+</wpt>
+<wpt lat="30.74614301" lon="-81.55304619">
+  <name>BC2303</name>
+  <desc>AIRWAY BEACON 2</desc>
+</wpt>
+<wpt lat="31.76666113" lon="-81.22816962">
+  <name>BR1073</name>
+  <desc>AVIATION BEACON 9</desc>
+</wpt>
+<wpt lat="31.87167264" lon="-81.17760192">
+  <name>BR1092</name>
+  <desc>AIRWAY BEACON 10</desc>
+</wpt>
+<wpt lat="31.62066889" lon="-81.27086195">
+  <name>BR1182</name>
+  <desc>AVIATION BCN 8</desc>
+</wpt>
+<wpt lat="31.16570495" lon="-81.3863891">
+  <name>BR1323</name>
+  <desc>AVIATION BCN 5</desc>
+</wpt>
+<wpt lat="31.47794806" lon="-81.34544947">
+  <name>BR1375</name>
+  <desc>AVIATION BCN 7</desc>
+</wpt>
+<wpt lat="31.29391305" lon="-81.34747416">
+  <name>BR1419</name>
+  <desc>AIRWAY BEACON 6</desc>
+</wpt>
+<wpt lat="31.90519372" lon="-82.84648478">
+  <name>BS1645</name>
+  <desc>MIAMI ATLANTA AWY BCN 46</desc>
+</wpt>
+<wpt lat="32.05858068" lon="-82.87540458">
+  <name>CL2139</name>
+  <desc>MC RAE AIRWAY BEACON 47</desc>
+</wpt>
+<wpt lat="32.10901685" lon="-83.02581181">
+  <name>CL2458</name>
+  <desc>MIAMI ATLANTA AWY BCN 48</desc>
+</wpt>
+<wpt lat="33.47417527" lon="-82.04713598">
+  <name>DF1296</name>
+  <desc>AUGUSTA FORREST HILLS HOTEL BN</desc>
+</wpt>
+<wpt lat="33.05888407" lon="-83.94782738">
+  <name>DF2493</name>
+  <desc>FORSYTH AVIATION BEACON</desc>
+</wpt>
+<wpt lat="33.80595218" lon="-84.14626697">
+  <name>DG2532</name>
+  <desc>STONE MOUNTAIN AIR BEACON</desc>
+</wpt>
+<wpt lat="33.51159506" lon="-84.30163222">
+  <name>DG2627</name>
+  <desc>MIAMI ATLANTA AIRWAY BEACON 60</desc>
+</wpt>
+<wpt lat="33.77423644" lon="-84.49390274">
+  <name>DG2776</name>
+  <desc>ATLANTA NASHVILLE AWY BCN 1</desc>
+</wpt>
+<wpt lat="33.45539881" lon="-84.65849897">
+  <name>DG3039</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 40</desc>
+</wpt>
+<wpt lat="33.1828177" lon="-84.94390536">
+  <name>DG3089</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 38</desc>
+</wpt>
+<wpt lat="33.32105891" lon="-84.77788149">
+  <name>DG3130</name>
+  <desc>NEW ORLEANS ATLANTA AWY BCN 39</desc>
+</wpt>
+<wpt lat="33.97636568" lon="-84.57917866">
+  <name>DG3171</name>
+  <desc>ATLANTA NASHVILLE AWY BCN 2</desc>
+</wpt>
+<wpt lat="33.66066419" lon="-84.61875481">
+  <name>DG3237</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 77</desc>
+</wpt>
+<wpt lat="33.57869508" lon="-84.5478691">
+  <name>DG3248</name>
+  <desc>NEW ORLEANS AWY BCN 41</desc>
+</wpt>
+<wpt lat="33.6728709" lon="-84.8050994">
+  <name>DG3279</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 76</desc>
+</wpt>
+<wpt lat="33.68613114" lon="-85.0021414">
+  <name>DG3378</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 75</desc>
+</wpt>
+<wpt lat="33.67408691" lon="-85.1222669">
+  <name>DG3379</name>
+  <desc>FORT WORTH ATLANTA AWY BCN 74</desc>
+</wpt>
+<wpt lat="34.30677569" lon="-83.10088851">
+  <name>ED1479</name>
+  <desc>ATLANTA NY AWY BCN 8</desc>
+</wpt>
+<wpt lat="34.22620438" lon="-83.26669653">
+  <name>ED1566</name>
+  <desc>ATLANTA NY AWY BCN 7</desc>
+</wpt>
+<wpt lat="34.13754132" lon="-84.72884434">
+  <name>EE1781</name>
+  <desc>ATLANTA NASHVILLE AWY BCN 3</desc>
+</wpt>
+<wpt lat="41.660056" lon="-88.185067">
+  <desc>Beacon site (moved) north of Plainfield, IL</desc>
+</wpt>
+<wpt lat="38.85942383" lon="-89.777493">
+  <name>JB1999</name>
+  <desc>ST LOUIS INDIANAPOLIS AWY BN 3</desc>
+</wpt>
+<wpt lat="39.31596952" lon="-87.92696761">
+  <name>KA1890</name>
+  <desc>INDIANAPOLIS ST LOUIS AY BN 14</desc>
+</wpt>
+<wpt lat="39.48241374" lon="-88.28161284">
+  <name>KB1210</name>
+  <desc>MATTOON COLES CO AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="39.42672345" lon="-89.92083128">
+  <name>KB1466</name>
+  <desc>ST LOUIS CHICAGO AWY BCN 5</desc>
+</wpt>
+<wpt lat="39.96832464" lon="-89.68866613">
+  <name>KB1495</name>
+  <desc>ST LOUIS CHICAGO AIRWAY BCN 9</desc>
+</wpt>
+<wpt lat="39.58866747" lon="-89.80104503">
+  <name>KB1516</name>
+  <desc>ST LOUIS CHICAGO AIRWAY BCN 6</desc>
+</wpt>
+<wpt lat="39.27457644" lon="-90.02642235">
+  <name>KC0581</name>
+  <desc>ST LOUIS CHICAGO AIRWAY BN 4</desc>
+</wpt>
+<wpt lat="39.09760323" lon="-90.1438885">
+  <name>KC0589</name>
+  <desc>ST LOUIS CHICAGO AIRWAY BN 2</desc>
+</wpt>
+<wpt lat="40.49424818" lon="-89.68286157">
+  <name>LC1933</name>
+  <desc>ST LOUIS CHICAGO AIRWAY BCN 13</desc>
+</wpt>
+<wpt lat="40.14640336" lon="-89.65895035">
+  <name>LC1944</name>
+  <desc>ST LOUIS CHICAGO AIRWAY BCN 10</desc>
+</wpt>
+<wpt lat="40.94469344" lon="-89.62949189">
+  <name>LC1964</name>
+  <desc>ST LOUIS CHICAGO AWY BCN 15</desc>
+</wpt>
+<wpt lat="40.66268194" lon="-89.68042124">
+  <name>LC2032</name>
+  <desc>PEORIA MUN LANDING FLD AWY BCN</desc>
+</wpt>
+<wpt lat="40.96281027" lon="-90.38388239">
+  <name>LD0722</name>
+  <desc>KANSAS CITY CHICAGO AWY BN 25B</desc>
+</wpt>
+<wpt lat="40.98465989" lon="-90.46085565">
+  <name>LD0726</name>
+  <desc>KANSAS CITY CHICAGO AWY BN 25A</desc>
+</wpt>
+<wpt lat="40.93019083" lon="-90.64021292">
+  <name>LD0761</name>
+  <desc>KANSAS CITY CHICAGO AWY BCN 24</desc>
+</wpt>
+<wpt lat="40.87686067" lon="-90.81601914">
+  <name>LD0766</name>
+  <desc>KANSAS CITY CHICAGO AWY BCN 23</desc>
+</wpt>
+<wpt lat="40.8324858" lon="-90.96894572">
+  <name>LD0769</name>
+  <desc>KANSAS CITY CHICAGO AWY BCN 22</desc>
+</wpt>
+<wpt lat="41.74771563" lon="-87.91513619">
+  <name>ME3011</name>
+  <desc>CHICAGO KANSAS CITY AWY BCN 39</desc>
+</wpt>
+<wpt lat="41.7083688" lon="-88.08295641">
+  <name>MF1330</name>
+  <desc>CHICAGO KANSAS CITY AWY BCN 38</desc>
+</wpt>
+<wpt lat="41.30808865" lon="-88.36244136">
+  <name>MF1439</name>
+  <desc>CHICAGO SPRINGFIELD AWY BCN 20</desc>
+</wpt>
+<wpt lat="41.2517936" lon="-88.80278709">
+  <name>MF1466</name>
+  <desc>GRAND RIDGE AIR BEACON</desc>
+</wpt>
+<wpt lat="41.52940207" lon="-88.66609215">
+  <name>MF1502</name>
+  <desc>AIRWAY BN 35 NE OF SHERIDAN</desc>
+</wpt>
+<wpt lat="41.23369436" lon="-89.6204181">
+  <name>MF1686</name>
+  <desc>KANSAS CITY CHICAGO AWY BCN 29</desc>
+</wpt>
+<wpt lat="41.09021634" lon="-89.63878912">
+  <name>MF1687</name>
+  <desc>ST LOUIS CHICAGO AWY BCN 16</desc>
+</wpt>
+<wpt lat="41.18115835" lon="-89.82538169">
+  <name>MF1691</name>
+  <desc>KANSAS CITY CHICAGO AWY BCN 28</desc>
+</wpt>
+<wpt lat="41.20382882" lon="-89.92551785">
+  <name>MF1702</name>
+  <desc>KEWANEE AIRPORT AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="41.81134087" lon="-89.69879256">
+  <name>MF1728</name>
+  <desc>STERLING AIRPORT AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="41.58643981" lon="-89.59789994">
+  <name>MF1738</name>
+  <desc>OMAHA CHICAGO AIRWAY BEACON 32</desc>
+</wpt>
+<wpt lat="41.5867707" lon="-89.85563532">
+  <name>MF1748</name>
+  <desc>OMAHA CHICAGO AIRWAY BEACON 31</desc>
+</wpt>
+<wpt lat="41.58777651" lon="-90.08513678">
+  <name>MG0669</name>
+  <desc>OMAHA CHICAGO AIRWAY BCN 30</desc>
+</wpt>
+<wpt lat="41.11047415" lon="-90.04185378">
+  <name>MG0699</name>
+  <desc>KANSAS CITY CHICAGO AWY BCN 27</desc>
+</wpt>
+<wpt lat="41.04873922" lon="-90.26789647">
+  <name>MG0705</name>
+  <desc>KANSAS CITY CHICAGO AWY BCN 26</desc>
+</wpt>
+<wpt lat="42.32858525" lon="-87.86976294">
+  <name>NG0596</name>
+  <desc>CHICAGO ST PAUL AIRWAY BCN 3</desc>
+</wpt>
+<wpt lat="42.47820362" lon="-87.88466648">
+  <name>NG0618</name>
+  <desc>CHICAGO ST PAUL AIRWAY BCN 4</desc>
+</wpt>
+<wpt lat="42.13216316" lon="-88.55615201">
+  <name>NH1171</name>
+  <desc>AIRWAY BCN 4 3 MI NW HAMPSHIRE</desc>
+</wpt>
+<wpt lat="42.25267486" lon="-88.82278829">
+  <name>NH1194</name>
+  <desc>BELVIDERE CHI ST PAUL AWY BN 6</desc>
+</wpt>
+<wpt lat="42.49535794" lon="-89.24108097">
+  <name>NH1467</name>
+  <desc>CHICAGO ST PAUL AWY BCN 9</desc>
+</wpt>
+<wpt lat="39.576768" lon="-85.799635">
+  <desc>Arrow at Shelbyville, IN Municipal Airport (KGEZ)</desc>
+</wpt>
+<wpt lat="39.50692" lon="-85.51578">
+  <desc>Arrow in Rush County, IN, near Little Hurricane Creek</desc>
+</wpt>
+<wpt lat="39.54035" lon="-85.65895">
+  <desc>Arrow in Shelby County, IN, northeast of Shelbyville</desc>
+</wpt>
+<wpt lat="39.142112" lon="-85.92039">
+  <desc>Beacon near former Walesboro, IN airport</desc>
+</wpt>
+<wpt lat="38.408806" lon="-85.740795">
+  <desc>Tower NE of Sellersburg, IN</desc>
+</wpt>
+<wpt lat="38.76428436" lon="-85.86943501">
+  <name>HZ2355</name>
+  <desc>LOUISVILLE INDIANAP AWY BN 3</desc>
+</wpt>
+<wpt lat="39.3054174" lon="-84.92113447">
+  <name>JZ3266</name>
+  <desc>BEACON 2 R</desc>
+</wpt>
+<wpt lat="39.81088302" lon="-85.14375958">
+  <name>JZ3291</name>
+  <desc>NEW GERMANTOWN AWY BCN 5</desc>
+</wpt>
+<wpt lat="39.80684202" lon="-85.33446721">
+  <name>JZ3314</name>
+  <desc>INDIANAPOLIS DAYTON AWY BCN 4</desc>
+</wpt>
+<wpt lat="39.35853614" lon="-85.07152763">
+  <name>JZ3326</name>
+  <desc>BEACON 3 R</desc>
+</wpt>
+<wpt lat="39.4679977" lon="-85.36702255">
+  <name>JZ3342</name>
+  <desc>MILROY AIRPORT AWY BCN S 5</desc>
+</wpt>
+<wpt lat="39.79384116" lon="-85.55607578">
+  <name>JZ3381</name>
+  <desc>KNIGHTSTOWN APT AWY BCN 3</desc>
+</wpt>
+<wpt lat="39.78736652" lon="-85.74655865">
+  <name>JZ3384</name>
+  <desc>GREENFIELD AIRWAY BEACON 2</desc>
+</wpt>
+<wpt lat="39.69124811" lon="-86.10966541">
+  <name>KA1936</name>
+  <desc>INDIANAPOLIS CINCIN AWY BCN 10</desc>
+</wpt>
+<wpt lat="39.52462923" lon="-86.19719594">
+  <name>KA1950</name>
+  <desc>LOUISVILLE CHICAGO AWY BCN 9</desc>
+</wpt>
+<wpt lat="39.68894428" lon="-86.4375906">
+  <name>KA1960</name>
+  <desc>INDIANAPOLIS ST LOU AWY BCN 22</desc>
+</wpt>
+<wpt lat="39.63443217" lon="-86.62800625">
+  <name>KA2004</name>
+  <desc>INDIANAPOLIS ST LOU AWY BCN 21</desc>
+</wpt>
+<wpt lat="39.58375397" lon="-86.82680138">
+  <name>KA2015</name>
+  <desc>INDIANAPOLIS ST LOU AWY BCN 20</desc>
+</wpt>
+<wpt lat="40.99111488" lon="-85.1925189">
+  <name>LA2002</name>
+  <desc>BAER FIELD AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.23776322" lon="-85.3876231">
+  <name>LA2087</name>
+  <desc>MUNCIE AIRPORT AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.91894915" lon="-84.97421874">
+  <name>LA2411</name>
+  <desc>DAYTON GRAND RAPIDS AWY BCN 8</desc>
+</wpt>
+<wpt lat="40.94175247" lon="-87.18267134">
+  <name>LB2151</name>
+  <desc>JASPER CO AIRPORT AIRWAY BCN</desc>
+</wpt>
+<wpt lat="40.28748505" lon="-86.74772507">
+  <name>LB2556</name>
+  <desc>AIRWAY BEACON 15</desc>
+</wpt>
+<wpt lat="40.17858316" lon="-86.61841879">
+  <name>LB2562</name>
+  <desc>INDIANAPOLIS CHICAGO AWY BN 14</desc>
+</wpt>
+<wpt lat="40.24523397" lon="-86.76722389">
+  <name>LB2569</name>
+  <desc>INDIANAPOLIS CHICAGO AWY BN 15</desc>
+</wpt>
+<wpt lat="40.39363091" lon="-86.87588293">
+  <name>LB2613</name>
+  <desc>AIR BEACON 16</desc>
+</wpt>
+<wpt lat="41.14001249" lon="-85.14610488">
+  <name>MD1567</name>
+  <desc>SMITH FIELD AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="41.35032535" lon="-85.28962735">
+  <name>MD1615</name>
+  <desc>DAYTON GRAND RAPIDS AWY BN 11</desc>
+</wpt>
+<wpt lat="41.54962472" lon="-85.59784041">
+  <name>MD1697</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 11</desc>
+</wpt>
+<wpt lat="41.55921489" lon="-84.99822167">
+  <name>MD1847</name>
+  <desc>CHICAGO NEW YORK AWY BCN 14</desc>
+</wpt>
+<wpt lat="41.55656905" lon="-86.60590946">
+  <name>ME2413</name>
+  <desc>AIRWAY BEACON 6</desc>
+</wpt>
+<wpt lat="41.56303636" lon="-86.89778314">
+  <name>ME2452</name>
+  <desc>CHICAGO NEW YORK AWY BEACON 4B</desc>
+</wpt>
+<wpt lat="36.6666935" lon="-86.39549536">
+  <name>GC2101</name>
+  <desc>AIRWAY BEACON 68</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2101"></link>
+</wpt>
+<wpt lat="36.93383351" lon="-86.25913387">
+  <name>GC2106</name>
+  <desc>AIRWAY BEACON 70</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2106"></link>
+</wpt>
+<wpt lat="36.83120686" lon="-86.31694675">
+  <name>GC2110</name>
+  <desc>AIRWAY BEACON 69</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2110"></link>
+</wpt>
+<wpt lat="37.59199319" lon="-85.66420333">
+  <name>GZ2799</name>
+  <desc>LOUISVILLE NASHVILLE AWY BN 76</desc>
+</wpt>
+<wpt lat="37.60328805" lon="-85.90957342">
+  <name>GZ2815</name>
+  <desc>AIRWAY BEACON 75 A</desc>
+</wpt>
+<wpt lat="37.60950634" lon="-85.90146264">
+  <name>GZ2816</name>
+  <desc>AIRWAY BEACON 75 B</desc>
+</wpt>
+<wpt lat="37.92307737" lon="-85.78340357">
+  <name>GZ2822</name>
+  <desc>AIRWAY BEACON 78</desc>
+</wpt>
+<wpt lat="37.80995904" lon="-85.81808303">
+  <name>GZ2825</name>
+  <desc>AIRWAY BEACON 77</desc>
+</wpt>
+<wpt lat="37.90107162" lon="-85.96526524">
+  <name>GZ2838</name>
+  <desc>GODMAN FIELD AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="37.43252341" lon="-86.01792334">
+  <name>HA1352</name>
+  <desc>AIRWAY BEACON 74</desc>
+</wpt>
+<wpt lat="37.2973098" lon="-86.06403761">
+  <name>HA1356</name>
+  <desc>AIRWAY BEACON 73</desc>
+</wpt>
+<wpt lat="37.06275769" lon="-86.19174476">
+  <name>HA1370</name>
+  <desc>DALLAS LOUISVILLE AWY BCN 71</desc>
+</wpt>
+<wpt lat="37.17970235" lon="-86.12936604">
+  <name>HA1379</name>
+  <desc>AIRWAY BEACON 72</desc>
+</wpt>
+<wpt lat="38.63607418" lon="-85.09804391">
+  <name>HZ1998</name>
+  <desc>LOUISVILLE CINCINNATI AWY BN 4</desc>
+</wpt>
+<wpt lat="38.52638841" lon="-85.24797647">
+  <name>HZ2013</name>
+  <desc>LOUISVILLE CINCINNATI AWY BN 3</desc>
+</wpt>
+<wpt lat="38.09183337" lon="-85.71378761">
+  <name>HZ2181</name>
+  <desc>NASHVILLE LOUISVILLE AWY BN 79</desc>
+</wpt>
+<wpt lat="38.22352694" lon="-85.6664573">
+  <name>HZ2183</name>
+  <desc>BOWMAN FIELD ADMIN BLDG AWY BN</desc>
+</wpt>
+<wpt lat="38.03851778" lon="-84.59926012">
+  <name>HZ2475</name>
+  <desc>BLUE GRASS AIRPORT AIRWAY BCN</desc>
+</wpt>
+<wpt lat="38.7794352" lon="-84.90950616">
+  <name>HZ2546</name>
+  <desc>WARSAW MUN AIRPORT AIRWAY BCN</desc>
+</wpt>
+<wpt lat="39.00701647" lon="-84.5623791">
+  <name>JZ3215</name>
+  <desc>LOUISVILLE CINCINNATI AWY BN 7</desc>
+</wpt>
+<wpt lat="42.17449787" lon="-72.21145744">
+  <name>MZ1546</name>
+  <desc>WARREN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="42.12912623" lon="-72.40769924">
+  <name>MZ1601</name>
+  <desc>MOUNT MARCY AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="42.24186164" lon="-72.64815852">
+  <name>MZ1809</name>
+  <desc>MOUNT TOM AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="42.18036034" lon="-72.80044595">
+  <name>MZ1811</name>
+  <desc>AIRWAY BCN 6 5 MI NW WESTFIELD</desc>
+</wpt>
+<wpt lat="42.29782243" lon="-72.99573006">
+  <name>MZ1874</name>
+  <desc>CHESTER AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="42.3680167" lon="-73.14202114">
+  <name>MZ1998</name>
+  <desc>AIRWAY BCN 4 N OF WASHINGTON</desc>
+</wpt>
+<wpt lat="42.46836753" lon="-73.3385694">
+  <name>MZ2058</name>
+  <desc>HANCOCK AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="42.40910905" lon="-73.28883522">
+  <name>MZ2064</name>
+  <desc>LENOX AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="38.58636589" lon="-77.17113174">
+  <name>HV5014</name>
+  <desc>INDIAN HEAD RED AIRWAY BCN</desc>
+</wpt>
+<wpt lat="38.23389406" lon="-76.77099648">
+  <name>HV6995</name>
+  <desc>WASHINGTON NORFOLK AWY BCN 9</desc>
+</wpt>
+<wpt lat="38.44594253" lon="-76.86081706">
+  <name>HV7038</name>
+  <desc>WASHINGTON NORFOLK AWY BCN 11</desc>
+</wpt>
+<wpt lat="38.67611122" lon="-76.97342547">
+  <name>HV7434</name>
+  <desc>WASHINGTON NORFOLK AWY BCN 12</desc>
+</wpt>
+<wpt lat="38.9556394" lon="-76.90168081">
+  <name>HV7756</name>
+  <desc>NEW YORK WASH AIRWAY BCN 57A</desc>
+</wpt>
+<wpt lat="39.6024136" lon="-75.9154754">
+  <name>JU3935</name>
+  <desc>AIRWAY BEACON 63 B</desc>
+</wpt>
+<wpt lat="39.06541576" lon="-77.12753267">
+  <name>JV4361</name>
+  <desc>AIRWAY BCN FLASH RED AND WHITE</desc>
+</wpt>
+<wpt lat="39.58957205" lon="-76.33195007">
+  <name>JV4825</name>
+  <desc>AIRWAY BEACON 62</desc>
+</wpt>
+<wpt lat="39.47641255" lon="-76.12360577">
+  <name>JV4861</name>
+  <desc>AIRWAY BEACON FLASHING RED</desc>
+</wpt>
+<wpt lat="39.46134718" lon="-76.10662602">
+  <name>JV4870</name>
+  <desc>AIRWAY BEACON FLASHING GREEN</desc>
+</wpt>
+<wpt lat="39.48513035" lon="-76.1592412">
+  <name>JV4944</name>
+  <desc>AIRWAY BEACON 62 A</desc>
+</wpt>
+<wpt lat="39.39317291" lon="-76.26614488">
+  <name>JV5304</name>
+  <desc>AIRWAY BEACON 61 B</desc>
+</wpt>
+<wpt lat="39.39155027" lon="-76.29344638">
+  <name>JV5306</name>
+  <desc>AIRWAY BEACON 61 A</desc>
+</wpt>
+<wpt lat="39.32612173" lon="-76.39866814">
+  <name>JV5383</name>
+  <desc>AIRWAY BEACON 60</desc>
+</wpt>
+<wpt lat="39.24718772" lon="-76.51519734">
+  <name>JV5675</name>
+  <desc>BALTIMORE MUN AIRPORT BCN 59</desc>
+</wpt>
+<wpt lat="39.14629572" lon="-76.64980739">
+  <name>JV5821</name>
+  <desc>NEW YORK WASHINGTON AWY BCN 58</desc>
+</wpt>
+<wpt lat="39.02619953" lon="-76.81808898">
+  <name>JV5862</name>
+  <desc>AIRWAY BCN 57 B 1933</desc>
+</wpt>
+<wpt lat="39.03787958" lon="-76.86255928">
+  <name>JV5881</name>
+  <desc>NEW YORK WASH AIRWAY BCN 57B</desc>
+</wpt>
+<wpt lat="39.52648139" lon="-76.59949276">
+  <name>JV6101</name>
+  <desc>BALTIMORE ELMIRA AIRWAYS BCN 1</desc>
+</wpt>
+<wpt lat="39.60274806" lon="-78.47313375">
+  <name>JW1400</name>
+  <desc>PITTSBURGH WASH AWY BCN 9</desc>
+</wpt>
+<wpt lat="39.72033554" lon="-78.66021652">
+  <name>JW1487</name>
+  <desc>PITTSBURGH WASH AWY BN 10</desc>
+</wpt>
+<wpt lat="44.70199781" lon="-69.07970211">
+  <name>PE2240</name>
+  <desc>AIRWAY BCN ENE OF DIXMONT</desc>
+</wpt>
+<wpt lat="42.54145402" lon="-83.34856904">
+  <name>NE1276</name>
+  <desc>AIRWAY BEACON 27</desc>
+</wpt>
+<wpt lat="42.42805969" lon="-83.29914323">
+  <name>NE1433</name>
+  <desc>TOLEDO SAULT STE MARIE AY BN 5</desc>
+</wpt>
+<wpt lat="42.23698563" lon="-83.54572112">
+  <name>NE1473</name>
+  <desc>WILLOW RUN BOMBER PLT AWY BCN</desc>
+</wpt>
+<wpt lat="42.24112864" lon="-83.5241284">
+  <name>NE1476</name>
+  <desc>NEWPORT AIRWAY BEACON 24</desc>
+</wpt>
+<wpt lat="42.51480318" lon="-83.63533525">
+  <name>NE1534</name>
+  <desc>MUSKEGON DETROIT AWY BCN 14</desc>
+</wpt>
+<wpt lat="42.25250039" lon="-84.22859807">
+  <name>NF1367</name>
+  <desc>AIRWAY BEACON NO 20</desc>
+</wpt>
+<wpt lat="43.05958878" lon="-85.95834138">
+  <name>OK0625</name>
+  <desc>THOMPSON AERONAUTICAL AWY BN</desc>
+</wpt>
+<wpt lat="32.573879" lon="-88.455857">
+  <desc>Arrow NE of Lauderdale, MS</desc>
+</wpt>
+<wpt lat="31.79772179" lon="-90.12549893">
+  <name>BW2183</name>
+  <desc>GEORGETOWN AMBER AWY 5 BCN 12</desc>
+</wpt>
+<wpt lat="31.61090717" lon="-90.13413108">
+  <name>BW2196</name>
+  <desc>NEW ORLEANS ST LOUIS AWY BN 10</desc>
+</wpt>
+<wpt lat="31.42003769" lon="-90.13023916">
+  <name>BW2244</name>
+  <desc>NEW ORLEANS ST LOUIS AWY BCN 9</desc>
+</wpt>
+<wpt lat="32.46170284" lon="-88.59779664">
+  <name>CO1214</name>
+  <desc>AIRWAY BEACON NO 51</desc>
+</wpt>
+<wpt lat="32.36409217" lon="-89.49151271">
+  <name>CO1364</name>
+  <desc>FORT WORTH ATLANTA AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="32.34014609" lon="-89.727412">
+  <name>CO1377</name>
+  <desc>RED AIRWAY 10 BEACON 45</desc>
+</wpt>
+<wpt lat="32.34162987" lon="-89.97373831">
+  <name>CO1422</name>
+  <desc>RED AIRWAY 10 BEACON 44</desc>
+</wpt>
+<wpt lat="32.16417016" lon="-90.18259684">
+  <name>CP2633</name>
+  <desc>AMBER AIRWAY 5 BEACON 14</desc>
+</wpt>
+<wpt lat="33.5108145" lon="-90.11459278">
+  <name>DK1753</name>
+  <desc>NEW ORLEANS ST LOUIS AWY BN 23</desc>
+</wpt>
+<wpt lat="34.84472159" lon="-89.9980239">
+  <name>EG1859</name>
+  <desc>AIRWAY BEACON 32</desc>
+</wpt>
+<wpt lat="35.901487" lon="-80.158077">
+  <desc>Beacon near Thomasville, NC</desc>
+</wpt>
+<wpt lat="34.96604472" lon="-78.93676803">
+  <name>EB2545</name>
+  <desc>JACKSONVILLE WASH AWY BCN 36</desc>
+</wpt>
+<wpt lat="35.35717463" lon="-78.79878586">
+  <name>EZ4926</name>
+  <desc>JACKSONVILLE WASH AWY BCN 39</desc>
+</wpt>
+<wpt lat="35.7342448" lon="-78.65171967">
+  <name>EZ5306</name>
+  <desc>RALEIGH GREEN AND WHITE AWY BN</desc>
+</wpt>
+<wpt lat="35.79685564" lon="-80.31542196">
+  <name>FA1836</name>
+  <desc>ATLANTA NEW YORK AWY BCN 26</desc>
+</wpt>
+<wpt lat="35.22642527" lon="-80.84472975">
+  <name>FA2431</name>
+  <desc>CHARLOTTE NC NAT BANK BLDG BCN</desc>
+</wpt>
+<wpt lat="35.58311572" lon="-80.73933469">
+  <name>FA2710</name>
+  <desc>ATLANTA NEW YORK AWY BCN 24</desc>
+</wpt>
+<wpt lat="35.207735" lon="-81.31252552">
+  <name>FA3230</name>
+  <desc>KINGS MTN AWY BCN</desc>
+</wpt>
+<wpt lat="35.48502004" lon="-81.16248762">
+  <name>FA5001</name>
+  <desc>LINCOLN CO AIRPORT BEACON</desc>
+</wpt>
+<wpt lat="36.54754559" lon="-78.0574645">
+  <name>FY2511</name>
+  <desc>AIRWAY BEACON 47</desc>
+</wpt>
+<wpt lat="36.45183517" lon="-79.3488026">
+  <name>FY3395</name>
+  <desc>AIRWAY BEACON 33</desc>
+</wpt>
+<wpt lat="36.08938169" lon="-79.94370856">
+  <name>FY3639</name>
+  <desc>AIRPORT BCN GREENSBORO APT</desc>
+</wpt>
+<wpt lat="36.01304902" lon="-80.0434477">
+  <name>FZ1410</name>
+  <desc>ATLANTA NEW YORK AIRWAY BCN 28</desc>
+</wpt>
+<wpt lat="40.7422777" lon="-74.7878888">
+  <desc>Beacon in Fox Hill Range, Long Valley, NJ</desc>
+</wpt>
+<wpt lat="40.22870221" lon="-73.99820709">
+  <name>AI5206</name>
+  <desc>ASBURY PK ASBURY TWR AIR LIGHT</desc>
+</wpt>
+<wpt lat="39.80606644" lon="-75.23450414">
+  <name>JU3084</name>
+  <desc>AIRWAY BEACON 67</desc>
+</wpt>
+<wpt lat="39.74776174" lon="-75.40749666">
+  <name>JU3266</name>
+  <desc>AIRWAY BEACON 66 B</desc>
+</wpt>
+<wpt lat="40.85269723" lon="-73.95881903">
+  <name>KU3889</name>
+  <desc>HUDSON RIVER AERO BEACON</desc>
+</wpt>
+<wpt lat="40.79057167" lon="-75.05606639">
+  <name>KV3559</name>
+  <desc>MONTANA BCN NJGS AWY BCN 66</desc>
+</wpt>
+<wpt lat="40.64787711" lon="-75.02730893">
+  <name>KV3577</name>
+  <desc>AIRWAY BN 67B NE OF PORTER</desc>
+</wpt>
+<wpt lat="40.73046762" lon="-74.06370499">
+  <name>KV4352</name>
+  <desc>JERSEY CITY LABOR BLDG AERO BN</desc>
+</wpt>
+<wpt lat="40.54709007" lon="-74.35070177">
+  <name>KV4821</name>
+  <desc>AIRWAY BEACON 74</desc>
+</wpt>
+<wpt lat="40.69506734" lon="-74.37642473">
+  <name>KV4895</name>
+  <desc>AIR BCN RED LIGHT FLASHING M</desc>
+</wpt>
+<wpt lat="40.46247553" lon="-74.4578974">
+  <name>KV5439</name>
+  <desc>AIRWAY BEACON 73</desc>
+</wpt>
+<wpt lat="40.37432201" lon="-74.56734903">
+  <name>KV5496</name>
+  <desc>AIRWAY BEACON 72 C</desc>
+</wpt>
+<wpt lat="40.37384129" lon="-74.68426729">
+  <name>KV5503</name>
+  <desc>AIRWAY BN 72 E OF MT ROSE</desc>
+</wpt>
+<wpt lat="40.28799588" lon="-74.6701182">
+  <name>KV5504</name>
+  <desc>AIRWAY BEACON 72 A</desc>
+</wpt>
+<wpt lat="40.01454769" lon="-74.98636316">
+  <name>KV5704</name>
+  <desc>AIRWAY BEACON 69</desc>
+</wpt>
+<wpt lat="40.57984458" lon="-74.56180656">
+  <name>KV5804</name>
+  <desc>AIRWAY BEACON 70</desc>
+</wpt>
+<wpt lat="40.58505602" lon="-74.74512323">
+  <name>KV5813</name>
+  <desc>AIRWAY BEACON 69</desc>
+</wpt>
+<wpt lat="40.61267704" lon="-74.79724851">
+  <name>KV5819</name>
+  <desc>AIRWAY BEACON 68</desc>
+</wpt>
+<wpt lat="41.488778" lon="-73.947537">
+  <desc>Beacon tower on North Beacon Mountain, Beacon, NY</desc>
+</wpt>
+<wpt lat="43.17034105" lon="-75.31638573">
+  <name>AI8497</name>
+  <desc>UTICA MUN APT AIRWAY BEACON 36</desc>
+</wpt>
+<wpt lat="40.82675148" lon="-73.65956745">
+  <name>KU3039</name>
+  <desc>PILOT LIGHT</desc>
+</wpt>
+<wpt lat="40.85061583" lon="-73.94648398">
+  <name>KU3926</name>
+  <desc>HUDSON RIVER AERO BEACON</desc>
+</wpt>
+<wpt lat="41.28895019" lon="-73.96953432">
+  <name>LX4341</name>
+  <desc>AIRWAY</desc>
+</wpt>
+<wpt lat="41.99980268" lon="-75.92272619">
+  <name>LY2811</name>
+  <desc>HAWLEYTON AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="42.54051027" lon="-73.45654934">
+  <name>MZ1975</name>
+  <desc>TURNER MT RED AND WHITE BN 2A</desc>
+</wpt>
+<wpt lat="42.88136723" lon="-74.12849007">
+  <name>NA2010</name>
+  <desc>CLEVELAND ALBANY AWY BCN 42</desc>
+</wpt>
+<wpt lat="42.92262618" lon="-74.30731929">
+  <name>NA2025</name>
+  <desc>CLEVELAND ALBANY AWY BCN 41</desc>
+</wpt>
+<wpt lat="42.945909" lon="-74.55675329">
+  <name>NA2085</name>
+  <desc>CANAJOHARIE AIRWAY BEACON 40B</desc>
+</wpt>
+<wpt lat="42.97458233" lon="-74.69399797">
+  <name>NA2090</name>
+  <desc>FORT PLAIN AIRWAY BEACON 39</desc>
+</wpt>
+<wpt lat="42.18408572" lon="-75.98650338">
+  <name>NA2221</name>
+  <desc>EAST MAINE AIRWAY BEACON 61</desc>
+</wpt>
+<wpt lat="42.08915469" lon="-76.07122034">
+  <name>NB1775</name>
+  <desc>ENDICOTT AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="42.03148656" lon="-76.78406893">
+  <name>NB1820</name>
+  <desc>BUFFALO NEWARK AIRWAY BCN 11</desc>
+</wpt>
+<wpt lat="42.23888461" lon="-77.2422508">
+  <name>NB1919</name>
+  <desc>BUFFALO NEW YORK AIRWAY BCN 9</desc>
+</wpt>
+<wpt lat="42.33492913" lon="-77.45653496">
+  <name>NB1929</name>
+  <desc>BUFFALO NEW YORK AIRWAY BCN 7</desc>
+</wpt>
+<wpt lat="42.43188099" lon="-77.64396765">
+  <name>NB1938</name>
+  <desc>BUFFALO NEW YORK AIRWAY BCN 6</desc>
+</wpt>
+<wpt lat="42.53153732" lon="-77.84983517">
+  <name>NB2024</name>
+  <desc>BUFFALO NEW YORK AIRWAY BCN 5</desc>
+</wpt>
+<wpt lat="42.66018034" lon="-77.92043019">
+  <name>NB2027</name>
+  <desc>BUFFALO NEW YORK AIRWAY BCN 4B</desc>
+</wpt>
+<wpt lat="42.64280126" lon="-78.05062247">
+  <name>NC0918</name>
+  <desc>BUFFALO NEW YORK AIRWAY BCN 4A</desc>
+</wpt>
+<wpt lat="43.6617421" lon="-73.4758011">
+  <name>OD1396</name>
+  <desc>AIRWAY BCN 20 NY TO BURLINGTON</desc>
+</wpt>
+<wpt lat="43.82665335" lon="-73.41151997">
+  <name>OD1404</name>
+  <desc>AIRWAY BEACON 21</desc>
+</wpt>
+<wpt lat="43.88485295" lon="-73.39815928">
+  <name>OD1406</name>
+  <desc>AIRWAY BEACON 22</desc>
+</wpt>
+<wpt lat="43.46028626" lon="-73.54565308">
+  <name>OD1445</name>
+  <desc>AIRWAY BEACON 19</desc>
+</wpt>
+<wpt lat="43.32978775" lon="-73.68598901">
+  <name>OD1472</name>
+  <desc>AIRWAY BCN 18 BURLINGTON TO NY</desc>
+</wpt>
+<wpt lat="43.22181325" lon="-73.63557138">
+  <name>OD1549</name>
+  <desc>AIRWAY BCN 17 BURLINGTON TO NY</desc>
+</wpt>
+<wpt lat="43.02130408" lon="-74.84877809">
+  <name>OE1820</name>
+  <desc>LITTLE FALLS AIRWAY BEACON 38</desc>
+</wpt>
+<wpt lat="43.06095984" lon="-75.02576884">
+  <name>OE1866</name>
+  <desc>HERKIMER AIRWAY BEACON 37</desc>
+</wpt>
+<wpt lat="43.99505975" lon="-76.02260791">
+  <name>OF1333</name>
+  <desc>WATERTOWN MUN APT AIRWAY BCN</desc>
+</wpt>
+<wpt lat="43.05311123" lon="-76.12213323">
+  <name>OF1363</name>
+  <desc>SYRACUSE AIRWAYS BEACON</desc>
+</wpt>
+<wpt lat="43.08009723" lon="-76.48260536">
+  <name>OF1383</name>
+  <desc>JORDAN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="43.09359177" lon="-76.72101941">
+  <name>OF1405</name>
+  <desc>SAVANNAH AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="43.09103402" lon="-76.99621822">
+  <name>OF1418</name>
+  <desc>AIRWAY BEACON 29</desc>
+</wpt>
+<wpt lat="43.06256333" lon="-77.10177626">
+  <name>OF1424</name>
+  <desc>NEWARK AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="43.10590257" lon="-77.26817121">
+  <name>OF1435</name>
+  <desc>PALMYRA AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="43.15449289" lon="-77.60477812">
+  <name>OF1987</name>
+  <desc>XEROX TOWER SW ATOL</desc>
+</wpt>
+<wpt lat="43.15459228" lon="-77.6048213">
+  <name>OF1988</name>
+  <desc>XEROX TOWER NW ATOL</desc>
+</wpt>
+<wpt lat="43.15453869" lon="-77.60458023">
+  <name>OF1989</name>
+  <desc>XEROX TOWER SE ATOL</desc>
+</wpt>
+<wpt lat="43.154638" lon="-77.60462331">
+  <name>OF1990</name>
+  <desc>XEROX TOWER NE ATOL</desc>
+</wpt>
+<wpt lat="43.0839145" lon="-77.81574026">
+  <name>OF2426</name>
+  <desc>CLEVELAND ALBANY AIRWAY BCN 24</desc>
+</wpt>
+<wpt lat="43.06470226" lon="-78.00574732">
+  <name>OG0486</name>
+  <desc>CLEVELAND ALBANY AIRWAY BCN 23</desc>
+</wpt>
+<wpt lat="39.79279537" lon="-84.08918245">
+  <name>JZ2916</name>
+  <desc>WRIGHT FIELD AIRPORT BEACON</desc>
+</wpt>
+<wpt lat="39.03285529" lon="-84.17655623">
+  <name>JZ3091</name>
+  <desc>CINCINNATI HUNTINGTON AWY BN 1</desc>
+</wpt>
+<wpt lat="39.09128426" lon="-84.38756993">
+  <name>JZ3129</name>
+  <desc>LUNKEN MUN AIRPORT AWY BN 1947</desc>
+</wpt>
+<wpt lat="39.25482017" lon="-84.7738175">
+  <name>JZ3263</name>
+  <desc>CINCINNATI INDIANAP AWY BN 1</desc>
+</wpt>
+<wpt lat="39.85141371" lon="-84.5925854">
+  <name>JZ3268</name>
+  <desc>AIRWAY BEACON SITE 8</desc>
+</wpt>
+<wpt lat="40.10216304" lon="-80.92613574">
+  <name>KY3233</name>
+  <desc>AIRWAY BN 10 N ST CLAIRSVILLE</desc>
+</wpt>
+<wpt lat="40.67735013" lon="-80.64761822">
+  <name>KY3258</name>
+  <desc>WASHINGTON CLEVELAND AWY BN 22</desc>
+</wpt>
+<wpt lat="40.77157717" lon="-80.85533925">
+  <name>KY3274</name>
+  <desc>WASHINGTON CLEVELAND AWY BN 23</desc>
+</wpt>
+<wpt lat="40.84334996" lon="-81.02129106">
+  <name>KY3319</name>
+  <desc>WASHINGTON CLEVELAND AWY BN 24</desc>
+</wpt>
+<wpt lat="40.94595089" lon="-81.25112671">
+  <name>KY3355</name>
+  <desc>WASHINGTON CLEVELAND AWY BN 26</desc>
+</wpt>
+<wpt lat="40.07121766" lon="-81.17263276">
+  <name>KY3417</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 9</desc>
+</wpt>
+<wpt lat="40.04511256" lon="-81.57004891">
+  <name>KY3438</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 6B</desc>
+</wpt>
+<wpt lat="40.04828478" lon="-81.79549964">
+  <name>KY3448</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 5</desc>
+</wpt>
+<wpt lat="40.04224114" lon="-82.02378482">
+  <name>KZ1831</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 4B</desc>
+</wpt>
+<wpt lat="40.02309031" lon="-82.24854839">
+  <name>KZ1836</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 3</desc>
+</wpt>
+<wpt lat="40.02260792" lon="-82.4642529">
+  <name>KZ1847</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 2</desc>
+</wpt>
+<wpt lat="40.48631022" lon="-82.51769664">
+  <name>KZ1883</name>
+  <desc>LOUISVILLE CLEVELAND AWY BN 25</desc>
+</wpt>
+<wpt lat="40.37426799" lon="-82.60529576">
+  <name>KZ1884</name>
+  <desc>LOUISVILLE CLEVELAND AW BN 24A</desc>
+</wpt>
+<wpt lat="40.24813937" lon="-82.69325325">
+  <name>KZ1894</name>
+  <desc>LOUISVILLE CLEVELAND AWY BN 23</desc>
+</wpt>
+<wpt lat="40.11284388" lon="-82.78463164">
+  <name>KZ1901</name>
+  <desc>LOUISVILLE CLEVELAND AWY BN 22</desc>
+</wpt>
+<wpt lat="41.85402925" lon="-80.68908709">
+  <name>MB2074</name>
+  <desc>GAGEVILLE ATT MICROWAVE KQD 75</desc>
+</wpt>
+<wpt lat="41.03287573" lon="-81.46982371">
+  <name>MB2704</name>
+  <desc>AKRON MUN APT GOODYEAR HGR BCN</desc>
+</wpt>
+<wpt lat="41.39330362" lon="-81.56517032">
+  <name>MB2851</name>
+  <desc>AIRWAY BN 32 S GARFIELD HTS</desc>
+</wpt>
+<wpt lat="41.24957508" lon="-81.66197159">
+  <name>MB2935</name>
+  <desc>AIRWAY BN 4 MI NW RICHFIELD</desc>
+</wpt>
+<wpt lat="41.28945069" lon="-81.94694384">
+  <name>MB2953</name>
+  <desc>AIRWAY BN 31 3 MI W OF BELDEN</desc>
+</wpt>
+<wpt lat="41.55936543" lon="-83.67239911">
+  <name>MC1511</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 21</desc>
+</wpt>
+<wpt lat="41.56439283" lon="-84.09527226">
+  <name>MD1742</name>
+  <desc>CHICAGO NEW YORK AWY BCN 19</desc>
+</wpt>
+<wpt lat="41.56485083" lon="-84.55533096">
+  <name>MD1838</name>
+  <desc>AIRWAY BEACON 17</desc>
+</wpt>
+<wpt lat="41.56595771" lon="-84.76881216">
+  <name>MD1843</name>
+  <desc>AIRWAY BEACON 15</desc>
+</wpt>
+<wpt lat="40.819438" lon="-75.874985">
+  <desc>Airway beacon near Summit Hill, PA</desc>
+</wpt>
+<wpt lat="39.906473" lon="-77.436702">
+  <desc>Arrow in Michaux State Forest, near Gettysburg, PA</desc>
+</wpt>
+<wpt lat="40.24364" lon="-79.708757">
+  <desc>Beacon S of Herminie, PA</desc>
+</wpt>
+<wpt lat="40.865841" lon="-76.401123">
+  <desc>Beacon tower at Numidia Airport, PA (replica)</desc>
+</wpt>
+<wpt lat="39.94186801" lon="-77.6930642">
+  <name>JV4680</name>
+  <desc>PENNSYLVANIA STATE AWY BCN 27</desc>
+</wpt>
+<wpt lat="39.91695441" lon="-77.86244624">
+  <name>JV4762</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 26</desc>
+</wpt>
+<wpt lat="39.80258226" lon="-77.83159916">
+  <name>JV4764</name>
+  <desc>PENNSYLVANIA STATE AWY BCN 8</desc>
+</wpt>
+<wpt lat="39.9147576" lon="-77.95724947">
+  <name>JV4768</name>
+  <desc>WASHINGTON CLEVELAND AWY BN 9A</desc>
+</wpt>
+<wpt lat="39.77770481" lon="-76.67999657">
+  <name>JV6080</name>
+  <desc>BALTIMORE ELMIRA AIRWAY BCN 3</desc>
+</wpt>
+<wpt lat="40.95990258" lon="-75.12884089">
+  <name>KV3571</name>
+  <desc>AIRWAY BN 22 B S DEL WATER GAP</desc>
+</wpt>
+<wpt lat="40.66458192" lon="-75.21263556">
+  <name>KV3595</name>
+  <desc>EASTON AIR BEACON 66</desc>
+</wpt>
+<wpt lat="40.5629829" lon="-75.45368171">
+  <name>KV3608</name>
+  <desc>ALLENTOWN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.65687219" lon="-75.44022726">
+  <name>KV3618</name>
+  <desc>ALLENTOWN AIR BEACON 65</desc>
+</wpt>
+<wpt lat="40.78334786" lon="-75.41036554">
+  <name>KV3627</name>
+  <desc>PITTSBURGH NEW YORK AWY BCN 65</desc>
+</wpt>
+<wpt lat="40.4391932" lon="-75.35595402">
+  <name>KV3771</name>
+  <desc>QUAKERTOWN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.74864564" lon="-75.7339805">
+  <name>KV3857</name>
+  <desc>BAKE OVEN AIR BEACON</desc>
+</wpt>
+<wpt lat="40.17285316" lon="-74.79901507">
+  <name>KV5587</name>
+  <desc>AIRWAY BEACON 71 A</desc>
+</wpt>
+<wpt lat="40.09194859" lon="-74.89542471">
+  <name>KV5751</name>
+  <desc>AIRWAY BEACON 70</desc>
+</wpt>
+<wpt lat="40.91771507" lon="-77.33229889">
+  <name>KW2798</name>
+  <desc>AIRWAY BN 54 B NE OF WOODWARD</desc>
+</wpt>
+<wpt lat="40.29736195" lon="-77.12186246">
+  <name>KW2811</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 30</desc>
+</wpt>
+<wpt lat="40.24032935" lon="-77.07492238">
+  <name>KW2819</name>
+  <desc>NEW KINGSTOWN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.35425036" lon="-77.30483564">
+  <name>KW2858</name>
+  <desc>PENNSYLVANIA STATE AWY BCN 29</desc>
+</wpt>
+<wpt lat="40.36377821" lon="-77.45201452">
+  <name>KW2861</name>
+  <desc>PITTSBURGH HARRISB AWY BCN 28</desc>
+</wpt>
+<wpt lat="40.26034567" lon="-77.42222915">
+  <name>KW2862</name>
+  <desc>PITTSBURGH HARRISB AWY BN 29 B</desc>
+</wpt>
+<wpt lat="40.02714659" lon="-77.53471282">
+  <name>KW2879</name>
+  <desc>PENNSYLVANIA STATE AWY BCN 28</desc>
+</wpt>
+<wpt lat="40.91346429" lon="-77.63069413">
+  <name>KW2913</name>
+  <desc>AIRWAY BCN 53 NITTANY MOUNTAIN</desc>
+</wpt>
+<wpt lat="40.92175696" lon="-77.80467229">
+  <name>KW2940</name>
+  <desc>AIRWAY BN 52 A SW OF MILESBURG</desc>
+</wpt>
+<wpt lat="40.9278864" lon="-77.96882418">
+  <name>KW2959</name>
+  <desc>AIRWAY BEACON NO 51B</desc>
+</wpt>
+<wpt lat="40.84805451" lon="-76.10662635">
+  <name>KW2966</name>
+  <desc>AIRWAY BN 61 NNE OF SHENANDOAH</desc>
+</wpt>
+<wpt lat="40.86033295" lon="-76.30722813">
+  <name>KW2996</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 60</desc>
+</wpt>
+<wpt lat="40.93815526" lon="-76.46794746">
+  <name>KW3002</name>
+  <desc>AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.12464572" lon="-76.49419145">
+  <name>KW3038</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 34 B</desc>
+</wpt>
+<wpt lat="40.30765055" lon="-76.65092986">
+  <name>KW3076</name>
+  <desc>AIRWAY BCN 7 NW OF HERSHEY</desc>
+</wpt>
+<wpt lat="40.16425173" lon="-76.62472337">
+  <name>KW3089</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 34 A</desc>
+</wpt>
+<wpt lat="40.1918353" lon="-76.86716048">
+  <name>KW3092</name>
+  <desc>FROGTOWN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.05052415" lon="-76.7672671">
+  <name>KW3103</name>
+  <desc>ZIONSVIEW AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.22487716" lon="-76.87762976">
+  <name>KW3105</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 32</desc>
+</wpt>
+<wpt lat="40.41203519" lon="-76.92995291">
+  <name>KW3138</name>
+  <desc>PETERS MTN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.87941232" lon="-76.57507309">
+  <name>KW3147</name>
+  <desc>CHICAGO NEW YORK AWY BCN 59 A</desc>
+</wpt>
+<wpt lat="40.87603264" lon="-76.76764353">
+  <name>KW3173</name>
+  <desc>SUNBURY AIRPORT BEACON</desc>
+</wpt>
+<wpt lat="40.89592288" lon="-76.97628924">
+  <name>KW3186</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 56</desc>
+</wpt>
+<wpt lat="40.34661437" lon="-79.22591338">
+  <name>KX1989</name>
+  <desc>AIRWAY BCN 19 S BLAIRSVILLE</desc>
+</wpt>
+<wpt lat="40.44847772" lon="-79.15727094">
+  <name>KX1996</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 20 A</desc>
+</wpt>
+<wpt lat="40.18021058" lon="-79.14267803">
+  <name>KX2002</name>
+  <desc>AIRWAY BEACON 15</desc>
+</wpt>
+<wpt lat="40.23725783" lon="-79.36092395">
+  <name>KX2003</name>
+  <desc>AIRWAY BEACON 16</desc>
+</wpt>
+<wpt lat="40.42302873" lon="-79.32735628">
+  <name>KX2010</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 19</desc>
+</wpt>
+<wpt lat="40.40124599" lon="-79.51951361">
+  <name>KX2022</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 18</desc>
+</wpt>
+<wpt lat="40.27662242" lon="-79.51351475">
+  <name>KX2026</name>
+  <desc>AIRWAY BEACON 17</desc>
+</wpt>
+<wpt lat="40.64885464" lon="-79.92018139">
+  <name>KX2122</name>
+  <desc>AIRWAY BCN 2 SSE OF BAKERSTOWN</desc>
+</wpt>
+<wpt lat="40.95397694" lon="-79.96736806">
+  <name>KX2162</name>
+  <desc>AIRWAY BEACON 4 NW OF BUTLER</desc>
+</wpt>
+<wpt lat="40.98491849" lon="-78.07318456">
+  <name>KX2169</name>
+  <desc>AIRWAY BEACON 51 A</desc>
+</wpt>
+<wpt lat="40.99846846" lon="-78.18302129">
+  <name>KX2180</name>
+  <desc>AMES AIRPORT AWY BCN 50</desc>
+</wpt>
+<wpt lat="40.29357944" lon="-78.26029782">
+  <name>KX2240</name>
+  <desc>TRI COUNTY LOT AWY BCN 24 B</desc>
+</wpt>
+<wpt lat="40.10764869" lon="-78.96017188">
+  <name>KX2288</name>
+  <desc>AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="40.43939934" lon="-78.90545609">
+  <name>KX2314</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 21</desc>
+</wpt>
+<wpt lat="40.29901118" lon="-80.08294908">
+  <name>KY3087</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 15</desc>
+</wpt>
+<wpt lat="40.28817654" lon="-80.16394709">
+  <name>KY3096</name>
+  <desc>AIRWAY BCN 14 3 MI N CANONSBRG</desc>
+</wpt>
+<wpt lat="40.23363656" lon="-80.33682741">
+  <name>KY3139</name>
+  <desc>COLUMBUS PHILA AIRWAY BCN 14</desc>
+</wpt>
+<wpt lat="41.36920345" lon="-74.70947121">
+  <name>LY2602</name>
+  <desc>MATAMORAS UNIDENTIFIED AWY BCN</desc>
+</wpt>
+<wpt lat="41.34265602" lon="-75.66022065">
+  <name>LY2723</name>
+  <desc>AIRWAY BCN 19 S OF SCRANTON</desc>
+</wpt>
+<wpt lat="41.4292136" lon="-75.74370998">
+  <name>LY2729</name>
+  <desc>AIRWAY BCN 18 B W OF SCRANTON</desc>
+</wpt>
+<wpt lat="41.53480415" lon="-75.89958173">
+  <name>LY2802</name>
+  <desc>BUFFALO NEW YORK AIRWAY BCN 17</desc>
+</wpt>
+<wpt lat="41.73165816" lon="-76.26056291">
+  <name>LZ1853</name>
+  <desc>BUFFALO NEW YORK AIRWAY BN 15</desc>
+</wpt>
+<wpt lat="41.83560242" lon="-76.45305067">
+  <name>LZ1869</name>
+  <desc>BUFFALO NEW YORK AIRWAY BN 13</desc>
+</wpt>
+<wpt lat="41.23267958" lon="-76.77761819">
+  <name>LZ1953</name>
+  <desc>AIRWAY BCN 14 NNE OF MUNCY</desc>
+</wpt>
+<wpt lat="41.93767145" lon="-76.63120578">
+  <name>LZ2013</name>
+  <desc>BUFFALO NEW YORK AIRWAY BN 12</desc>
+</wpt>
+<wpt lat="41.54521494" lon="-76.73225689">
+  <name>LZ2018</name>
+  <desc>AIRWAY BEACON 16</desc>
+</wpt>
+<wpt lat="41.14420293" lon="-79.08841811">
+  <name>MA1918</name>
+  <desc>AIRWAY BCN 45 MI S BROOKVILLE</desc>
+</wpt>
+<wpt lat="41.16384835" lon="-79.23194166">
+  <name>MA1930</name>
+  <desc>AIRWAY BCN 2 MI SW OF CORSICA</desc>
+</wpt>
+<wpt lat="41.16380435" lon="-79.23172858">
+  <name>MA1931</name>
+  <desc>AIR</desc>
+</wpt>
+<wpt lat="41.18199371" lon="-79.39101853">
+  <name>MA1960</name>
+  <desc>CLARION AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="41.21780284" lon="-79.66758149">
+  <name>MA2033</name>
+  <desc>CHICAGO NEW YORK AWY BCN 42</desc>
+</wpt>
+<wpt lat="41.22838276" lon="-79.84060082">
+  <name>MA2040</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 41</desc>
+</wpt>
+<wpt lat="41.10764248" lon="-79.99834968">
+  <name>MA2060</name>
+  <desc>PITTSBURGH ERIE AIRWAY BCN 5</desc>
+</wpt>
+<wpt lat="41.00269486" lon="-78.29098044">
+  <name>MA2218</name>
+  <desc>CHICAGO NEW YORK AWY BCN 49B</desc>
+</wpt>
+<wpt lat="41.01034559" lon="-78.42161095">
+  <name>MA2225</name>
+  <desc>CHICAGO NEW YORK AWY BCN 49A</desc>
+</wpt>
+<wpt lat="41.0502139" lon="-78.58034014">
+  <name>MA2259</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 48</desc>
+</wpt>
+<wpt lat="41.07554523" lon="-78.74709821">
+  <name>MA2266</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 47</desc>
+</wpt>
+<wpt lat="41.1102381" lon="-78.90380853">
+  <name>MA2290</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 46</desc>
+</wpt>
+<wpt lat="41.5753065" lon="-80.09032206">
+  <name>MB1853</name>
+  <desc>PITTSBURG ERIE AIRWAY BCN 8</desc>
+</wpt>
+<wpt lat="41.25378953" lon="-80.04500262">
+  <name>MB1885</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 40</desc>
+</wpt>
+<wpt lat="41.29077308" lon="-80.20736334">
+  <name>MB1891</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 39</desc>
+</wpt>
+<wpt lat="41.30337404" lon="-80.42076976">
+  <name>MB1962</name>
+  <desc>CHICAGO NEW YORK AIRWAY BCN 38</desc>
+</wpt>
+<wpt lat="42.07800061" lon="-80.18513333">
+  <name>ND0230</name>
+  <desc>AIRPORT BEACON PORT ERIE</desc>
+</wpt>
+<wpt lat="32.77900498" lon="-80.18860703">
+  <name>CK3312</name>
+  <desc>AIR BEACON 18</desc>
+</wpt>
+<wpt lat="32.6586858" lon="-80.33929687">
+  <name>CK3440</name>
+  <desc>AIR BEACON 17</desc>
+</wpt>
+<wpt lat="32.55734908" lon="-80.47341368">
+  <name>CK3486</name>
+  <desc>AIR BEACON 16</desc>
+</wpt>
+<wpt lat="32.14911061" lon="-80.98659391">
+  <name>CK3797</name>
+  <desc>AIR BEACON 12</desc>
+</wpt>
+<wpt lat="32.27580867" lon="-80.8500777">
+  <name>CK3819</name>
+  <desc>AIR BEACON 13</desc>
+</wpt>
+<wpt lat="33.4836038" lon="-79.89126913">
+  <name>DD3242</name>
+  <desc>JACKSONVILLE RICHMOND AY BN 24</desc>
+</wpt>
+<wpt lat="33.68006703" lon="-79.83266118">
+  <name>DD3342</name>
+  <desc>JACKSONVILLE RICHMOND AY BN 25</desc>
+</wpt>
+<wpt lat="34.59888862" lon="-79.46067901">
+  <name>EB2624</name>
+  <desc>AIRWAY BEACON EAST OF CLIO</desc>
+</wpt>
+<wpt lat="34.06474714" lon="-79.759964">
+  <name>EB2807</name>
+  <desc>AIR BEACON J R 28</desc>
+</wpt>
+<wpt lat="34.82087831" lon="-82.09781526">
+  <name>ED1955</name>
+  <desc>ATLANTA NEW YORK AWY BCN 14</desc>
+</wpt>
+<wpt lat="34.85893473" lon="-82.33458718">
+  <name>ED2158</name>
+  <desc>ATLANTA NEW YORK AWY BCN 13B</desc>
+</wpt>
+<wpt lat="34.76046522" lon="-82.27441492">
+  <name>ED2159</name>
+  <desc>ATLANTA NEW YORK AWY BCN 13A</desc>
+</wpt>
+<wpt lat="34.61117326" lon="-82.50428705">
+  <name>ED2570</name>
+  <desc>ATLANTA NEW YORK AWY BCN 12</desc>
+</wpt>
+<wpt lat="34.53770701" lon="-82.6851359">
+  <name>ED2582</name>
+  <desc>ATLANTA NEW YORK AWY BCN 11</desc>
+</wpt>
+<wpt lat="35.12129031" lon="-81.48912153">
+  <name>FA3231</name>
+  <desc>ATLANTA NEW YORK AWY BCN 18</desc>
+</wpt>
+<wpt lat="35.13711216" lon="-81.50282208">
+  <name>FA3272</name>
+  <desc>ATLANTA NEW YORK 188 MI AWY BN</desc>
+</wpt>
+<wpt lat="35.09156524" lon="-81.66314349">
+  <name>FA3277</name>
+  <desc>ATLANTA NEW YORK AWY BCN 17</desc>
+</wpt>
+<wpt lat="35.00498202" lon="-81.79854159">
+  <name>FA3290</name>
+  <desc>ATLANTA NEW YORK AWY BCN 16</desc>
+</wpt>
+<wpt lat="35.938306" lon="-84.308008">
+  <desc>Beacon site near Oak Ridge, TN</desc>
+</wpt>
+<wpt lat="35.76655825" lon="-86.39275811">
+  <name>FD1413</name>
+  <desc>AIRWAY BEACON 19</desc>
+</wpt>
+<wpt lat="35.45018794" lon="-86.00837347">
+  <name>FD1429</name>
+  <desc>AIRWAY BEACON 16</desc>
+</wpt>
+<wpt lat="35.93565556" lon="-87.26616437">
+  <name>FD1522</name>
+  <desc>DALLAS LOUISVILLE AWY BCN 60</desc>
+</wpt>
+<wpt lat="35.87752018" lon="-87.48661973">
+  <name>FD1531</name>
+  <desc>DALLAS LOUISVILLE AWY BCN 59</desc>
+</wpt>
+<wpt lat="35.78798099" lon="-87.72637508">
+  <name>FD1620</name>
+  <desc>AIRWAY BEACON 58</desc>
+</wpt>
+<wpt lat="36.41037242" lon="-82.70277902">
+  <name>GA3392</name>
+  <desc>AIRWAY BEACON 23</desc>
+</wpt>
+<wpt lat="36.30769699" lon="-82.9712029">
+  <name>GA3409</name>
+  <desc>AIRWAY BEACON 1941</desc>
+</wpt>
+<wpt lat="36.24417359" lon="-83.1732286">
+  <name>GA3506</name>
+  <desc>AIRWAY BEACON 20</desc>
+</wpt>
+<wpt lat="36.55385217" lon="-86.45499873">
+  <name>GC2099</name>
+  <desc>AIRWAY BEACON 67</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2099"></link>
+</wpt>
+<wpt lat="36.40688533" lon="-86.47129326">
+  <name>GC2181</name>
+  <desc>AIRWAY BEACON 66</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2181"></link>
+</wpt>
+<wpt lat="36.27900934" lon="-86.55337495">
+  <name>GC2192</name>
+  <desc>AIRWAY BEACON 65</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2192"></link>
+</wpt>
+<wpt lat="36.13277571" lon="-86.62927767">
+  <name>GC2227</name>
+  <desc>AIRWAY BEACON 64</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2227"></link>
+</wpt>
+<wpt lat="36.06060579" lon="-86.86968432">
+  <name>GC2294</name>
+  <desc>AIRWAY BEACON 63</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2294"></link>
+</wpt>
+<wpt lat="36.07117513" lon="-86.880756">
+  <name>GC2314</name>
+  <desc>AIRWAY BEACON 63</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2314"></link>
+</wpt>
+<wpt lat="36.41507591" lon="-86.84678552">
+  <name>GC2329</name>
+  <desc>AIRWAY BEACON 24</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2329"></link>
+</wpt>
+<wpt lat="36.28843823" lon="-86.87757008">
+  <name>GC2357</name>
+  <desc>AIRWAY BEACON 23</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2357"></link>
+</wpt>
+<wpt lat="36.00986351" lon="-87.04543399">
+  <name>GC2535</name>
+  <desc>AIRWAY BEACON 62</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2535"></link>
+</wpt>
+<wpt lat="36.07457693" lon="-87.85646983">
+  <name>GC2609</name>
+  <desc>TULAA NASHVILLE AIRWAY BEACON 44</desc>
+  <link href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC2609"></link>
+</wpt>
+<wpt lat="36.596922" lon="-82.191189">
+  <desc>Navigational arrow in Bristol, VA</desc>
+</wpt>
+<wpt lat="37.94550167" lon="-75.46277971">
+  <name>FW0807</name>
+  <desc>CHINCOTEAGUE NAVAL AIRBASE BCN</desc>
+</wpt>
+<wpt lat="36.96607118" lon="-76.22401219">
+  <name>FX3013</name>
+  <desc>AIRPLANE SPEED COURSE E BCN</desc>
+</wpt>
+<wpt lat="36.97918223" lon="-76.28429466">
+  <name>FX3172</name>
+  <desc>AIRPLANE SPEED COURSE W BCN</desc>
+</wpt>
+<wpt lat="36.6311408" lon="-79.05669839">
+  <name>FY3053</name>
+  <desc>AIRWAY BEACON 35</desc>
+</wpt>
+<wpt lat="36.56475129" lon="-79.20158382">
+  <name>FY3064</name>
+  <desc>MILTON AIRWAY BEACON 34</desc>
+</wpt>
+<wpt lat="36.99413685" lon="-81.01786419">
+  <name>FZ1929</name>
+  <desc>AIRWAY BCN 33 4 MI NE WYTHVLE</desc>
+</wpt>
+<wpt lat="36.82209309" lon="-81.50587579">
+  <name>FZ2145</name>
+  <desc>AIRWAY BCN 31 1 MI E MARION</desc>
+</wpt>
+<wpt lat="36.61280573" lon="-82.12893557">
+  <name>GA3346</name>
+  <desc>AIRWAY BCN 27 1 MI NE BRISTOL</desc>
+</wpt>
+<wpt lat="37.55070085" lon="-76.47271127">
+  <name>GV3720</name>
+  <desc>WASHINGTON NORFOLK AWY BCN 4</desc>
+</wpt>
+<wpt lat="37.28097759" lon="-76.39189567">
+  <name>GV4330</name>
+  <desc>NORFOLK WASHINGTON AWY BCN 2</desc>
+</wpt>
+<wpt lat="37.75433884" lon="-76.57190333">
+  <name>GV4740</name>
+  <desc>WASHINGTON NORFOLK AWY BCN 6</desc>
+</wpt>
+<wpt lat="37.63090111" lon="-77.33884996">
+  <name>GV5231</name>
+  <desc>RICHMOND WASHINGTON AWY BN 47</desc>
+</wpt>
+<wpt lat="37.5393849" lon="-77.43062881">
+  <name>GV5266</name>
+  <desc>RICHMOND MEDICAL COLLEGE BCN</desc>
+</wpt>
+<wpt lat="37.85011319" lon="-77.37164542">
+  <name>GV5309</name>
+  <desc>RICHMOND WASHINGTON AWY BN 48B</desc>
+</wpt>
+<wpt lat="37.35288224" lon="-77.42193416">
+  <name>GV5510</name>
+  <desc>SUNSET MEMORIAL PARK AWY BCN</desc>
+</wpt>
+<wpt lat="37.47229304" lon="-77.45251016">
+  <name>GV5512</name>
+  <desc>AIRWAY BCN 46 RED AND WHITE LT</desc>
+</wpt>
+<wpt lat="37.43928593" lon="-77.60601071">
+  <name>GV5622</name>
+  <desc>AVIATION BCN WHITE AND RED FL</desc>
+</wpt>
+<wpt lat="37.2846383" lon="-77.69366128">
+  <name>GV5645</name>
+  <desc>AIRWAY BCN 1 LIGHT WHITE FL</desc>
+</wpt>
+<wpt lat="37.20105767" lon="-77.5025149">
+  <name>GV5648</name>
+  <desc>AIRWAY BEACON 53</desc>
+</wpt>
+<wpt lat="37.03675203" lon="-77.65156497">
+  <name>GV5654</name>
+  <desc>AIRWAY BCN 3 WHITE LIGHT</desc>
+</wpt>
+<wpt lat="37.24788513" lon="-77.80594619">
+  <name>GV5660</name>
+  <desc>MANNBORO AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="37.08031268" lon="-77.95760758">
+  <name>GV5663</name>
+  <desc>WASHINGTON ATLANTA AWY BCN 42</desc>
+</wpt>
+<wpt lat="37.40210454" lon="-77.78570789">
+  <name>GV5667</name>
+  <desc>AIRWAY BCN 44B WHITE LT</desc>
+</wpt>
+<wpt lat="37.46891558" lon="-79.00689922">
+  <name>GW2172</name>
+  <desc>ROANOKE WASHINGTON AWY BN 44A</desc>
+</wpt>
+<wpt lat="37.32147187" lon="-79.63203338">
+  <name>GW2208</name>
+  <desc>AIRWAY BCN 41 4 MI SSW THAXTON</desc>
+</wpt>
+<wpt lat="37.33474381" lon="-79.90407631">
+  <name>GW2229</name>
+  <desc>AIRWAY BCN 40A 4 MI NE ROANOKE</desc>
+</wpt>
+<wpt lat="37.94047613" lon="-78.36865263">
+  <name>GW2300</name>
+  <desc>AIRWAY BN 50 SE CHARLOTTSVILLE</desc>
+</wpt>
+<wpt lat="37.04646169" lon="-78.47277923">
+  <name>GW2324</name>
+  <desc>KEYSVILLE INTERST AWY TOWER</desc>
+</wpt>
+<wpt lat="37.68558041" lon="-78.68858169">
+  <name>GW2369</name>
+  <desc>ROANOKE WASHINGTON AWY BN 46</desc>
+</wpt>
+<wpt lat="37.55568016" lon="-78.87044498">
+  <name>GW2370</name>
+  <desc>ROANOKE WASHINGTON AWY BN 44B</desc>
+</wpt>
+<wpt lat="37.25625693" lon="-80.23072975">
+  <name>GX3287</name>
+  <desc>AIRWAY BCN 38 2 MI N ELLISTON</desc>
+</wpt>
+<wpt lat="37.18883156" lon="-80.45027971">
+  <name>GX3304</name>
+  <desc>AIRWAY BEACON 37 BLACKSBURG MT</desc>
+</wpt>
+<wpt lat="37.06715865" lon="-80.82821065">
+  <name>GX3329</name>
+  <desc>AIRWAY BCN 34 2 MI NW PULASKI</desc>
+</wpt>
+<wpt lat="38.77285936" lon="-77.08295014">
+  <name>HV4584</name>
+  <desc>GROVETON AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="38.61735596" lon="-77.39463084">
+  <name>HV5091</name>
+  <desc>WASHINGTON ATLANTA AWY BCN 55</desc>
+</wpt>
+<wpt lat="38.32788298" lon="-77.02909362">
+  <name>HV5335</name>
+  <desc>DAHLGREN PROV GRD AWY BCN</desc>
+</wpt>
+<wpt lat="38.32596413" lon="-77.17725799">
+  <name>HV5394</name>
+  <desc>RICHMOND WASH AIRWAY BEACON 52</desc>
+</wpt>
+<wpt lat="38.14278889" lon="-77.35724068">
+  <name>HV5415</name>
+  <desc>RICHMOND WASHINGTON AWY BN 50</desc>
+</wpt>
+<wpt lat="38.00537318" lon="-77.36939483">
+  <name>HV5438</name>
+  <desc>RICHMOND WASHINGTON AWY BN 49</desc>
+</wpt>
+<wpt lat="38.24035518" lon="-77.37793879">
+  <name>HV5440</name>
+  <desc>WASHINGTON RICHMOND AWY BN 51</desc>
+</wpt>
+<wpt lat="38.48529293" lon="-77.57922578">
+  <name>HV5499</name>
+  <desc>WASHINGTON ATLANTA AWY BCN 54</desc>
+</wpt>
+<wpt lat="38.22907392" lon="-77.96170705">
+  <name>HV5522</name>
+  <desc>UNIONVILLE AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="38.36434633" lon="-77.76880894">
+  <name>HV5526</name>
+  <desc>LOCUST GROVE AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="38.91232312" lon="-77.66846479">
+  <name>HV5575</name>
+  <desc>JACKSON HOLLOW AIRWAY BCN 37</desc>
+</wpt>
+<wpt lat="38.00160774" lon="-76.6707828">
+  <name>HV6916</name>
+  <desc>WASHINGTON NORFOLK AWY BCN 8</desc>
+</wpt>
+<wpt lat="38.95920031" lon="-78.02257671">
+  <name>HW3241</name>
+  <desc>AIRWAY BEACON 35</desc>
+</wpt>
+<wpt lat="38.96026065" lon="-78.33093661">
+  <name>HW3281</name>
+  <desc>AIRWAY BCN 34 3 MI S STRASBURG</desc>
+</wpt>
+<wpt lat="38.97840235" lon="-78.63161753">
+  <name>HW3399</name>
+  <desc>AIRWAY BCN 32 TWO MI E PERRY</desc>
+</wpt>
+<wpt lat="39.0160701" lon="-77.34312852">
+  <name>JV4486</name>
+  <desc>AIRWAY BCN 1 NE OF DRANESVILLE</desc>
+</wpt>
+<wpt lat="39.16147581" lon="-77.58927474">
+  <name>JV4636</name>
+  <desc>LEESBURG AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="44.18233833" lon="-72.56687">
+  <name>PG1664</name>
+  <desc>AIRWAY BCN 15 3 MI SW OF BARRE</desc>
+</wpt>
+<wpt lat="44.36444833" lon="-72.93068833">
+  <name>PG1682</name>
+  <desc>ROBBINS MTN AWY BCN</desc>
+</wpt>
+<wpt lat="44.67001833" lon="-73.20858167">
+  <name>PG1773</name>
+  <desc>BURLINGTON MONTREAL AWY BN 27</desc>
+</wpt>
+<wpt lat="44.85470333" lon="-73.26152667">
+  <name>PG1910</name>
+  <desc>BURLINGTON MONTREAL AWY BN 29</desc>
+</wpt>
+<wpt lat="44.27804833" lon="-73.21600333">
+  <name>PG1934</name>
+  <desc>MOUNT PHILO AIRWAY BCN AND LOT</desc>
+</wpt>
+<wpt lat="44.40639667" lon="-73.13651167">
+  <name>PG1963</name>
+  <desc>BROWNELL MOUNTAIN AWY BEACON</desc>
+</wpt>
+<wpt lat="44.06996428" lon="-73.27986816">
+  <name>PG2002</name>
+  <desc>SNAKE MOUNTAIN AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="45.01068833" lon="-73.29495">
+  <name>PG2458</name>
+  <desc>BURLINGTON MONTREAL AWY BCN 30</desc>
+</wpt>
+<wpt lat="42.61473988" lon="-87.89545656">
+  <name>NG0660</name>
+  <desc>CHICAGO ST PAUL AWY BCN 5 C</desc>
+</wpt>
+<wpt lat="42.54258075" lon="-89.03233292">
+  <name>NH1357</name>
+  <desc>ROCKFORD PORTAGE AIRWAY BN 1</desc>
+</wpt>
+<wpt lat="42.654361" lon="-89.47628472">
+  <name>NH1379</name>
+  <desc>CHICAGO ST PAUL AIRWAY BN 10</desc>
+</wpt>
+<wpt lat="42.8239963" lon="-89.67383038">
+  <name>NH1576</name>
+  <desc>MILWAUKEE ST PAUL AWY BCN 12</desc>
+</wpt>
+<wpt lat="42.9543538" lon="-89.84958839">
+  <name>NH1606</name>
+  <desc>MILWAUKEE ST PAUL AWY BCN 13</desc>
+</wpt>
+<wpt lat="43.14148543" lon="-89.54044061">
+  <name>OM1146</name>
+  <desc>MILWAUKEE ST PAUL AWY BCN 8</desc>
+</wpt>
+<wpt lat="43.17020314" lon="-89.78909187">
+  <name>OM1169</name>
+  <desc>MILWAUKEE ST PAUL AWY BCN 9</desc>
+</wpt>
+<wpt lat="43.09252211" lon="-90.03078429">
+  <name>ON1036</name>
+  <desc>CHICAGO ST PAUL AIRWAY BCN 14</desc>
+</wpt>
+<wpt lat="43.22183061" lon="-90.21091285">
+  <name>ON1040</name>
+  <desc>CHICAGO ST PAUL AIRWAY BCN 16</desc>
+</wpt>
+<wpt lat="43.21330536" lon="-90.19201586">
+  <name>ON1043</name>
+  <desc>AIRPORT BCN LONE ROCK APT</desc>
+</wpt>
+<wpt lat="43.95932391" lon="-90.50656598">
+  <name>ON1112</name>
+  <desc>TOMAH AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="43.95169494" lon="-90.59967802">
+  <name>ON1117</name>
+  <desc>CAMP MCCOY AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="43.93232202" lon="-90.78432211">
+  <name>ON1158</name>
+  <desc>SPARTA AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="43.90282488" lon="-90.99009748">
+  <name>ON1166</name>
+  <desc>BANGOR AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="44.01034609" lon="-91.45171802">
+  <name>PO0692</name>
+  <desc>AVIATION BEACON 24 OLD 28</desc>
+</wpt>
+<wpt lat="44.32216551" lon="-91.90789278">
+  <name>PO0729</name>
+  <desc>AVIATION BEACON 27 OLD 31</desc>
+</wpt>
+<wpt lat="44.62317102" lon="-92.56815135">
+  <name>PP2418</name>
+  <desc>AVIATION BEACON 31 B OLD 35</desc>
+</wpt>
+<wpt lat="44.73066388" lon="-92.74588998">
+  <name>PP2445</name>
+  <desc>AVIATION BEACON 32 OLD 36</desc>
+</wpt>
+<wpt lat="38.98264763" lon="-78.90840184">
+  <name>HW3424</name>
+  <desc>AIRWAY BEACON 31</desc>
+</wpt>
+<wpt lat="38.99154756" lon="-79.13757238">
+  <name>HW3439</name>
+  <desc>AIRWAY BCN 29 PETERSBURG APT</desc>
+</wpt>
+<wpt lat="38.96469643" lon="-79.35816828">
+  <name>HW3466</name>
+  <desc>AIRWAY BEACON 28</desc>
+</wpt>
+<wpt lat="38.93721282" lon="-79.71066144">
+  <name>HW3565</name>
+  <desc>AIRWAY BEACON 26</desc>
+</wpt>
+<wpt lat="38.88211694" lon="-79.85423671">
+  <name>HW3589</name>
+  <desc>AWY BCN E OF ELKINS MUN APT</desc>
+</wpt>
+<wpt lat="38.87222724" lon="-79.92685024">
+  <name>HW3598</name>
+  <desc>AIRWAY BEACON 25</desc>
+</wpt>
+<wpt lat="38.77792295" lon="-80.25363299">
+  <name>HX2865</name>
+  <desc>AIRWAY BEACON 23</desc>
+</wpt>
+<wpt lat="38.70586471" lon="-80.57240342">
+  <name>HX2927</name>
+  <desc>AIRWAY BEACON 22</desc>
+</wpt>
+<wpt lat="38.68088485" lon="-80.6603975">
+  <name>HX2936</name>
+  <desc>AIRWAY BEACON 21</desc>
+</wpt>
+<wpt lat="38.54557606" lon="-81.14567202">
+  <name>HX2965</name>
+  <desc>CINCINNATI WASH AWY BCN 18</desc>
+</wpt>
+<wpt lat="38.47102468" lon="-81.43368153">
+  <name>HX3034</name>
+  <desc>CINCINNATI WASH AWY BCN 17</desc>
+</wpt>
+<wpt lat="38.39553344" lon="-81.8943096">
+  <name>HX3132</name>
+  <desc>CINCINNATI WASH AWY BCN 14</desc>
+</wpt>
+<wpt lat="39.23893508" lon="-77.77053747">
+  <name>JV4657</name>
+  <desc>KEYS GAP AIRWAY BEACON</desc>
+</wpt>
+<wpt lat="39.53025229" lon="-78.31327881">
+  <name>JW1396</name>
+  <desc>PITTSBURGH WASHINGTON AWY BN 8</desc>
+</wpt>
+<wpt lat="40.18438757" lon="-80.53766303">
+  <name>KY3167</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 13</desc>
+</wpt>
+<wpt lat="40.14163819" lon="-80.67784929">
+  <name>KY3202</name>
+  <desc>COLUMBUS PHILADELPH AWY BN 12</desc>
+</wpt>
+</gpx>
