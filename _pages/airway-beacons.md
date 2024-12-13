@@ -28,8 +28,8 @@ Roger’s lists have generated a lot of discussion among aviation enthusiasts an
 ## Airway beacons & arrows
 
 **View/download beacon data files:**
-- Eastern US: [Table and comments](/airway-beacons-list-eastern-u-s/) \| Spreadsheet (.xlsx) \| GPS Exchange (.gpx) \| Google Earth (.kmz) \| GeoJSON (.geojson)
-- Western US: [Table and comments](/airway-beacons-list-western-u-s/) \| Spreadsheet (.xlsx) \| GPS Exchange (.gpx) \| Google Earth (.kmz) \| GeoJSON (.geojson)
+- Eastern US: [Table and comments](/airway-beacons-list-eastern-u-s/) \| [Spreadsheet _(.xlsx)_](/assets/data/airway-beacons-eastern-us.xlsx) \| [GPS Exchange _(.gpx)_](/assets/data/airway-beacons-eastern-us.gpx) \| [Google Earth _(.kmz)_](/assets/data/airway-beacons-eastern-us.kmz) \| [GeoJSON _(.geojson)_](/assets/data/airway-beacons-eastern-us.geojson)
+- Western US: [Table and comments](/airway-beacons-list-western-u-s/) \| [Spreadsheet _(.xlsx)_](/assets/data/airway-beacons-western-us.xlsx) \| [GPS Exchange _(.gpx)_](/assets/data/airway-beacons-western-us.gpx) \| [Google Earth _(.kmz)_](/assets/data/airway-beacons-western-us.kmz) \| [GeoJSON _(.geojson)_](/assets/data/airway-beacons-western-us.geojson)
 {:.compact-list}
 
 [View map of beacons](/map-of-ngs-airway-beacons/)
