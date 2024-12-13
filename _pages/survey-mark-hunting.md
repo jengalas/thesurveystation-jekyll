@@ -2,6 +2,7 @@
 title: Survey Mark Hunting
 layout: page
 permalink: /survey-mark-hunting/
+class: survey-mark-hunting
 ---
 
 <figure class="alignright">
@@ -17,28 +18,6 @@ Survey mark hunting, sometimes referred to as “benchmark hunting” regardless
 
 [Learn more ...](/about-survey-mark-hunting/)
 
-<div class="box alignright" markdown=1>
-
-## Zhanna's Recoveries
-
-### Browse by year
-
-{% for year in site.data.years %}
-* [{{ year.year }}](/year/{{ year.year }}){% endfor %}
-{: .browse-list}
-
-### Map of survey mark recoveries
-
-[Map of recoveries, 2002 - {{ 'now' | date: "%Y" }}](/map-of-recoveries/)
-
-### Official reports submitted
-
-* [NGS](/ngs-recoveries/)
-* [USGS](/usgs-recoveries/)
-{: .browse-list}
-
-</div>
-
 ## Getting Started
 
 Beginner's Guide to Survey Mark Hunting
@@ -49,6 +28,9 @@ Beginner's Guide to Survey Mark Hunting
 [Joy of Geodetics Part IV: Other Disk Installing Agencies and Representative Disk Examples](https://www.usps.org/images/Exec/CoopCh/PDFs/2020_JOG_Part_4_IV.pdf)
 : The United States Power Squadrons have provided a series of presentations to instruct members on methods of surveying, types of markers, and procedures for reporting recoveries.
 {: .resources-list}
+
+<div class="responsive-two-column-grid">
+<div markdown=1>  
 
 ## Resources for Survey Mark Hunters
 
@@ -87,4 +69,32 @@ Beginner's Guide to Survey Mark Hunting
 [Zhanna’s recoveries from 2024](/year/2024/)
 : There are a few nice images here, if I may say so myself.
 {: .resources-list}
+</div>
 
+<div>
+<div style="background-color: #fafafa;
+    border: 1px solid #d9d9d9;
+    margin: 1rem;
+    padding: 0 2rem;" markdown=1>
+
+## Zhanna's Recoveries
+
+### Browse by year
+
+{% for year in site.data.years %}
+* [{{ year.year }}](/year/{{ year.year }}){% endfor %}
+{: .browse-list}
+
+### Map of survey mark recoveries
+
+[Map of recoveries, 2002 - {{ 'now' | date: "%Y" }}](/map-of-recoveries/)
+
+### Official reports submitted
+
+* [NGS](/ngs-recoveries/)
+* [USGS](/usgs-recoveries/)
+{: .browse-list}
+
+</div>
+</div>
+</div>
