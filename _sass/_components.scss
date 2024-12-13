@@ -174,12 +174,14 @@
 /* Landing Pages Lists */
 
 .browse-list {
-    display: flex; 
-    flex-wrap: wrap;
+    // display: flex; 
+    display: grid;
+    // flex-wrap: wrap;
     gap: 2rem; 
     list-style: none; 
     margin: 0 0 2rem 0; 
     padding: 0; 
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .compact-list {
