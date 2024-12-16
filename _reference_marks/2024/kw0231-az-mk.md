@@ -18,11 +18,6 @@ year_established: '1960'
 agency: NGS
 status: Not Found
 condition: Unknown (Not Found)
-ngs_report:
-coordinates_submitted:
-photos_submitted:
-ngs_report_text: ''
-zhanna_text: ''
 galleries:
   gallery_zh:
     images:
