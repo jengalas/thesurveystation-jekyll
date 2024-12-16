@@ -5,9 +5,28 @@
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-    var sliderControl = null;
 
-    var recoveriesMap = L.map('recoveries-map', { fullscreenControl: true, geocoderControl: true }).setView([51.9, 7.9], 9);
+    let mapFullExtent = false;
+
+    function getQueryStringValue (key) {  
+        return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
+    } 
+    
+    console.log((getQueryStringValue("lat")));
+
+    if (getQueryStringValue("lat") == '') {
+        mapFullExtent = true;
+    }   
+
+    console.log(mapFullExtent);
+    
+    var lat = getQueryStringValue("lat") || '51.9';
+    var lng = getQueryStringValue("lng") || '7.9';
+    var zoom = getQueryStringValue("zoom") || '9';
+
+    var sliderControl = null;
+    
+    var recoveriesMap = L.map('recoveries-map', { fullscreenControl: true, geocoderControl: true }).setView([lat, lng], zoom);
 
     objBasemaps['OpenStreetMap'].addTo(recoveriesMap); // Assign default basemap
 
@@ -16,13 +35,20 @@
     var neSub = L.featureGroup.subGroup().addTo(recoveriesMap);
 
     $.getJSON("/assets/data/all-points.geojson", function (geojsonData) {
-
+     
         var categories = {},
             Status;
 
         function PoIstile(feature, latlng) {
             switch (feature.properties.status) {
                 case "Recovered":
+                    var visitedDateFormatted = new Date(feature.properties.time).toLocaleString("en-US", dateOptions);
+                    function determineHasImage(imageUrl) {
+                    if (!feature.properties.image)
+                        return "";
+                    else
+                        return feature.properties.image;
+                    }
                     var recoveredIcon = new L.icon({
                         iconUrl: '/assets/img/marker-icon-green.png',
                         iconSize: [22, 30], // size of the icon
@@ -31,8 +57,15 @@
                     });
                     return L.marker(latlng, {
                         icon: recoveredIcon
-                    }).addTo(recSub);
+                    }).bindPopup("<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + determineHasImage(feature.properties.image) + "'>").addTo(recSub);
                 case "Not Found":
+                    var visitedDateFormatted = new Date(feature.properties.time).toLocaleString("en-US", dateOptions);
+                    function determineHasImage(imageUrl) {
+                    if (!feature.properties.image)
+                        return "";
+                    else
+                        return feature.properties.image;
+                    }
                     var notfoundIcon = new L.icon({
                         iconUrl: '/assets/img/marker-icon-red.png',
                         iconSize: [22, 30],
@@ -41,8 +74,15 @@
                     });
                     return L.marker(latlng, {
                         icon: notfoundIcon
-                    }).addTo(nfSub);
+                    }).bindPopup("<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + determineHasImage(feature.properties.image) + "'>").addTo(nfSub);
                 case "Note Entered":
+                    var visitedDateFormatted = new Date(feature.properties.time).toLocaleString("en-US", dateOptions);
+                        function determineHasImage(imageUrl) {
+                        if (!feature.properties.image)
+                            return "";
+                        else
+                            return feature.properties.image;
+                        }
                     var noteIcon = new L.icon({
                         iconUrl: '/assets/img/marker-icon-blue.png',
                         iconSize: [22, 30],
@@ -51,7 +91,7 @@
                     });
                     return L.marker(latlng, {
                         icon: noteIcon
-                    }).addTo(neSub);
+                    }).bindPopup("<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + determineHasImage(feature.properties.image) + "'>").addTo(neSub);
             }
         };
 
@@ -65,18 +105,19 @@
             pointToLayer: PoIstile,
             onEachFeature: function (feature, layer) {
 
-                function determineHasImage(imageUrl) {
-                    if (!feature.properties.image)
-                        return "";
-                    else
-                        return feature.properties.image;
-                }
+                // function determineHasImage(imageUrl) {
+                //     if (!feature.properties.image)
+                //         return "";
+                //     else
+                //         return feature.properties.image;
+                // }
 
-                const visitedDate = new Date(feature.properties.time);
+                // const visitedDate = new Date(feature.properties.time);
                                 
-                var visitedDateFormatted = visitedDate.toLocaleString("en-US", dateOptions);
+                // var visitedDateFormatted = visitedDate.toLocaleString("en-US", dateOptions);
 
-                layer.bindPopup("<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + determineHasImage(feature.properties.image) + "'>");
+                // layer.bindPopup("<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + determineHasImage(feature.properties.image) + "'>");
+
             }
         });
 
@@ -86,9 +127,13 @@
             "Note Entered": neSub
         };
 
-        recoveriesMap.fitBounds(recSub.getBounds(), {
-            padding: [20, 20]
-        });
+        if (mapFullExtent === true) {
+            recoveriesMap.fitBounds(recSub.getBounds(), {
+                padding: [20, 20]
+            });
+        } else {
+            var popup = L.popup([lat, lng]).openOn(recoveriesMap);
+        }
 
         L.markerClusterGroup.layerSupport({
             disableClusteringAtZoom: 17

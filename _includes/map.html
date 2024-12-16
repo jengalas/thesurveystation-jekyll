@@ -15,7 +15,8 @@
 {% endif %}
 
 <div class="map" id="{{ uid }}"></div>
-<div><a href="https://www.google.com/maps/search/?api=1&query={{ page.latitude }},-{{ page.longitude }}">Google Map</a></div>
+<div><a href="https://www.google.com/maps/search/?api=1&query={{ page.latitude }},-{{ page.longitude }}">Google Map</a>
+   <a href="/map-of-recoveries/?lat={{ page.latitude }}&lng=-{{ page.longitude }}&zoom=18">View Full Map</a></div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
