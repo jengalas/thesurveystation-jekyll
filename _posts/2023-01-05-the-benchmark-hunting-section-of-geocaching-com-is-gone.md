@@ -34,9 +34,9 @@ where [PID] is the mark's PID.
 
 Unfortunately, because I don't see a way to view the marks a user has logged, you will need to know the PIDs of any marks you want to look up on the Wayback Machine archive. 
 
-The NGS Data Explorer can help with that:
+The NGS Data Explorer (now NGS Web Map, as of November 2023) can help with that:
 
-[https://geodesy.noaa.gov/NGSDataExplorer/](https://geodesy.noaa.gov/NGSDataExplorer/)
+[The NGS Map](https://noaa.maps.arcgis.com/apps/webappviewer/index.html?id=190385f9aadb4cf1b0dd8759893032db)
 
 I have also contacted the developer of DSWorld, NGS's app that, among other things, interfaces with the NGS database for mark retrieval and recovery. DSWorld contains a function designed to bring up Geocaching recoveries, which now, of course, results in a 404 error. The developer will probably just have to remove that part of the app.
 
@@ -76,9 +76,9 @@ My post to that thread (which is quite similar to what I've written above) follo
 >
 > Unfortunately, because I don't see a way to view the marks a user has logged, you will need to know the PIDs of any marks you want to look up on the Wayback Machine archive.
 >
-> The NGS Data Explorer can help with that:
+> The NGS Data Explorer (now NGS Web Map, as of November 2023) can help with that:
 >
-> [https://geodesy.noaa.gov/NGSDataExplorer/](https://geodesy.noaa.gov/NGSDataExplorer/)
+> [The NGS Map](https://noaa.maps.arcgis.com/apps/webappviewer/index.html?id=190385f9aadb4cf1b0dd8759893032db)
 >
 > I hope this is useful. 
 >
