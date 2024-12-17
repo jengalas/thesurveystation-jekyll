@@ -34,41 +34,8 @@ Beginner's Guide to Survey Mark Hunting
 
 ## Resources for Survey Mark Hunters
 
-### Data
+{% include survey-mark-hunting-resources.html %}
 
-[Survey Mark Data](/survey-data)
-: Links to official datasheets, data sets, and other sources of survey control
-{: .resources-list}
-
-### Tools
-
-[NGS PID Search bookmarklet](javascript:void(str=prompt('PID:',''));if(str){location.href='http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=%27+escape(str);})
-: 
-
-[GPS Visualizer](https://www.gpsvisualizer.com/)
-: 
-
-[GPS Visualizer: Calculators](https://www.gpsvisualizer.com/calculators)
-: 
-
-[BM finder by radius](https://bm-finder-radius.netlify.app/)
-: 
-
-[GPX waypoint creator](https://gpx-waypoint-creator.netlify.app/)
-: 
-
-[NGS PC Software](http://www.ngs.noaa.gov/PC_PROD/pc_prod.shtml)
-: 
-{: .resources-list}
-
-### Inspiration
-
-[Flickr: USGS Geodetic Survey Markers](https://www.flickr.com/groups/usgsmarkers/pool/)
-: Not all are actually USGS markers, or geodetic markers; many different agencies and types are represented.
-
-[Zhanna’s recoveries from 2024](/year/2024/)
-: There are a few nice images here, if I may say so myself.
-{: .resources-list}
 </div>
 
 <div>

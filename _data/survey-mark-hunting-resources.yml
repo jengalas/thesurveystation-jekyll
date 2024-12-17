@@ -1,0 +1,99 @@
+- category: Data
+  links:
+    - title: Survey Mark Data
+      url: /survey-data
+      description: Links to official datasheets, data sets, and other sources of survey control
+- category: Tools
+  links:
+    - title: NGS PID Search bookmarklet
+      url: javascript:void(str=prompt('PID:',''));if(str){location.href='http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=%27+escape(str);}
+    - title: GPS Visualizer
+      url: https://www.gpsvisualizer.com/
+    - title: 'GPS Visualizer: Calculators'
+      url: https://www.gpsvisualizer.com/calculators
+    - title: BM finder by radius
+      url: https://bm-finder-radius.netlify.app/
+    - title: GPX waypoint creator
+      url: https://gpx-waypoint-creator.netlify.app/
+    - title: NGS PC Software
+      url: http://www.ngs.noaa.gov/PC_PROD/pc_prod.shtml
+- category: Maps & Imagery
+  links:
+    - title: 'BenchMap: NGS Control Marker Locator for Android'
+      url: https://play.google.com/store/apps/details?id=com.tsqmadness.bmmaps&feature=nav_result#?t=W251bGwsMSwyLDNd 
+    - title: Airway Maps on Internet Archive
+      url: http://archive.org/search.php?query=%22airway%20maps%22       
+    - title: PID Prefix Map
+      url: /pid-prefix-map/
+    - title: Historical Topo Map Explorer
+      url: https://livingatlas.arcgis.com/topomapexplorer/#maps=&loc=-98.54,40.15&LoD=4
+      description: The Historical Topo Map Explorer provides a visual way to search and explore the USGS topographic map collection via geographic extent, publication year, and map scale. A transparency slider allows you to easily compare historical maps with each other or with the current basemap. The map layers can also be downloaded.
+    - title: USGS TopoView
+      url: https://ngmdb.usgs.gov/maps/TopoView/
+      description: TopoView provides a nice map interface to USGS’s Historical Topographic Map collection. Download GeoTIFFs, JPGs and KMLs at various scales for different uses.
+    - title: USGS EarthExplorer
+      url: https://earthexplorer.usgs.gov/
+      description: EarthExplorer offers aerial imagery that’s unavailable elsewhere—some of it dating back to the 1950s. Fill in your search criteria and then, on the data sets tab, select “aerial photo single frames” or “high resolution orthoimagery”. The Results tab will show the available images for your search.
+    - title: PA Historic County Maps
+      url: https://www.pa.gov/agencies/penndot/research-planning-and-innovation/maps.html#sortCriteria=%40copapwptitle%20ascending%2C%40title%20ascending&f-copapwpmaptype=County%20Type%2010,Historic%20Transportation
+    - title: PennDOT Transportation Maps, PDF format
+      url: https://www.pa.gov/agencies/penndot/research-planning-and-innovation/maps.html#sortCriteria=%40copapwptitle%20ascending%2C%40title%20ascending&f-copapwpmaptype=Historic%20Transportation
+    - title: 'PASDA: Pennsylvania Imagery Navigator'
+      url: https://maps.psiee.psu.edu/ImageryNavigator/
+      description: 'PASDA offers some tiles I haven’t found elsewhere, like LIDAR of the whole state, and black and white aerial imagery (à la TerraServer) from the 90s. These are great for locating old roads, trails and waterways. Note: as of July 2020, this website replaces Penn Pilot. It contains all the same imagery and more.'
+    - title: 'Penn Pilot: Historical Aerial Photographs of Pennsylvania'
+      url: https://datacommons.maps.arcgis.com/apps/View/index.html?appid=10af5f75f9f94f01866359ba398cb6a9
+      description: This is the new home (as of 2020) for PennPilot historical aerial imagery.
+    - title: 'Historical Topographic Maps (USGS: The National Map)'
+      url: https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past
+      description: Background information and links about USGS's effort to provide a digital repository of USGS 1:250,000 scale and larger maps printed between 1884 and 2006.
+    - title: NGS Historical Geodetic Control Diagrams
+      url: /NGS/
+    - title: HistoricAerials
+      url: https://www.historicaerials.com/
+      description: This is a subscription service, but may be worthwhile for tracking down some old survey marks!
+    - title: Historical Map and Chart Collection, Office of Coast Survey
+      url: https://historicalcharts.noaa.gov/
+    - title: Geodetic Control Diagrams
+      url: /geodetic-control-diagrams/
+    - title: 'PDF Quads: Free Printable USGS PDF Topo Maps from National Geopgraphic Maps'
+      url: https://www.natgeomaps.com/trail-maps/pdf-quads
+      description: For those times when digital mapping and GIS overlays don’t cut it ... National Geographic offers 7.5-minute topo quads in an easily printable format.
+    - title: National Park Maps
+      url: https://npmaps.com/
+      description: These maps aren’t strictly related to survey mark hunting, and most don’t indicate any benchmark locations, but they’re an excellent resource for anyone hiking or hunting in our national parks.
+- category: Guides & Publications
+  links: 
+    - title: Benchmark Hunting in Yellowstone National Park
+      url: https://www.amazon.com/Benchmark-Hunting-Yellowstone-National-Park/dp/0985407204
+    - title: Finding RHONDA
+      url: /2019/03/17/finding-rhonda/
+    - title: 'The Information Literacy of Survey Mark Hunting: A Dialogue'
+      url: https://www.inthelibrarywiththeleadpipe.org/2016/survey-mark-hunting/
+    - title: 'Lasting Impressions: A Glimpse Into the Legacy of Surveying'
+      url: https://www.berntsen.com/Surveying/Collectibles/Books/ctl/ViewProduct/mid/612/itemID/881
+    - title: Geodetic Glossary from NGS
+      url: https://www.ngs.noaa.gov/CORS-Proxy/Glossary/xml/NGS_Glossary.xml
+    - title: Discovering The Cornerstones of Maine’s Mapping History
+      url: https://maineboats.com/print/issue-125/discovering-cornerstones-maine%E2%80%99s-mapping-history    
+    - title: Tri State Corners in the United States
+      url: /assets/docs/publications/tri-state-corners.pdf  
+    - title: Results of Spirit Leveling in Arizona. 1899 to 1915, inclusive.
+      url: /assets/docs/publications/spirit-leveling-arizona-1915.pdf 
+    - title: Triangulation in Maine
+      url: /assets/docs/publications/triangulation-in-maine.pdf
+      description: By Walter F. Reynolds. 1918.
+    - title: Spirit Leveling in Maine, 1899-1915
+      url: /assets/docs/publications/spirit-leveling-maine.pdf
+      description: By R. B. Marshall. 1916.      
+    - title: Triangulation in Arizona
+      url: /assets/docs/publications/triangulation-in-arizona.pdf      
+      description: "1927 datum. Part 1: First- and second-order triangulation in south central part of state, by Clement L. Garner. 1941."
+- category: Inspiration
+  links:
+    - title: 'Flickr: USGS Geodetic Survey Markers'
+      url: https://www.flickr.com/groups/usgsmarkers/pool/
+      description: Not all are actually USGS markers, or geodetic markers; many different agencies and types are represented.
+    - title: Zhanna’s recoveries from 2024
+      url: /year/2024/
+      description: There are a few nice images here, if I may say so myself.   
