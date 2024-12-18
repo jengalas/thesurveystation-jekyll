@@ -1224,6 +1224,24 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "RM 07Y 45.76 CP 112 107.23 08Y 44.77",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-04-12T06:58:36",
+          "permalink": "/reference-marks/rm-07y-45-76-cp-112-107-23-08y-44-77/",
+          "image": "https://images.planetzhanna.com/2024/04/12/thumbnails/rm-07y-45-76-cp-112-107-23-08y-44-77csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.1731,
+            36.116946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "007Y",
           "status": "Not Found",
           "condition": "Unknown (Not Found)",
