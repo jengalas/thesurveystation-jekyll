@@ -2,7 +2,7 @@
 designation: 13Y RESET
 date: '2024-04-12T07:08:01'
 latitude: '36.119893'
-longitude: '115.172630'
+longitude: '115.17263'
 state: Nevada
 county: Clark County
 quad: Las Vegas SW Quad

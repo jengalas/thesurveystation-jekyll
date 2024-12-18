@@ -333,13 +333,13 @@
           "condition": "Good",
           "time": "2024-09-12 11:00:00 -0400",
           "permalink": "/surveymarks/pe0300/",
-          "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/pe0300csm.jpg"
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -68.312011,
-            44.275573
+            -68.312012,
+            44.275507
           ]
         }
       },
@@ -351,13 +351,13 @@
           "condition": "Good",
           "time": "2024-09-12 10:40:00 -0400",
           "permalink": "/surveymarks/pe0299/",
-          "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/"
+          "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/pe0299csm.jpg"
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -68.312085,
-            44.275621
+            -68.312049,
+            44.275533
           ]
         }
       },
@@ -639,13 +639,13 @@
           "condition": "Good",
           "time": "2024-09-05 11:36:00 -0400",
           "permalink": "/surveymarks/t-18-reset/",
-          "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/"
+          "image": ""
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -69.010081,
-            44.431177
+            -69.009942,
+            44.431249
           ]
         }
       },
@@ -1080,6 +1080,24 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "RM 20Y 45.84 21Y 42.64",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-04-12T07:20:37",
+          "permalink": "/reference-marks/rm-20y-45-84-21y-42-64/",
+          "image": "https://images.planetzhanna.com/2024/04/12/thumbnails/rm-20y-45-84-21y-42-64csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.172253,
+            36.121406
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "19Y RESET",
           "status": "Recovered",
           "condition": "Good",
@@ -1091,7 +1109,7 @@
           "type": "Point",
           "coordinates": [
             -115.172498,
-            36.12058
+            36.120580
           ]
         }
       },
@@ -1128,6 +1146,24 @@
           "coordinates": [
             -115.172676,
             36.120203
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "CP NO 113",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-04-12T07:09:00",
+          "permalink": "/surveymarks/cp-no-113/",
+          "image": "https://images.planetzhanna.com/2024/04/12/thumbnails/cp-no-113csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.172655,
+            36.120051
           ]
         }
       },
@@ -1188,6 +1224,42 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "007Y",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "2024-04-12T06:56:27",
+          "permalink": "/surveymarks/007y/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.1731,
+            36.116866
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "RM 07Y 52.70",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-04-12T06:56:25",
+          "permalink": "/reference-marks/rm-07y-52-70/",
+          "image": "https://images.planetzhanna.com/2024/04/12/thumbnails/rm-07y-52-70csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.173071,
+            36.116659
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "006Y",
           "status": "Recovered",
           "condition": "Good",
@@ -1218,6 +1290,24 @@
           "coordinates": [
             -115.173281,
             36.114847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "RM 58X 25.20",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-04-12T06:44:15",
+          "permalink": "/reference-marks/rm-58x-25-20/",
+          "image": "https://images.planetzhanna.com/2024/04/12/thumbnails/rm-58x-25-20csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.173151,
+            36.114045
           ]
         }
       },
@@ -1360,8 +1450,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -115.173086,
-            36.10893
+            -115.1726659,
+            36.1091041
           ]
         }
       },
@@ -1751,7 +1841,7 @@
           "condition": "Good",
           "time": "2024-04-10T18:44:40",
           "permalink": "/surveymarks/058x/",
-          "image": "https://images.planetzhanna.com/2024/04/10/thumbnails/058x.jpg"
+          "image": "https://images.planetzhanna.com/2024/04/10/thumbnails/058xcsm.jpg"
         },
         "geometry": {
           "type": "Point",

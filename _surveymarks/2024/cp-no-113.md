@@ -22,5 +22,5 @@ galleries:
       alt: Eyelevel view of the disk on the traffic island
     - filename: cp-no-113g2
       alt: Looking S along Las Vegas Boulevard  
-featured_image: cp-no-112csm.jpg
+featured_image: cp-no-113csm.jpg
 ---

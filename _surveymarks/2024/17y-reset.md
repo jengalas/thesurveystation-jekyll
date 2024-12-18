@@ -1,7 +1,7 @@
 ---
 designation: 17Y RESET
 date: '2024-04-12T07:13:34'
-latitude: '36.120160'
+latitude: '36.12016'
 longitude: '115.172633'
 state: Nevada
 county: Clark County
