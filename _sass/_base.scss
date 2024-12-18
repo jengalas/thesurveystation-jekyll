@@ -32,11 +32,23 @@ b, strong {
   font-weight: 600;
 }
 
+.force-wrap {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+
 .default-template {
   flex-grow: 1;
 
   >.container {
     padding: 2rem 0 3rem;
+
+    @media (max-width: $mobile) {
+      padding: 2rem 2rem 3rem;
+    }
   }
 
   h1, h2, h3 {

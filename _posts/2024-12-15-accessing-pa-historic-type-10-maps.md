@@ -15,7 +15,7 @@ I appreciated receiving an immediate response to my request for help. The person
 
 > Specific Type 10 Historical maps can be accessed with the following 3 step process:
 >
-> 1.	Go to [https://gis.penndot.gov/BPR_pdf_files/Maps/Type_10_GHS_Historical_Scans/Adams_1916.pdf](https://gis.penndot.gov/BPR_pdf_files/Maps/Type_10_GHS_Historical_Scans/Adams_1916.pdf)
+> 1.	Go to [https://gis.penndot.gov/BPR_pdf_files/Maps/Type_10_GHS_Historical_Scans/Adams_1916.pdf](https://gis.penndot.gov/BPR_pdf_files/Maps/Type_10_GHS_Historical_Scans/Adams_1916.pdf){:.force-wrap}
 > 2.	Find and copy the filename for the map you want to access from the attach listing.
 > 3.	Change the filename portion in the URL to the filename of the map you wish to access (e.g., change “Adams_1916.pdf” to “Washington_1990_Sheet_1.pdf)
 >
