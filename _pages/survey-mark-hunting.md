@@ -25,6 +25,9 @@ Beginner's Guide to Survey Mark Hunting
 [Geodetic Glossary (HTML version)](https://www.ngs.noaa.gov/CORS-Proxy/Glossary/xml/NGS_Glossary.xml)
 : This is a hypertext version of the 1986 publication by the National Geodetic Survey (also available in [.pdf format](https://repository.library.noaa.gov/view/noaa/2827/noaa_2827_DS1.pdf))
 
+[Standard Numbered Notes for Description of Marks](/manual-of-geodetic-triangulation-excerpts/#standard-numbered-notes-for-description-of-marks)
+: This excerpt from [The Manual of Geodetic Triangulation](/manual-of-geodetic-triangulation-excerpts/) is useful when you're out in the field and the mark descriptions refer to Note 4, Note 11, etc.
+
 [Joy of Geodetics Part IV: Other Disk Installing Agencies and Representative Disk Examples](https://www.usps.org/images/Exec/CoopCh/PDFs/2020_JOG_Part_4_IV.pdf)
 : The United States Power Squadrons have provided a series of presentations to instruct members on methods of surveying, types of markers, and procedures for reporting recoveries.
 {: .resources-list}

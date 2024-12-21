@@ -89,6 +89,9 @@
     - title: Triangulation in Arizona
       url: /assets/docs/publications/triangulation-in-arizona.pdf      
       description: "1927 datum. Part 1: First- and second-order triangulation in south central part of state, by Clement L. Garner. 1941."
+    - title: Triangulation and Primary Traverse, 1913-1915
+      url: /assets/docs/publications/triangulation-primary-traverse-1913-1915.pdf      
+      description: This USGS Bulletin (#644) provides data and descriptions for triangulation and traverse stations determined between 1913 and 1915. The full document is a large file (205MB); USGS has this file broken down by state/region at [USGS Publication Warehouse](https://pubs.usgs.gov/browse/Report/USGS%20Numbered%20Series/Bulletin/).       
 - category: Inspiration
   links:
     - title: 'Flickr: USGS Geodetic Survey Markers'
