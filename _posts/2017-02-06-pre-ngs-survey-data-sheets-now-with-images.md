@@ -1,5 +1,5 @@
 ---
-title: Maine Geodetic Survey Stations, 1933-1935
+title: Pre-NGS Survey Data Sheets—Now with Images!
 author: Zhanna
 date: '2017-02-06T19:03:00-04:00'
 tags: [diagrams, NGS, "USGS datasheets"]
