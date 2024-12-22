@@ -77,21 +77,13 @@
     - title: Discovering The Cornerstones of Maine’s Mapping History
       url: https://maineboats.com/print/issue-125/discovering-cornerstones-maine%E2%80%99s-mapping-history    
     - title: Tri State Corners in the United States
-      url: /assets/docs/publications/tri-state-corners.pdf  
-    - title: Results of Spirit Leveling in Arizona. 1899 to 1915, inclusive.
-      url: /assets/docs/publications/spirit-leveling-arizona-1915.pdf 
-    - title: Triangulation in Maine
-      url: /assets/docs/publications/triangulation-in-maine.pdf
-      description: By Walter F. Reynolds. 1918.
-    - title: Spirit Leveling in Maine, 1899-1915
-      url: /assets/docs/publications/spirit-leveling-maine.pdf
-      description: By R. B. Marshall. 1916.      
-    - title: Triangulation in Arizona
-      url: /assets/docs/publications/triangulation-in-arizona.pdf      
-      description: "1927 datum. Part 1: First- and second-order triangulation in south central part of state, by Clement L. Garner. 1941."
-    - title: Triangulation and Primary Traverse, 1913-1915
-      url: /assets/docs/publications/triangulation-primary-traverse-1913-1915.pdf      
-      description: This USGS Bulletin (#644) provides data and descriptions for triangulation and traverse stations determined between 1913 and 1915. The full document is a large file (205MB); USGS has this file broken down by state/region at [USGS Publication Warehouse](https://pubs.usgs.gov/browse/Report/USGS%20Numbered%20Series/Bulletin/).       
+      url: /assets/docs/publications/tri-state-corners.pdf    
+    - title: Bottles, Pots, & Pans?-Marking the surveys of the U.S. Coast & Geodetic Survey and NOAA
+      url: https://www.ngs.noaa.gov/web/about_ngs/history/Survey_Mark_Art.pdf
+    - title: History of Geodetic Leveling in the United States
+      url: https://www.ngs.noaa.gov/PUBS_LIB/History_of_Geodetic_Leveling_in_the_US.pdf
+    - title: National Geodetic Survey Publications
+      url: https://geodesy.noaa.gov/PUBS_LIB/      
 - category: Inspiration
   links:
     - title: 'Flickr: USGS Geodetic Survey Markers'
