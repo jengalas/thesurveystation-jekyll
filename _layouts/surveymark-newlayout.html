@@ -12,13 +12,8 @@ layout: default
         <h2>Status</h2>
         <b>{{ page.status }}</b> in <b>{{ page.condition }} Condition</b> as of {{ page.date | date: "%B %e, %Y" }}
         
+        <h2>Spatial/elevation data</h2>
         <table>
-            {% if page.pid %}
-            <tr>
-                <td><b>NGS PID:</b></td>
-                <td>{{ page.pid }}</td>
-            </tr>
-            {% endif %}
             <tr>
                 <td><b>Coordinates:</b></td>
                 <td>N {{ page.latitude }}° W {{ page.longitude }}° 
@@ -41,6 +36,9 @@ layout: default
                     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
                         href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}-{{ page.quad | slugify }}">{{ page.quad }}</a></td>
             </tr>
+        </table>
+        <h2>Mark description</h2>
+        <table>
             <tr>
                 <td><b>Type:</b></td>
                 <td><a href="/marker-type/{{ page.type | replace: '/', '' | slugify }}">{{ page.type }}</a></td>
@@ -51,21 +49,17 @@ layout: default
             </tr>
             <tr>
                 <td><b>Monumented:</b></td>
-                <td>{{ page.year_established }}</td>
-            </tr>
-            <tr>
-                <td><b>Monumented By:</b></td>
-                <td><a href="/agency/{{ page.agency | slugify }}">{{ page.agency }}</a></td>
+                <td>{{ page.year_established }} by <a href="/agency/{{ page.agency | slugify }}">{{ page.agency }}</a></td>
             </tr>
         </table>
         <ul>
             {% if page.pid %}
-            <li class="official-description"><b>Official Description:</b> <a
+            <li class="official-description"><b>Description (NGS):</b> <a
                     href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
             {% elsif page.official_description %}
-            <li class="official-description"><b>Official {{ page.agency}} Description:</b> {{ page.official_description }}</li>
+            <li class="official-description"><b>Description ({{ page.agency}}):</b> {{ page.official_description }}</li>
             {% else %}
-            <li class="official-description"><b>Official Description:</b> Unavailable.</li>
+            <li class="official-description"><b>Description:</b> Unavailable.</li>
             {% endif %}
             {% if page.usgs_report %}
             <li class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></li>

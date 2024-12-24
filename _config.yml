@@ -19,7 +19,7 @@ defaults:
       path: ""
       type: "surveymarks"
     values:
-      layout: "surveymark"
+      layout: "surveymark-newlayout"
       zoom: 15
   - scope:
       path: ""
