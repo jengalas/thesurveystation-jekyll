@@ -4,15 +4,23 @@ layout: default
 
 {% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
 {% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+{% capture date %}{{ page.date | date: "%B %e, %Y" }}{% endcapture %}
 
 <h1>{{ page.designation }}</h1>
 
 <div class="data-map-wrapper responsive-two-columns">
     <div class="data-wrapper">
-        <h2>Status</h2>
-        <b>{{ page.status }}</b> in <b>{{ page.condition }} Condition</b> as of {{ page.date | date: "%B %e, %Y" }}
+        <h3>Status</h3>
+
+        {% if page.status == "Recovered" %}
+            <b>Recovered</b> in <b>{{ page.condition }} Condition</b> on {{ date }}
+        {% elsif page.status == "Not Found" %}
+            <b>Not Found</b> as of {{ date }}
+        {% else %}        
+            <b>Note Entered</b> on {{ date }}
+        {% endif %}
         
-        <h2>Spatial/elevation data</h2>
+        <h3>Spatial/elevation data</h3>
         <table>
             <tr>
                 <td><b>Coordinates:</b></td>
@@ -37,7 +45,7 @@ layout: default
                         href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}-{{ page.quad | slugify }}">{{ page.quad }}</a></td>
             </tr>
         </table>
-        <h2>Mark description</h2>
+        <h3>Mark description</h3>
         <table>
             <tr>
                 <td><b>Type:</b></td>
