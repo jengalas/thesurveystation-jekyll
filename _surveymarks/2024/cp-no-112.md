@@ -12,7 +12,8 @@ year_established: 2005
 agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
-zhanna_text: ''
+zhanna_text: >-
+  It was getting dark quickly, but Jean and I were still able to spot this small survey marker set in a traffic island near one of the entrances to Caesar's Palace. It is not one of the fancy "Las Vegas Strip" markers like the others we found this evening, but rather a smaller mark set by a local surveyor. It appears to be in good condition, and all of its stamping is still legible after nearly 20 years - quite a feat in a place that receives so much foot traffic.
 galleries:
   gallery_zh:
     images:
