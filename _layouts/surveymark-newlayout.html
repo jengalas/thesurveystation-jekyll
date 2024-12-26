@@ -10,7 +10,7 @@ layout: default
 
 <div class="data-map-wrapper responsive-two-columns">
     <div class="data-wrapper">
-        <h3>Status</h3>
+        <h2>Status</h2>
 
         {% if page.status == "Recovered" %}
             <b>Recovered</b> in <b>{{ page.condition }} Condition</b> on {{ date }}
@@ -20,7 +20,7 @@ layout: default
             <b>Note Entered</b> on {{ date }}
         {% endif %}
         
-        <h3>Spatial/elevation data</h3>
+        <h2>Spatial/elevation data</h2>
         <table>
             <tr>
                 <td><b>Coordinates:</b></td>
@@ -45,7 +45,7 @@ layout: default
                         href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}-{{ page.quad | slugify }}">{{ page.quad }}</a></td>
             </tr>
         </table>
-        <h3>Mark description</h3>
+        <h2>Mark description</h2>
         <table>
             <tr>
                 <td><b>Type:</b></td>
