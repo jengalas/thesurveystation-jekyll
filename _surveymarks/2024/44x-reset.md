@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  A few yards south of the first survey mark I found this morning on my walk around town, I spotted another one. The marker is set in the sidewalk in front of a bus shelter, about 65 feet south of 46X RESET.
 galleries:
   gallery_zh:
     images:

@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This was the first survey mark I found on my early morning walk south along Las Vegas Boulevard from Bellagio. I didn't have to walk far: this marker is only about 50 feet southeast of the entrance to the south walkway between the sidewalk and Bellagio. The disk is set near the west edge of the sidewalk rather than at the edge of the road, as were several of the ones we found last night. This marker is surrounded by nails, likely survey nails, also set into the sidewalk.
 galleries:
   gallery_zh:
     images:

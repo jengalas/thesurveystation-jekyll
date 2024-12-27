@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  I crossed Las Vegas Boulevard on the pedestrian overpass near Park Avenue, and spotted two more survey markers as soon as I exited the escalator. This one is set in the middle of the sidewalk directly in front of a Denny's restaurant. 14X RESET is a few yards south of this marker, close to the intersection with MGM Road.
 galleries:
   gallery_zh:
     images:

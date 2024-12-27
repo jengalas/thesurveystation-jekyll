@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  Continuing south along Las Vegas Boulevard, I spotted three more survey marks set in close proximity near the CVS just north of Park MGM, on the west side of Las Vegas Boulevard. This mark is set into the sidewalk just southeast of the southeast entrance to the CVS. All marks are in good condition.
 galleries:
   gallery_zh:
     images:
