@@ -13,6 +13,10 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  Continuing my morning stroll along the east side of Las Vegas Boulevard, I came across this marker in the sidewalk just outside of a Tex-Mex restaurant and a dispensary. (Three guesses why I had to take the wide area photo for my colleague Eric.) The disk is in good condition with clear stamping.
+
+
+  _Update (28 December 2024)_: It's true that _nothing_ in Vegas sits still even for a moment. In viewing the Google Street View taken just seven months after my visit, I can see that both the restaurant and dispensary have been completely removed from the landscape. Fortunately it appears that the benchmark is still in place.
 galleries:    
   gallery_zh:
     images:    

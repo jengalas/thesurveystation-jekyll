@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This marker appears to have been partially covered over (just with some stray asphalt, apparently), but its designation is still legible, and I can infer the date of monumentation by comparing the partially obscured text with other nearby marks. The marker is set on the east side of Las Vegas Boulevard, just north of a driveway between Target and Walgreens, and just west of the southernmost of two large utility boxes.
 galleries:
   gallery_zh:
     images:

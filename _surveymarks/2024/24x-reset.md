@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  On the opposite (north) side of the series of utility boxes where I found 24X RESET, I found this marker. It is set into the sidewalk directly west of the southwest corner of Walgreens. It is in better condition than 23X RESET, with all stamping clearly legible.
 galleries:
   gallery_zh:
     images:

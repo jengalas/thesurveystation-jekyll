@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  I figured I had better turn around at this point, since I only had a couple hours this morning to explore, so I began heading north again along the east side of Las Vegas Boulevard. I passed the Denny's where I had found two markers earlier, and I found a few more markers set outside the parking garage at the FlyOver ride. 18X is another shiny, relatively new marker set in the middle of the driveway into the parking garage.
 galleries:    
   gallery_zh:
     images:    

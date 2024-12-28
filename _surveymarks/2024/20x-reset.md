@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  Walking further north on the east side of Las Vegas Boulevard, I noticed yet another marker in the vicinity of the parking garage by the FlyOver ride. 20X RESET is set in the sidewalk in front of the northernmost of three utility boxes just north of the northern edge of the entrance to the parking garage. This is quite a new mark, having been set in 2020.
 galleries:
   gallery_zh:
     images:

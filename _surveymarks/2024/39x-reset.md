@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This is the middle one of three markers set in the sidewalk in front of an active construction site on the east side of Las Vegas Boulevard. This copper-colored marker is in very good condition, particularly given the amount of foot traffic in this location.
 galleries:    
   gallery_zh:
     images:    

@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  Continuing south now along the east side of Las Vegas Boulevard, I found another marker just south of the intersection with MGM Road. This one is a nice, shiny, relatively new 2019 reset, just a few inches south of the tactile paving surface. Currently there is an Outback Steakhouse at this corner.
 galleries:    
   gallery_zh:
     images:    
