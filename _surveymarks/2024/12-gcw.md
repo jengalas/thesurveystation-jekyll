@@ -13,6 +13,7 @@ agency: Unknown
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This disk is set in the outer edge of the curb of the north drive leading into the main Caesar's Palace entrance, near the Julius Caesar statue. The disk seems to be worn smooth, and I can't tell if there may have been more stamping on it at one time, but the figures 12 GCW are quite clearly legible.
 galleries:
   gallery_zh:
     images:

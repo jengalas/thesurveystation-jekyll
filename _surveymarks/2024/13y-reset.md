@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This disk is set in the extreme outer edge of the sidewalk on the western side of Las Vegas Boulevard, just south of South Siegfried and Roy Drive, which leads into the Mirage. The sidewalk surrounding the marker is flecked with tiny colorful stones, which makes the closeup view of the marker unusually "glitzy". (Update: the Mirage closed in July 2027, just months after my visit, and the property is expected to reopen as Hard Rock Las Vegas in 2027.)
 galleries:
   gallery_zh:
     images:

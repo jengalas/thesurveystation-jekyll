@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  54X RESET is set in the sidewalk on the east side of Las Vegas Boulevard, just south of Audrie Street, which runs between Mon Ami Gabi and a CVS pharmacy. It is also directly east of Bellagio on the opposite side of the Boulevard.
 galleries:    
   gallery_zh:
     images:    

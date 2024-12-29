@@ -1,8 +1,8 @@
 ---
 designation: 49X RESET
 date: '2024-04-11T07:41:12'
-latitude: '36.110989'
-longitude: '115.172675'
+latitude: '36.111241'
+longitude: '115.172636'
 state: Nevada
 county: Clark County
 quad: Las Vegas SW Quad
@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This disk is set in the sidewalk at the north edge of a drive between "Paris" and Cabo Wabo Cantina at the Miracle Mile shopping complex, and directly across from the south entrance to Bellagio.
 galleries:    
   gallery_zh:
     images:    

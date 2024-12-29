@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  43X RESET is set in the sidewalk near an escalator at the Miracle Mile shops on the east side of Las Vegas Boulevard. The disk is in good condition.
 galleries:    
   gallery_zh:
     images:    

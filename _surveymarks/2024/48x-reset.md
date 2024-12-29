@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This disk is set in the sidewalk at the base of an escalator leading to the Miracle Mile shopping complex. The disk is in excellent condition.
 galleries:    
   gallery_zh:
     images:    
