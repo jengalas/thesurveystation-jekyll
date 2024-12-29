@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This disk is set into the sidewalk that lines the northern edge of South Siegfried and Roy Drive leading into the Mirage Casino complex. It is just a few yards east of 16Y RESET and is at the base of a light pole. It is in good condition.
 galleries:
   gallery_zh:
     images:

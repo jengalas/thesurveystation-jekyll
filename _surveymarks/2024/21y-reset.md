@@ -13,7 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Poor
 zhanna_text:  >-
-  I'm calling this one poor because the designation and date cannot be read. I think it is [this one](https://www.waymarking.com/waymarks/wmYW44_Las_Vegas_Strip_ROW_21Y_Reset_1_13_Marker_Las_Vegas_NV).
+  I'm calling this one poor because the designation and date cannot be read. I think it is [21Y RESET](https://www.waymarking.com/waymarks/wmYW44_Las_Vegas_Strip_ROW_21Y_Reset_1_13_Marker_Las_Vegas_NV) as described on Waymarking.com. It is set in the outer edge of the sidewalk on the west side of Las Vegas Boulevard. "91078" is painted on the sidewalk next to it. I've seen similar markings near other disks in this area, but I don't know what they refer to. They don't seem to correspond to the PLS (local surveyor) numbers on the disks. 
 galleries:
   gallery_zh:
     images:

@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This survey mark is set in the extreme edge of the sidewalk at the west curb of Las Vegas Boulevard, just north of the North Siegfried and Roy Drive entrance to the Mirage Casino complex and directly across from the northern end of the volcano display. Like other nearby markers, it is surrounded by painted numerals, and there is also a survey nail with washer set in curb nearby. The disk is in good condition, although the curb is crumbling a bit.
 galleries:
   gallery_zh:
     images:

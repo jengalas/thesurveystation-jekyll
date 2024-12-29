@@ -1,7 +1,7 @@
 ---
 designation: 19Y RESET
 date: '2024-04-12T07:15:51'
-latitude: '36.120580'
+latitude: '36.12058'
 longitude: '115.172498'
 state: Nevada
 county: Clark County
@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This survey mark is set in the edge of the sidewalk at the west curb of Las Vegas Boulevard, near the Mirage Casino's volcano display and directly across the boulevard from Outback Steakhouse and Fat Tuesday. At least one survey nail and several painted numbers are nearby, but it's not clear whether they are related to this survey marker. The disk itself is in good condition, although the sidewalk around it is crumbling a bit.
 galleries:
   gallery_zh:
     images:

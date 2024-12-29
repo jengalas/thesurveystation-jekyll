@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This disk is set in the sidewalk on the east side of Las Vegas Boulevard, outside The LINQ Hotel. It is across the Boulevard from the Forum Shops at Caesar's Palace. This reset disk is in excellent condition. 
 galleries:
   gallery_zh:
     images:

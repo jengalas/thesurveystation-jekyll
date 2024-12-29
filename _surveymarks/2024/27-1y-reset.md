@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  This disk is set in the sidewalk along the west side of Las Vegas Boulevard, just south of Mystère Dreams Avenue. It is just a few yards east of the base of an escalator leading to a footbridge that passes over the Boulevard. The disk is in very good condition.
 galleries:
   gallery_zh:
     images:

@@ -13,6 +13,7 @@ agency: Clark County Surveyor's Office
 status: Recovered
 condition: Good
 zhanna_text:  >-
+  Sadly, this was the last Las Vegas benchmark I recovered on this visit. (Although now I have my work cut out for me, with all of these photos and descriptions to work on!) This marker is set in the sidewalk on the east side of the Boulevard, directly in front of Dunkin' Donuts (or, I guess just Dunkin' now) and across the Boulevard from Caesar's Palace. It is in very good condition.
 galleries:
   gallery_zh:
     images:
