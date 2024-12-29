@@ -23,14 +23,14 @@ layout: default
         <h2>Spatial/elevation data</h2>
         <table>
             <tr>
-                <td><b>Coordinates:</b></td>
+                <td><b>Coordinates</b></td>
                 <td>N {{ page.latitude }}° W {{ page.longitude }}° 
                     {% if page.estimate %}
                         (estimate)
                     {% endif %}</td>
             </tr>
             <tr>
-                <td><b>Elevation:</b></td>
+                <td><b>Elevation</b></td>
                 <td>{% if page.elevation %}
                     {{ page.elevation }}
                 {% else %}
@@ -38,7 +38,7 @@ layout: default
                 {% endif %}</td>
             </tr>
             <tr>
-                <td><b>Location:</b></td>
+                <td><b>Location</b></td>
                 <td><a href="/location/{{ page.state | slugify }}">{{ page.state }}</a>
                     <br>&nbsp;&nbsp;&nbsp;<a href="/location/{{ page.state | slugify }}#{{ page.county | slugify }}">{{ page.county }}</a>
                     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
@@ -52,11 +52,11 @@ layout: default
                 <td><a href="/marker-type/{{ page.type | replace: '/', '' | slugify }}">{{ page.type }}</a></td>
             </tr>
             <tr>
-                <td><b>Setting:</b></td>
+                <td><b>Setting</b></td>
                 <td>{{ page.setting }}</td>
             </tr>
             <tr>
-                <td><b>Monumented:</b></td>
+                <td><b>Monumented</b></td>
                 <td>{{ page.year_established }} by <a href="/agency/{{ page.agency | slugify }}">{{ page.agency }}</a></td>
             </tr>
         </table>

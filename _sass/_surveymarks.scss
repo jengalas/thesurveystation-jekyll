@@ -1,4 +1,12 @@
 .data-wrapper {
+    h2:first-child {
+        margin-top: 0;
+    }
+    h2 {
+        font-size: 1.75rem;
+        font-weight: 500;
+        margin-bottom: .8rem;
+    }
     ul {
         list-style-type: none;
         padding: 0;
