@@ -2760,6 +2760,24 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "JDR/PVT",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2019-09-09T21:03:25-04:00",
+          "permalink": "/surveymarks/jdrpvt-5/",
+          "image": "https://images.planetzhanna.com/2019/09/09/thumbnails/jdr-pvt-5csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.226305,
+            44.389694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "JDR",
           "status": "Recovered",
           "condition": "Good",
@@ -2790,6 +2808,42 @@
           "coordinates": [
             -68.225722,
             44.389666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "JDR/PVT",
+          "status": "Recovered",
+          "condition": "Poor",
+          "time": "2019-09-09T20:51:25-04:00",
+          "permalink": "/surveymarks/jdrpvt-4/",
+          "image": "https://images.planetzhanna.com/2019/09/09/thumbnails/jdr-pvt-4csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.226527,
+            44.383416
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "JDR/PVT",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2019-09-09T20:44:25-04:00",
+          "permalink": "/surveymarks/jdrpvt-3/",
+          "image": "https://images.planetzhanna.com/2019/09/09/thumbnails/jdr-pvt-3csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.227444,
+            44.384083
           ]
         }
       },
