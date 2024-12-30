@@ -2760,6 +2760,24 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "JDR",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2019-09-09T21:00:25-04:00",
+          "permalink": "/surveymarks/jdr/",
+          "image": "https://images.planetzhanna.com/2019/09/09/thumbnails/jdrcsm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.226388,
+            44.389527
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "P 41 A",
           "status": "Recovered",
           "condition": "Good",
