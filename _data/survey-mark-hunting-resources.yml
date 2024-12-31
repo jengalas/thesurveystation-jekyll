@@ -9,8 +9,7 @@
       url: javascript:void(str=prompt('PID:',''));if(str){location.href='http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=%27+escape(str);}
     - title: GPS Visualizer
       url: https://www.gpsvisualizer.com/
-    - title: 'GPS Visualizer: Calculators'
-      url: https://www.gpsvisualizer.com/calculators
+      description: Powerful tool to create maps from your geographic data and easily visualize tracks, routes, and waypoints on many different basemaps. The [calculators](https://www.gpsvisualizer.com/calculators) are also very useful. 
     - title: BM finder by radius
       url: https://bm-finder-radius.netlify.app/
     - title: GPX waypoint creator
