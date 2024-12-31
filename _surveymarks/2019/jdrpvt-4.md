@@ -17,7 +17,9 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-    - filename: 
-      alt:    
+    - filename: jdr-pvt-4
+      alt: Boundary Monument JDR/PVT   
+    - filename: jdr-pvt-4g1
+      alt: Eyelevel view of the disk on the severely sloping post       
 featured_image: jdr-pvt-4csm.jpg
 ---

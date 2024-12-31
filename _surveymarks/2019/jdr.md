@@ -17,7 +17,9 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-    - filename: 
-      alt:    
+    - filename: jdr
+      alt: Boundary Monument JDR   
+    - filename: jdrg1
+      alt: Eyelevel view of the disk on the post         
 featured_image: jdrcsm.jpg
 ---
