@@ -34,9 +34,7 @@
       url: https://earthexplorer.usgs.gov/
       description: EarthExplorer offers aerial imagery that’s unavailable elsewhere—some of it dating back to the 1950s. Fill in your search criteria and then, on the data sets tab, select “aerial photo single frames” or “high resolution orthoimagery”. The Results tab will show the available images for your search.
     - title: PA Historic County Maps
-      url: https://www.pa.gov/agencies/penndot/research-planning-and-innovation/maps.html#sortCriteria=%40copapwptitle%20ascending%2C%40title%20ascending&f-copapwpmaptype=County%20Type%2010,Historic%20Transportation
-    - title: PennDOT Transportation Maps, PDF format
-      url: https://www.pa.gov/agencies/penndot/research-planning-and-innovation/maps.html#sortCriteria=%40copapwptitle%20ascending%2C%40title%20ascending&f-copapwpmaptype=Historic%20Transportation
+      url: https://www.pa.gov/agencies/penndot/maps.html#sortCriteria=%40copapwptitle%20ascending%2C%40title%20ascending
     - title: 'PASDA: Pennsylvania Imagery Navigator'
       url: https://maps.psiee.psu.edu/ImageryNavigator/
       description: 'PASDA offers some tiles I haven’t found elsewhere, like LIDAR of the whole state, and black and white aerial imagery (à la TerraServer) from the 90s. These are great for locating old roads, trails and waterways. Note: as of July 2020, this website replaces Penn Pilot. It contains all the same imagery and more.'
@@ -53,8 +51,8 @@
       description: This is a subscription service, but may be worthwhile for tracking down some old survey marks!
     - title: Historical Map and Chart Collection, Office of Coast Survey
       url: https://historicalcharts.noaa.gov/
-    - title: Geodetic Control Diagrams
-      url: /geodetic-control-diagrams/
+    - title: "NGS Archives: Geodetic Control Diagrams, Triangulation Diagrams, index maps, etc."
+      url: /NGS/
     - title: 'PDF Quads: Free Printable USGS PDF Topo Maps from National Geopgraphic Maps'
       url: https://www.natgeomaps.com/trail-maps/pdf-quads
       description: For those times when digital mapping and GIS overlays don’t cut it ... National Geographic offers 7.5-minute topo quads in an easily printable format.

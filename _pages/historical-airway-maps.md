@@ -112,7 +112,7 @@ _Note: These maps are for historical research purposes only. They are not intend
 | Airway Map No. 132 | Los Angeles Cal. to Las Vegas Nev. | [1931](http://www.loc.gov/resource/g3701pm.gct00064/?sp=162) |
 | Airway Map No. 133 | Las Vegas Nevada to Milford Utah | [1930](http://www.loc.gov/resource/g3701pm.gct00064/?sp=163); [1935](http://www.loc.gov/resource/g3701pm.gct00064/?sp=164) |
 | Airway Map No. 134 | Milford to Salt Lake City Utah | [1931](http://www.loc.gov/resource/g3701pm.gct00064/?sp=165); [1935](http://www.loc.gov/resource/g3701pm.gct00064/?sp=166) |
-| Airway Map No. 135 | Salt Lake City Utah to Boise Idaho | [1936](http://www.loc.gov/resource/g3701pm.gct00064/?sp=167) |
+| Airway Map No. 135 | Salt Lake City Utah to Boise Idaho | [1936](https://www.loc.gov/resource/g3701pm.gct00064/?sp=167) |
 | Airway Map No. 136 | Boise Idaho to Pasco Wash. | [1930](http://www.loc.gov/resource/g3701pm.gct00064/?sp=168) |
 | Airway Map No. 137 | Portland Ore. to Spokane Wash. | [1931](http://www.loc.gov/resource/g3701pm.gct00064/?sp=169); [1933](http://www.loc.gov/resource/g3701pm.gct00064/?sp=170); [1933](http://www.loc.gov/resource/g3701pm.gct00064/?sp=171); [1934](http://www.loc.gov/resource/g3701pm.gct00064/?sp=172) |
 | Airway Map No. 137A | The Columbia River Gorge | [1931](http://www.loc.gov/resource/g3701pm.gct00064/?sp=173); [1933](http://www.loc.gov/resource/g3701pm.gct00064/?sp=174); [1933](http://www.loc.gov/resource/g3701pm.gct00064/?sp=175); [1934](http://www.loc.gov/resource/g3701pm.gct00064/?sp=176) |

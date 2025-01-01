@@ -10,7 +10,7 @@ elevation: 1433.810 ft.
 type: Elevation Mark
 setting: Bridge Wingwall
 year_established: '1963'
-agency: PA Dept. of Highways, USGS
+agency: USGS
 official_description: >-
     Lake Ariel; about 0.13 mi W. of junction of State Highway 191 and U. S.
     Highway 296, along Highway 191; 100 ft W. of Wayne Diner; 15 ft S. of, and

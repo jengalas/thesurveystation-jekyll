@@ -12,7 +12,7 @@ elevation: 1561.838 ft.
 type: Elevation Mark
 setting: Bridge Wingwall
 year_established: Unknown
-agency: PA Dept. of Highways, USGS
+agency: USGS
 official_description: >-
     PDH description: Unavailable.
     

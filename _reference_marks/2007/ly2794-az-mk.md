@@ -1,5 +1,5 @@
 ---
-parent: ly2794azmk
+parent: ly2794
 parent_name: WATKINS
 designation: WATKINS AZ MK
 date: '2007-11-21T17:42:56-05:00'

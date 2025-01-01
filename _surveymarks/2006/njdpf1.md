@@ -9,7 +9,7 @@ quad: Greenwood Lake Quad
 type: Unspecified Disk
 setting: Square Concrete Monument
 year_established: Unknown
-agency: New Jersey Division of Parks &amp; Forestry
+agency: New Jersey Division of Parks and Forestry
 official_description: Unavailable.
 status: Recovered
 condition: Good

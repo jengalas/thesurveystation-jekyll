@@ -1,4 +1,6 @@
 ---
+parent: cz1824
+parent_name: POST
 designation: POST AZ MK
 date: '2011-05-30T17:34:49-04:00'
 latitude: 32.17735
