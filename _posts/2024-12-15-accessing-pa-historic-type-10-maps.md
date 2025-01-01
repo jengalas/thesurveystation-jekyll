@@ -7,7 +7,7 @@ excerpt: >-
     Process for accessing PennDOT's Historic Type 10 maps while they update their website.
 ---
 
-I often refer to PennDOT's historic county maps, specifically their "Historic General Highway Series" [Type 10 maps](https://www.pa.gov/agencies/penndot/research-planning-and-innovation/maps/county-type-10-historic.html) ranging from the early 1900s through the early 2000s. Their website was redesigned recently, and while the Type 10 maps are listed, the links included in their listings do not actually bring up the maps. Here is a process for accessing the maps until the issue is resolved.
+I often refer to PennDOT's historic county maps, specifically their "Historic General Highway Series" [Type 10 maps](https://www.pa.gov/agencies/penndot/maps/county-type-10-historic.html) ranging from the early 1900s through the early 2000s. Their website was redesigned recently, and while the Type 10 maps are listed, the links included in their listings do not actually bring up the maps. Here is a process for accessing the maps until the issue is resolved.
 
 _Note: There is a similar issue with the current Type 5 maps; I don't generally use these, but if you do and would like me to post the information about accessing them, please comment below or contact me via the form in the footer._
 
