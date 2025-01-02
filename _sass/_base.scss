@@ -55,6 +55,10 @@ b, strong {
     color: $bodyColor;
   }
 
+  h1 {
+    font-size: 2.4rem;
+  }
+
   &.home {
     margin-top: 0;
     max-width: unset;
@@ -124,17 +128,6 @@ b, strong {
     p {
       margin: 1rem .5rem; 
     }
-  }
-
-  #banner {
-    width: 100%;
-    background-image: url(/assets/img/dave-hoefler-cls3zN5wte0-unsplash.jpg);
-    background-image: url(/assets/img/k10g3c-2.jpg);
-    background-position: center bottom;
-    background-size: cover;
-    height: 28em;
-    text-align: center;
-    position: relative;
   }
 
   .gallery {
@@ -259,87 +252,6 @@ b, strong {
         text-align: center;
       }   
     }
-  }
-}
-
-.recent-recoveries {
-  padding: 2rem 0 3rem 0;
-
-  .img-container {
-    width: 25%;
-  }
-  img {    
-    float: left;
-    margin-right: 2rem;
-    width: 100%;
-    border-radius: 50%;
-    padding: 5px;
-    box-shadow: rgb(102, 102, 102) 0px 1px 2px;
-  }
-  .grid-item {
-    flex-direction: row;
-    gap: 2rem;
-  }
-}
-
-.blog { 
-  padding: 2rem 0 5rem 0;
-
-  a {
-    color: $bodyColor;
-
-    &:hover {
-      border-bottom: 0;
-      color: #858585;
-    }
-  }
-
-  .header-row {
-    align-items: center; 
-    border-bottom: 1px solid #e5e7eb;
-    display: flex; 
-    justify-content: space-between;  
-  }
-  
-  .blog-index {
-    border-bottom: 1px solid #ffffff;
-    display: flex;  
-    flex-direction: column;
-    line-height: 2.5;
-    padding: 1rem 0;
-
-    .post-meta {
-      flex-shrink: 0; 
-      font-size: 1rem;
-      width: 20rem; 
-    }
-
-    h3 {
-      flex-grow: 1; 
-      margin-bottom: 0;
-
-      a {
-        border-bottom: 0;
-      }
-    }
-
-    @media screen and (min-width: $normal) {
-      align-items: center;
-      flex-direction: row;
-      padding: 0;
-
-      .tags {
-        text-align: right;
-      }
-    }
-  }
-  
-  h3 {
-    margin-top: 0;
-  }
-  .grid-item {
-    flex-direction: row;
-    gap: 2rem;
   }
 }
 
