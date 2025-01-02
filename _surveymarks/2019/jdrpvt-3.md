@@ -17,7 +17,13 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-    - filename: 
-      alt:    
+    - filename: jdr-pvt-3
+      alt: Boundary Monument JDR/PVT   
+    - filename: jdr-pvt-3g1
+      alt: The disk on top of the granite post   
+    - filename: jdr-pvt-3g3
+      alt: Eyelevel view   
+    - filename: jdr-pvt-3g2
+      alt: The post is solid and upright                     
 featured_image: jdr-pvt-3csm.jpg
 ---
