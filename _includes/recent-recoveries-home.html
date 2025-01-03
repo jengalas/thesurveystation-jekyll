@@ -2,7 +2,7 @@
 
 {% for post in allMarks limit:4  %}
 
-    <div class="grid-item blog-index">
+    <div class="grid-item">
         
         <div class="img-container">
             <a href="{{ post.url }}"><img src="https://images.planetzhanna.com/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/{{ post.date | date: '%d' }}/thumbnails/{{ post.featured_image }}" alt=""></a>

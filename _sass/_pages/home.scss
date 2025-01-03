@@ -11,6 +11,10 @@ $bodyColor: #474747;
         height: 28em;
         text-align: center;
         position: relative;
+
+        @media (max-width: $mobile) {
+            height: 18em;
+        }
     }
     #profileImage {
         background-color: #ffffff;
@@ -20,6 +24,11 @@ $bodyColor: #474747;
         max-width: 170px;
         padding: 4px;
         box-shadow: 0 1px 2px #666666;
+
+        @media (max-width: $mobile) {
+            max-width: 100px;
+            padding: 3px;
+        }
     }
     .background {
         background-image: url('/assets/img/stacked-waves-haikei-greenish.png');
@@ -38,7 +47,7 @@ $bodyColor: #474747;
         justify-content: center;
 
         @media (max-width: $mobile) {
-            height: 23em;
+            height: 18em;
         }
 
             > * {
@@ -67,7 +76,7 @@ $bodyColor: #474747;
                 text-shadow: 2px 2px 5px black;
 
                 @media (max-width: $mobile) {
-                    font-size: .8rem;
+                    font-size: 1rem;
                 }
             }
             .button {
@@ -87,56 +96,48 @@ $bodyColor: #474747;
         }
     }
     .blog { 
-  padding: 2rem 2rem 5rem 2rem;
+        padding: 2rem 2rem 5rem 2rem;
 
-  a {
-    color: $bodyColor;
 
-    &:hover {
-      border-bottom: 0;
-      color: #858585;
+    .header-row {
+        align-items: center; 
+        border-bottom: 1px solid #e5e7eb;
+        display: flex; 
+        justify-content: space-between;  
     }
-  }
+    
+    .blog-index {
+        border-bottom: 1px solid #ffffff;
+        display: flex;  
+        flex-direction: column;
+        line-height: 2.5;
+        padding: 1rem 0;
 
-  .header-row {
-    align-items: center; 
-    border-bottom: 1px solid #e5e7eb;
-    display: flex; 
-    justify-content: space-between;  
-  }
-  
-  .blog-index {
-    border-bottom: 1px solid #ffffff;
-    display: flex;  
-    flex-direction: column;
-    line-height: 2.5;
-    padding: 1rem 0;
+        .post-meta {
+        flex-shrink: 0; 
+        font-size: 1rem;
+        width: 20rem; 
+        }
 
-    .post-meta {
-      flex-shrink: 0; 
-      font-size: 1rem;
-      width: 20rem; 
-    }
+        h3 {
+        flex-grow: 1; 
+        margin-bottom: 0;
 
-    h3 {
-      flex-grow: 1; 
-      margin-bottom: 0;
-
-      a {
-        border-bottom: 0;
-      }
+        a {
+            border-bottom: 0;
+        }
     }
 
-    @media screen and (min-width: $normal) {
-      align-items: center;
-      flex-direction: row;
-      padding: 0;
+        @media screen and (min-width: $normal) {
+        align-items: center;
+        flex-direction: row;
+        padding: 0;
 
-      .tags {
-        text-align: right;
-      }
+        .tags {
+            text-align: right;
+        }
     }
-  }
+}
   
   h3 {
     margin-top: 0;
