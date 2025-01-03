@@ -10,15 +10,15 @@ layout: default
 
 <div class="data-map-wrapper responsive-two-columns">
     <div class="data-wrapper">
-        <h2>Status</h2>
-
-        {% if page.status == "Recovered" %}
-            <b>Recovered</b> in <b>{{ page.condition }} Condition</b> on {{ date }}
-        {% elsif page.status == "Not Found" %}
-            <b>Not Found</b> as of {{ date }}
-        {% else %}        
-            <b>Note Entered</b> on {{ date }}
-        {% endif %}
+        <div class="status" style="background-color: #fafafa; border: 1px solid #d9d9d9; padding: .8rem; display: inline-block; margin: .4rem 0;">
+            {% if page.status == "Recovered" %}
+                <b>Recovered in {{ page.condition }} Condition</b> on {{ date }}
+            {% elsif page.status == "Not Found" %}
+                <b>Not Found</b> as of {{ date }}
+            {% else %}        
+                <b>Note Entered</b> on {{ date }}
+            {% endif %}
+        </div>
         
         <h2>Spatial/elevation data</h2>
         <table>
@@ -57,23 +57,24 @@ layout: default
             </tr>
             <tr>
                 <td><b>Monumented</b></td>
-                <td>{{ page.year_established }} by <a href="/agency/{{ page.agency | slugify }}">{{ page.agency }}</a></td>
+                {% if page.agency == "Unknown" %}
+                    <td>{{ page.year_established }} by <a href="/agency/unknown">Unknown Agency</a></td>
+                {% else %}
+                    <td>{{ page.year_established }} by <a href="/agency/{{ page.agency | slugify }}">{{ page.agency }}</a></td>
+                {% endif %}
             </tr>
-        </table>
-        <ul>
-            {% if page.pid %}
-            <li class="official-description"><b>Description (NGS):</b> <a
-                    href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></li>
-            {% elsif page.official_description %}
-            <li class="official-description"><b>Description ({{ page.agency}}):</b> {{ page.official_description }}</li>
-            {% else %}
-            <li class="official-description"><b>Description:</b> Unavailable.</li>
-            {% endif %}
+            <tr>
+                {% if page.pid %}
+                <td class="official-description"><b>Description (NGS)</b></td><td><a
+                        href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></td>
+                {% elsif page.official_description %}
+                <td class="official-description"><b>Description ({{ page.agency}})</b></td><td>{{ page.official_description }}</td>
+                {% endif %}                
+            </tr>
             {% if page.usgs_report %}
-            <li class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></li>
+                <tr><td><span class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></span></td></tr>
             {% endif %}
-        </ul>
-
+        </table>
     </div>
     <div class="map-wrapper">
         {% include map.html %}
