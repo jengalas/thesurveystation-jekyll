@@ -2,15 +2,21 @@
 title: Survey Mark Data
 layout: page
 permalink: /survey-data/
+class: survey-data
 ---
 
-## Data from official agencies
+<div class="responsive-two-column-grid four-four">
+<div markdown=1>  
+
+## Sources of survey data
+
+This list contains both professional data and information for recreational hunters, so please note the source of each and evaluate accordingly. Also note that some sources, USGS datasheets in particular, contain many superseded marks that are no longer reliable for survey purposes but are very useful for recreational survey mark hunting.
 
 [NGS Database: Datasheets and Survey Mark Recovery](http://www.ngs.noaa.gov/datasheets/)
 : 
 
 [USGS Datasheets](/usgs-datasheets/)
-: 
+: USGS datasheets I have obtained and scanned. USGS does not offer digitized datasheets.
 
 [OPUS Shared Solutions Dashboard](https://noaa.maps.arcgis.com/apps/dashboards/b3f9dcfde4c249bc9cd5817489c5d53c)
 : 
@@ -24,14 +30,26 @@ permalink: /survey-data/
 [The NOAA CORS Network (NCN) Web Map](https://arcg.is/18fWq8)
 : 
 
+[U-SMART](https://usmart.sec.usace.army.mil/w/map)
+: USACE (Army Corps of Engineers) Survey Monument Archival & Retrieval Tool
+
 [Yellowstone National Park Benchmark Database](https://pubs.usgs.gov/pp/1788/pp1788_benchmarks/)
 : 
 
-[U-SMART](https://usmart.sec.usace.army.mil/w/map)
-: USACE (Army Corps of Engineers) Survey Monument Archival & Retrieval Tool
+[Waymarking search for “survey markers”](http://www.waymarking.com/cat/search.aspx?f=1&cst=7&kw=survey%20markers&st=2)
+: 
+
+[The Corner Corner](http://www.bjbsoftware.com/corners/)
+: 
 {: .resources-list}
 
+</div>
+
+<div markdown=1>
+
 ## Selected historical data
+
+These sources represent the types of historical documents I often consult when searching for marks, and are specific to the areas I search. You will likely find similar resources for other areas by searching Google Books(https://books.google.com), the [NOAA Library](https://library.noaa.gov/coast-geodetic-survey), and the [USGS Publications Warehouse](https://pubs.usgs.gov/).
 
 <!-- TODO: Add magnetic station documents -->
 
@@ -51,11 +69,5 @@ permalink: /survey-data/
 : This USGS Bulletin (#644) provides data and descriptions for triangulation and traverse stations determined between 1913 and 1915. The full document is a large file (205MB); USGS has this file broken down by state/region at [USGS Publication Warehouse](https://pubs.usgs.gov/browse/Report/USGS%20Numbered%20Series/Bulletin/).
 {: .resources-list}
 
-## Sources of data for recreational hunting
-
-[Waymarking search for “survey markers”](http://www.waymarking.com/cat/search.aspx?f=1&cst=7&kw=survey%20markers&st=2)
-: 
-
-[The Corner Corner](http://www.bjbsoftware.com/corners/)
-: 
-{: .resources-list}
+</div>
+</div>
