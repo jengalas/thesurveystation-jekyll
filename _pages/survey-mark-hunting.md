@@ -32,7 +32,7 @@ Beginner's Guide to Survey Mark Hunting
 : The United States Power Squadrons have provided a series of presentations to instruct members on methods of surveying, types of markers, and procedures for reporting recoveries.
 {: .resources-list}
 
-<div class="responsive-two-column-grid">
+<div class="responsive-two-column-grid five-three">
 <div markdown=1>  
 
 ## Resources for Survey Mark Hunters

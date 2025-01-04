@@ -1,0 +1,22 @@
+@use 'breakpoints' as *;
+
+/* container */
+.responsive-two-column-grid {
+    display: block;
+}
+
+/* tablet breakpoint */
+@media (min-width: $mobile) {
+    .responsive-two-column-grid {
+        display: grid;            
+        gap: 3rem;
+
+        &.five-three {
+            grid-template-columns: 5fr 3fr;
+        }
+
+        &.four-four {
+            grid-template-columns: 4fr 4fr;
+        }
+    }
+}

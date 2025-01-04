@@ -1,0 +1,114 @@
+@use 'breakpoints' as *;
+
+footer {
+    background-color: #292929;
+    border-top: 1rem solid #37c0fb;
+    color: #ececec;
+    padding: 2rem;
+
+    a {
+        color: #ececec;
+        text-decoration: none;
+        border-bottom: 1px transparent;
+
+        &:hover {
+            border-bottom: 1px solid #67c1e8;
+            color: #67c1e8;
+            transition: color 0.3s ease-in-out, border-bottom-color 0.4s ease-in-out;
+        }
+    }
+
+    .form-control {
+        margin: .5rem 0;
+    }
+
+    button {
+        background-color: transparent;
+        color: #ececec;
+        border: 3px solid #ececec;
+        cursor: pointer;
+        font-size: 1.2rem;
+        padding: 1rem 2rem;
+
+        &:hover {
+            border-color: #67c1e8;
+            color: #67c1e8;
+            transition: border-color 0.5s ease-in-out, color 0.5s ease-in-out;
+        }
+    }
+
+    site-info {
+        color: #ececec;
+        display: block;
+        font-weight: 400;
+        padding: 1rem 0;
+    }
+
+    footer-widgets {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: 1fr auto;
+        gap: 10px;
+        justify-content: center;
+
+        .c1 {
+            grid-column: auto / span 12;
+        }
+
+        @media screen and (min-width: $mobile) {
+            .c1-2-md {
+                grid-column: auto / span 6;
+            }
+
+            .c1-md {
+                grid-column: auto / span 12;
+            }
+        }
+
+        @media screen and (min-width: $normal) {
+            .c1-3-lg {
+                grid-column: auto / span 4;
+            }
+        }
+
+        ul {
+            line-height: 1.6;
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        &>* {
+            width: 100%;
+        }
+
+        input,
+        textarea {
+            color: #67c1e8;
+            font-size: 1.4rem;
+            font-weight: 300;
+            padding: 1rem .5rem;
+            width: 100%;
+            height: 3rem;
+            background: rgba(212, 212, 255, 0.035);
+            border: 0;
+        }
+
+        contact-form {
+            form {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                grid-gap: .6rem;
+            }
+
+            .form-group.comment {
+                display: grid;
+                grid-column-start: 1;
+                grid-column-end: 3;
+            }
+        }
+
+        textarea {
+            height: 7rem;
+        }
+    }
+}

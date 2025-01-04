@@ -1,0 +1,21 @@
+.alignleft {
+    float: left;
+    margin-right: 2rem;
+}
+
+.alignright {
+    float: right;
+    margin-left: 2rem;
+}
+
+.clearboth {
+    clear: both;
+}
+
+.force-wrap {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}

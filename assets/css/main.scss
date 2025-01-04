@@ -3,12 +3,14 @@
 
 @use 'reset' as *;
 @use 'base' as *;
-@use 'nav' as *;
+@use 'layout/nav' as *;
+@use 'layout/grid' as *;
+@use 'layout/footer' as *;
 @use 'components' as *;
+@use 'utilities' as *;
 @use 'maps' as *;
 @use 'surveymarks' as *;
 @use 'archive' as *;
 @use '_pages/airwaybeacons' as *;
 @use '_pages/home' as *;
-@use '_pages/survey-mark-hunting' as *;
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic");

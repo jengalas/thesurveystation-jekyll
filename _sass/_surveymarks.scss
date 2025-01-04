@@ -43,9 +43,6 @@
     display:block;
     column-gap: 1rem;
 }
-.responsive-two-columns > div:first-child {
-    // padding-right: 1rem;
-}
 /* tablet breakpoint */
 @media (min-width:768px) {
     .responsive-two-columns {
