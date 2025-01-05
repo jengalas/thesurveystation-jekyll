@@ -7,7 +7,7 @@ _unlisted: true
 
 **Last updated {{ 'now' | date: "%B %e, %Y" }}**
 
-<div class="box alignright">
+<div class="box alignright max-30-pct">
 For airway beacons in the eastern U.S., see: <a href="/airway-beacons-list-eastern-u-s/">Airway Beacons List—Eastern U.S.</a>
 </div>
 
