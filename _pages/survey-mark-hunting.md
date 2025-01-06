@@ -60,8 +60,7 @@ Survey mark hunting, sometimes referred to as “benchmark hunting” regardless
 
 ### Map of survey mark recoveries
 
-[Map of recoveries, 2002 - {{ 'now' | date: "%Y" }}](/map-of-recoveries/)
-<!-- [Map of recoveries, 2002 - {{ site.year[0] }}](/map-of-recoveries/) -->
+[Map of recoveries, 2002 - {{ site.data.years[0].year }}](/map-of-recoveries/)
 
 ### Official reports submitted
 
