@@ -20,16 +20,22 @@ Survey mark hunting, sometimes referred to as “benchmark hunting” regardless
 
 ## Getting Started
 
-Beginner's Guide to Survey Mark Hunting
+<!-- Beginner's Guide to Survey Mark Hunting -->
 
 [Geodetic Glossary (HTML version)](https://www.ngs.noaa.gov/CORS-Proxy/Glossary/xml/NGS_Glossary.xml)
 : This is a hypertext version of the 1986 publication by the National Geodetic Survey (also available in [.pdf format](https://repository.library.noaa.gov/view/noaa/2827/noaa_2827_DS1.pdf))
 
+[NGS Survey Mark FAQ](https://geodesy.noaa.gov/datasheets/SurveyMarks_FAQ.shtml)
+: NGS provides answers to some basic questions about survey marks and datasheets.
+
+[USGS Guide to Land Survey Benchmarks](https://libraryguides.usgs.gov/benchmarks/intro)
+: USGS has a guide to basic information about survey marks and how to find them.
+
 [Standard Numbered Notes for Description of Marks](/manual-of-geodetic-triangulation-excerpts/#standard-numbered-notes-for-description-of-marks)
 : This excerpt from [The Manual of Geodetic Triangulation](/manual-of-geodetic-triangulation-excerpts/) is useful when you're out in the field and the mark descriptions refer to Note 4, Note 11, etc.
 
-[Joy of Geodetics Part IV: Other Disk Installing Agencies and Representative Disk Examples](https://www.usps.org/images/Exec/CoopCh/PDFs/2020_JOG_Part_4_IV.pdf)
-: The United States Power Squadrons have provided a series of presentations to instruct members on methods of surveying, types of markers, and procedures for reporting recoveries.
+[Joy of Geodetics]()
+: For a very deep dive, The United States Power Squadrons have provided a series of presentations to instruct members on methods of surveying, types of markers, and procedures for reporting recoveries.
 {: .resources-list}
 
 <div class="responsive-two-column-grid five-three">
@@ -42,10 +48,7 @@ Beginner's Guide to Survey Mark Hunting
 </div>
 
 <div>
-<div style="background-color: #fafafa;
-    border: 1px solid #d9d9d9;
-    margin: 1rem;
-    padding: 0 2rem;" markdown=1>
+<div style="margin: 1rem; padding: 0 2rem;" class="box" markdown=1>
 
 ## Zhanna's Recoveries
 
@@ -58,6 +61,7 @@ Beginner's Guide to Survey Mark Hunting
 ### Map of survey mark recoveries
 
 [Map of recoveries, 2002 - {{ 'now' | date: "%Y" }}](/map-of-recoveries/)
+<!-- [Map of recoveries, 2002 - {{ site.year[0] }}](/map-of-recoveries/) -->
 
 ### Official reports submitted
 

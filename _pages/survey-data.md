@@ -49,7 +49,7 @@ This list contains both professional data and information for recreational hunte
 
 ## Selected historical data
 
-These sources represent the types of historical documents I often consult when searching for marks, and are specific to the areas I search. You will likely find similar resources for other areas by searching Google Books(https://books.google.com), the [NOAA Library](https://library.noaa.gov/coast-geodetic-survey), and the [USGS Publications Warehouse](https://pubs.usgs.gov/).
+These sources represent the types of historical documents I often consult when searching for marks, and are specific to the areas I search. You will likely find similar resources for other areas by searching [Google Books](https://books.google.com), the [NOAA Library](https://library.noaa.gov/coast-geodetic-survey), and the [USGS Publications Warehouse](https://pubs.usgs.gov/).
 
 <!-- TODO: Add magnetic station documents -->
 
@@ -64,6 +64,9 @@ These sources represent the types of historical documents I often consult when s
 
 [Triangulation in Arizona](/assets/docs/publications/triangulation-in-arizona.pdf)
 : "1927 datum. Part 1: First- and second-order triangulation in south central part of state, by Clement L. Garner. 1941."
+
+[Precise Leveling in New York City](/assets/docs/publications/Precise_Leveling_in_New_York_City.pdf)
+: By Frederick W. Koop. Executed 1909 to 1914.
 
 [Triangulation and Primary Traverse, 1913-1915](/assets/docs/publications/triangulation-primary-traverse-1913-1915.pdf)
 : This USGS Bulletin (#644) provides data and descriptions for triangulation and traverse stations determined between 1913 and 1915. The full document is a large file (205MB); USGS has this file broken down by state/region at [USGS Publication Warehouse](https://pubs.usgs.gov/browse/Report/USGS%20Numbered%20Series/Bulletin/).

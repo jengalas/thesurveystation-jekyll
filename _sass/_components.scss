@@ -49,7 +49,7 @@
 
     dd {
         border-bottom: 1px solid #f7f3ef;
-        font-size: 85%;
+        font-size: 1.02rem;
         margin-left: 0;
         padding-bottom: 1rem;
     }
@@ -193,7 +193,7 @@
 .resources-list {
     dd {
         border-bottom: 1px solid #f7f3ef;
-        font-size: 85%;
+        font-size: 1.02rem;
         margin-left: 0;
         padding-bottom: 1rem;
     }
@@ -220,6 +220,11 @@
             margin: 0 1.5em .1em 310px;
         }
     }
+}
+
+.indented-list {
+  list-style-type: disc;
+  margin-left: 2em;
 }
 
 /* YouTube */

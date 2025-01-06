@@ -68,7 +68,7 @@ layout: default
                 <td class="official-description"><b>Description (NGS)</b></td><td><a
                         href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></td>
                 {% elsif page.official_description %}
-                <td class="official-description"><b>Description ({{ page.agency}})</b></td><td>{{ page.official_description }}</td>
+                <td class="official-description"><b>Description ({{ page.agency}})</b></td><td>{{ page.official_description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
                 {% endif %}                
             </tr>
             {% if page.usgs_report %}
