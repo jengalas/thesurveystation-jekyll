@@ -18,6 +18,8 @@
       url: http://www.ngs.noaa.gov/PC_PROD/pc_prod.shtml
 - category: Maps & Imagery
   links:
+    - title: NGS Map
+      url: https://noaa.maps.arcgis.com/apps/webappviewer/index.html?id=190385f9aadb4cf1b0dd8759893032db
     - title: 'BenchMap: NGS Control Marker Locator for Android'
       url: https://play.google.com/store/apps/details?id=com.tsqmadness.bmmaps&feature=nav_result#?t=W251bGwsMSwyLDNd 
     - title: Airway Maps on Internet Archive
@@ -80,7 +82,19 @@
     - title: History of Geodetic Leveling in the United States
       url: https://www.ngs.noaa.gov/PUBS_LIB/History_of_Geodetic_Leveling_in_the_US.pdf
     - title: National Geodetic Survey Publications
-      url: https://geodesy.noaa.gov/PUBS_LIB/      
+      url: https://geodesy.noaa.gov/PUBS_LIB/    
+- category: NGS Recovery Submission Resources
+  links:
+    - title: NGS Photo Submission Guidelines
+      url: https://www.ngs.noaa.gov/web/surveys/photo_submissions/#    
+    - title: Survey Mark Recovery Landing Page
+      url: https://www.ngs.noaa.gov/surveys/mark-recovery/index.shtml   
+    - title: Mark Recoveries Submitted to NGS (map)
+      url: https://noaa.maps.arcgis.com/apps/dashboards/a61976366d1f4a19b3bc8a2d5a0d5498
+    - title: OPUS Shared Solutions Dashboard
+      url: https://noaa.maps.arcgis.com/apps/dashboards/b3f9dcfde4c249bc9cd5817489c5d53c
+    - title: Passive Mark Page
+      url: https://geodesy.noaa.gov/datasheets/passive-marks/index.html       
 - category: Inspiration
   links:
     - title: 'Flickr: USGS Geodetic Survey Markers'

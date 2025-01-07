@@ -34,7 +34,7 @@ Survey mark hunting, sometimes referred to as “benchmark hunting” regardless
 [Standard Numbered Notes for Description of Marks](/manual-of-geodetic-triangulation-excerpts/#standard-numbered-notes-for-description-of-marks)
 : This excerpt from [The Manual of Geodetic Triangulation](/manual-of-geodetic-triangulation-excerpts/) is useful when you're out in the field and the mark descriptions refer to Note 4, Note 11, etc.
 
-[Joy of Geodetics]()
+[Joy of Geodetics](/2025/01/05/joy-of-geodetics)
 : For a very deep dive, The United States Power Squadrons have provided a series of presentations to instruct members on methods of surveying, types of markers, and procedures for reporting recoveries.
 {: .resources-list}
 
