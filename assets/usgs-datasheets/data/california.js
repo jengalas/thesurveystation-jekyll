@@ -115,6 +115,8 @@ var geojsonFeature = {
           "name": "Hetch Hetchy Reservoir",
           "vertical": "https://geodata.thesurveystation.com/USGS/CA/455-Hetch-Hetchy-Reservoir/Vertical.pdf",
           "vyear": "1970",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/455-Hetch-Hetchy-Reservoir/Horizontal.pdf",
+          "hyear": "1956",
           "recoveries": "https://geodata.thesurveystation.com/USGS/CA/455-Hetch-Hetchy-Reservoir/Recoveries.pdf",
           "ryear": "1986"
         }
