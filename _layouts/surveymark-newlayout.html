@@ -10,7 +10,8 @@ layout: default
 
 <div class="data-map-wrapper responsive-two-columns">
     <div class="data-wrapper">
-        <div class="status box box-narrow inline-block">
+        <div style="display: flex; align-items: flex-start;">
+          <div class="status box box-narrow inline-block" >
             {% if page.status == "Recovered" %}
                 <b>Recovered in {{ page.condition }} Condition</b> on {{ date }}
             {% elsif page.status == "Not Found" %}
@@ -18,6 +19,10 @@ layout: default
             {% else %}        
                 <b>Note Entered</b> on {{ date }}
             {% endif %}
+          </div>
+          <div style="margin-left: 2rem;" class="gallery single">
+            <a class="card" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
+          </div>
         </div>
         
         <h2>Spatial/elevation data</h2>
@@ -72,7 +77,7 @@ layout: default
                 {% endif %}                
             </tr>
             {% if page.usgs_report %}
-                <tr><td><span class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></span></td></tr>
+                <tr><td colspan="2"><span class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></span></td></tr>
             {% endif %}
         </table>
     </div>
@@ -82,7 +87,7 @@ layout: default
 </div>
 
 <!-- {% if page.ngs_report %}
-<h3>NGS Recovery Information</h3>
+<h2>NGS Recovery Information</h2>
 <table border="1">
   <tr>
     <th>Metadata</th>
@@ -90,12 +95,12 @@ layout: default
   </tr>
   <tr>
     <td>
-      a
+      Photographs submitted
     </td>
-    <td rowspan="2">c</td>
+    <td rowspan="2">New description</td>
   </tr>
   <tr>
-    <td>c</td>
+    <td>Coordinates updated</td>
   </tr>
 </table>
 {% endif %} -->
@@ -117,6 +122,8 @@ layout: default
 {% if page.ngs_report_text %}
 <div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS, along with the following recovery note: {{ page.ngs_report_text | markdownify }}</div>
 {% endif %}
+
+<h2>Narrative and photographs</h2>
 
 <div class="recovery-notes">
     {% if page.rich_text %}
