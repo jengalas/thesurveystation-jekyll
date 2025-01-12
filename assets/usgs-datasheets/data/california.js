@@ -5,6 +5,62 @@ var geojsonFeature = {
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+          "coordinates": [[[-116.75,36],[-116.75,36.25],[-117,36.25],[-117,36],[-116.75,36]]]
+        },
+        "properties": {
+          "name": "Bennetts Well",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/301-Bennetts-Well/Vertical.pdf",
+          "vyear": "",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/301-Bennetts-Well/Horizontal.pdf",
+          "hyear": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-116.75,36.25],[-116.75,36.5],[-117,36.5],[-117,36.25],[-116.75,36.25]]]
+        },
+        "properties": {
+          "name": "Furnace Creek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/324-Furnace-Creek/Vertical.pdf",
+          "vyear": "",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/324-Furnace-Creek/Horizontal.pdf",
+          "hyear": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-118,36.50],[-118,36.75],[-118.25,36.75],[-118.25,36.5],[-118,36.5]]]
+        },
+        "properties": {
+          "name": "Lone Pine",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/351-Lone-Pine/Vertical.pdf",
+          "vyear": "Various dates",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/351-Lone-Pine/Horizontal.pdf",
+          "hyear": "Various dates"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-118.25,36.5],[-118.25,36.75],[-118.5,36.75],[-118.5,36.5],[-118.25,36.5]]]
+        },
+        "properties": {
+          "name": "Mount Whitney",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/352-Mount-Whitney/Vertical.pdf",
+          "vyear": "",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/352-Mount-Whitney/Horizontal.pdf",
+          "hyear": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
           "coordinates": [[[-119.75,37.25],[-119.75,37.5],[-120,37.5],[-120,37.25],[-119.75,37.25]]]
         },
         "properties": {
