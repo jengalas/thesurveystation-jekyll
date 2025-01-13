@@ -10,9 +10,11 @@ var geojsonFeature = {
         "properties": {
           "name": "Bennetts Well",
           "vertical": "https://geodata.thesurveystation.com/USGS/CA/301-Bennetts-Well/Vertical.pdf",
-          "vyear": "",
+          "vyear": "1974",
           "horizontal": "https://geodata.thesurveystation.com/USGS/CA/301-Bennetts-Well/Horizontal.pdf",
-          "hyear": ""
+          "hyear": "1957, 1964",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/301-Bennetts-Well/Recoveries.pdf",
+          "ryear": "Unknown"
         }
       },
       {

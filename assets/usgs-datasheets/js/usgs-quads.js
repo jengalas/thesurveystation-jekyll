@@ -78,6 +78,9 @@ $(document).ready(function(){
             if (feature.properties.misc) {
                 popupText += '<br><a target="_blank" href="' + feature.properties.misc + '">Miscellaneous, ' + feature.properties.myear;
             }
+            if (feature.properties.usfs) {
+              popupText += '<br><a target="_blank" href="' + feature.properties.usfs + '">U. S. Forest Service, ' + feature.properties.usfsyear;
+            }
             if (feature.properties.tidal) {
                 popupText += '<br><a target="_blank" href="' + feature.properties.tidal + '">Tidal Bench Marks, ' + feature.properties.tidalyear;
             }
