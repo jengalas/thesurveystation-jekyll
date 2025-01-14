@@ -327,6 +327,22 @@ var geojsonFeature = {
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+          "coordinates": [[[-109.5,32.75],[-109.5,33],[-109.75,33],[-109.75,32.75],[-109.5,32.75]]]
+        },
+        "properties": {
+          "name": "Safford",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/113-Safford/Vertical.pdf",
+          "vyear": "Unknown",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/113-Safford/Horizontal.pdf",
+          "hyear": "Various dates",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/AZ/113-Safford/Recoveries.pdf",
+          "ryear": "1983"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
           "coordinates": [[[-110.75,33.25],[-110.75,33.5],[-111,33.5],[-111,33.25],[-110.75,33.25]]]
         },
         "properties": {
@@ -388,7 +404,51 @@ var geojsonFeature = {
         "properties": {
           "name": "Phoenix",
           "vertical": "https://geodata.thesurveystation.com/USGS/AZ/169-Phoenix/Vertical.pdf",
-          "vyear": "1961"
+          "vyear": "1961",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/169-Phoenix/Horizontal.pdf",
+          "hyear": "Various dates"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-112.25,33.25],[-112.25,33.5],[-112.5,33.5],[-112.5,33.25],[-112.25,33.25]]]
+        },
+        "properties": {
+          "name": "Avondale",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/170-Avondale/Vertical.pdf",
+          "vyear": "1972, 1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/170-Avondale/Horizontal.pdf",
+          "hyear": "Various dates"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-111,33.5],[-111,33.75],[-111.25,33.75],[-111.25,33.5],[-111,33.5]]]
+        },
+        "properties": {
+          "name": "Roosevelt No. 4",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/188-Roosevelt-No-4/Vertical.pdf",
+          "vyear": "1957, 1963",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/188-Roosevelt-No-4/Horizontal.pdf",
+          "hyear": "Various dates"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-111.5,33.5],[-111.5,33.75],[-111.75,33.75],[-111.75,33.5],[-111.5,33.5]]]
+        },
+        "properties": {
+          "name": "Ft. McDowell",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/190-Ft-McDowell/Vertical.pdf",
+          "vyear": "1964",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/190-Ft-McDowell/Horizontal.pdf",
+          "hyear": "1963, 1975"
         }
       },
       {

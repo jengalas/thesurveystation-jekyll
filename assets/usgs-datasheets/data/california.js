@@ -5,6 +5,22 @@ var geojsonFeature = {
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+          "coordinates": [[[-116.5,32.75],[-116.5,33],[-116.75,33],[-116.75,32.75],[-116.5,32.75]]]
+        },
+        "properties": {
+          "name": "Cuyamaca Peak",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/20-Cuyamaca-Peak/Vertical.pdf",
+          "vyear": "1965",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/20-Cuyamaca-Peak/Horizontal.pdf",
+          "hyear": "Various dates",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/20-Cuyamaca-Peak/Recoveries.pdf",
+          "ryear": "1957"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
           "coordinates": [[[-116.75,36],[-116.75,36.25],[-117,36.25],[-117,36],[-116.75,36]]]
         },
         "properties": {
@@ -26,9 +42,11 @@ var geojsonFeature = {
         "properties": {
           "name": "Furnace Creek",
           "vertical": "https://geodata.thesurveystation.com/USGS/CA/324-Furnace-Creek/Vertical.pdf",
-          "vyear": "",
+          "vyear": "1955",
           "horizontal": "https://geodata.thesurveystation.com/USGS/CA/324-Furnace-Creek/Horizontal.pdf",
-          "hyear": ""
+          "hyear": "1957",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/324-Furnace-Creek/Recoveries.pdf",
+          "ryear": "1983"
         }
       },
       {
@@ -54,9 +72,9 @@ var geojsonFeature = {
         "properties": {
           "name": "Mount Whitney",
           "vertical": "https://geodata.thesurveystation.com/USGS/CA/352-Mount-Whitney/Vertical.pdf",
-          "vyear": "",
+          "vyear": "1963",
           "horizontal": "https://geodata.thesurveystation.com/USGS/CA/352-Mount-Whitney/Horizontal.pdf",
-          "hyear": ""
+          "hyear": "1960, 1964"
         }
       },
       {
@@ -111,6 +129,22 @@ var geojsonFeature = {
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+          "coordinates": [[[-119.25,37.5],[-119.25,37.75],[-119.5,37.75],[-119.5,37.5],[-119.25,37.5]]]
+        },
+        "properties": {
+          "name": "Merced Peak",
+          "vertical": "https://geodata.thesurveystation.com/USGS/CA/436-Merced-Peak/Vertical.pdf",
+          "vyear": "1966",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/436-Merced-Peak/Horizontal.pdf",
+          "hyear": "Various dates",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/CA/436-Merced-Peak/Recoveries.pdf",
+          "ryear": "1969, 1986"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
           "coordinates": [[[-119.5,37.5],[-119.5,37.75],[-119.75,37.75],[-119.75,37.5],[-119.5,37.5]]]
         },
         "properties": {
@@ -159,6 +193,8 @@ var geojsonFeature = {
           "name": "Tuolumne Meadows",
           "vertical": "https://geodata.thesurveystation.com/USGS/CA/454-Tuolumne-Meadows/Vertical.pdf",
           "vyear": "1954",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/454-Tuolumne-Meadows/Horizontal.pdf",
+          "hyear": "Various dates",
           "recoveries": "https://geodata.thesurveystation.com/USGS/CA/454-Tuolumne-Meadows/Recoveries.pdf",
           "ryear": "1986, 1987"
         }
