@@ -1,6 +1,8 @@
 ---
 designation: TT 16 T
 date: '2014-07-12T15:47:30-04:00'
+update_date: '2014-07-19T12:17:21-04:00'
+update_permalink: /surveymarks/tt-16-t-2
 latitude: 41.641185
 longitude: 75.419565
 estimate: true
@@ -36,9 +38,6 @@ status: Note Entered
 condition: Unknown (Not Found)
 zhanna_text: >-
     Even though we didn't find this mark today, we had a great time searching!  This was our fourth and final targeted mark for the day, and it worked out well because Flat Rock Road provided a nice back route home from Waymart.  In fact, neither of us had ever driven on this narrow, winding gravel road before, so even that was an adventure.  When we approached the coordinates, we spotted the 12 foot high outcrop immediately, even though the forest is now swallowing it up.  “This is neat!” Rich exclaimed as we picked our way across the top of the outcrop.  It certainly was.  The high ledges gave us a nice view through the thick forest, and the outcrop would make a pleasantly shaded picnic spot.  We identified two sections of ledge that appeared to be likely benchmark locations, but the areas were large and without a metal detector, it might have been hours before we uncovered the mark from beneath heavy leaf litter and pine debris.  We plan to come back soon with our metal detector (and some “gardening” tools) and search again.
-    
-    
-    <div class="alert alert-success" style="display: inline-block;"><br><b>Update (July 19, 2014)</b>: see <a href="/surveymarks/tt-16-t-2">TT 16 T</a>.<br></div>
 galleries:    
   gallery_zh:
     images:    

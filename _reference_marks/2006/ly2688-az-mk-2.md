@@ -3,6 +3,8 @@ parent: ly2688-2
 parent_name: CAMELBACK
 designation: CAMELBACK AZ MK
 date: '2006-09-07T20:42:45-04:00'
+update_date:
+update_permalink: 
 latitude: 41.0439373
 longitude: 75.364122
 state: Pennsylvania

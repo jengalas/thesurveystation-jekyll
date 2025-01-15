@@ -18,6 +18,9 @@ layout: default
             {% else %}        
                 <b>Note Entered</b> on {{ date }}
             {% endif %}
+            {% if page.update_date %}
+              <br><br><i><a href="{{ page.update_permalink }}">Update</a> ({{ page.update_date | date: "%B %e, %Y" }})</i>
+            {% endif %}
         </div>
         
         <h2>Spatial/elevation data</h2>
