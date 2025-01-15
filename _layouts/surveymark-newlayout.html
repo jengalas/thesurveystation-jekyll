@@ -19,6 +19,9 @@ layout: default
             {% else %}        
                 <b>Note Entered</b> on {{ date }}
             {% endif %}
+            {% if page.update_date %}
+              <br><br><i><a href="{{ page.update_permalink }}">Update</a> ({{ page.update_date | date: "%B %e, %Y" }})</i>
+            {% endif %}
           </div>
           <div style="margin-left: 2rem;" class="gallery single">
             <a class="card" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
