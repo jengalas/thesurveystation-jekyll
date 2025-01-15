@@ -239,6 +239,8 @@ var geojsonFeature = {
           "name": "Tuolumne",
           "vertical": "https://geodata.thesurveystation.com/USGS/CA/457-Tuolumne/Vertical.pdf",
           "vyear": "1961",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/CA/457-Tuolumne/Horizontal.pdf",
+          "hyear": "Various dates",
           "recoveries": "https://geodata.thesurveystation.com/USGS/CA/457-Tuolumne/Recoveries.pdf",
           "ryear": "1979"
         }
