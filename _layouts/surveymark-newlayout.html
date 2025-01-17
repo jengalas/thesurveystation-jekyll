@@ -19,11 +19,11 @@ layout: default
             {% else %}        
               <span><b>Note Entered</b> on {{ date }}</span>
             {% endif %}
-            {% if page.update_date %}
-              <span><i><a href="{{ page.update_permalink }}">Update</a> ({{ page.update_date | date: "%B %e, %Y" }})</i></span>
-            {% endif %}
             {% if page.previous_date %}
               <span><i><a href="{{ page.previous_permalink }}">{{ page.previous_text }}</a> ({{ page.previous_date | date: "%B %e, %Y" }})</i></span>
+            {% endif %}
+            {% if page.update_date %}
+              <span><i><a href="{{ page.update_permalink }}">Update</a> ({{ page.update_date | date: "%B %e, %Y" }})</i></span>
             {% endif %}
           </div>
           <div style="margin-left: 2rem;" class="gallery single">
