@@ -3,8 +3,9 @@ parent: ly2688-2
 parent_name: CAMELBACK
 designation: CAMELBACK AZ MK
 date: '2006-09-07T20:42:45-04:00'
-update_date:
-update_permalink: 
+previous_date: '2002-09-13T20:20:04-04:00'
+previous_text: Previous recovery
+previous_permalink: /reference-marks/ly2688-az-mk
 latitude: 41.0439373
 longitude: 75.364122
 state: Pennsylvania
@@ -17,7 +18,6 @@ agency: NGS
 status: Recovered
 condition: Good
 zhanna_text: >-
-    <div class="alert alert-success" style="display: inline-block;"><br><b>Previous recovery (September 13, 2002)</b>: see <a href="/reference-marks/ly2688-az-mk/">CAMELBACK AZ MK</a>.<br></div>
 featured_image: ly2688azmkcsm.jpg
 galleries:
   gallery_zh: 

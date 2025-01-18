@@ -3,8 +3,9 @@ parent: ly2900-2
 parent_name: SAMS POINT RESET
 designation: SAMS POINT AZ MK
 date: '2013-09-28T15:53:11-04:00'
-update_date:
-update_permalink: 
+previous_date: '2005-10-21T16:00:13-04:00'
+previous_text: Previous attempt
+previous_permalink: /reference-marks/ly2900-az-mk
 latitude: 41.672033
 longitude: 74.358333
 state: New York
@@ -17,7 +18,6 @@ agency: NGS
 status: Recovered
 condition: Good
 zhanna_text: >-
-    <div class="alert alert-success" style="display: inline-block;"><br><b>Previous attempt (October 21, 2005)</b>: see <a href="/reference-marks/ly2900-az-mk/">SAMS POINT AZ MK</a>.<br></div>
 galleries:    
   gallery_zh:
     images:    
