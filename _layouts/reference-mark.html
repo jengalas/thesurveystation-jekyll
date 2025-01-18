@@ -10,20 +10,25 @@ layout: default
 
 <div class="data-map-wrapper responsive-two-columns">
     <div class="data-wrapper">
-        <div class="status box box-narrow inline-block">
-            {% if page.status == "Recovered" %}
-              <span><b>Recovered in {{ page.condition }} Condition</b> on {{ date }}</span>
-            {% elsif page.status == "Not Found" %}
-              <span><b>Not Found</b> as of {{ date }}</span>
-            {% else %}        
-              <span><b>Note Entered</b> on {{ date }}</span>
-            {% endif %}
-            {% if page.previous_date %}
-              <span><i><a href="{{ page.previous_permalink }}">{{ page.previous_text }}</a> ({{ page.previous_date | date: "%B %e, %Y" }})</i></span>
-            {% endif %}
-            {% if page.update_date %}
-              <span><i><a href="{{ page.update_permalink }}">Update</a> ({{ page.update_date | date: "%B %e, %Y" }})</i></span>
-            {% endif %}
+        <div style="display: flex; align-items: flex-start;">
+            <div class="status box box-narrow inline-block">
+                {% if page.status == "Recovered" %}
+                  <span><b>Recovered in {{ page.condition }} Condition</b> on {{ date }}</span>
+                {% elsif page.status == "Not Found" %}
+                  <span><b>Not Found</b> as of {{ date }}</span>
+                {% else %}        
+                  <span><b>Note Entered</b> on {{ date }}</span>
+                {% endif %}
+                {% if page.previous_date %}
+                  <span><i><a href="{{ page.previous_permalink }}">{{ page.previous_text }}</a> ({{ page.previous_date | date: "%B %e, %Y" }})</i></span>
+                {% endif %}
+                {% if page.update_date %}
+                  <span><i><a href="{{ page.update_permalink }}">Update</a> ({{ page.update_date | date: "%B %e, %Y" }})</i></span>
+                {% endif %}
+            </div>
+            <div style="margin-left: 2rem;" class="gallery single">
+              <a class="card" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
+            </div>
         </div>
         
         <h2>Spatial/elevation data</h2>
