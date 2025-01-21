@@ -7,7 +7,7 @@ excerpt: >-
     
 ---
 
-Thanks to website contributor Julian Sanchez, we have some new USGS datasheets! Julian kindly sent these scans to me to add to the "collection."
+Thanks to website contributor Julian Sanchez, we have some new USGS datasheets! Julian kindly sent me these scans to add to the "collection."
 
 Newly added quads are:
 
