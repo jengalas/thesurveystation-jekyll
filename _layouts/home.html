@@ -3,6 +3,35 @@
   
   {% include head.html %}
 
+<style>
+  .scroll-down {
+    .nav-wrapper {
+      position: fixed;
+      width: 100%;
+    }
+    #banner {
+      margin-top: 68px;
+    }
+    nav .logo img {
+      height: 60px;
+      width: 60px;
+    }
+    nav .logo {
+      height: 60px;
+    }
+    nav .menu li a {
+      font-size: 1rem;
+      line-height: 1.2;
+    }
+    .menu {
+      margin: 0 auto;
+    }
+    nav:after{
+      height: .5em;
+    }
+  }
+</style>
+
   <body>
 
     {% include nav.html %}
@@ -78,5 +107,8 @@
     let selectedImage = imageArray[i];
     let profileImage = document.getElementById("profileImage");
     profileImage.src = selectedImage;
+  </script>
+  <script>
+
   </script>
 </html>
