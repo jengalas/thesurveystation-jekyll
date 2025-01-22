@@ -15,6 +15,7 @@
     nav .logo img {
       height: 60px;
       width: 60px;
+      transition: height .3s, width .3s;
     }
     nav .logo {
       height: 60px;
@@ -22,12 +23,27 @@
     nav .menu li a {
       font-size: 1rem;
       line-height: 1.2;
+      transition: font-size .3s, line-height .3s;
     }
     .menu {
       margin: 0 auto;
+      transition: margin .3s;
     }
     nav:after{
       height: .5em;
+    }
+    .nav-wrapper {
+      
+    }
+  }
+  .scroll-up {
+    .nav-wrapper {
+      position: fixed;
+      width: 100%;
+    }
+    .menu {
+      margin: 0 auto;
+      transition: margin .3s;
     }
   }
 </style>
@@ -109,6 +125,29 @@
     profileImage.src = selectedImage;
   </script>
   <script>
-
+const body = document.body;
+const scrollUp = "scroll-up";
+const scrollDown = "scroll-down";
+let lastScroll = 0;
+  window.addEventListener("scroll", () => {
+    const currentScroll = window.pageYOffset;
+    if (currentScroll <= 0) {
+      body.classList.remove(scrollUp);
+      return;
+    }
+    if (currentScroll > lastScroll && !body.classList.contains(scrollDown)) {
+      // down 
+      body.classList.remove(scrollUp);
+      body.classList.add(scrollDown);
+    } else if (
+      currentScroll < lastScroll &&
+      body.classList.contains(scrollDown)
+    ) {
+      // up 
+      body.classList.remove(scrollDown);
+      body.classList.add(scrollUp);
+    }
+    lastScroll = currentScroll;
+  });
   </script>
 </html>
