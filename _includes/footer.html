@@ -131,3 +131,22 @@
   // Change to your own rss feed file path
   searchFile: '/feed.xml'
 });</script>
+<script>
+  {
+    const nav = document.querySelector(".nav-wrapper");
+    let lastScrollY = window.scrollY;
+
+    window.addEventListener("scroll", () => {
+      if (lastScrollY < window.scrollY) {
+        nav.classList.add("nav--hidden");
+      } else {
+        nav.classList.remove("nav--hidden");
+      }
+
+      lastScrollY = window.scrollY;
+      if (window.scrollY <= 0) {
+        nav.classList.remove('nav-hidden')
+      }
+    });
+  }
+</script>

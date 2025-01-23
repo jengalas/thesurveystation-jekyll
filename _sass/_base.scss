@@ -16,6 +16,7 @@ body {
 }
 
 body {
+  --nav-height: 113px;
   background: $backgroundColor;
   color: $bodyColor;
   display: flex;
@@ -24,6 +25,7 @@ body {
   font-size: $bodyFontSize;
   font-weight: 300;
   min-height: 100vh;
+  padding-top: var(--nav-height);
 }
 
 h1,
