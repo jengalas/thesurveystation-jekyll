@@ -3,27 +3,6 @@
   
   {% include head.html %}
 
-<style>
-
-  body {
-    --nav-height: 113px;
-
-    padding-top: var(--nav-height);
-  }
-  .nav-wrapper {
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    transition: transform 0.2s;
-  }
-
-  .nav--hidden {
-    transform: translateY(calc(-1 * var(--nav-height)));
-    box-shadow: none;
-  }
-</style>
-
   <body>
 
     {% include nav.html %}
@@ -99,24 +78,5 @@
     let selectedImage = imageArray[i];
     let profileImage = document.getElementById("profileImage");
     profileImage.src = selectedImage;
-  </script>
-  <script>
-    {
-      const nav = document.querySelector(".nav-wrapper");
-      let lastScrollY = window.scrollY;
-  
-      window.addEventListener("scroll", () => {
-        if (lastScrollY < window.scrollY) {
-          nav.classList.add("nav--hidden");
-        } else {
-          nav.classList.remove("nav--hidden");
-        }
-  
-        lastScrollY = window.scrollY;
-        if (window.scrollY <= 0) {
-          nav.classList.remove('nav-hidden')
-        }
-      });
-    }
   </script>
 </html>
