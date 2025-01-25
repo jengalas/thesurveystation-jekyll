@@ -3,4 +3,4 @@ layout: default
 permalink: /contact-success
 ---
 
-Thank you for submitting the form!
+Your response was submitted successfully. Thanks so much!
