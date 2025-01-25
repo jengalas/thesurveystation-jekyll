@@ -26,6 +26,10 @@ body {
   font-weight: 300;
   min-height: 100vh;
   padding-top: var(--nav-height);
+
+  @media (max-width: $mobile){
+    --nav-height: 90px;
+  }
 }
 
 h1,
