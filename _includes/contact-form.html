@@ -1,3 +1,8 @@
+<style>
+  form div:nth-child(4) {
+    order: 2;
+  }
+</style>
 <div class="contact-form">
     <h2>Contact Zhanna</h2>
     <form name="contact" action="/contact-success" method="POST" class="form" data-netlify="true">
@@ -12,6 +17,6 @@
             <label for="comment" class="form-label textarea">Comment</label>
             <textarea id="comment" name="comment" class="form-control" tabindex="3" required></textarea>
         </div>
-        <button type="submit">Send Message</button>
+        <button type="submit" class="g-recaptcha" data-sitekey="6Lew2cQqAAAAANWRT5Y00Fr8coTucPxcAyYXP2eT" data-callback="onSubmit">Send Message</button>
     </form>
 </div>
