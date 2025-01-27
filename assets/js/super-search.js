@@ -123,12 +123,14 @@ MIT Licensed
 		window.addEventListener('keyup', function onKeyPress(e) {
 			if (e.which === 27) {
 				toggleSearch();
+        topFunction();
 			}
 		});
 		// Open on '/' key
 		window.addEventListener('keypress', function onKeyPress(e) {
 			if (e.which === 47 && !searchEl.classList.contains('is-active')) {
 				toggleSearch();
+        topFunction();
 			}
 		});
 
