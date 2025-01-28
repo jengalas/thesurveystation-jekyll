@@ -35,5 +35,5 @@ In trying to find the location of Eugene Hale's home, we came across the followi
 
 
 
-{% include simple-map.html map_id="1" latitude="44.543507" longitude="-68.413275" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="44.543507" longitude="-68.413275" zoom="15" marker_name="Magnetic Station?" height="490px" width="100%" %}
 
