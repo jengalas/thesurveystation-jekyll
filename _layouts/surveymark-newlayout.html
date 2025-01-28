@@ -92,8 +92,8 @@ layout: default
     </div>
 </div>
 
-<!-- {% if page.ngs_report %}
-<h2>NGS Recovery Information</h2>
+{% if page.ngs_report %}
+<h2>NGS recovery information</h2>
 <table style="border-collapse: collapse;">
   <thead>
     <tr style="border-bottom: 1px solid gray; text-align: left;">
@@ -104,33 +104,34 @@ layout: default
   <tbody>
     <tr>
       <td>
-        Photographs submitted
+        {% if page.photos_submitted %}
+          Photographs submitted <i class="fa-solid fa-check"></i>
+        {% else %}
+          <i>Photographs not submitted</i> <i class="fa-solid fa-xmark"></i>
+        {% endif %}
       </td>
-      <td rowspan="2">New descriptive text</td>
+      <td rowspan="2">
+        {% if page.ngs_report %}
+          {% unless page.ngs_report_text %}
+            A report on the condition of this survey mark has been submitted to NGS.
+          {% endunless %}   
+        {% endif %}
+        {% if page.ngs_report_text %}
+          {{ page.ngs_report_text | markdownify }}
+        {% endif %}
+      </td>
     </tr>
     <tr>
-      <td>Coordinates updated</td>
+      <td width="25%">
+        {% if page.coordinates_submitted %}
+          Coordinates updated <i class="fa-solid fa-check"></i>
+        {% else %}
+          <i>Coordinates not updated</i> <i class="fa-solid fa-xmark"></i>
+        {% endif %}
+        </td>
     </tr>
   </tbody>
 </table>
-{% endif %} -->
-
-{% if page.coordinates_submitted %}
-<p class="coordinates-submitted">Updated GPS coordinates have been submitted to NGS.</p>
-{% endif %}
-
-{% if page.photos_submitted %}
-<p class="photos-submitted">Photos of this mark have been submitted to NGS.</p>
-{% endif %}
-
-{% if page.ngs_report %}
-    {% unless page.ngs_report_text %}
-    <div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS.</div> 
-    {% endunless %}   
-{% endif %}
-
-{% if page.ngs_report_text %}
-<div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS, along with the following recovery note: {{ page.ngs_report_text | markdownify }}</div>
 {% endif %}
 
 <h2>Narrative and photographs</h2>
