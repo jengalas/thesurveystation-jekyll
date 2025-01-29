@@ -6,6 +6,40 @@ layout: default
 {% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 {% capture date %}{{ page.date | date: "%B %e, %Y" }}{% endcapture %}
 
+<style>
+   th, td {padding: 1rem .5rem .5rem .3rem; vertical-align: top;}
+   td p { margin: 0; }
+        
+   .parent {
+      display: grid;
+      grid-template-columns: 1fr;
+      }
+
+    @media (min-width: 600px) {
+      .parent {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      gap: 8px;
+    }        
+
+    .div2 {
+      grid-column-start: 1;
+      grid-row-start: 2;
+    }
+
+    .div3 {
+      grid-column: span 3 / span 3;
+      grid-row: span 2 / span 2;
+      grid-column-start: 2;
+      grid-row-start: 1;
+      }
+    }
+
+   
+
+</style>
+
 <h1>{{ page.designation }}</h1>
 
 <div class="data-map-wrapper responsive-two-columns">
@@ -103,13 +137,11 @@ layout: default
   </thead>
   <tbody>
     <tr>
-      <td>
-        {% if page.photos_submitted %}
-          Photographs submitted <i class="fa-solid fa-check"></i>
-        {% else %}
-          <i>Photographs not submitted</i> <i class="fa-solid fa-xmark"></i>
-        {% endif %}
-      </td>
+      {% if page.photos_submitted %}
+        <td><i class="fa-solid fa-check" style="color: green"></i> Photographs submitted</td>
+      {% else %}
+        <td><i class="fa-solid fa-xmark" style="color: gray"></i> <i>Photographs not submitted</i></td>
+      {% endif %}
       <td rowspan="2">
         {% if page.ngs_report %}
           {% unless page.ngs_report_text %}
@@ -122,16 +154,43 @@ layout: default
       </td>
     </tr>
     <tr>
-      <td width="25%">
-        {% if page.coordinates_submitted %}
-          Coordinates updated <i class="fa-solid fa-check"></i>
-        {% else %}
-          <i>Coordinates not updated</i> <i class="fa-solid fa-xmark"></i>
-        {% endif %}
-        </td>
+      {% if page.coordinates_submitted %}
+        <td width="25%"><i class="fa-solid fa-check" style="color: green"></i> Coordinates updated</td>
+      {% else %}
+      <td width="25%"><i class="fa-solid fa-xmark" style="color: gray"></i> <i>Coordinates not updated</i></td>
+      {% endif %}
     </tr>
   </tbody>
 </table>
+{% endif %}
+
+{% if page.ngs_report %}
+<div class="parent">
+  <div class="div1">
+    <h3>Metadata</h3>
+    {% if page.photos_submitted %}
+      <i class="fa-solid fa-check" style="color: green"></i> Photographs submitted
+    {% else %}
+      <i class="fa-solid fa-xmark" style="color: gray"></i> <i>Photographs not submitted</i>
+    {% endif %}
+  </div>
+  <div class="div2">{% if page.coordinates_submitted %}
+    <i class="fa-solid fa-check" style="color: green"></i> Coordinates updated
+  {% else %}
+    <i class="fa-solid fa-xmark" style="color: gray"></i> <i>Coordinates not updated</i>
+  {% endif %}</div>
+  <div class="div3">
+  <h3>Descriptive text</h3>
+    {% if page.ngs_report %}
+      {% unless page.ngs_report_text %}
+        A report on the condition of this survey mark has been submitted to NGS.
+      {% endunless %}   
+    {% endif %}
+    {% if page.ngs_report_text %}
+      {{ page.ngs_report_text | markdownify }}
+    {% endif %}
+  </div>
+</div>
 {% endif %}
 
 <h2>Narrative and photographs</h2>

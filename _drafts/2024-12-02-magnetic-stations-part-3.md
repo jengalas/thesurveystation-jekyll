@@ -34,6 +34,7 @@ So far we've determined that:
 In trying to find the location of Eugene Hale's home, we came across the following article from _The New York Times_, July 14, 1883:
 
 
+We also found a few postcards showing the senator's home, Google Street View didn't hel
 
 {% include simple-map.html map_id="1" latitude="44.543507" longitude="-68.413275" zoom="15" marker_name="Magnetic Station?" height="490px" width="100%" %}
 
