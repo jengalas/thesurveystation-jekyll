@@ -13,15 +13,26 @@ layout: default
    .parent {
       display: grid;
       grid-template-columns: 1fr;
-      }
+    }
 
-    @media (min-width: 600px) {
+    h2 {
+      font-size: 1.75rem;
+      margin-bottom: 0.8rem;
+    }
+
+    h3 {
+      border-bottom: 1px solid #a7a7a7;
+      font-size: 1.2rem;
+      font-weight: 700;
+      padding-bottom: .3em;
+    }
+
+    @media (min-width: 736px) {
       .parent {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      grid-template-rows: repeat(2, 1fr);
-      gap: 8px;
-    }        
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 8px;
+      }        
 
     .div2 {
       grid-column-start: 1;
@@ -34,10 +45,11 @@ layout: default
       grid-column-start: 2;
       grid-row-start: 1;
       }
+
+      h3 {
+        margin-top: 0;
+      }
     }
-
-   
-
 </style>
 
 <h1>{{ page.designation }}</h1>
@@ -126,72 +138,37 @@ layout: default
     </div>
 </div>
 
-{% if page.ngs_report %}
-<h2>NGS recovery information</h2>
-<table style="border-collapse: collapse;">
-  <thead>
-    <tr style="border-bottom: 1px solid gray; text-align: left;">
-      <th>Metadata</th>
-      <th>Descriptive text</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+<div style="margin-bottom: 2em;">
+  {% if page.ngs_report %}
+  <h2>NGS recovery information</h2>
+  <div class="parent">
+    <div class="div1">
+      <h3>Metadata</h3>
       {% if page.photos_submitted %}
-        <td><i class="fa-solid fa-check" style="color: green"></i> Photographs submitted</td>
+        <i class="fa-solid fa-check" style="color: green;"></i> Photographs submitted
       {% else %}
-        <td><i class="fa-solid fa-xmark" style="color: gray"></i> <i>Photographs not submitted</i></td>
+        <i class="fa-solid fa-xmark" style="color: #a7a7a7;"></i> <i style="color: #a3a3a3;">Photographs not submitted</i>
       {% endif %}
-      <td rowspan="2">
-        {% if page.ngs_report %}
-          {% unless page.ngs_report_text %}
-            A report on the condition of this survey mark has been submitted to NGS.
-          {% endunless %}   
-        {% endif %}
-        {% if page.ngs_report_text %}
-          {{ page.ngs_report_text | markdownify }}
-        {% endif %}
-      </td>
-    </tr>
-    <tr>
-      {% if page.coordinates_submitted %}
-        <td width="25%"><i class="fa-solid fa-check" style="color: green"></i> Coordinates updated</td>
-      {% else %}
-      <td width="25%"><i class="fa-solid fa-xmark" style="color: gray"></i> <i>Coordinates not updated</i></td>
-      {% endif %}
-    </tr>
-  </tbody>
-</table>
-{% endif %}
-
-{% if page.ngs_report %}
-<div class="parent">
-  <div class="div1">
-    <h3>Metadata</h3>
-    {% if page.photos_submitted %}
-      <i class="fa-solid fa-check" style="color: green"></i> Photographs submitted
+    </div>
+    <div class="div2">{% if page.coordinates_submitted %}
+      <i class="fa-solid fa-check" style="color: green;"></i> Coordinates updated
     {% else %}
-      <i class="fa-solid fa-xmark" style="color: gray"></i> <i>Photographs not submitted</i>
-    {% endif %}
+      <i class="fa-solid fa-xmark" style="color: #a7a7a7;"></i> <i style="color: #a3a3a3;">Coordinates not updated</i>
+    {% endif %}</div>
+    <div class="div3">
+    <h3>Descriptive text</h3>
+      {% if page.ngs_report %}
+        {% unless page.ngs_report_text %}
+          A report on the condition of this survey mark has been submitted to NGS.
+        {% endunless %}   
+      {% endif %}
+      {% if page.ngs_report_text %}
+        {{ page.ngs_report_text | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% endif %}
+    </div>
   </div>
-  <div class="div2">{% if page.coordinates_submitted %}
-    <i class="fa-solid fa-check" style="color: green"></i> Coordinates updated
-  {% else %}
-    <i class="fa-solid fa-xmark" style="color: gray"></i> <i>Coordinates not updated</i>
-  {% endif %}</div>
-  <div class="div3">
-  <h3>Descriptive text</h3>
-    {% if page.ngs_report %}
-      {% unless page.ngs_report_text %}
-        A report on the condition of this survey mark has been submitted to NGS.
-      {% endunless %}   
-    {% endif %}
-    {% if page.ngs_report_text %}
-      {{ page.ngs_report_text | markdownify }}
-    {% endif %}
-  </div>
+  {% endif %}
 </div>
-{% endif %}
 
 <h2>Narrative and photographs</h2>
 
