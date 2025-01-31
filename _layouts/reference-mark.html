@@ -80,11 +80,8 @@ class: surveymark-page
                 <td class="official-description"><b>Description (NGS)</b></td><td><a
                         href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox={{ page.pid }}">NGS Datasheet</a></td>
                 {% elsif page.official_description %}
-                <td class="official-description"><b>Description ({{ page.agency}})</b></td><td>{{ page.official_description }}</td>
-                {% endif %}
-                {% if page.usgs_report %}
-                <span class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></span>
-                {% endif %}
+                <td class="official-description"><b>Description ({{ page.agency}})</b></td><td>{{ page.official_description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
+                {% endif %}                
             </tr>
         </table>
     </div>
@@ -93,63 +90,90 @@ class: surveymark-page
     </div>
 </div>
 
-{% if page.coordinates_submitted %}
-<p class="coordinates-submitted">Updated GPS coordinates have been submitted to NGS.</p>
-{% endif %}
-
-{% if page.photos_submitted %}
-<p class="photos-submitted">Photos of this mark have been submitted to NGS.</p>
-{% endif %}
-
 {% if page.ngs_report %}
-    {% unless page.ngs_report_text %}
-    <div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS.</div> 
-    {% endunless %}   
+<div class="ngs-recovery-info">
+  <h2>NGS recovery information</h2>
+  <div class="parent">
+    <div class="ngs-metadata">
+      <h3>Metadata</h3>
+      {% if page.photos_submitted %}
+        <span class="ngs-photo-status true"><i class="fa-solid fa-check"></i> Photographs submitted</span>
+      {% else %}
+        <span class="ngs-photo-status false"><i class="fa-solid fa-xmark"></i> <i>Photographs not submitted</i></span>
+      {% endif %}
+      {% if page.coordinates_submitted %}
+        <span class="ngs-coords-status true"><i class="fa-solid fa-check"></i> Coordinates updated
+      {% else %}
+        <span class="ngs-coords-status false"><i class="fa-solid fa-xmark"></i> <i>Coordinates not updated</i>
+      {% endif %}</div>
+    <div class="ngs-descriptive-text">
+      <h3>Descriptive text</h3>
+      {% if page.ngs_report %}
+        {% unless page.ngs_report_text %}
+          {% if page.status == "Recovered" %}
+            Recovered in {{ page.condition | downcase }} condition.
+          {% elsif page.status == "Not Found" %}  
+            Mark not found.
+          {% else %}
+            A report on the condition of this survey mark has been submitted to NGS.
+          {% endif %}
+        {% endunless %}   
+      {% endif %}
+      {% if page.ngs_report_text %}
+        {{ page.ngs_report_text | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% endif %}
+    </div>
+  </div>
+</div>
 {% endif %}
 
-{% if page.ngs_report_text %}
-<div class="ngs-report">A report on the condition of this survey mark has been submitted to NGS, along with the following recovery note: {{ page.ngs_report_text | markdownify }}</div>
+{% if page.usgs_report %}
+<div class="ngs-recovery-info">
+  <h2>USGS recovery information</h2>
+  <a href="{{ page.usgs_report_link }}">View report</a>
+  </div>
 {% endif %}
 
 <h2>Narrative and photographs</h2>
 
-<div class="parent-mark"><i>For more information about this reference mark, see its parent mark </i><a href="/surveymarks/{{ page.parent }}">{{ page.parent_name }}</a>.</div>
-
 <div class="recovery-notes">
-    {% if page.rich_text %}
-    <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
-        <ul class="js-tablist">
-            {% if page.zhanna_text %}
-            <li class="js-tablist__item">
-                <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's report</a>
-            </li>
-            {% endif %}
-            {% if page.rich_text %}
-            <li class="js-tablist__item">
-                <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's report</a>
-            </li>
-            {% endif %}
-        </ul>
-        {% if page.zhanna_text %}
-        <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
-            {{ page.zhanna_text | markdownify }}
-            {% assign gal_zh_class = page.image_gallery_zh_class %}
-            {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
-        </div>
-        {% endif %}
-        {% if page.rich_text %}
-        <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
-            {{ page.rich_text | markdownify }}
-            {% assign gal_r_class = page.image_gallery_r_class %}
-            {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
-        </div>
-        {% endif %}
+  <div class="parent-mark">
+    <p><i>For more information about this reference mark, see its parent mark </i><a href="/surveymarks/{{ page.parent }}">{{ page.parent_name }}</a>.</p>
+  </div>
+  {% if page.rich_text %}
+  <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
+    <ul class="js-tablist">
+      {% if page.zhanna_text %}
+      <li class="js-tablist__item">
+          <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's report</a>
+      </li>
+      {% endif %}
+      {% if page.rich_text %}
+      <li class="js-tablist__item">
+          <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's report</a>
+      </li>
+      {% endif %}
+    </ul>
+    {% if page.zhanna_text %}
+    <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
+        {{ page.zhanna_text | markdownify }}
+        {% assign gal_zh_class = page.image_gallery_zh_class %}
+        {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
     </div>
-    {% else %}
-    {{ page.zhanna_text | markdownify }}
-    {% assign gal_zh_class = page.image_gallery_zh_class %}
-    {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
     {% endif %}
+    {% if page.rich_text %}
+    <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+        {{ page.rich_text | markdownify }}
+        {% assign gal_r_class = page.image_gallery_r_class %}
+        {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
+    </div>
+    {% endif %}
+  </div>
+  {% else %}
+  {{ page.zhanna_text | markdownify }}
+  {% assign gal_zh_class = page.image_gallery_zh_class %}
+  {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+  {% endif %}
 </div>
 
 <section class="comments">
