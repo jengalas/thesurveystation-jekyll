@@ -1,17 +1,19 @@
-.status span:nth-child(2){
-  display: flex;
-  margin-top: .5em;
-}
-.data-wrapper {
+.surveymark-page {
+
+  .status span:nth-child(2){
+    display: flex;
+    margin-top: .5em;
+  }
+  h2 {
+    font-size: 1.75rem;
+    margin-bottom: 0.8rem;
+  }
+  .data-wrapper {
     b {
       color: #595959;
     }
     h2:first-child {
         margin-top: 0;
-    }
-    h2 {
-        font-size: 1.75rem;
-        margin-bottom: .8rem;
     }
     ul {
         list-style-type: none;
@@ -24,61 +26,102 @@
         padding: .1rem 0;
         vertical-align: top;
     }
-
     .plane-coords {
-        border-collapse: collapse;
-        font-size: 90%;
-        margin-top: 1rem;
+      border-collapse: collapse;
+      font-size: 90%;
+      margin-top: 1rem;
 
-        thead > tr:first-child {
-            border-bottom: 1px solid gray;
-        }
-        tr > td:nth-child(2) {
-            padding-left: 0;
-        }
-        th, td {
-            padding: 1rem 2rem 1rem 0;
-        }
+      thead > tr:first-child {
+          border-bottom: 1px solid gray;
+      }
+      tr > td:nth-child(2) {
+          padding-left: 0;
+      }
+      th, td {
+          padding: 1rem 2rem 1rem 0;
+      }
     }
-}
-.map-wrapper { 
-    display: flex;
-    flex-direction: column;
-    height:500px;
-}
-.responsive-two-columns {
-    display:block;
-    column-gap: 1rem;
-}
-/* tablet breakpoint */
-@media (min-width:768px) {
+  }
+  .map-wrapper { 
+      display: flex;
+      flex-direction: column;
+      height:500px;
+  }
+  .responsive-two-columns {
+      display:block;
+      column-gap: 1rem;
+  }
+  /* tablet breakpoint */
+  @media (min-width:768px) {
     .responsive-two-columns {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
-}
-.ngs-report,
-.coordinates-submitted {
-    margin: 2rem 0;
-    border: 1px solid #e2e4e7;
-    padding: 0 1rem;
-    background-color: #f8f9fa;
-    clear: left;
-}
-.official-description,
-.usgs-report {
-    margin-top: 1.2rem;
-}
-.state,
-.county,
-.quad {
-    text-transform: capitalize;
-}
-.recovery-notes {
-    margin-top: 1.5rem;
-}
-.referenceMarks img {
-    height: 150px;
-    object-fit: cover;
-    width: 150px;
+  }
+  .ngs-recovery-info {
+    margin-bottom: 2em;
+
+    .parent {
+      display: grid;
+      font-size: 1.1rem;
+      grid-template-columns: 1fr;
+    }
+    
+    h3 {
+      border-bottom: 1px solid #a7a7a7;
+      font-size: 1.2rem;
+      font-weight: 700;
+      padding-bottom: .3em;
+    }
+    
+    .ngs-photo-status,
+    .ngs-coords-status {
+      display: block;
+      margin-bottom: .5em;
+    
+      &.true i {
+        color: green;
+      }
+    
+      &.false {
+        color: #a3a3a3;
+      }
+    }
+    @media (min-width: 736px) {
+      .parent {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 8px;
+      }        
+    
+      .ngs-descriptive-text {
+        grid-column: span 3 / span 3;
+        grid-row: span 2 / span 2;
+        grid-column-start: 2;
+        grid-row-start: 1;
+      }
+    
+      h3 {
+        margin-top: 0;
+      }
+    }
+  }
+
+  .official-description,
+  .usgs-report {
+      margin-top: 1.2rem;
+  }
+  .state,
+  .county,
+  .quad {
+      text-transform: capitalize;
+  }
+  .recovery-notes {
+      margin-top: 1.5rem;
+  }
+  .referenceMarks img {
+      height: 150px;
+      object-fit: cover;
+      width: 150px;
+  }
 }

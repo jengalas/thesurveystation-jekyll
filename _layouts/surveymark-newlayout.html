@@ -1,56 +1,11 @@
 ---
 layout: default
+class: surveymark-page
 ---
 
 {% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
 {% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 {% capture date %}{{ page.date | date: "%B %e, %Y" }}{% endcapture %}
-
-<style>
-   th, td {padding: 1rem .5rem .5rem .3rem; vertical-align: top;}
-   td p { margin: 0; }
-        
-   .parent {
-      display: grid;
-      grid-template-columns: 1fr;
-    }
-
-    h2 {
-      font-size: 1.75rem;
-      margin-bottom: 0.8rem;
-    }
-
-    h3 {
-      border-bottom: 1px solid #a7a7a7;
-      font-size: 1.2rem;
-      font-weight: 700;
-      padding-bottom: .3em;
-    }
-
-    @media (min-width: 736px) {
-      .parent {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-        gap: 8px;
-      }        
-
-    .div2 {
-      grid-column-start: 1;
-      grid-row-start: 2;
-    }
-
-    .div3 {
-      grid-column: span 3 / span 3;
-      grid-row: span 2 / span 2;
-      grid-column-start: 2;
-      grid-row-start: 1;
-      }
-
-      h3 {
-        margin-top: 0;
-      }
-    }
-</style>
 
 <h1>{{ page.designation }}</h1>
 
@@ -128,9 +83,6 @@ layout: default
                 <td class="official-description"><b>Description ({{ page.agency}})</b></td><td>{{ page.official_description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
                 {% endif %}                
             </tr>
-            {% if page.usgs_report %}
-                <tr><td colspan="2"><span class="usgs-report"><a href="{{ page.usgs_report_link }}">View my report to USGS</a></span></td></tr>
-            {% endif %}
         </table>
     </div>
     <div class="map-wrapper">
@@ -138,28 +90,33 @@ layout: default
     </div>
 </div>
 
-<div style="margin-bottom: 2em;">
-  {% if page.ngs_report %}
+{% if page.ngs_report %}
+<div class="ngs-recovery-info">
   <h2>NGS recovery information</h2>
   <div class="parent">
-    <div class="div1">
+    <div class="ngs-metadata">
       <h3>Metadata</h3>
       {% if page.photos_submitted %}
-        <i class="fa-solid fa-check" style="color: green;"></i> Photographs submitted
+        <span class="ngs-photo-status true"><i class="fa-solid fa-check"></i> Photographs submitted</span>
       {% else %}
-        <i class="fa-solid fa-xmark" style="color: #a7a7a7;"></i> <i style="color: #a3a3a3;">Photographs not submitted</i>
+        <span class="ngs-photo-status false"><i class="fa-solid fa-xmark"></i> <i>Photographs not submitted</i></span>
       {% endif %}
-    </div>
-    <div class="div2">{% if page.coordinates_submitted %}
-      <i class="fa-solid fa-check" style="color: green;"></i> Coordinates updated
-    {% else %}
-      <i class="fa-solid fa-xmark" style="color: #a7a7a7;"></i> <i style="color: #a3a3a3;">Coordinates not updated</i>
-    {% endif %}</div>
-    <div class="div3">
-    <h3>Descriptive text</h3>
+      {% if page.coordinates_submitted %}
+        <span class="ngs-coords-status true"><i class="fa-solid fa-check"></i> Coordinates updated
+      {% else %}
+        <span class="ngs-coords-status false"><i class="fa-solid fa-xmark"></i> <i>Coordinates not updated</i>
+      {% endif %}</div>
+    <div class="ngs-descriptive-text">
+      <h3>Descriptive text</h3>
       {% if page.ngs_report %}
         {% unless page.ngs_report_text %}
-          A report on the condition of this survey mark has been submitted to NGS.
+          {% if page.status == "Recovered" %}
+            Recovered in {{ page.condition | downcase }} condition.
+          {% elsif page.status == "Not Found" %}  
+            Mark not found.
+          {% else %}
+            A report on the condition of this survey mark has been submitted to NGS.
+          {% endif %}
         {% endunless %}   
       {% endif %}
       {% if page.ngs_report_text %}
@@ -167,8 +124,15 @@ layout: default
       {% endif %}
     </div>
   </div>
-  {% endif %}
 </div>
+{% endif %}
+
+{% if page.usgs_report %}
+<div class="ngs-recovery-info">
+  <h2>USGS recovery information</h2>
+  <a href="{{ page.usgs_report_link }}">View report</a>
+  </div>
+{% endif %}
 
 <h2>Narrative and photographs</h2>
 
