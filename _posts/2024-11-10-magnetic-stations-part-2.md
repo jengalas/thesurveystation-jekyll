@@ -51,6 +51,10 @@ bearings were determined:
 
 This one is very difficult to determine! Right now my best guess, based on nothing but going back and forth between the description, PennPilot imagery, and modern maps, is somewhere around **41.4310285, -76.490615**. I will have to check it against the bearings but a preliminary look doesn't seem to work out.
 
-See: [https://sites.rootsweb.com/~pasulliv/churches/Adona.htm](https://sites.rootsweb.com/~pasulliv/churches/Adona.htm) for discussion of the church(es).
+See: [https://sites.rootsweb.com/~pasulliv/churches/Adona.htm (1965)](https://sites.rootsweb.com/~pasulliv/churches/Adona.htm) for discussion of the church(es). The history is complicated but based on that site, it seems that the old Methodist/Episcopal Church later became the Community Hall, also used by the fire company in the 1960s. I think the address is 346 Muncy Street (41.422826, -76.494161).
+
+There are no available historical USGS topo maps from before 1934, and the online historical road maps (the earliest of which is from 1915) don't show much detail. This map: [Topographical map of Sullivan Co., Pennsylvania, 1872](https://www.loc.gov/resource/g3823s.la000798/?r=0.446,0.497,0.155,0.106,0) is interesting, and references a McFarlane property, but otherwise doesn't seem to be of much help.
+
+I haven't been able to find anything else online to help me pin down the locations of any of the reference points other than the church. Perhaps a trip to the Sullivan County Historical Society to view their [map collection](https://www.scpahistory.com/map-collection) and speak to the folks there will help.
 
 {% include simple-map.html map_id="2" latitude="41.4310285" longitude="-76.490615" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
