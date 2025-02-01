@@ -273,4 +273,35 @@
 - state: Wisconsin
   databases:
     - title: Wisconsin ControlFinder (contains NGS, USGS, and county data)
-      url: https://maps.sco.wisc.edu/surveycontrolfinder/#7/44.827/-90.143/NGS,county,USGS,CORS/terrain      
+      url: https://maps.sco.wisc.edu/surveycontrolfinder/#7/44.827/-90.143/NGS,county,USGS,CORS/terrain     
+- state: Australia
+  databases:
+    - title: SMES — Survey Marks Enquiry Service (Victoria)
+      url: https://maps.land.vic.gov.au/lassi/SmesUI.jsp
+    - title: SurCoM — Survey Control Marks (Tasmania)         
+      url: https://surcom.dpipwe.tas.gov.au/
+- state: Canada
+  databases:
+    - title: Canada Geodetic Reference Systems Data
+      url: https://www.nrcan.gc.ca/earth-sciences/geomatics/geodetic-reference-systems/data/10923
+    - title: MASCOT (British Columbia)
+      url: https://www2.gov.bc.ca/gov/content/data/geographic-data-services/geo-spatial-referencing/survey-control-operations
+    - title: Nova Scotia Coordinate Referencing System Viewer
+      url: https://nsgi.novascotia.ca/nscrs-viewer
+    - title: Geodetic reference systems in Canada
+      url: https://www.nrcan.gc.ca/maps-tools-and-publications/geodetic-reference-systems/18766     
+- state: France
+  databases:
+    - title: IGN Serveur de Fiches Géodésiques(Geodetic Sheet Server)
+      url: https://geodesie.ign.fr/fiches/index.php?module=e&action=visugeod   
+- state: United Kingdom    
+  databases:
+    - title: Bench Mark Database (recreational benchmark hunting website)
+      url: https://www.bench-marks.org.uk/
+    - title: Channel Coastal Observatory Map Viewer
+      url: https://coastalmonitoring.org/cco/
+    - title: Ordnance Survey Benchmark Locator
+      url: https://www.ordnancesurvey.co.uk/benchmarks/
+    - title: OS Benchmark Archive map    
+      url: https://interactivemaps.uk/os-benchmark-archive/#8/53.551/-2.062   
+    
