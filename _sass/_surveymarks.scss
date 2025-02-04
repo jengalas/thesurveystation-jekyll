@@ -46,6 +46,15 @@
       display: flex;
       flex-direction: column;
       height:500px;
+
+      h1 {
+        font-size: 1.5rem;
+        margin: 0;
+      }
+
+      p {
+        margin: 0;
+      }
   }
   .responsive-two-columns {
       display:block;

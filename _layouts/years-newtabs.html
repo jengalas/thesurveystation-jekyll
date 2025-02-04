@@ -15,67 +15,13 @@ layout: default
 </style>
 
 <h1>Survey Mark Recoveries</h1>
-<h2>{{ page.year }} - new tabs</h2>
+<h2>{{ page.year }}</h2>
 
 {% assign marks = site.surveymarks | concat: site.reference_marks | where: "date", page.year  | sort: "date" | reverse %}
 
 {% assign recMarks = marks | where: "status", "Recovered" | sort: "date" %}
 {% assign nfMarks = marks | where: "status", "Not Found" | sort: "date" %}
 {% assign noteMarks = marks | where: "status", "Note Entered" | sort: "date" %}
-
-<!-- <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
-    <ul class="js-tablist">
-        {% if recMarks.size > 0 %}
-        <li class="js-tablist__item">
-            <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Found or Confirmed Destroyed <span class="mark-count">({{ recMarks.size }})</span></a>
-        </li>
-        {% endif %}
-        {% if nfMarks.size > 0 %}
-        <li class="js-tablist__item">
-            <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Not Found <span class="mark-count">({{ nfMarks.size }})</span></a>
-        </li>
-        {% endif %}
-        {% if noteMarks.size > 0 %}
-        <li class="js-tablist__item">
-            <a href="#id_third-{{ forloop.index }}" class="js-tablist__link">Notes Made <span class="mark-count">({{ noteMarks.size }})</span></a>
-        </li>
-        {% endif %}
-    </ul>
-    {% if recMarks.size > 0 %}
-    <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
-        <div class="archive-grid cards">
-        {% for rec in recMarks reversed %}
-            <div class="card">
-                {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
-                {% if rec.featured_image %}
-                    <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a>  
-                {% else %} 
-                    <a href="{{ rec.url }}"><img src="/assets/img/default-bm-featured-image-150x150.jpg" style="width: 150px;"><br>{{ rec.designation }}</a>
-                {% endif %}   
-            </div>
-        {% endfor %}
-        </div>
-    </div>
-    {% endif %}
-    {% if nfMarks.size > 0 %}
-    <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
-        <ul>
-        {% for rec in nfMarks reversed %}
-            <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
-        {% endfor %}
-        </ul>
-    </div>
-    {% endif %}
-    {% if noteMarks.size > 0 %}
-    <div id="id_third-{{ forloop.index }}" class="js-tabcontent">
-        <ul>
-        {% for rec in noteMarks reversed %}
-            <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
-        {% endfor %}
-        </ul>
-    </div>
-    {% endif %}
-</div> -->
 
 <div class="widget__wrapper">
   <details open>
@@ -142,7 +88,7 @@ layout: default
       <button class="widget__btn" id="btn-${
         idx + 1
       }" data-btn-idx="${idx}" aria-controls="panel-${idx + 1}">${
-      el.firstElementChild.textContent
+      el.firstElementChild.innerHTML
     }</button></h3>
       <div class="widget__panel" id="panel-${
         idx + 1

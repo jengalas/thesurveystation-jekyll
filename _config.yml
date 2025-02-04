@@ -54,7 +54,7 @@ page_gen:
   name: slug
   dir: agency  
 - data: 'years'
-  template: 'years'
+  template: 'years-newtabs'
   index_files: false
   name: year
   dir: year   

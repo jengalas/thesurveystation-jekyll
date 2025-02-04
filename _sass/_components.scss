@@ -252,6 +252,10 @@
 
 .justified-gallery a {
     border-bottom: 0;
+
+    &:hover {
+      border-bottom-width: 0;
+    }
 }
 
 .lg-sub-html {

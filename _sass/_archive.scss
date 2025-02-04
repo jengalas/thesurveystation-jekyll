@@ -4,15 +4,26 @@
   font-weight: 200;
 }
 
-.archive-grid.cards {
+.widget__panel {
   margin: 0 auto;
   display: grid;
   gap: 1rem;
 
-  a {
+  a, a:hover {
       border-bottom: 0;
       color: $bodyColor;
       text-decoration: none;
+  }
+
+  &#panel-2 a, &#panel-3 a {
+    border-bottom: 1px dotted #7ba60d;
+    color: #7ba60d;
+  }
+
+  &#panel-2 a:hover, &#panel-3 a:hover {
+    border-bottom: 1px solid #a1cf2d;
+    color: #a1cf2d;
+    transition: color 0.3s ease-in-out;
   }
 
   .card {
@@ -39,5 +50,185 @@
 
   @media (min-width: 900px) {
       grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.widget__controls-wrapper {
+  border-bottom: 1px solid #ddd;
+}
+
+.widget__heading {
+  margin: 0;
+
+  button {
+    border: 0;
+    background-color: transparent;
+   
+    @media (min-width: 768px) {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+}
+
+details {
+  margin-bottom: 2px;
+}
+
+details div {
+  padding: 8px;
+}
+
+summary {
+  padding: 8px 10px;
+  font-weight: bold;
+}
+
+summary:focus-visible {
+  outline: 2px solid transparent;
+}
+
+.widget__btn {
+  color: #474747;
+  font-family: $bodyFont;
+  line-height: 1.5;
+  position: relative;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+
+  @media (min-width: 768px) {
+    padding: 8px 10px;
+  }
+}
+
+.widget__btn[aria-expanded] {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2px;
+  width: 100%;
+  text-align: left;
+}
+
+.widget__btn[aria-expanded]::before,
+.widget__btn[aria-expanded]::after {
+  content: "";
+  position: absolute;
+}
+
+.widget__btn[aria-expanded]::before {
+  right: 20px;
+  height: 20px;
+  width: 6px;
+  transition: transform ease-in 200ms;
+}
+
+.widget__btn[aria-expanded]::after {
+  right: 13px;
+  height: 6px;
+  width: 20px;
+}
+
+.widget__btn[aria-expanded="true"]::before {
+  transform: scaleY(0);
+}
+
+.widget__btn[aria-expanded]:focus-visible {
+  outline: 2px solid transparent;
+}
+
+.widget__btn[aria-expanded]:focus-visible::before,
+.widget__btn[aria-expanded]:focus-visible::after {
+  background-color: var(--colour-bg);
+}
+
+.widget__panel[role="region"] {
+  position: relative;
+  top: -2px;
+  border: 2px solid var(--colour-interactive);
+  border-top: none;
+  padding: 8px;
+}
+
+[role="tablist"] {
+  display: flex;
+  gap: 2px;
+}
+
+[role="tab"] {
+  border: 1px solid var(--colour-interactive);
+  border-bottom: none;
+  border-radius: 3px 3px 0 0;
+  background-color: white;
+}
+
+[role="tab"][aria-selected="true"] {
+  border-bottom: 5px solid #7ba60d;
+}
+
+[role="tab"][aria-selected="true"]::before,
+[role="tab"][aria-selected="true"]::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 100%;
+}
+
+[role="tab"][aria-selected="true"]::before {
+  top: 0;
+  height: 0;
+}
+
+[role="tab"][aria-selected="true"]::after {
+  bottom: -1px;
+  width: 100%;
+  height: 3px;
+}
+
+[role="tabpanel"] {
+  padding: 1rem 0;
+}
+
+[role="tab"]:focus-visible {
+  outline-offset: -8px;
+}
+
+[role="tabpanel"]:focus-visible {
+  position: relative;
+  z-index: 1;
+}
+
+[hidden],
+[data-expanded="false"]+.widget__panel {
+  display: none;
+}
+
+@media screen and (forced-colors: active) {
+  
+  summary:focus-visible {
+    outline-width: 3px;
+    outline-offset: 3px;
+  }
+
+  .widget__btn[aria-expanded]::before,
+  .widget__btn[aria-expanded]::after {
+    background-color: ButtonText;
+  }
+  
+  .widget__btn {
+    background-color: Window;
+  }
+  
+  .widget__btn[aria-controls]:focus {
+    background-color: Window;
+  }
+  
+  .widget__btn[aria-expanded]:focus::before,
+  .widget__btn[aria-expanded]:focus::after {
+    background-color: ButtonText;
+  }
+
+  [role="tab"][aria-selected="true"]::after {
+    background-color: Window;
   }
 }
