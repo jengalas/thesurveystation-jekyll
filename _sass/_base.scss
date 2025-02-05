@@ -265,6 +265,7 @@ strong {
 
   h3 {
     flex-grow: 1;
+    line-height: 1.5;
     margin-bottom: 0;
 
     a {
@@ -275,7 +276,7 @@ strong {
   @media screen and (min-width: $normal) {
     align-items: center;
     flex-direction: row;
-    padding: 0;
+    padding: .3em 0;
 
     .tags {
       text-align: right;
@@ -321,7 +322,7 @@ strong {
     @media screen and (min-width: $normal) {
       align-items: center;
       flex-direction: row;
-      padding: 0;
+      padding: .3rem 0;
 
       .tags {
         text-align: right;
@@ -356,7 +357,7 @@ strong {
     border: 1px solid #e5e7eb;
     border-radius: 1rem;
     color: #474747;
-    padding: .5rem;
+    padding: .4rem .5rem;
 
     &:hover {
       background-color: #ffffff;
