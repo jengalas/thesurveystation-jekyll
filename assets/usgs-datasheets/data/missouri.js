@@ -356,6 +356,120 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/24-Protem/Horizontal.pdf",
           "hyear": "1970"
         }
-      }  
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93,36.5],[-93,36.75],[-93.25,36.75],[-93.25,36.5],[-93,36.5]]]
+        },
+        "properties": {
+          "name": "Forsyth No. 4",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/25-Forsyth-4/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/25-Forsyth-4/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.25,36.5],[-93.25,36.75],[-93.5,36.75],[-93.5,36.5],[-93.25,36.5]]]
+        },
+        "properties": {
+          "name": "Forsyth No. 3",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/26-Forsyth-3/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/26-Forsyth-3/Horizontal.pdf",
+          "hyear": "1964"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.5,36.5],[-93.5,36.75],[-93.75,36.75],[-93.75,36.5],[-93.5,36.5]]]
+        },
+        "properties": {
+          "name": "Shell Knob",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/27-Shell-Knob/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/27-Shell-Knob/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.75,36.5],[-93.75,36.75],[-94,36.75],[-94,36.5],[-93.75,36.5]]]
+        },
+        "properties": {
+          "name": "Cassville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/28-Cassville/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/28-Cassville/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94,36.5],[-94,36.75],[-94.25,36.75],[-94.25,36.5],[-94,36.5]]]
+        },
+        "properties": {
+          "name": "Rocky Comfort",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/29-Rocky-Comfort/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/29-Rocky-Comfort/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.25,36.5],[-94.25,36.75],[-94.5,36.75],[-94.5,36.5],[-94.25,36.5]]]
+        },
+        "properties": {
+          "name": "Noel",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/30-Noel/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/30-Noel/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.5,36.5],[-94.5,36.75],[-94.75,36.75],[-94.75,36.5],[-94.5,36.5]]]
+        },
+        "properties": {
+          "name": "South West City",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/31-South-West-City/Vertical.pdf",
+          "vyear": "Unknown date",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/31-South-West-City/Horizontal.pdf",
+          "hyear": "1963"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89,36.75],[-89,37],[-89.25,37],[-89.25,36.75],[-89,36.75]]]
+        },
+        "properties": {
+          "name": "Wickliffe",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/32-Wickliffe/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/32-Wickliffe/Horizontal.pdf",
+          "hyear": "1967",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/32-Wickliffe/Corps-of-Engineers.pdf",
+          "cyear": "1966"
+        }
+      }
     ]
   };
