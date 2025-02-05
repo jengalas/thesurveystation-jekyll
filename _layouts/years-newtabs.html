@@ -2,18 +2,6 @@
 layout: default
 ---
 
-<style>
-  [role='tablist'] {
-    display: flex;
-    gap: 2px;
-  }
-
-  [hidden],
-  [data-expanded='false'] + .widget__panel {
-    display: none;
-  }
-</style>
-
 <h1>Survey Mark Recoveries</h1>
 <h2>{{ page.year }}</h2>
 
@@ -43,7 +31,7 @@ layout: default
     <summary>{% if nfMarks.size > 0 %}Not Found <span class="mark-count">({{ nfMarks.size }})</span>{% endif %}</summary>
     <div>
       {% if nfMarks.size > 0 %}
-      <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+      <div id="id_second-{{ forloop.index }}">
           <ul>
           {% for rec in nfMarks reversed %}
               <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
@@ -57,7 +45,7 @@ layout: default
     <summary>{% if noteMarks.size > 0 %}Notes Made <span class="mark-count">({{ noteMarks.size }})</span>{% endif %}</summary>
     <div>
       {% if noteMarks.size > 0 %}
-      <div id="id_third-{{ forloop.index }}" class="js-tabcontent">
+      <div id="id_third-{{ forloop.index }}">
           <ul>
           {% for rec in noteMarks reversed %}
               <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
