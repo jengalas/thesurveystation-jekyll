@@ -258,6 +258,104 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/17-Gatewood/Horizontal.pdf",
           "hyear": "1964"
         }
-      }    
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,36.5],[-91.25,36.75],[-91.5,36.75],[-91.5,36.5],[-91.25,36.5]]]
+        },
+        "properties": {
+          "name": "Couch",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/18-Couch/Vertical.pdf",
+          "vyear": "1967",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/18-Couch/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,36.5],[-91.5,36.75],[-91.75,36.75],[-91.75,36.5],[-91.5,36.5]]]
+        },
+        "properties": {
+          "name": "Thayer",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/19-Thayer/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/19-Thayer/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.75,36.5],[-91.75,36.75],[-92,36.75],[-92,36.5],[-91.75,36.5]]]
+        },
+        "properties": {
+          "name": "West Plains",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/20-West-Plains/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/20-West-Plains/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92,36.5],[-92,36.75],[-92.25,36.75],[-92.25,36.5],[-92,36.5]]]
+        },
+        "properties": {
+          "name": "Cureall",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/21-Cureall/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/21-Cureall/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.25,36.5],[-92.25,36.75],[-92.5,36.75],[-92.5,36.5],[-92.25,36.5]]]
+        },
+        "properties": {
+          "name": "Gainesville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/22-Gainesville/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/22-Gainesville/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.5,36.5],[-92.5,36.75],[-92.75,36.75],[-92.75,36.5],[-92.5,36.5]]]
+        },
+        "properties": {
+          "name": "Thornfield",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/23-Thornfield/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/23-Thornfield/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.75,36.5],[-92.75,36.75],[-93,36.75],[-93,36.5],[-92.75,36.5]]]
+        },
+        "properties": {
+          "name": "Protem",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/24-Protem/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/24-Protem/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      }  
     ]
   };
