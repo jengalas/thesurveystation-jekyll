@@ -27,7 +27,7 @@ It’s also an inspiration to me to think of the early surveyors setting out acr
 
 ## The How
 
-My “Beginners’ Guide to Survey Mark Hunting” is still a work in progress.
+Explore the resources on the [Survey Mark Hunting](/survey-mark-hunting) page to get started!
 
 ## The Disclaimer
 
