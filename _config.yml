@@ -20,6 +20,7 @@ defaults:
       type: "surveymarks"
     values:
       layout: "surveymark-newlayout"
+      mark-type: "surveymark"
       zoom: 15
   - scope:
       path: ""
@@ -32,6 +33,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"   
+  - scope:
+      path: "year"
+      type: "pages"
+    values:
+      page-type: "year-index"    
   - scope:
       path: "" # an empty string here means all files in the project
       type: pages # Apply the default values below only to pages

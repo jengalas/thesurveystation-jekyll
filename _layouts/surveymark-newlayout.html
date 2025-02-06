@@ -137,41 +137,80 @@ class: surveymark-page
 <h2>Narrative and photographs</h2>
 
 <div class="recovery-notes">
+  {% if page.rich_text %}
+  <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
+      <ul class="js-tablist">
+          {% if page.zhanna_text %}
+          <li class="js-tablist__item">
+              <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's report</a>
+          </li>
+          {% endif %}
+          {% if page.rich_text %}
+          <li class="js-tablist__item">
+              <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's report</a>
+          </li>
+          {% endif %}
+      </ul>
+      {% if page.zhanna_text %}
+      <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
+          {{ page.zhanna_text | markdownify }}
+          {% assign gal_zh_class = page.image_gallery_zh_class %}
+          {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+      </div>
+      {% endif %}
+      {% if page.rich_text %}
+      <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+          {{ page.rich_text | markdownify }}
+          {% assign gal_r_class = page.image_gallery_r_class %}
+          {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      </div>
+      {% endif %}
+  </div>
+  {% else %}
+  {{ page.zhanna_text | markdownify }}
+  {% assign gal_zh_class = page.image_gallery_zh_class %}
+  {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+  {% endif %}
+</div>
+
+<!-- <div class="recovery-notes">
+  {% if page.rich_text %}
+  <div class="widget__wrapper">
+    <details open>
+      <summary>Zhanna's report</summary>
+        <div>
+          {% for rec in recMarks reversed %}
+              <div class="card">
+                  {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+                  {% if rec.featured_image %}
+                      <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a>  
+                  {% else %} 
+                      <a href="{{ rec.url }}"><img src="/assets/img/default-bm-featured-image-150x150.jpg" style="width: 150px;"><br>{{ rec.designation }}</a>
+                  {% endif %}   
+              </div>
+          {% endfor %}
+          </div>
+    </details>
     {% if page.rich_text %}
-    <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="recovery-log-tabs-tabs">
-        <ul class="js-tablist">
-            {% if page.zhanna_text %}
-            <li class="js-tablist__item">
-                <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's report</a>
-            </li>
-            {% endif %}
-            {% if page.rich_text %}
-            <li class="js-tablist__item">
-                <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's report</a>
-            </li>
-            {% endif %}
-        </ul>
-        {% if page.zhanna_text %}
-        <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
-            {{ page.zhanna_text | markdownify }}
-            {% assign gal_zh_class = page.image_gallery_zh_class %}
-            {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+    <details>
+      <summary>Rich's report</summary>
+      <div>
+        {{ page.rich_text | markdownify }}
+        {% assign gal_r_class = page.image_gallery_r_class %}
+        {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
         </div>
-        {% endif %}
-        {% if page.rich_text %}
-        <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
-            {{ page.rich_text | markdownify }}
-            {% assign gal_r_class = page.image_gallery_r_class %}
-            {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
-        </div>
-        {% endif %}
-    </div>
+ 
+      </div>
+    </details>
+    {% endif %}
+  </div>
+  
     {% else %}
     {{ page.zhanna_text | markdownify }}
     {% assign gal_zh_class = page.image_gallery_zh_class %}
     {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
-    {% endif %}
-</div>
+  {% endif %}
+</div> -->
 
 {% if page.is_parent == true %}
 <div class="reference-marks">{% include reference-marks.html %}</div>

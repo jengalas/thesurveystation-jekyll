@@ -18,7 +18,11 @@
   </svg>
 </button>
 <script src="/assets/js/main.js" crossorigin="anonymous"></script>
-<script src="/assets/js/accessible-tabs.js"></script>
+{% if page.mark-type == "surveymark" %}
+  <script src="/assets/js/accessible-tabs.js"></script>
+{% endif %}
+  <script src="/assets/js/accessible-tabs-accordion.js"></script>
+
 <script src="/assets/js/lightgallery.min.js"></script>
 <script src="/assets/js/plugins/relativeCaption/lg-relative-caption.min.js"></script>
 <script>
