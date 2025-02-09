@@ -27,6 +27,7 @@ defaults:
       type: "reference_marks"
     values:
       layout: "reference-mark"
+      mark-type: "reference-mark"
       zoom: 15
   - scope:
       path: ""

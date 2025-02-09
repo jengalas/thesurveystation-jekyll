@@ -1,10 +1,9 @@
 ---
 layout: default
-page-type: year-index
 ---
 
 <h1>Survey Mark Recoveries</h1>
-<h2>{{ page.year }} {{ page.page-type }}</h2>
+<h2>{{ page.year }}</h2>
 
 {% assign marks = site.surveymarks | concat: site.reference_marks | where: "date", page.year  | sort: "date" | reverse %}
 
