@@ -190,12 +190,22 @@
     padding-left: 2rem;
 }
 
+h3:has(+ .resources-list) {
+  margin-bottom: .5em;
+}
+
 .resources-list {
+    margin-top: .3em;
+
     dd {
         border-bottom: 1px solid #f7f3ef;
         font-size: 1.02rem;
         margin-left: 0;
         padding-bottom: 1rem;
+
+        &:last-child {
+          border-bottom: 0;
+        }
     }
 
     dt {

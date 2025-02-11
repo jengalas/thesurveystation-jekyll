@@ -54,10 +54,6 @@
       url: http://www.dgs.udel.edu/publications/ofr17-guide-information-benchmarks-delaware    
 - state: Florida  
   databases:
-    - title: Disney Benchmarks Pages by Patty Winter
-      url: http://www.wintertime.com/OH/GC/Disney/disneymarks.html   
-    - title: Disney World Surveying Benchmarks
-      url: https://support.sas.com/documentation/onlinedoc/guide/blog/benchmarks/benchmarks.htm  
     - title: Florida Department of Environmental Protection Land Boundary Information System (LABINS) 
       url: http://www.labins.org/ 
     - title: Hillsborough County Benchmarks
@@ -298,8 +294,6 @@
       url: https://geodesie.ign.fr/fiches/index.php?module=e&action=visugeod   
 - state: United Kingdom    
   databases:
-    - title: Bench Mark Database (recreational benchmark hunting website)
-      url: https://www.bench-marks.org.uk/
     - title: Channel Coastal Observatory Map Viewer
       url: https://coastalmonitoring.org/cco/
     - title: Ordnance Survey Benchmark Locator

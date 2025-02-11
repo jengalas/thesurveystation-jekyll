@@ -12,6 +12,7 @@ class: survey-data
 
 This list contains both professional data and information for recreational hunters, so please note the source of each and evaluate accordingly. Also note that some sources, USGS datasheets in particular, contain many superseded marks that are no longer reliable for survey purposes but are very useful for recreational survey mark hunting.
 
+### Professional resources
 [NGS Database: Datasheets and Survey Mark Recovery](http://www.ngs.noaa.gov/datasheets/)
 : Search/browse the main authoritative source of official survey data for the United States.
 
@@ -35,12 +36,24 @@ This list contains both professional data and information for recreational hunte
 
 [Yellowstone National Park Benchmark Database](https://pubs.usgs.gov/pp/1788/pp1788_benchmarks/)
 : Data and photos of over 500 benchmarks in Yellowstone National Park, many of which are still used for gravity and GPS observations
+{: .resources-list .border}
 
-[Waymarking search for “survey markers”](http://www.waymarking.com/cat/search.aspx?f=1&cst=7&kw=survey%20markers&st=2)
-: A resource for recreational survey mark hunters
+### Recreational resources
+
+[Bench Mark Database](https://www.bench-marks.org.uk/)
+: UK-based recreational benchmark hunting site
 
 [The Corner Corner](http://www.bjbsoftware.com/corners/)
 : Search for locations where multiple states meet at a point.
+
+[Disney Benchmarks Pages by Patty Winter](http://www.wintertime.com/OH/GC/Disney/disneymarks.html)
+: 
+
+[Disney World Surveying Benchmarks](https://support.sas.com/documentation/onlinedoc/guide/blog/benchmarks/benchmarks.htm)
+: 
+
+[Waymarking search for “survey markers”](http://www.waymarking.com/cat/search.aspx?f=1&cst=7&kw=survey%20markers&st=2)
+: A resource for recreational survey mark hunters
 {: .resources-list .border}
 
 </div>
