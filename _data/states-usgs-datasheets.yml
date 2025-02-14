@@ -13,6 +13,9 @@
 - state: Delaware
   abbrev: DE
   dev: false
+- state: Florida
+  abbrev: FL
+  dev: true  
 - state: Illinois
   abbrev: IL
   dev: false
