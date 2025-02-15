@@ -108,6 +108,30 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/FL/30-RR/Vertical.pdf",
           "vyear": "1971"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81,25.75],[-81,26],[-81.25,26],[-81.25,25.75],[-81,25.75]]]
+        },
+        "properties": {
+          "name": "Monroe Station",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/31-Monroe-Station/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,25.75],[-81.25,26],[-81.5,26],[-81.5,25.75],[-81.25,25.75]]]
+        },
+        "properties": {
+          "name": "Chokoloskee",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/32-Chokoloskee/Vertical.pdf",
+          "vyear": "1973"
+        }
       }
     ]
   };
