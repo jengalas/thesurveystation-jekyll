@@ -5,6 +5,18 @@ var geojsonFeature = {
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+          "coordinates": [[[-87.75,30.5],[-87.75,30.75],[-88,30.75],[-88,30.5],[-87.75,30.5]]]
+        },
+        "properties": {
+          "name": "Fairhope",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AL/11-Fairhope/Vertical.pdf",
+          "vyear": "1976"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
           "coordinates": [[[-85.5,34.25],[-85.5,34.5],[-85.75,34.5],[-85.75,34.25],[-85.5,34.25]]]
         },
         "properties": {
