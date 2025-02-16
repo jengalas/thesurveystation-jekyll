@@ -132,6 +132,114 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/FL/32-Chokoloskee/Vertical.pdf",
           "vyear": "1973"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,25.75],[-81.5,26],[-81.75,26],[-81.75,25.75],[-81.5,25.75]]]
+        },
+        "properties": {
+          "name": "Marco",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/33-Marco/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-80,26],[-80,26.25],[-80.25,26.25],[-80.25,26],[-80,26]]]
+        },
+        "properties": {
+          "name": "Fort Lauderdale",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/35-Fort-Lauderdale/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-80.25,26],[-80.25,26.25],[-80.5,26.25],[-80.5,26],[-80.25,26]]]
+        },
+        "properties": {
+          "name": "Cooper City",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/36-Cooper-City/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81,26],[-81,26.25],[-81.25,26.25],[-81.25,26],[-81,26]]]
+        },
+        "properties": {
+          "name": "Immokalee 4",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/39-Immokalee-4/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,26],[-81.5,26.25],[-81.75,26.25],[-81.75,26],[-81.5,26]]]
+        },
+        "properties": {
+          "name": "Belle Meade",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/41-Belle-Meade/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,26],[-81.75,26.25],[-82,26.25],[-82,26],[-81.75,26]]]
+        },
+        "properties": {
+          "name": "Naples",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/42-Naples/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81,26.25],[-81,26.5],[-81.25,26.5],[-81.25,26.25],[-81,26.25]]]
+        },
+        "properties": {
+          "name": "GG",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/47-GG/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,26.25],[-81.25,26.5],[-81.5,26.5],[-81.5,26.25],[-81.25,26.25]]]
+        },
+        "properties": {
+          "name": "Immokalee",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/48-Immokalee/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,26.25],[-81.5,26.5],[-81.75,26.5],[-81.75,26.25],[-81.5,26.25]]]
+        },
+        "properties": {
+          "name": "Corkscrew",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/49-Corkscrew/Vertical.pdf",
+          "vyear": "1973"
+        }
       }
     ]
   };
