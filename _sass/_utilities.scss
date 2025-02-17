@@ -1,6 +1,10 @@
+@use 'breakpoints' as *;
+
 .alignleft {
+  @media (min-width: $mobile) {
     float: left;
     margin-right: 2rem;
+  }    
 }
 .alignright {
     float: right;

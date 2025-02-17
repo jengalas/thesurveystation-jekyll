@@ -29,7 +29,7 @@ Make sure the disk is clean before making the mold.
 
 Possible molding materials abound, depending on how much time you have to make the mold, what you plan to do with it, and how long you'd like to keep it.
 
-I chose Culinart's Silicone Plastique, a food-safe silicone molding compound, because I planned to use the molds for edibles. I also liked the fact that the silicone will produce flexible molds that are heat- and cold-resistant.
+I chose Culinart's Silicone Plastique, a food-safe silicone molding compound, because I planned to use the molds for chocolate and other goodies. I also liked the fact that the silicone will produce flexible molds that are heat- and cold-resistant.
 
 ### a. Measure the molding compound
 {:.clearboth}
@@ -59,7 +59,7 @@ An offset spatula might help, or just use your fingers.
 
 {% include post-image.html filename="smoothsides2_sm.jpg" thumb="smoothsides2_sm.jpg" caption="Smooth up the sides." className="alignleft clearboth" %}
 
-Form a 1/4-inch thick patty from the remainder of the silicone and press the mark down into it. Then smooth the sides of the mold up to conform to the edges of the mark.
+Form a ¼-inch thick patty from the remainder of the silicone and press the mark down into it. Then smooth the sides of the mold up to conform to the edges of the mark.
 
 {% include post-image.html filename="finmold_sm.jpg" thumb="finmold_sm.jpg" caption="The finished mold." className="alignleft clearboth" %}
 
@@ -70,7 +70,7 @@ Let it sit for at least an hour for the silicone to cure, then peel away the mol
 
 ### a. Melt the chocolate
 
-For the best look and taste, buy real chocolate and learn how to temper it. Did I do this? No, at least not yet. I used quick-melting candy wafers that are available in most arts & crafts stores.
+For the best appearance and taste, buy real chocolate and learn how to temper it. Did I do this? No, at least not yet. I used quick-melting candy wafers that are available in most arts & crafts stores.
 
 If you're using candy wafers, just follow the manufacturer's directions. Generally they'll melt in a few seconds in the microwave. Or if, like me, you don't have one of those newfangled contraptions, they'll melt equally well in a double boiler. And if, like me, you don't have a real double boiler, you can make one out of a shallow metal bowl set atop a deep pot half-filled with simmering water. You'll figure it out.
 
