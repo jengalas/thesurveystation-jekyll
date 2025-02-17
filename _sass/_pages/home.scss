@@ -109,6 +109,7 @@ $bodyColor: #474747;
   h3 {
     margin-top: 0;
   }
+
   .grid-item {
     flex-direction: row;
     gap: 2rem;
@@ -131,6 +132,13 @@ $bodyColor: #474747;
     .grid-item {
         flex-direction: row;
         gap: 2rem;
+    }
+    h3 {
+      margin-top: .3em;
+
+      @media (min-width: $narrow){
+        margin-top: 1.404rem;
+      }
     }
   }
 }
