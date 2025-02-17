@@ -229,6 +229,11 @@ strong {
 
     .image {
       text-align: center;
+
+      img {
+        height: auto;
+        max-width: 100%;
+      }
     }
 
     .section-text {
