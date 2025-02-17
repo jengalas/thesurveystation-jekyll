@@ -240,6 +240,90 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/FL/49-Corkscrew/Vertical.pdf",
           "vyear": "1973"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,26.25],[-81.75,26.5],[-82,26.5],[-82,26.25],[-81.75,26.25]]]
+        },
+        "properties": {
+          "name": "Estero",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/50-Estero/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82,26.25],[-82,26.5],[-82.25,26.5],[-82.25,26.25],[-82,26.25]]]
+        },
+        "properties": {
+          "name": "Sanibel",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/51-Sanibel/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-80.25,26.5],[-80.25,26.75],[-80.5,26.75],[-80.5,26.5],[-80.25,26.5]]]
+        },
+        "properties": {
+          "name": "Loxahatchee",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/53-Loxahatchee/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-80.5,26.5],[-80.5,26.75],[-80.75,26.75],[-80.75,26.5],[-80.5,26.5]]]
+        },
+        "properties": {
+          "name": "DD",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/54-DD/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-80.75,26.5],[-80.75,26.75],[-81,26.75],[-81,26.5],[-80.75,26.5]]]
+        },
+        "properties": {
+          "name": "CC",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/55-CC/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81,26.5],[-81,26.75],[-81.25,26.75],[-81.25,26.5],[-81,26.5]]]
+        },
+        "properties": {
+          "name": "BB",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/56-BB/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,26.5],[-81.25,26.75],[-81.5,26.75],[-81.5,26.5],[-81.25,26.5]]]
+        },
+        "properties": {
+          "name": "Felda",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/57-Felda/Vertical.pdf",
+          "vyear": "1971"
+        }
       }
     ]
   };
