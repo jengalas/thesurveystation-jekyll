@@ -1,5 +1,5 @@
 /* super-search
-Author: Kushagra Gour (http://kushagragour.in)
+Author: Kushagra Gour (https://kushagra.dev/)
 MIT Licensed
 */
 .super-search-btn {
@@ -70,8 +70,13 @@ MIT Licensed
 }
 .super-search__result-date {
 	color: #BBB;
-	position: absolute;
-	right: 12px;
+  display: block;
+
+  @media (min-width: 900px) {
+    display: inline;
+    position: absolute;
+	  right: 12px;
+  }	
 }
 .super-search.is-active {
 	opacity: 1;
