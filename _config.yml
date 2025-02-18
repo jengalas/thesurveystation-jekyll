@@ -1,4 +1,5 @@
-url: "https://thesurveystation.netlify.app"
+# url: "https://thesurveystation.netlify.app"
+url: "https://thesurveystation.com"
 title: "Zhanna's SurveyStation" # the name of your site, e.g. ACME Corp.
 timezone: 'America/New_York'
 
