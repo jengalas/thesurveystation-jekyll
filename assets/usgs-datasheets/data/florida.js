@@ -324,6 +324,54 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/FL/57-Felda/Vertical.pdf",
           "vyear": "1971"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,26.5],[-81.5,26.75],[-81.75,26.75],[-81.75,26.5],[-81.5,26.5]]]
+        },
+        "properties": {
+          "name": "Alva",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/58-Alva/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,26.5],[-81.75,26.75],[-82,26.75],[-82,26.5],[-81.75,26.5]]]
+        },
+        "properties": {
+          "name": "Fort Myers",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/59-Fort-Myers/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82,26.5],[-82,26.75],[-82.25,26.75],[-82.25,26.5],[-82,26.5]]]
+        },
+        "properties": {
+          "name": "Captiva",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/60-Captiva/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-80,26.75],[-80,27],[-80.25,27],[-80.25,26.75],[-80,26.75]]]
+        },
+        "properties": {
+          "name": "Neptune",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/62-Neptune/Vertical.pdf",
+          "vyear": "1971"
+        }
       }
     ]
   };
