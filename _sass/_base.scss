@@ -22,7 +22,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: $bodyFont;
-  font-size: $bodyFontSize;
+  font-size: clamp(1rem, 8vw - 2rem, 1.2rem);
   font-weight: 300;
   min-height: 100vh;
   padding-top: var(--nav-height);
