@@ -352,10 +352,17 @@ strong {
 
 .blog-post {
   .post-meta {
-    display: flex;
+
+    @media (min-width: $narrower) {
+      display: flex;
+    }
     font-size: 1rem;
     justify-content: space-between;
     margin-top: 1rem;
+
+    .byline {
+      margin-bottom: 1em;
+    }
   }
 }
 
