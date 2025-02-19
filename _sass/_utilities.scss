@@ -7,8 +7,10 @@
   }    
 }
 .alignright {
+  @media (min-width: $mobile) {
     float: right;
     margin-left: 2rem;
+  }
 }
 .clearboth {
     clear: both;
@@ -29,7 +31,9 @@
   padding: .8rem; 
 }
 .max-30-pct {
-  max-width: 30%;
+  @media (min-width: $mobile) {
+    max-width: 30%;
+  } 
 }
 .inline-block {
   display: inline-block;
