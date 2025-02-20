@@ -114,6 +114,10 @@ footer {
                 grid-column-start: 1;
                 grid-column-end: 3;
             }
+
+            .hidden {
+              display: none;
+            }
         }
 
         textarea {

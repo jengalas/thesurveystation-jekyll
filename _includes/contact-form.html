@@ -1,6 +1,6 @@
 <div class="contact-form" id="contact-form">
     <h2>Contact Zhanna</h2>
-    <form name="contact" action="/contact-success" method="POST" class="form" data-netlify-recaptcha="true" data-netlify="true">
+    <form name="contact" action="/contact-success" method="POST" class="form" netlify-honeypot="bot-field" data-netlify="true">
         <div class="form-group name">
             <label for="name" class="form-label">Name</label>
             <input type="text" class="form-control" id="name" name="name" tabindex="1" required>
@@ -13,6 +13,10 @@
             <textarea id="comment" name="comment" class="form-control" tabindex="3" required></textarea>
         </div>
         <button type="submit">Send Message</button>
-        <div data-netlify-recaptcha="true"></div>
+        <p class="hidden">
+          <label>
+            Don’t fill this out if you’re human: <input name="bot-field" />
+          </label>
+        </p>
     </form>
 </div>
