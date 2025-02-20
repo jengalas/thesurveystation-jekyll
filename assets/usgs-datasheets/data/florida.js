@@ -1260,6 +1260,534 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/FL/150-Inverness/Vertical.pdf",
           "vyear": "1952"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.5,28.75],[-82.5,29],[-82.75,29],[-82.75,28.75],[-82.5,28.75]]]
+        },
+        "properties": {
+          "name": "Citronelle",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/151-Citronelle/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81,29],[-81,29.25],[-81.25,29.25],[-81.25,29],[-81,29]]]
+        },
+        "properties": {
+          "name": "Daytona",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/154-Daytona/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,29],[-81.25,29.25],[-81.5,29.25],[-81.5,29],[-81.25,29]]]
+        },
+        "properties": {
+          "name": "De Land",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/155-De-Land/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,29],[-81.5,29.25],[-81.75,29.25],[-81.75,29],[-81.5,29]]]
+        },
+        "properties": {
+          "name": "Astor",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/156-Astor/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,29],[-81.75,29.25],[-82,29.25],[-82,29],[-81.75,29]]]
+        },
+        "properties": {
+          "name": "Lake Weir",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/157-Lake-Weir/Vertical.pdf",
+          "vyear": "1979"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82,29],[-82,29.25],[-82.25,29.25],[-82.25,29],[-82,29]]]
+        },
+        "properties": {
+          "name": "Ocala",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/158-Ocala/Vertical.pdf",
+          "vyear": "1979"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.25,29],[-82.25,29.25],[-82.5,29.25],[-82.5,29],[-82.25,29]]]
+        },
+        "properties": {
+          "name": "Dunnellon",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/159-Dunnellon/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.5,29],[-82.5,29.25],[-82.75,29.25],[-82.75,29],[-82.5,29]]]
+        },
+        "properties": {
+          "name": "Yankeetown",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/160-Yankeetown/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.75,29],[-82.75,29.25],[-83,29.25],[-83,29],[-82.75,29]]]
+        },
+        "properties": {
+          "name": "Waccasassa",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/161-Waccasassa/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81,29.25],[-81,29.5],[-81.25,29.5],[-81.25,29.25],[-81,29.25]]]
+        },
+        "properties": {
+          "name": "Ormond",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/163-Ormond/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,29.25],[-81.25,29.5],[-81.5,29.5],[-81.5,29.25],[-81.25,29.25]]]
+        },
+        "properties": {
+          "name": "Seville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/164-Seville/Vertical.pdf",
+          "vyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,29.25],[-81.5,29.5],[-81.75,29.5],[-81.75,29.25],[-81.5,29.25]]]
+        },
+        "properties": {
+          "name": "Welaka",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/165-Welaka/Vertical.pdf",
+          "vyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,29.25],[-81.75,29.5],[-82,29.5],[-82,29.25],[-81.75,29.25]]]
+        },
+        "properties": {
+          "name": "Eureka",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/166-Eureka/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82,29.25],[-82,29.5],[-82.25,29.5],[-82.25,29.25],[-82,29.25]]]
+        },
+        "properties": {
+          "name": "Citra",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/167-Citra/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.25,29.25],[-82.25,29.5],[-82.5,29.5],[-82.5,29.25],[-82.25,29.25]]]
+        },
+        "properties": {
+          "name": "Williston",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/168-Williston/Vertical.pdf",
+          "vyear": "1975"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.5,29.25],[-82.5,29.5],[-82.75,29.5],[-82.75,29.25],[-82.5,29.25]]]
+        },
+        "properties": {
+          "name": "Bronson",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/169-Bronson/Vertical.pdf",
+          "vyear": "1975"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.75,29.25],[-82.75,29.5],[-83,29.5],[-83,29.25],[-82.75,29.25]]]
+        },
+        "properties": {
+          "name": "Chiefland",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/170-Chiefland/Vertical.pdf",
+          "vyear": "1975"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83,29.25],[-83,29.5],[-83.25,29.5],[-83.25,29.25],[-83,29.25]]]
+        },
+        "properties": {
+          "name": "Vista",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/171-Vista/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83.25,29.25],[-83.25,29.5],[-83.5,29.5],[-83.5,29.25],[-83.25,29.25]]]
+        },
+        "properties": {
+          "name": "Shelton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/172-Shelton/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,29.5],[-81.25,29.75],[-81.5,29.75],[-81.5,29.5],[-81.25,29.5]]]
+        },
+        "properties": {
+          "name": "Dinner Island",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/174-Dinner-Island/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,29.5],[-81.5,29.75],[-81.75,29.75],[-81.75,29.5],[-81.5,29.5]]]
+        },
+        "properties": {
+          "name": "Palatka",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/175-Palatka/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,29.5],[-81.75,29.75],[-82,29.75],[-82,29.5],[-81.75,29.5]]]
+        },
+        "properties": {
+          "name": "Interlachen",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/176-Interlachen/Vertical.pdf",
+          "vyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82,29.5],[-82,29.75],[-82.25,29.75],[-82.25,29.5],[-82,29.5]]]
+        },
+        "properties": {
+          "name": "Hawthorn",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/177-Hawthorn/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.25,29.5],[-82.25,29.75],[-82.5,29.75],[-82.5,29.5],[-82.25,29.5]]]
+        },
+        "properties": {
+          "name": "Arredondo",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/178-Arredondo/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.5,29.5],[-82.5,29.75],[-82.75,29.75],[-82.75,29.5],[-82.5,29.5]]]
+        },
+        "properties": {
+          "name": "Younglove",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/179-Younglove/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.75,29.5],[-82.75,29.75],[-83,29.75],[-83,29.5],[-82.75,29.5]]]
+        },
+        "properties": {
+          "name": "Wannee",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/180-Wannee/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83,29.5],[-83,29.75],[-83.25,29.75],[-83.25,29.5],[-83,29.5]]]
+        },
+        "properties": {
+          "name": "Cross City",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/181-Cross-City/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83.25,29.5],[-83.25,29.75],[-83.5,29.75],[-83.5,29.5],[-83.25,29.5]]]
+        },
+        "properties": {
+          "name": "Steinhatchee",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/182-Steinhatchee/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-85,29.5],[-85,29.75],[-85.25,29.75],[-85.25,29.5],[-85,29.5]]]
+        },
+        "properties": {
+          "name": "St. Vincent Island",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/185-St-Vincent-Island/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-85.25,29.5],[-85.25,29.75],[-85.5,29.75],[-85.5,29.5],[-85.25,29.5]]]
+        },
+        "properties": {
+          "name": "Cape San Blas",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/186-Cape-San-Blas/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,29.75],[-81.25,30],[-81.5,30],[-81.5,29.75],[-81.25,29.75]]]
+        },
+        "properties": {
+          "name": "St. Augustine",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/187-St-Augustine/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,29.75],[-81.5,30],[-81.75,30],[-81.75,29.75],[-81.5,29.75]]]
+        },
+        "properties": {
+          "name": "Bostwick",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/188-Bostwick/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,29.75],[-81.75,30],[-82,30],[-82,29.75],[-81.75,29.75]]]
+        },
+        "properties": {
+          "name": "Ates Creek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/189-Ates-Creek/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82,29.75],[-82,30],[-82.25,30],[-82.25,29.75],[-82,29.75]]]
+        },
+        "properties": {
+          "name": "Starke",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/190-Starke/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.25,29.75],[-82.25,30],[-82.5,30],[-82.5,29.75],[-82.25,29.75]]]
+        },
+        "properties": {
+          "name": "Hague",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/191-Hague/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.5,29.75],[-82.5,30],[-82.75,30],[-82.75,29.75],[-82.5,29.75]]]
+        },
+        "properties": {
+          "name": "High Springs",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/192-High-Springs/Vertical.pdf",
+          "vyear": "1959"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.75,29.75],[-82.75,30],[-83,30],[-83,29.75],[-82.75,29.75]]]
+        },
+        "properties": {
+          "name": "Branford",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/193-Branford/Vertical.pdf",
+          "vyear": "1978"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83,29.75],[-83,30],[-83.25,30],[-83.25,29.75],[-83,29.75]]]
+        },
+        "properties": {
+          "name": "Mallory Swamp",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/194-Mallory-Swamp/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83.25,29.75],[-83.25,30],[-83.5,30],[-83.5,29.75],[-83.25,29.75]]]
+        },
+        "properties": {
+          "name": "Salem",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/195-Salem/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83.5,29.75],[-83.5,30],[-83.75,30],[-83.75,29.75],[-83.5,29.75]]]
+        },
+        "properties": {
+          "name": "Lake Joe",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/196-Lake-Joe/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-84.25,29.75],[-84.25,30],[-84.5,30],[-84.5,29.75],[-84.25,29.75]]]
+        },
+        "properties": {
+          "name": "Saint Teresa",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/198-Saint-Teresa/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-84.5,29.75],[-84.5,30],[-84.75,30],[-84.75,29.75],[-84.5,29.75]]]
+        },
+        "properties": {
+          "name": "Carrabelle",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/199-Carrabelle/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-84.75,29.75],[-84.75,30],[-85,30],[-85,29.75],[-84.75,29.75]]]
+        },
+        "properties": {
+          "name": "East Bay",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/200-East-Bay/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-85,29.75],[-85,30],[-85.25,30],[-85.25,29.75],[-85,29.75]]]
+        },
+        "properties": {
+          "name": "Marchant",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/201-Marchant/Vertical.pdf",
+          "vyear": "1972"
+        }
       }
     ]
   };
