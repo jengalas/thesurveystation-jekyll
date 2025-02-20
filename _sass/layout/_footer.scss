@@ -98,6 +98,15 @@ footer {
                 display: grid;
                 grid-template-columns: 1fr 1fr;
                 grid-gap: .6rem;
+
+                button {
+                  @media (max-width: $mobile) {
+                    grid-column: 1/-1;
+                  }
+                  @media (min-width: $normal) and (max-width: $wide) {
+                    grid-column: 1/-1;
+                  }
+                }
             }
 
             .form-group.comment {
