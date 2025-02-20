@@ -1788,6 +1788,150 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/FL/201-Marchant/Vertical.pdf",
           "vyear": "1972"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-85.25,29.75],[-85.25,30],[-85.5,30],[-85.5,29.75],[-85.25,29.75]]]
+        },
+        "properties": {
+          "name": "St. Joseph's Point",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/202-St-Josephs-Point/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.25,30],[-81.25,30.25],[-81.5,30.25],[-81.5,30],[-81.25,30]]]
+        },
+        "properties": {
+          "name": "Palm Valley",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/204-Palm-Valley/Vertical.pdf",
+          "vyear": "1977"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.5,30],[-81.5,30.25],[-81.75,30.25],[-81.75,30],[-81.5,30]]]
+        },
+        "properties": {
+          "name": "Orange Park",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/205-Orange-Park/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-81.75,30],[-81.75,30.25],[-82,30.25],[-82,30],[-81.75,30]]]
+        },
+        "properties": {
+          "name": "Middleburg",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/206-Middleburg/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82,30],[-82,30.25],[-82.25,30.25],[-82.25,30],[-82,30]]]
+        },
+        "properties": {
+          "name": "Lawtey",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/207-Lawtey/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.25,30],[-82.25,30.25],[-82.5,30.25],[-82.5,30],[-82.25,30]]]
+        },
+        "properties": {
+          "name": "Lake Butler",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/208-Lake-Butler/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.5,30],[-82.5,30.25],[-82.75,30.25],[-82.75,30],[-82.5,30]]]
+        },
+        "properties": {
+          "name": "Lake City",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/209-Lake-City/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-82.75,30],[-82.75,30.25],[-83,30.25],[-83,30],[-82.75,30]]]
+        },
+        "properties": {
+          "name": "O'Brien",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/210-O-Brien/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83,30],[-83,30.25],[-83.25,30.25],[-83.25,30],[-83,30]]]
+        },
+        "properties": {
+          "name": "Mayo",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/211-Mayo/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83.25,30],[-83.25,30.25],[-83.5,30.25],[-83.5,30],[-83.25,30]]]
+        },
+        "properties": {
+          "name": "Day",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/212-Day/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83.5,30],[-83.5,30.25],[-83.75,30.25],[-83.75,30],[-83.5,30]]]
+        },
+        "properties": {
+          "name": "Perry",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/213-Perry/Vertical.pdf",
+          "vyear": "1975"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-83.75,30],[-83.75,30.25],[-84,30.25],[-84,30],[-83.75,30]]]
+        },
+        "properties": {
+          "name": "Waylonzo",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/214-Waylonzo/Vertical.pdf",
+          "vyear": "1975"
+        }
       }
     ]
   };
