@@ -1932,6 +1932,30 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/FL/214-Waylonzo/Vertical.pdf",
           "vyear": "1975"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-84,30],[-84,30.25],[-84.25,30.25],[-84.25,30],[-84,30]]]
+        },
+        "properties": {
+          "name": "St. Marks",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/215-St-Marks/Vertical.pdf",
+          "vyear": "1972"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-84.25,30],[-84.25,30.25],[-84.5,30.25],[-84.5,30],[-84.25,30]]]
+        },
+        "properties": {
+          "name": "Arran",
+          "vertical": "https://geodata.thesurveystation.com/USGS/FL/216-Arran/Vertical.pdf",
+          "vyear": "1972"
+        }
       }
     ]
   };
