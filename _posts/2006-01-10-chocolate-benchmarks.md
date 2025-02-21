@@ -29,7 +29,7 @@ Make sure the disk is clean before making the mold.
 
 Possible molding materials abound, depending on how much time you have to make the mold, what you plan to do with it, and how long you'd like to keep it.
 
-I chose Culinart's Silicone Plastique, a food-safe silicone molding compound, because I planned to use the molds for chocolate and other goodies. I also liked the fact that the silicone will produce flexible molds that are heat- and cold-resistant.
+I chose Culinart's Silicone Plastique, a food-safe silicone molding compound, because I planned to use the molds for chocolate and other goodies. I also liked the fact that the silicone will produce flexible molds that are heat- and cold-resistant. _[2025 edit: It appears that Silicone Plastique is no longer available, but any food-grade mold making silicone putty like EasyMold should work just as well.]_
 
 ### a. Measure the molding compound
 {:.clearboth}
