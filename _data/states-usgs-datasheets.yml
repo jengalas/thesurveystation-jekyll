@@ -15,7 +15,7 @@
   dev: false
 - state: Florida
   abbrev: FL
-  dev: true  
+  dev: false  
 - state: Illinois
   abbrev: IL
   dev: false
