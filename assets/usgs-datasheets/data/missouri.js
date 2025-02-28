@@ -1118,6 +1118,34 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/78-Jonesboro/Horizontal.pdf",
           "hyear": "1963"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.5,37.25],[-89.5,37.5],[-89.75,37.5],[-89.75,37.25],[-89.5,37.25]]]
+        },
+        "properties": {
+          "name": "Cape Girardeau",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/79-Cape-Girardeau/Vertical.pdf",
+          "vyear": "1966",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/79-Cape-Girardeau/Horizontal.pdf",
+          "hyear": "1965"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.75,37.25],[-89.75,37.5],[-90,37.5],[-90,37.25],[-89.75,37.25]]]
+        },
+        "properties": {
+          "name": "Marble Hill",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/80-Marble-Hill/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/80-Marble-Hill/Horizontal.pdf",
+          "hyear": "1971"
+        }
       }
     ]
   };
