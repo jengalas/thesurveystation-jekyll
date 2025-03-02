@@ -19,7 +19,7 @@ galleries:
       alt: You can drive to this one, just be prepared!                  
 ---
 
-{% include simple-map.html map_id="1" latitude="40.8265113" longitude="-112.905751" zoom="15" marker_name="San Francisco—Salt Lake Airway Beacon 57" align="right" height="490px" width="650px" %}
+{% include simple-map.html map_id="1" latitude="40.8265113" longitude="-112.905751" zoom="15" marker_name="San Francisco—Salt Lake Airway Beacon 57" align="right" %}
 
 Dave Izatt has submitted the following photos of [LP0496](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0496) - SAN FRANCIS SALT LK AWY BN 57. The tower is gone, but the arrow is intact. Dave says that a 4-wheel drive vehicle with high clearance is required to drive directly to the arrow.
 

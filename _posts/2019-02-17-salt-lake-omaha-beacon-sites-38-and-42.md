@@ -29,7 +29,7 @@ Jack Breeding has submitted some photos for beacon sites #38 and #42 on the Salt
 Jack writes: "Just a few dozen miles to the west of SLO42 and the very first beacon arrow I ever saw in person.  This picture and my visit were made in 2015.  As you can see, it looks like someone 'salted' the ground around the arrowhead - nothing grows there.  Made me wonder if some Beacon-keeper had trouble with weeds overgrowing the marker and decided to do something about it!  This one is easily visible on Google Earth."
 
 
-{% include simple-map.html map_id="1" latitude="41.226233" longitude="-105.243205" zoom="15" marker_name="Salt Lake City—Omaha Beacon Site #38" align="right" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="41.226233" longitude="-105.243205" zoom="15" marker_name="Salt Lake City—Omaha Beacon Site #38" %}
 {:.clearboth}
 <br>
 <br>
@@ -46,6 +46,6 @@ Jack has also submitted some photos of the site of beacon #42 from different van
 
 Thank you for your contributions, Jack!
 
-{% include simple-map.html map_id="2" latitude="41.164783" longitude="-104.674512" zoom="15" marker_name="Salt Lake City—Omaha Beacon Site #42" align="" height="490px" width="100%" %}
+{% include simple-map.html map_id="2" latitude="41.164783" longitude="-104.674512" zoom="15" marker_name="Salt Lake City—Omaha Beacon Site #42" align="" %}
 
 

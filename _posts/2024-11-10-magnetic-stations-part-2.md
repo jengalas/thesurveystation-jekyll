@@ -30,7 +30,7 @@ March Field still exists, although Google Maps doesn't label it as such (Waze do
 
 Using the bearings provided, and assuming the surveyors used the obvious high points on the Northampton County Courthouse and South Hall, an estimate of the station coordinates is **40.698472, -75.21125**. This is on the site of the former Olin Hall, built in 1956-7 (now refurbished and incorporated into the Hugel Science Center, circa 2001). So assuming these bearings are correct, it looks like the station is probably gone, or at least covered by buildings that were erected long after this document was published. But there is always a chance, and I would love to check it out!
 
-{% include simple-map.html map_id="1" latitude="40.698472" longitude="-75.21125" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="40.698472" longitude="-75.21125" zoom="15" marker_name="Magnetic Station" %}
 
 This one also intrigues me:
 
@@ -57,4 +57,4 @@ There are no available historical USGS topo maps from before 1934, and the onlin
 
 I haven't been able to find anything else online to help me pin down the locations of any of the reference points other than the church. Perhaps a trip to the Sullivan County Historical Society to view their [map collection](https://www.scpahistory.com/map-collection) and speak to the folks there will help.
 
-{% include simple-map.html map_id="2" latitude="41.4310285" longitude="-76.490615" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
+{% include simple-map.html map_id="2" latitude="41.4310285" longitude="-76.490615" zoom="15" marker_name="Magnetic Station" %}

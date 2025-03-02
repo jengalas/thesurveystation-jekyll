@@ -21,5 +21,5 @@ Bob Pastore submitted the following evidence of what remains of Beacon 62 in Sum
 
 {% include post-image.html filename="Airway-Beacon-62-64.jpg" thumb="Airway-Beacon-62-64.jpg" caption="Excerpt of Sectional Chart (unknown date) showing the beacon locations" %}
 
-{% include simple-map.html map_id="1" latitude="40.819438" longitude="-75.874985" zoom="15" marker_name="" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="40.819438" longitude="-75.874985" zoom="15" marker_name="Beacon 62" %}
 

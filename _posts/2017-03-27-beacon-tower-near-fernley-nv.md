@@ -15,4 +15,4 @@ Coordinates of the tower are **N 39.608274° W 119.289933°**.
 
 {% include post-image.html filename="fernley-2-800x600.jpg" thumb="fernley-2-800x600.jpg" caption="Inside the tower base" %}
 
-{% include simple-map.html map_id="1" latitude="39.608274" longitude="-119.289933" zoom="15" marker_name="Beacon tower" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="39.608274" longitude="-119.289933" zoom="15" marker_name="Beacon tower" %}

@@ -24,4 +24,4 @@ He writes:
 
 {% include post_gallery.html gallery_id="gallery1" class="justify" %}
 
-{% include simple-map.html map_id="1" latitude="40.435814" longitude="-117.163028" zoom="15" marker_name="Beacon tower" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="40.435814" longitude="-117.163028" zoom="15" marker_name="Beacon tower" %}

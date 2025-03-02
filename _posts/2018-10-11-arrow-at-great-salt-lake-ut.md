@@ -19,7 +19,7 @@ galleries:
 
 
 
-{% include simple-map.html map_id="1" latitude="40.7500160" longitude="-112.6482090" zoom="15" marker_name="SAN FRANCISCO—SALT LAKE AIRWAY BEACON 59" align="right" height="490px" width="650px" %}
+{% include simple-map.html map_id="1" latitude="40.7500160" longitude="-112.6482090" zoom="15" marker_name="SAN FRANCISCO—SALT LAKE AIRWAY BEACON 59" align="right" %}
 
 David Izatt has submitted the following photos of an arrow at the site of [SAN FRANCISCO—SALT LAKE AIRWAY BEACON 59](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0482) (the beacon is now destroyed).
 

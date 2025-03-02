@@ -50,6 +50,6 @@ According to website contributor Harvey Hartman, this tower is of the style prod
 
 Approximate coordinates of the tower are N40.228794°, W117.741353°.
 
-{% include simple-map.html map_id="1" latitude="40.228794" longitude="-117.741353" zoom="15" marker_name="Beacon tower" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="40.228794" longitude="-117.741353" zoom="15" marker_name="Beacon tower" %}
 
 {% include post_gallery.html gallery_id="gallery1" class="justify" %}

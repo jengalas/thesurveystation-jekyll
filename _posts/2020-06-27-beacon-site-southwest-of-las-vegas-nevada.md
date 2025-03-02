@@ -19,7 +19,7 @@ galleries:
       alt:       
 ---
 
-{% include simple-map.html map_id="1" latitude="35.740218" longitude="-115.352291" zoom="15" marker_name="BEACON #23" align="right" height="490px" width="650px" %}
+{% include simple-map.html map_id="1" latitude="35.740218" longitude="-115.352291" zoom="15" marker_name="BEACON #23" align="right" %}
 
 
 This site was discovered by Herbert Arnold, who also submitted the photos. It appears to have been the site of Beacon #23 on the Los Angeles—Las Vegas Airway (see [Airway Map No. 132](https://www.loc.gov/resource/g3701pm.gct00064/?sp=162&r=-0.099,2.238,1.459,1.055,0), 1931).

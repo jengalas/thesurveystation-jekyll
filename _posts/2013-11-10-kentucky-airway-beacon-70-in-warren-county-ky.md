@@ -44,4 +44,4 @@ I did not find any trace of the northeast tower stub, but it may have been cover
 
 {% include post_gallery.html gallery_id="gallery2" class="justify" %}
 
-{% include simple-map.html map_id="1" latitude="36.933834" longitude="-86.259134" zoom="16" marker_name="Beacon 70 site" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="36.933834" longitude="-86.259134" zoom="16" marker_name="Beacon 70 site" %}

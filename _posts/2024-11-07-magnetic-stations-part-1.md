@@ -31,4 +31,4 @@ When I first looked at the map, I couldn't even find the circular cemetery plots
 
 My best guess at the coordinates is: **40.557284, -75.976726**:
 
-{% include simple-map.html map_id="1" latitude="40.557284" longitude="-75.976726" zoom="15" marker_name="Magnetic Station" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="40.557284" longitude="-75.976726" zoom="15" marker_name="Magnetic Station" %}

@@ -10,10 +10,8 @@
 {% assign zoom = include.zoom %}
 {% assign marker_name = include.marker_name %}
 {% assign align = include.align %}
-{% assign height = include.height %}
-{% assign width = include.width %}
 
-<div style="height: {{ height }}; max-width: {{ width }};" class="simple-map align{{ align }} clearboth">
+<div class="simple-map align{{ align }} clearboth">
    <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
    <div><a href="https://www.google.com/maps/search/?api=1&query={{ latitude }},{{ longitude }}">Google Map</a></div>
 </div>

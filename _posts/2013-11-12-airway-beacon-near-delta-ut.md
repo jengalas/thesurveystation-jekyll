@@ -22,5 +22,5 @@ Please leave a comment if you have more information about this beacon, perhaps i
 
 A USGS topo map of the area shows the triangulation station, but no beacon.  Could the designation BEAK derive from the word "beacon"? 
 
-{% include simple-map.html map_id="1" latitude="39.102400" longitude="-112.701239" zoom="15" marker_name="BEAK" height="490px" width="100%" %}
+{% include simple-map.html map_id="1" latitude="39.102400" longitude="-112.701239" zoom="15" marker_name="BEAK" %}
 
