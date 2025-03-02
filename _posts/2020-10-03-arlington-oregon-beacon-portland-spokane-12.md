@@ -25,7 +25,7 @@ galleries:
 
 _**This is a guest post, with photos and accompanying text contributed by Dave Sbur. Thanks for your contribution, Dave!**_
 
-{% include simple-map.html map_id="1" latitude="45.719876" longitude="-120.186152" zoom="15" marker_name="BEACON #12" align="right" height="490px" width="650px" %}
+{% include simple-map.html map_id="1" latitude="45.719876" longitude="-120.186152" zoom="15" marker_name="BEACON #12" align="right" height="490px" %}
 
 There was initially some confusion when trying to identify which beacon site Dave visited. We have determined that this was most likely Portland—Spokane #12 ([RC2502](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2502) in the NGS database, where it is referred to only as ARLINGTON AIRPORT BEACON).
 
