@@ -5,32 +5,51 @@
 {% endif %}
 
 {% assign mapid = include.map_id %}
-{% assign latitude = include.latitude %}
-{% assign longitude = include.longitude %}
 {% assign zoom = include.zoom %}
-{% assign marker_name = include.marker_name %}
 {% assign align = include.align %}
+{% assign gpx_file = include.gpx %}
 
 <div class="simple-map align{{ align }} clearboth">
    <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
-   <div><a href="https://www.google.com/maps/search/?api=1&query={{ latitude }},{{ longitude }}">Google Map</a></div>
+   <div id="google-map"></div>
 </div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-   var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([{{ latitude }}, {{ longitude }}], {{ zoom }});
+   var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40,-75], {{ zoom }});
    
-   var marker = L.marker([{{ latitude }}, {{ longitude }}]).addTo(markMap);
-   marker.bindPopup("{{ marker_name }}");
-
    objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
    
+   var gpx = "/assets/data/gpx/{{ gpx_file }}";
+    var lyrGPX = new L.GPX(gpx, {
+      async: true,
+      markers: {
+        wptIconUrls: {
+          '': '200px-Yellow_icon.svg.png',
+          'Flag, Blue': 'blue-flag-32.png'
+        },   
+        iconSize: [20, 20],
+        iconAnchor: [0, 16],             
+        startIcon: null,
+        endIcon: null
+      },
+      polyline_options: {
+        color: "red"
+      }
+    }).on('loaded', function(e) {
+      markMap.fitBounds(e.target.getBounds().pad(.5));
+      var center = markMap.getBounds().getCenter();
+      var googleMapLink = document.getElementById("google-map");
+      googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
+  }).addTo(markMap);
+
    var objOverlays = {
-      '{{ marker_name }}' : marker
+      "GPX": lyrGPX
    };     
 
    var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);  
    
    L.control.polylineMeasure({unit: 'landmiles', showBearings: true}).addTo(markMap); 
+
 </script>
