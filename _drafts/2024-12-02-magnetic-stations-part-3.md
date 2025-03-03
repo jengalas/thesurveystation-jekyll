@@ -3,7 +3,6 @@ title: Magnetic Stations, Part 3
 author: Zhanna
 date: '2024-12-02T19:03:00-05:00'
 tags: [datasheets, history]
-gpx: 31MAY14.gpx
 excerpt: >-
   
 ---
@@ -37,6 +36,5 @@ In trying to find the location of Eugene Hale's home, we came across the followi
 
 We also found a few postcards showing the senator's home, Google Street View didn't hel
 
-<!-- {% include simple-map.html map_id="1" latitude="44.543507" longitude="-68.413275" zoom="15" marker_name="Magnetic Station?" %} -->
-{% include gpx-map.html map_id="2" latitude="44.543507" longitude="-68.413275" zoom="15" gpx="31MAY14.gpx" %}
+{% include simple-map.html map_id="1" latitude="44.543507" longitude="-68.413275" zoom="15" marker_name="Magnetic station?"  %}
 
