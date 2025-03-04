@@ -40,9 +40,7 @@
       }
     }).on('loaded', function(e) {
       markMap.fitBounds(e.target.getBounds().pad(0.1));
-      var center = markMap.getBounds().getCenter();
-      var googleMapLink = document.getElementById("google-map");
-      googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
+      createGoogleMapLink(markMap);
   }).addTo(markMap);
 
    var objOverlays = {
@@ -52,5 +50,11 @@
    var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);  
    
    L.control.polylineMeasure({unit: 'landmiles', showBearings: true}).addTo(markMap); 
+
+function createGoogleMapLink(map) {
+  var center = markMap.getBounds().getCenter();
+  var googleMapLink = document.getElementById("google-map");
+  googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
+}
 
 </script>

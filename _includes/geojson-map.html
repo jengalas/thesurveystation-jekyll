@@ -44,25 +44,25 @@
       },
 
       onEachFeature: function (feature, layer) {
-
         layer.bindPopup("<b>Name: </b>" + feature.properties.name + '<br>' + "<b>Type: </b>" + feature.properties.type);
-
       }
     }).addTo(markMap);
 
     const objOverlays = { "POIs": allPoints };
 
-    markMap.fitBounds(allPoints.getBounds().pad(.5));
-    var center = markMap.getBounds().getCenter();
-    var googleMapLink = document.getElementById("google-map");
-    googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
-
     var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
 
     L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
 
+    markMap.fitBounds(allPoints.getBounds().pad(.5));
+    createGoogleMapLink(markMap);
   });
 
-
+  function createGoogleMapLink(map) {
+    var center = markMap.getBounds().getCenter();
+    var googleMapLink = document.getElementById("google-map");
+    googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
+    console.log(googleMapLink.innerHTML);
+  }
 
 </script>

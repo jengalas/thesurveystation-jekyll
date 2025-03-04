@@ -10,6 +10,6 @@ excerpt: >-
 
 {% include youtube.html embed_code="jYAMqNfMt-w" %}
 
-{% include gpx-map.html map_id="1" zoom="14" height="700px;" gpx="washington-bms.gpx"  %}
+<!-- {% include gpx-map.html map_id="1" zoom="14" height="700px" gpx="washington-bms.gpx"  %} -->
 {% include geojson-map.html map_id="2" zoom="14" height="700px" geojson="washington-bms.geojson" icon_color="blue"  %}
 
