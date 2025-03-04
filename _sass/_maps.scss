@@ -13,7 +13,7 @@
   height: 900px;
 }
 
-/* Simple map include */
+/* Simple map includes */
 
 .simple-map {
   display: flex; 
@@ -28,7 +28,20 @@
       width: 50%;
     }
   }
+
+  div[class*="number-icon-"] {
+    border-radius: 35px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .number-icon-blue {
+    background-image: url("/assets/img/number-marker-icon-blue.png");
+    text-align: center;
+    padding-top: 8px;
+    color: white;	
+  }
 }
+
 
 /* Airway Beacons Map */
 

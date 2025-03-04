@@ -1,0 +1,68 @@
+{% if page.basemap %}
+{% assign basemap = page.basemap %}
+{% else %}
+{% assign basemap = 'USGS Topo' %}
+{% endif %}
+
+{% assign mapid = include.map_id %}
+{% assign zoom = include.zoom %}
+{% assign align = include.align %}
+{% assign height = include.height %}
+{% assign geojson_file = include.geojson %}
+{% assign iconcolor = include.icon_color %}
+
+<div class="simple-map align{{ align }} clearboth" style="height:{{ height }};">
+  <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
+  <div id="google-map"></div>
+</div>
+
+<!-- Load common basemaps -->
+<script src="/assets/data/basemaps.js"></script>
+<script>
+  var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40, -75], {{ zoom }});
+
+  objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
+
+  var geoJson = "/assets/data/geojson/{{ geojson_file }}";
+
+  $.getJSON(geoJson, function (geojsonData) {
+
+    var allPoints = L.geoJson(geojsonData, {
+      pointToLayer: function (feature, latlng) {
+
+        var iconColor = "{{ iconcolor }}";
+
+        var myIcon = L.divIcon({
+          className: "number-icon-" + iconColor,
+          iconSize: [25, 41],
+          iconAnchor: [12, 46],
+          popupAnchor: [3, -40],
+          html: feature.properties.number
+        });
+
+        return new L.marker(latlng, { icon: myIcon });
+      },
+
+      onEachFeature: function (feature, layer) {
+
+        layer.bindPopup("<b>Name: </b>" + feature.properties.name + '<br>' + "<b>Type: </b>" + feature.properties.type);
+
+      }
+    }).addTo(markMap);
+
+    const objOverlays = { "POIs": allPoints };
+
+    markMap.fitBounds(allPoints.getBounds().pad(.5));
+    var center = markMap.getBounds().getCenter();
+    var googleMapLink = document.getElementById("google-map");
+    googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
+
+    var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+
+    L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
+
+  });
+
+
+
+</script>

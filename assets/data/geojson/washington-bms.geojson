@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037594,
+          38.888297
+        ]
+      },
+      "properties": {
+        "name": "HV1845: M 17",
+        "cmt": "SURVEY DISK SET IN TOP OF CONCRETE MONUMENT",
+        "desc": "SURVEY DISK SET IN TOP OF CONCRETE MONUMENT",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 1,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV1845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03524,
+          38.88906
+        ]
+      },
+      "properties": {
+        "name": "HV1841: A",
+        "cmt": "SEE DESCRIPTION SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
+        "desc": "SEE DESCRIPTION SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 2,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV1841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035319,
+          38.889383
+        ]
+      },
+      "properties": {
+        "name": "HV8077: B 8",
+        "cmt": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "desc": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 3,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV8077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035161,
+          38.889531
+        ]
+      },
+      "properties": {
+        "name": "HV8076: A 8",
+        "cmt": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "desc": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 4,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV8076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03524,
+          38.889467
+        ]
+      },
+      "properties": {
+        "name": "HV4442: WASHINGTON MONUMENT",
+        "cmt": "MONUMENT",
+        "desc": "MONUMENT",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 5,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV4442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036545,
+          38.889804
+        ]
+      },
+      "properties": {
+        "name": "UA0024: JEFFERSON PIER",
+        "cmt": "CHISELED CROSS SET IN PREFABRICATED CONCRETE POST IMBEDDED IN GROUND",
+        "desc": "CHISELED CROSS SET IN PREFABRICATED CONCRETE POST IMBEDDED IN GROUND",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 6,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=UA0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036544,
+          38.893936
+        ]
+      },
+      "properties": {
+        "name": "HV1846: MERIDIAN STONE",
+        "cmt": "BOLT SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
+        "desc": "BOLT SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 7,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV1846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036548,
+          38.895108
+        ]
+      },
+      "properties": {
+        "name": "HV1847: ZERO MILESTONE",
+        "cmt": "STONE MONUMENT SET IN PREFABRICATED CONCRETE POST IMBEDDED IN GROUND",
+        "desc": "STONE MONUMENT SET IN PREFABRICATED CONCRETE POST IMBEDDED IN GROUND",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 8,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV1847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037314,
+          38.888108
+        ]
+      },
+      "properties": {
+        "name": "HV1844: SURVEY LODGE",
+        "cmt": "CHISELED CROSS SET IN A MASSIVE STRUCTURE",
+        "desc": "CHISELED CROSS SET IN A MASSIVE STRUCTURE",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 9,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV1844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008742,
+          38.890419
+        ]
+      },
+      "properties": {
+        "name": "HV2017: CAPITOL=M 15",
+        "cmt": "BOLT SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "desc": "BOLT SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "sym": "Navaid, Black",
+        "type": "BM-Not Searched For",
+        "number": 10,
+        "link_href": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HV2017"
+      }
+    }
+  ]
+}
