@@ -1,7 +1,7 @@
 {% if page.basemap %}
-  {% assign basemap = page.basemap %}
+{% assign basemap = page.basemap %}
 {% else %}
-  {% assign basemap = 'USGS Topo' %}
+{% assign basemap = 'USGS Topo' %}
 {% endif %}
 
 {% assign mapid = include.map_id %}
@@ -11,50 +11,51 @@
 {% assign gpx_file = include.gpx %}
 
 <div class="simple-map align{{ align }} clearboth" style="height:{{ height }};">
-   <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
-   <div id="google-map"></div>
+  <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
+  <div id="google-map"></div>
 </div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-   var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40,-75], {{ zoom }});
-   
-   objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
-   
-   var gpx = "/assets/data/gpx/{{ gpx_file }}";
-    var lyrGPX = new L.GPX(gpx, {
-      async: true,
-      markers: {
-        wptIconUrls: {
-          '': '200px-Yellow_icon.svg.png',
-          'Flag, Blue': 'blue-flag-32.png'
-        },   
-        iconSize: [20, 20],
-        iconAnchor: [0, 16],             
-        startIcon: null,
-        endIcon: null
+  const markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40, -75], {{ zoom }});
+
+  objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
+
+  const gpx = "/assets/data/gpx/{{ gpx_file }}";
+
+  const lyrGPX = new L.GPX(gpx, {
+    async: true,
+    markers: {
+      wptIconUrls: {
+        '': '200px-Yellow_icon.svg.png',
+        'Flag, Blue': 'blue-flag-32.png'
       },
-      polyline_options: {
-        color: "red"
-      }
-    }).on('loaded', function(e) {
-      markMap.fitBounds(e.target.getBounds().pad(0.1));
-      createGoogleMapLink(markMap);
+      iconSize: [20, 20],
+      iconAnchor: [0, 16],
+      startIcon: null,
+      endIcon: null
+    },
+    polyline_options: {
+      color: "red"
+    }
+  }).on('loaded', function (e) {
+    markMap.fitBounds(e.target.getBounds().pad(0.1));
+    createGoogleMapLink(markMap);
   }).addTo(markMap);
 
-   var objOverlays = {
-      "GPX": lyrGPX
-   };     
+  const objOverlays = {
+    "GPX": lyrGPX
+  };
 
-   var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);  
-   
-   L.control.polylineMeasure({unit: 'landmiles', showBearings: true}).addTo(markMap); 
+  const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
 
-function createGoogleMapLink(map) {
-  var center = markMap.getBounds().getCenter();
-  var googleMapLink = document.getElementById("google-map");
-  googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
-}
+  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
+
+  function createGoogleMapLink(map) {
+    const center = markMap.getBounds().getCenter();
+    const googleMapLink = document.getElementById("google-map");
+    googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
+  }
 
 </script>

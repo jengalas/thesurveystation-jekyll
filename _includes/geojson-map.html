@@ -19,20 +19,20 @@
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-  var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40, -75], {{ zoom }});
+  const markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40, -75], {{ zoom }});
 
   objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
 
-  var geoJson = "/assets/data/geojson/{{ geojson_file }}";
+  const geoJson = "/assets/data/geojson/{{ geojson_file }}";
 
   $.getJSON(geoJson, function (geojsonData) {
 
-    var allPoints = L.geoJson(geojsonData, {
+    const allPoints = L.geoJson(geojsonData, {
       pointToLayer: function (feature, latlng) {
 
-        var iconColor = "{{ iconcolor }}";
+        const iconColor = "{{ iconcolor }}";
 
-        var myIcon = L.divIcon({
+        const myIcon = L.divIcon({
           className: "number-icon-" + iconColor,
           iconSize: [25, 41],
           iconAnchor: [12, 46],
@@ -44,13 +44,13 @@
       },
 
       onEachFeature: function (feature, layer) {
-        layer.bindPopup("<b>Name: </b>" + feature.properties.name + '<br>' + "<b>Type: </b>" + feature.properties.type);
+        layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
       }
     }).addTo(markMap);
 
     const objOverlays = { "POIs": allPoints };
 
-    var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+    const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
 
     L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
 
@@ -59,10 +59,9 @@
   });
 
   function createGoogleMapLink(map) {
-    var center = markMap.getBounds().getCenter();
-    var googleMapLink = document.getElementById("google-map");
+    const center = markMap.getBounds().getCenter();
+    const googleMapLink = document.getElementById("google-map");
     googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
-    console.log(googleMapLink.innerHTML);
   }
 
 </script>
