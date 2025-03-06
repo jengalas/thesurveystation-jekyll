@@ -46,11 +46,21 @@
       onEachFeature: function (feature, layer) {
         layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
       }
-    }).addTo(markMap);
+    });
+
+    L.markerClusterGroup.layerSupport({
+        disableClusteringAtZoom: 17
+      }).checkIn(allPoints).addTo(markMap);
 
     const objOverlays = { "POIs": allPoints };
 
     const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+
+    
+      
+   
+
+
 
     L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
 
