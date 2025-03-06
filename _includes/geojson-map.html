@@ -48,19 +48,19 @@
       }
     });
 
-    L.markerClusterGroup.layerSupport({
-        disableClusteringAtZoom: 17
-      }).checkIn(allPoints).addTo(markMap);
+    // L.markerClusterGroup.layerSupport({
+    //   disableClusteringAtZoom: 17
+    // }).checkIn(allPoints).addTo(markMap);
+
+    var mcg = L.markerClusterGroup.layerSupport().addTo(markMap);
+
+    mcg.checkIn([
+        allPoints
+    ]).addTo(markMap);
 
     const objOverlays = { "POIs": allPoints };
 
     const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
-
-    
-      
-   
-
-
 
     L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
 
