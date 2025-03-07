@@ -26,55 +26,57 @@
 
   L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
 
-  if (mapType == "geojson") {
-    const geojsonLayer = $.getJSON(geodataFile, function (geojsonData) {
-      const allPoints = L.geoJson(geojsonData, {
-        pointToLayer: function (feature, latlng) {
-          const iconColor = "{{ include.icon_color }}";
-          const myIcon = L.divIcon({
-            className: "number-icon-" + iconColor,
-            iconSize: [25, 41],
-            iconAnchor: [12, 46],
-            popupAnchor: [3, -40],
-            html: feature.properties.number
-          });
-          return new L.marker(latlng, { icon: myIcon }).setZIndexOffset(1000 - feature.properties.number);
+  switch (mapType) {
+    case 'geojson':
+      const geojsonLayer = $.getJSON(geodataFile, function (geojsonData) {
+        const allPoints = L.geoJson(geojsonData, {
+          pointToLayer: function (feature, latlng) {
+            const iconColor = "{{ include.icon_color }}";
+            const myIcon = L.divIcon({
+              className: "number-icon-" + iconColor,
+              iconSize: [25, 41],
+              iconAnchor: [12, 46],
+              popupAnchor: [3, -40],
+              html: feature.properties.number
+            });
+            return new L.marker(latlng, { icon: myIcon }).setZIndexOffset(1000 - feature.properties.number);
+          },
+          onEachFeature: function (feature, layer) {
+            layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
+          }
+        }).addTo(markMap);
+
+        const objOverlays = { "POIs": allPoints };
+        const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+        markMap.fitBounds(allPoints.getBounds().pad(.5));
+        createGoogleMapLink(markMap);
+      });
+      break;
+    case 'gpx':
+      const lyrGPX = new L.GPX(geodataFile, {
+        async: true,
+        markers: {
+          wptIconUrls: {
+            '': '200px-Yellow_icon.svg.png',
+            'Flag, Blue': 'blue-flag-32.png'
+          },
+          iconSize: [20, 20],
+          iconAnchor: [0, 16],
+          startIcon: null,
+          endIcon: null
         },
-        onEachFeature: function (feature, layer) {
-          layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
+        polyline_options: {
+          color: "red"
         }
+      }).on('loaded', function (e) {
+        markMap.fitBounds(e.target.getBounds().pad(0.1));
+        createGoogleMapLink(markMap);
       }).addTo(markMap);
 
-      const objOverlays = { "POIs": allPoints };
+      const objOverlays = { "POIs": lyrGPX };
       const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
-      markMap.fitBounds(allPoints.getBounds().pad(.5));
-      createGoogleMapLink(markMap);
-    });
-  }
-
-  if (mapType == "gpx") {
-    const lyrGPX = new L.GPX(geodataFile, {
-      async: true,
-      markers: {
-        wptIconUrls: {
-          '': '200px-Yellow_icon.svg.png',
-          'Flag, Blue': 'blue-flag-32.png'
-        },
-        iconSize: [20, 20],
-        iconAnchor: [0, 16],
-        startIcon: null,
-        endIcon: null
-      },
-      polyline_options: {
-        color: "red"
-      }
-    }).on('loaded', function (e) {
-      markMap.fitBounds(e.target.getBounds().pad(0.1));
-      createGoogleMapLink(markMap);
-    }).addTo(markMap);
-
-    const objOverlays = { "POIs": lyrGPX };
-    const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+    default:
+      throw new Error('Invalid type');
   }
 
   function createGoogleMapLink(map) {
