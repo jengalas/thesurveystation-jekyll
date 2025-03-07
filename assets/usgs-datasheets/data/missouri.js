@@ -1440,6 +1440,596 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/101-Altenburg/Horizontal.pdf",
           "hyear": "1973"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.75,37.5],[-89.75,37.75],[-90,37.75],[-90,37.5],[-89.75,37.5]]]
+        },
+        "properties": {
+          "name": "Perryville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/102-Perryville/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/102-Perryville/Horizontal.pdf",
+          "hyear": "1965"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90,37.5],[-90,37.75],[-90.25,37.75],[-90.25,37.5],[-90,37.5]]]
+        },
+        "properties": {
+          "name": "Higdon",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/103-Higdon/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/103-Higdon/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.25,37.5],[-90.25,37.75],[-90.5,37.75],[-90.5,37.5],[-90.25,37.5]]]
+        },
+        "properties": {
+          "name": "Fredericktown",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/104-Fredericktown/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/104-Fredericktown/Horizontal.pdf",
+          "hyear": "1975"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.5,37.5],[-90.5,37.75],[-90.75,37.75],[-90.75,37.5],[-90.5,37.5]]]
+        },
+        "properties": {
+          "name": "Ironton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/105-Ironton/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/105-Ironton/Horizontal.pdf",
+          "hyear": "1966"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.75,37.5],[-90.75,37.75],[-91,37.75],[-91,37.5],[-90.75,37.5]]]
+        },
+        "properties": {
+          "name": "Edgehill",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/106-Edgehill/Vertical.pdf",
+          "vyear": "1967",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/106-Edgehill/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,37.5],[-91,37.75],[-91.25,37.75],[-91.25,37.5],[-91,37.5]]]
+        },
+        "properties": {
+          "name": "Boss",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/107-Boss/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/107-Boss/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,37.5],[-91.25,37.75],[-91.5,37.75],[-91.5,37.5],[-91.25,37.5]]]
+        },
+        "properties": {
+          "name": "Stone Hill",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/108-Stone-Hill/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/108-Stone-Hill/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,37.5],[-91.5,37.75],[-91.75,37.75],[-91.75,37.5],[-91.5,37.5]]]
+        },
+        "properties": {
+          "name": "Salem",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/109-Salem/Vertical.pdf",
+          "vyear": "1977",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/109-Salem/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.75,37.5],[-91.75,37.75],[-92,37.75],[-92,37.5],[-91.75,37.5]]]
+        },
+        "properties": {
+          "name": "Edgar Springs",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/110-Edgar-Springs/Vertical.pdf",
+          "vyear": "1977",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/110-Edgar-Springs/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92,37.5],[-92,37.75],[-92.25,37.75],[-92.25,37.5],[-92,37.5]]]
+        },
+        "properties": {
+          "name": "Big Piney",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/111-Big-Piney/Vertical.pdf",
+          "vyear": "1989",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/111-Big-Piney/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.25,37.5],[-92.25,37.75],[-92.5,37.75],[-92.5,37.5],[-92.25,37.5]]]
+        },
+        "properties": {
+          "name": "Drynob",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/112-Drynob/Vertical.pdf",
+          "vyear": "1989",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/112-Drynob/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.5,37.5],[-92.5,37.75],[-92.75,37.75],[-92.75,37.5],[-92.5,37.5]]]
+        },
+        "properties": {
+          "name": "Lebanon",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/113-Lebanon/Vertical.pdf",
+          "vyear": "1987",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/113-Lebanon/Horizontal.pdf",
+          "hyear": "1973"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.75,37.5],[-92.75,37.75],[-93,37.75],[-93,37.5],[-92.75,37.5]]]
+        },
+        "properties": {
+          "name": "Long Lane",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/114-Long-Lane/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/114-Long-Lane/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93,37.5],[-93,37.75],[-93.25,37.75],[-93.25,37.5],[-93,37.5]]]
+        },
+        "properties": {
+          "name": "Buffalo",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/115-Buffalo/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/115-Buffalo/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.25,37.5],[-93.25,37.75],[-93.5,37.75],[-93.5,37.5],[-93.25,37.5]]]
+        },
+        "properties": {
+          "name": "Bolivar",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/116-Bolivar/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/116-Bolivar/Horizontal.pdf",
+          "hyear": "1968"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.5,37.5],[-93.5,37.75],[-93.75,37.75],[-93.75,37.5],[-93.5,37.5]]]
+        },
+        "properties": {
+          "name": "Fair Play",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/117-Fair-Play/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/117-Fair-Play/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.75,37.5],[-93.75,37.75],[-94,37.75],[-94,37.5],[-93.75,37.5]]]
+        },
+        "properties": {
+          "name": "Stockton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/118-Stockton/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/118-Stockton/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94,37.5],[-94,37.75],[-94.25,37.75],[-94.25,37.5],[-94,37.5]]]
+        },
+        "properties": {
+          "name": "Montevallo",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/119-Montevallo/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/119-Montevallo/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.25,37.5],[-94.25,37.75],[-94.5,37.75],[-94.5,37.5],[-94.25,37.5]]]
+        },
+        "properties": {
+          "name": "Sheldon",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/120-Sheldon/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/120-Sheldon/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.5,37.5],[-94.5,37.75],[-94.75,37.75],[-94.75,37.5],[-94.5,37.5]]]
+        },
+        "properties": {
+          "name": "Mulberry",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/121-Mulberry/Vertical.pdf",
+          "vyear": "1990",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/121-Mulberry/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.5,37.75],[-89.5,38],[-89.75,38],[-89.75,37.75],[-89.5,37.75]]]
+        },
+        "properties": {
+          "name": "Campbell Hill",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/122-Campbell-Hill/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/122-Campbell-Hill/Horizontal.pdf",
+          "hyear": "1975"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-89.75,37.75],[-89.75,38],[-90,38],[-90,37.75],[-89.75,37.75]]]
+        },
+        "properties": {
+          "name": "Chester",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/123-Chester/Vertical.pdf",
+          "vyear": "1979",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/123-Chester/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90,37.75],[-90,38],[-90.25,38],[-90.25,37.75],[-90,37.75]]]
+        },
+        "properties": {
+          "name": "Weingarten",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/124-Weingarten/Vertical.pdf",
+          "vyear": "1970",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/124-Weingarten/Horizontal.pdf",
+          "hyear": "1963"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.25,37.75],[-90.25,38],[-90.5,38],[-90.5,37.75],[-90.25,37.75]]]
+        },
+        "properties": {
+          "name": "Farmington",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/125-Farmington/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/125-Farmington/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.5,37.75],[-90.5,38],[-90.75,38],[-90.75,37.75],[-90.5,37.75]]]
+        },
+        "properties": {
+          "name": "Bonne Terre",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/126-Bonne-Terre/Vertical.pdf",
+          "vyear": "1963",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/126-Bonne-Terre/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.75,37.75],[-90.75,38],[-91,38],[-91,37.75],[-90.75,37.75]]]
+        },
+        "properties": {
+          "name": "Potosi",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/127-Potosi/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/127-Potosi/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,37.75],[-91,38],[-91.25,38],[-91.25,37.75],[-91,37.75]]]
+        },
+        "properties": {
+          "name": "Berryman",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/128-Berryman/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/128-Berryman/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,37.75],[-91.25,38],[-91.5,38],[-91.5,37.75],[-91.25,37.75]]]
+        },
+        "properties": {
+          "name": "Steelville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/129-Steelville/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/129-Steelville/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,37.75],[-91.5,38],[-91.75,38],[-91.75,37.75],[-91.5,37.75]]]
+        },
+        "properties": {
+          "name": "Maramec Spring",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/130-Maramec-Spring/Vertical.pdf",
+          "vyear": "1977",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/130-Maramec-Spring/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.75,37.75],[-91.75,38],[-92,38],[-92,37.75],[-91.75,37.75]]]
+        },
+        "properties": {
+          "name": "Rolla",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/131-Rolla/Vertical.pdf",
+          "vyear": "1979",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/131-Rolla/Horizontal.pdf",
+          "hyear": "1960",
+          "usfs": "https://geodata.thesurveystation.com/USGS/MO/131-Rolla/USFS.pdf",
+          "usfsyear": "1960"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92,37.75],[-92,38],[-92.25,38],[-92.25,37.75],[-92,37.75]]]
+        },
+        "properties": {
+          "name": "Waynesville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/132-Waynesville/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/132-Waynesville/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.25,37.75],[-92.25,38],[-92.5,38],[-92.5,37.75],[-92.25,37.75]]]
+        },
+        "properties": {
+          "name": "Richland",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/133-Richland/Vertical.pdf",
+          "vyear": "1985",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/133-Richland/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.5,37.75],[-92.5,38],[-92.75,38],[-92.75,37.75],[-92.5,37.75]]]
+        },
+        "properties": {
+          "name": "Stoutland",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/134-Stoutland/Vertical.pdf",
+          "vyear": "1977",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/134-Stoutland/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.75,37.75],[-92.75,38],[-93,38],[-93,37.75],[-92.75,37.75]]]
+        },
+        "properties": {
+          "name": "Macks Creek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/135-Macks-Creek/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/135-Macks-Creek/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93,37.75],[-93,38],[-93.25,38],[-93.25,37.75],[-93,37.75]]]
+        },
+        "properties": {
+          "name": "Urbana",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/136-Urbana/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/136-Urbana/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.25,37.75],[-93.25,38],[-93.5,38],[-93.5,37.75],[-93.25,37.75]]]
+        },
+        "properties": {
+          "name": "Hermitage",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/137-Hermitage/Vertical.pdf",
+          "vyear": "1990",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/137-Hermitage/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.5,37.75],[-93.5,38],[-93.75,38],[-93.75,37.75],[-93.5,37.75]]]
+        },
+        "properties": {
+          "name": "Stockton No. 1",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/138-Stockton-1/Vertical.pdf",
+          "vyear": "1963",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/138-Stockton-1/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.75,37.75],[-93.75,38],[-94,38],[-94,37.75],[-93.75,37.75]]]
+        },
+        "properties": {
+          "name": "Stockton No. 2",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/139-Stockton-2/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/139-Stockton-2/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94,37.75],[-94,38],[-94.25,38],[-94.25,37.75],[-94,37.75]]]
+        },
+        "properties": {
+          "name": "Walker",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/140-Walker/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/140-Walker/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.25,37.75],[-94.25,38],[-94.5,38],[-94.5,37.75],[-94.25,37.75]]]
+        },
+        "properties": {
+          "name": "Nevada No. 2",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/141-Nevada-2/Vertical.pdf",
+          "vyear": "1966",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/141-Nevada-2/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.5,37.75],[-94.5,38],[-94.75,38],[-94.75,37.75],[-94.5,37.75]]]
+        },
+        "properties": {
+          "name": "Fort Scott",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/142-Fort-Scott/Vertical.pdf",
+          "vyear": "1982",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/142-Fort-Scott/Horizontal.pdf",
+          "hyear": "1982"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90,38],[-90,38.25],[-90.25,38.25],[-90.25,38],[-90,38]]]
+        },
+        "properties": {
+          "name": "Renault",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/143-Renault/Vertical.pdf",
+          "vyear": "1969",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/143-Renault/Horizontal.pdf",
+          "hyear": "1969"
+        }
       }
     ]
   };
