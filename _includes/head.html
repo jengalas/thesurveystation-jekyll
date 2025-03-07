@@ -31,13 +31,6 @@
   <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css'
     rel='stylesheet' />
 
-  <link rel="stylesheet" type="text/css"
-    href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
-  <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
-  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-  <script
-    src="https://unpkg.com/leaflet.markercluster.layersupport@2.0.1/dist/leaflet.markercluster.layersupport.js"></script>
-
   <link rel="icon" type="image/png" href="/assets/img/favicon/favicon-96x96.png" sizes="96x96" />
   <link rel="icon" type="image/svg+xml" href="/assets/img/favicon/favicon.svg" />
   <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico" />
@@ -45,8 +38,7 @@
   <meta name="apple-mobile-web-app-title" content="Zhanna's SurveyStation" />
   <link rel="manifest" href="/assets/img/favicon/site.webmanifest" />
 
-  {% if page.title == "Map of Recoveries" or page.title == "Map of Airway Beacons" or page.title == "PID Prefix Map" or
-  page.title == "USGS Datasheets" %}
+  {% if page.title == "Map of Recoveries" or page.title == "Map of Airway Beacons" or page.title == "PID Prefix Map" or page.title == "USGS Datasheets" %}
   <!-- Load only for recoveries map, airway beacons map, PID prefix map, USGS datasheets map -->
   <!-- Geocoder API -->
   <link rel="stylesheet" href="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.css">
