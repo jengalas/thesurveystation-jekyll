@@ -1,7 +1,7 @@
 {% if page.basemap %}
-      {% assign basemap = page.basemap %}
-   {% else %}
-     {% assign basemap = 'USGS Topo' %}
+{% assign basemap = page.basemap %}
+{% else %}
+{% assign basemap = 'USGS Topo' %}
 {% endif %}
 
 {% assign mapid = include.map_id %}
@@ -12,25 +12,25 @@
 {% assign align = include.align %}
 
 <div class="simple-map align{{ align }} clearboth">
-   <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
-   <div><a href="https://www.google.com/maps/search/?api=1&query={{ latitude }},{{ longitude }}">Google Map</a></div>
+  <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
+  <div><a href="https://www.google.com/maps/search/?api=1&query={{ latitude }},{{ longitude }}">Google Map</a></div>
 </div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-   var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([{{ latitude }}, {{ longitude }}], {{ zoom }});
-   
-   var marker = L.marker([{{ latitude }}, {{ longitude }}]).addTo(markMap);
-   marker.bindPopup("{{ marker_name }}");
+  var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([{{ latitude }}, {{ longitude }}], {{ zoom }});
 
-   objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
-   
-   var objOverlays = {
-      '{{ marker_name }}' : marker
-   };     
+  var marker = L.marker([{{ latitude }}, { { longitude } }]).addTo(markMap);
+  marker.bindPopup("{{ marker_name }}");
 
-   var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);  
-   
-   L.control.polylineMeasure({unit: 'landmiles', showBearings: true}).addTo(markMap); 
+  objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
+
+  var objOverlays = {
+    '{{ marker_name }}': marker
+  };
+
+  var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+
+  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap); 
 </script>
