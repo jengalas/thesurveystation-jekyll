@@ -32,14 +32,15 @@
         const allPoints = L.geoJson(geojsonData, {
           pointToLayer: function (feature, latlng) {
             const iconColor = "{{ include.icon_color }}";
+            const iconNumber = feature.properties.number;
             const myIcon = L.divIcon({
               className: "number-icon-" + iconColor,
               iconSize: [25, 41],
               iconAnchor: [12, 46],
               popupAnchor: [3, -40],
-              html: feature.properties.number
+              html: iconNumber
             });
-            return new L.marker(latlng, { icon: myIcon }).setZIndexOffset(1000 - feature.properties.number);
+            return new L.marker(latlng, { icon: myIcon }).setZIndexOffset(1000 - iconNumber);
           },
           onEachFeature: function (feature, layer) {
             layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
