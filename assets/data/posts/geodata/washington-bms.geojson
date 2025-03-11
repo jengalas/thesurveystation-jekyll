@@ -31,8 +31,8 @@
       },
       "properties": {
         "name": "HV1841: A",
-        "cmt": "SEE DESCRIPTION SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
-        "desc": "SEE DESCRIPTION SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
+        "cmt": "SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
+        "desc": "SET IN A PAVEMENT SUCH AS STREET SIDEWALK CURB ETC.",
         "sym": "Navaid, Black",
         "type": "BM-Not Searched For",
         "number": 2,
@@ -50,8 +50,8 @@
       },
       "properties": {
         "name": "HV8077: B 8",
-        "cmt": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
-        "desc": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "cmt": "SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "desc": "SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
         "sym": "Navaid, Black",
         "type": "BM-Not Searched For",
         "number": 3,
@@ -69,8 +69,8 @@
       },
       "properties": {
         "name": "HV8076: A 8",
-        "cmt": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
-        "desc": "SEE DESCRIPTION SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "cmt": "SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
+        "desc": "SET IN A LARGE STRUCTURE WITH DEEP FOUNDATIONS",
         "sym": "Navaid, Black",
         "type": "BM-Not Searched For",
         "number": 4,
