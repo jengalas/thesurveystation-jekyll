@@ -2030,6 +2030,274 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/143-Renault/Horizontal.pdf",
           "hyear": "1969"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.25,38],[-90.25,38.25],[-90.5,38.25],[-90.5,38],[-90.25,38]]]
+        },
+        "properties": {
+          "name": "Crystal City",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/144-Crystal-City/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/144-Crystal-City/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.5,38],[-90.5,38.25],[-90.75,38.25],[-90.75,38],[-90.5,38]]]
+        },
+        "properties": {
+          "name": "De Soto",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/145-De-Soto/Vertical.pdf",
+          "vyear": "1969",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/145-De-Soto/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.75,38],[-90.75,38.25],[-91,38.25],[-91,38],[-90.75,38]]]
+        },
+        "properties": {
+          "name": "Richwoods",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/146-Richwoods/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/146-Richwoods/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,38],[-91,38.25],[-91.25,38.25],[-91.25,38],[-91,38]]]
+        },
+        "properties": {
+          "name": "Sullivan",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/147-Sullivan/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/147-Sullivan/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,38],[-91.25,38.25],[-91.5,38.25],[-91.5,38],[-91.25,38]]]
+        },
+        "properties": {
+          "name": "Cuba",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/148-Cuba/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/148-Cuba/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,38],[-91.5,38.25],[-91.75,38.25],[-91.75,38],[-91.5,38]]]
+        },
+        "properties": {
+          "name": "Red Bird",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/149-Red-Bird/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/149-Red-Bird/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.75,38],[-91.75,38.25],[-92,38.25],[-92,38],[-91.75,38]]]
+        },
+        "properties": {
+          "name": "Vienna",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/150-Vienna/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/150-Vienna/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92,38],[-92,38.25],[-92.25,38.25],[-92.25,38],[-92,38]]]
+        },
+        "properties": {
+          "name": "Tavern",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/151-Tavern/Vertical.pdf",
+          "vyear": "1985",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/151-Tavern/Horizontal.pdf",
+          "hyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.25,38],[-92.25,38.25],[-92.5,38.25],[-92.5,38],[-92.25,38]]]
+        },
+        "properties": {
+          "name": "Iberia",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/152-Iberia/Vertical.pdf",
+          "vyear": "1987",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/152-Iberia/Horizontal.pdf",
+          "hyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.5,38],[-92.5,38.25],[-92.75,38.25],[-92.75,38],[-92.5,38]]]
+        },
+        "properties": {
+          "name": "Linn Creek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/153-Linn-Creek/Vertical.pdf",
+          "vyear": "1985",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/153-Linn-Creek/Horizontal.pdf",
+          "hyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.75,38],[-92.75,38.25],[-93,38.25],[-93,38],[-92.75,38]]]
+        },
+        "properties": {
+          "name": "Little Niangua",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/154-Little-Niangua/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/154-Little-Niangua/Horizontal.pdf",
+          "hyear": "1966"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93,38],[-93,38.25],[-93.25,38.25],[-93.25,38],[-93,38]]]
+        },
+        "properties": {
+          "name": "Warsaw No. 4",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/155-Warsaw-4/Vertical.pdf",
+          "vyear": "1974",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/155-Warsaw-4/Horizontal.pdf",
+          "hyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.25,38],[-93.25,38.25],[-93.5,38.25],[-93.5,38],[-93.25,38]]]
+        },
+        "properties": {
+          "name": "Fristoe",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/156-Fristoe/Vertical.pdf",
+          "vyear": "1981",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/156-Fristoe/Horizontal.pdf",
+          "hyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.5,38],[-93.5,38.25],[-93.75,38.25],[-93.75,38],[-93.5,38]]]
+        },
+        "properties": {
+          "name": "Clinton No. 4",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/157-Clinton-4/Vertical.pdf",
+          "vyear": "Various dates",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/157-Clinton-4/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.75,38],[-93.75,38.25],[-94,38.25],[-94,38],[-93.75,38]]]
+        },
+        "properties": {
+          "name": "Monegaw Springs",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/158-Monegaw-Springs/Vertical.pdf",
+          "vyear": "1966",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/158-Monegaw-Springs/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94,38],[-94,38.25],[-94.25,38.25],[-94.25,38],[-94,38]]]
+        },
+        "properties": {
+          "name": "Butler No. 4",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/159-Butler-4/Vertical.pdf",
+          "vyear": "1966",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/159-Butler-4/Horizontal.pdf",
+          "hyear": "1966"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.25,38],[-94.25,38.25],[-94.5,38.25],[-94.5,38],[-94.25,38]]]
+        },
+        "properties": {
+          "name": "Butler No. 3",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/160-Butler-3/Vertical.pdf",
+          "vyear": "1959",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/160-Butler-3/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.5,38],[-94.5,38.25],[-94.75,38.25],[-94.75,38],[-94.5,38]]]
+        },
+        "properties": {
+          "name": "Pleasanton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/161-Pleasanton/Vertical.pdf",
+          "vyear": "1961",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/161-Pleasanton/Horizontal.pdf",
+          "hyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.25,38.25],[-90.25,38.5],[-90.5,38.5],[-90.5,38.25],[-90.25,38.25]]]
+        },
+        "properties": {
+          "name": "Kimmswick",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/162-Kimmswick/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/162-Kimmswick/Horizontal.pdf",
+          "hyear": "1971",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/162-Kimmswick/Horizontal.pdf",
+          "cyear": "1971"
+        }
       }
     ]
   };
