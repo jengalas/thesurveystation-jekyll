@@ -2295,8 +2295,82 @@ var geojsonFeature = {
           "vyear": "1975",
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/162-Kimmswick/Horizontal.pdf",
           "hyear": "1971",
-          "coe": "https://geodata.thesurveystation.com/USGS/MO/162-Kimmswick/Horizontal.pdf",
-          "cyear": "1971"
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/162-Kimmswick/Corps-of-Engineers.pdf",
+          "cyear": "Unknown date"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.5,38.25],[-90.5,38.5],[-90.75,38.5],[-90.75,38.25],[-90.5,38.25]]]
+        },
+        "properties": {
+          "name": "Pacific",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/163-Pacific/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/163-Pacific/Horizontal.pdf",
+          "hyear": "1967",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/163-Pacific/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.75,38.25],[-90.75,38.5],[-91,38.5],[-91,38.25],[-90.75,38.25]]]
+        },
+        "properties": {
+          "name": "St. Clair",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/164-St-Clair/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/164-St-Clair/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,38.25],[-91,38.5],[-91.25,38.5],[-91.25,38.25],[-91,38.25]]]
+        },
+        "properties": {
+          "name": "Union",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/165-Union/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/165-Union/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,38.25],[-91.25,38.5],[-91.5,38.5],[-91.5,38.25],[-91.25,38.25]]]
+        },
+        "properties": {
+          "name": "Gerald",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/166-Gerald/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/166-Gerald/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/166-Gerald/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,38.25],[-91.5,38.5],[-91.75,38.5],[-91.75,38.25],[-91.5,38.25]]]
+        },
+        "properties": {
+          "name": "Bland",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/167-Bland/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/167-Bland/Horizontal.pdf",
+          "hyear": "1970"
         }
       }
     ]
