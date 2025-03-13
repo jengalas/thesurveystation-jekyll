@@ -1,0 +1,93 @@
+{% if page.basemap %}
+{% assign basemap = page.basemap %}
+{% else %}
+{% assign basemap = 'USGS Topo' %}
+{% endif %}
+
+{% assign mapid = include.map_id %}
+{% assign zoom = include.zoom %}
+{% assign align = include.align %}
+{% assign height = include.height %}
+
+<div class="simple-map align{{ align }} clearboth" style="height:{{ height }};">
+  <div class="map" id="{{ page.id }}-{{ mapid }}"></div>
+  <div id="google-map"></div>
+</div>
+
+<!-- Load common basemaps -->
+<script src="/assets/data/basemaps.js"></script>
+<script>
+
+  const mapType = "{{ include.type }}";
+  const markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40, -75], {{ zoom }});
+  const geodataFile = "/assets/data/posts/geodata/{{ include.file }}";
+
+  var clusters = L.markerClusterGroup();
+
+  objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
+
+  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
+
+  switch (mapType) {
+    case 'geojson':
+      const geojsonLayer = $.getJSON(geodataFile, function (geojsonData) {
+        const allPoints = L.geoJson(geojsonData, {
+          pointToLayer: function (feature, latlng) {
+            const iconColor = "{{ include.icon_color }}";
+            const iconNumber = feature.properties.number;
+            const myIcon = L.divIcon({
+              className: "number-icon-" + iconColor,
+              iconSize: [25, 41],
+              iconAnchor: [12, 46],
+              popupAnchor: [3, -40],
+              html: iconNumber
+            });
+            return new L.marker(latlng, { icon: myIcon }).setZIndexOffset(1000 - iconNumber);
+          },
+          onEachFeature: function (feature, layer) {
+            layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
+          }
+        }).addTo(clusters);
+
+        clusters.addTo(markMap);
+
+        const objOverlays = { "POIs": clusters };
+        const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+        markMap.fitBounds(allPoints.getBounds().pad(.5));
+        createGoogleMapLink(markMap);
+      });
+      break;
+    case 'gpx':
+      const lyrGPX = new L.GPX(geodataFile, {
+        async: true,
+        markers: {
+          wptIconUrls: {
+            '': '200px-Yellow_icon.svg.png',
+            'Flag, Blue': 'blue-flag-32.png'
+          },
+          iconSize: [20, 20],
+          iconAnchor: [0, 16],
+          startIcon: null,
+          endIcon: null
+        },
+        polyline_options: {
+          color: "red"
+        }
+      }).on('loaded', function (e) {
+        markMap.fitBounds(e.target.getBounds().pad(0.1));
+        createGoogleMapLink(markMap);
+      }).addTo(markMap);
+
+      const objOverlays = { "POIs": lyrGPX };
+      const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+    default:
+      throw new Error('Invalid type');
+  }
+
+  function createGoogleMapLink(map) {
+    const center = markMap.getBounds().getCenter();
+    const googleMapLink = document.getElementById("google-map");
+    googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
+  }
+
+</script>
