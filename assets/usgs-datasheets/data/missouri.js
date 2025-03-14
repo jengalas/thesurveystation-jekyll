@@ -2854,6 +2854,100 @@ var geojsonFeature = {
           "coe": "https://geodata.thesurveystation.com/USGS/MO/200-St-Charles/Corps-of-Engineers.pdf",
           "cyear": "1958"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.5,38.75],[-90.5,39],[-90.75,39],[-90.75,38.75],[-90.5,38.75]]]
+        },
+        "properties": {
+          "name": "Brussels",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/201-Brussels/Vertical.pdf",
+          "vyear": "1983",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/201-Brussels/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/201-Brussels/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.75,38.75],[-90.75,39],[-91,39],[-91,38.75],[-90.75,38.75]]]
+        },
+        "properties": {
+          "name": "Troy",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/202-Troy/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/202-Troy/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/202-Troy/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,38.75],[-91,39],[-91.25,39],[-91.25,38.75],[-91,38.75]]]
+        },
+        "properties": {
+          "name": "Warrenton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/203-Warrenton/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/203-Warrenton/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/203-Warrenton/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,38.75],[-91.25,39],[-91.5,39],[-91.5,38.75],[-91.25,38.75]]]
+        },
+        "properties": {
+          "name": "New Florence",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/204-New-Florence/Vertical.pdf",
+          "vyear": "1972",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/204-New-Florence/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/204-New-Florence/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,38.75],[-91.5,39],[-91.75,39],[-91.75,38.75],[-91.5,38.75]]]
+        },
+        "properties": {
+          "name": "Montgomery City",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/205-Montgomery-City/Vertical.pdf",
+          "vyear": "1972",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/205-Montgomery-City/Horizontal.pdf",
+          "hyear": "1970"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.75,38.75],[-91.75,39],[-92,39],[-92,38.75],[-91.75,38.75]]]
+        },
+        "properties": {
+          "name": "Fulton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/206-Fulton/Vertical.pdf",
+          "vyear": "1972",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/206-Fulton/Horizontal.pdf",
+          "hyear": "1963",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/206-Fulton/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        }
       }
     ]
   };
