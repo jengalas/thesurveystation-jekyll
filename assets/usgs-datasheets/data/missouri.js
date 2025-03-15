@@ -3392,6 +3392,290 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/MO/236-Pearl/Horizontal.pdf",
           "hyear": "1970"
         } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-90.75,39.25],[-90.75,39.5],[-91,39.5],[-91,39.25],[-90.75,39.25]]]
+        },
+        "properties": {
+          "name": "Nebo",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/237-Nebo/Vertical.pdf",
+          "vyear": "1982",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/237-Nebo/Horizontal.pdf",
+          "hyear": "1972",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/237-Nebo/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,39.25],[-91,39.5],[-91.25,39.5],[-91.25,39.25],[-91,39.25]]]
+        },
+        "properties": {
+          "name": "Bowling Green",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/238-Bowling-Green/Vertical.pdf",
+          "vyear": "1975",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/238-Bowling-Green/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,39.25],[-91.25,39.5],[-91.5,39.5],[-91.5,39.25],[-91.25,39.25]]]
+        },
+        "properties": {
+          "name": "Vandalia",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/239-Vandalia/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/239-Vandalia/Horizontal.pdf",
+          "hyear": "1969",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/239-Vandalia/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,39.25],[-91.5,39.5],[-91.75,39.5],[-91.75,39.25],[-91.5,39.25]]]
+        },
+        "properties": {
+          "name": "Perry",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/240-Perry/Vertical.pdf",
+          "vyear": "1972",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/240-Perry/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/240-Perry/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.75,39.25],[-91.75,39.5],[-92,39.5],[-92,39.25],[-91.75,39.25]]]
+        },
+        "properties": {
+          "name": "Florida",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/241-Florida/Vertical.pdf",
+          "vyear": "1972",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/241-Florida/Horizontal.pdf",
+          "hyear": "1972",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/241-Florida/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92,39.25],[-92,39.5],[-92.25,39.5],[-92.25,39.25],[-92,39.25]]]
+        },
+        "properties": {
+          "name": "Madison",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/242-Madison/Vertical.pdf",
+          "vyear": "1972",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/242-Madison/Horizontal.pdf",
+          "hyear": "1969",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/242-Madison/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.25,39.25],[-92.25,39.5],[-92.5,39.5],[-92.5,39.25],[-92.25,39.25]]]
+        },
+        "properties": {
+          "name": "Moberly",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/243-Moberly/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/243-Moberly/Horizontal.pdf",
+          "hyear": "1969",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/243-Moberly/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.5,39.25],[-92.5,39.5],[-92.75,39.5],[-92.75,39.25],[-92.5,39.25]]]
+        },
+        "properties": {
+          "name": "Huntsville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/244-Huntsville/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/244-Huntsville/Horizontal.pdf",
+          "hyear": "1960",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/244-Huntsville/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.75,39.25],[-92.75,39.5],[-93,39.5],[-93,39.25],[-92.75,39.25]]]
+        },
+        "properties": {
+          "name": "Glasgow No. 2",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/245-Glasgow-2/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/245-Glasgow-2/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/245-Glasgow-2/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93,39.25],[-93,39.5],[-93.25,39.5],[-93.25,39.25],[-93,39.25]]]
+        },
+        "properties": {
+          "name": "Marshall No. 1",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/246-Marshall-1/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/246-Marshall-1/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.25,39.25],[-93.25,39.5],[-93.5,39.5],[-93.5,39.25],[-93.25,39.25]]]
+        },
+        "properties": {
+          "name": "Marshall No. 2",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/247-Marshall-2/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/247-Marshall-2/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.5,39.25],[-93.5,39.5],[-93.75,39.5],[-93.75,39.25],[-93.5,39.25]]]
+        },
+        "properties": {
+          "name": "Norborne",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/248-Norborne/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/248-Norborne/Horizontal.pdf",
+          "hyear": "1971"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.75,39.25],[-93.75,39.5],[-94,39.5],[-94,39.25],[-93.75,39.25]]]
+        },
+        "properties": {
+          "name": "Richmond",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/249-Richmond/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/249-Richmond/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94,39.25],[-94,39.5],[-94.25,39.5],[-94.25,39.25],[-94,39.25]]]
+        },
+        "properties": {
+          "name": "Lawson",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/250-Lawson/Vertical.pdf",
+          "vyear": "1971",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/250-Lawson/Horizontal.pdf",
+          "hyear": "1971"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.25,39.25],[-94.25,39.5],[-94.5,39.5],[-94.5,39.25],[-94.25,39.25]]]
+        },
+        "properties": {
+          "name": "Kearney",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/251-Kearney/Vertical.pdf",
+          "vyear": "1971",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/251-Kearney/Horizontal.pdf",
+          "hyear": "1971"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.5,39.25],[-94.5,39.5],[-94.75,39.5],[-94.75,39.25],[-94.5,39.25]]]
+        },
+        "properties": {
+          "name": "Smithville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/252-Smithville/Vertical.pdf",
+          "vyear": "1964",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/252-Smithville/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.75,39.25],[-94.75,39.5],[-95,39.5],[-95,39.25],[-94.75,39.25]]]
+        },
+        "properties": {
+          "name": "Leavenworth",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/253-Leavenworth/Vertical.pdf",
+          "vyear": "1982",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/253-Leavenworth/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-95,39.25],[-95,39.5],[-95.25,39.5],[-95.25,39.25],[-95,39.25]]]
+        },
+        "properties": {
+          "name": "Easton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/254-Easton/Vertical.pdf",
+          "vyear": "1982",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/254-Easton/Horizontal.pdf",
+          "hyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91,39.5],[-91,39.75],[-91.25,39.75],[-91.25,39.5],[-91,39.5]]]
+        },
+        "properties": {
+          "name": "Barry",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/255-Barry/Vertical.pdf",
+          "vyear": "1987",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/255-Barry/Horizontal.pdf",
+          "hyear": "1971",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/255-Barry/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
       }
     ]
   };
