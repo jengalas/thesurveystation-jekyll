@@ -3676,6 +3676,22 @@ var geojsonFeature = {
           "coe": "https://geodata.thesurveystation.com/USGS/MO/255-Barry/Corps-of-Engineers.pdf",
           "cyear": "1958"
         } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.25,39.5],[-91.25,39.75],[-91.5,39.75],[-91.5,39.5],[-91.25,39.5]]]
+        },
+        "properties": {
+          "name": "Hannibal",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/256-Hannibal/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/256-Hannibal/Horizontal.pdf",
+          "hyear": "1969",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/256-Hannibal/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
       }
     ]
   };
