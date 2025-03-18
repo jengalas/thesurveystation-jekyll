@@ -3692,6 +3692,54 @@ var geojsonFeature = {
           "coe": "https://geodata.thesurveystation.com/USGS/MO/256-Hannibal/Corps-of-Engineers.pdf",
           "cyear": "1958"
         } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.5,39.5],[-91.5,39.75],[-91.75,39.75],[-91.75,39.5],[-91.5,39.5]]]
+        },
+        "properties": {
+          "name": "Monroe City",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/257-Monroe-City/Vertical.pdf",
+          "vyear": "1969",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/257-Monroe-City/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/257-Monroe-City/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-91.75,39.5],[-91.75,39.75],[-92,39.75],[-92,39.5],[-91.75,39.5]]]
+        },
+        "properties": {
+          "name": "Hunnewell",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/258-Hunnewell/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/258-Hunnewell/Horizontal.pdf",
+          "hyear": "1970",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/258-Hunnewell/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92,39.5],[-92,39.75],[-92.25,39.75],[-92.25,39.5],[-92,39.5]]]
+        },
+        "properties": {
+          "name": "Shelbina",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/259-Shelbina/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/259-Shelbina/Horizontal.pdf",
+          "hyear": "1969",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/259-Shelbina/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
       }
     ]
   };
