@@ -3740,6 +3740,152 @@ var geojsonFeature = {
           "coe": "https://geodata.thesurveystation.com/USGS/MO/259-Shelbina/Corps-of-Engineers.pdf",
           "cyear": "1958"
         } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.25,39.5],[-92.25,39.75],[-92.5,39.75],[-92.5,39.5],[-92.25,39.5]]]
+        },
+        "properties": {
+          "name": "Macon",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/260-Macon/Vertical.pdf",
+          "vyear": "1970",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/260-Macon/Horizontal.pdf",
+          "hyear": "1969",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/260-Macon/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.5,39.5],[-92.5,39.75],[-92.75,39.75],[-92.75,39.5],[-92.5,39.5]]]
+        },
+        "properties": {
+          "name": "College Mound",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/261-College-Mound/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/261-College-Mound/Horizontal.pdf",
+          "hyear": "1969",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/261-College-Mound/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-92.75,39.5],[-92.75,39.75],[-93,39.75],[-93,39.5],[-92.75,39.5]]]
+        },
+        "properties": {
+          "name": "Marceline",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/262-Marceline/Vertical.pdf",
+          "vyear": "1987",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/262-Marceline/Horizontal.pdf",
+          "hyear": "1971",
+          "coe": "https://geodata.thesurveystation.com/USGS/MO/262-Marceline/Corps-of-Engineers.pdf",
+          "cyear": "1958"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93,39.5],[-93,39.75],[-93.25,39.75],[-93.25,39.5],[-93,39.5]]]
+        },
+        "properties": {
+          "name": "Rothville",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/263-Rothville/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/263-Rothville/Horizontal.pdf",
+          "hyear": "1971"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.25,39.5],[-93.25,39.75],[-93.5,39.75],[-93.5,39.5],[-93.25,39.5]]]
+        },
+        "properties": {
+          "name": "Hale",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/264-Hale/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/264-Hale/Horizontal.pdf",
+          "hyear": "1971"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.5,39.5],[-93.5,39.75],[-93.75,39.75],[-93.75,39.5],[-93.5,39.5]]]
+        },
+        "properties": {
+          "name": "Utica",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/265-Utica/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/265-Utica/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-93.75,39.5],[-93.75,39.75],[-94,39.75],[-94,39.5],[-93.75,39.5]]]
+        },
+        "properties": {
+          "name": "Braymer",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/266-Braymer/Vertical.pdf",
+          "vyear": "1981",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/266-Braymer/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94,39.5],[-94,39.75],[-94.25,39.75],[-94.25,39.5],[-94,39.5]]]
+        },
+        "properties": {
+          "name": "Polo",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/267-Polo/Vertical.pdf",
+          "vyear": "1981",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/267-Polo/Horizontal.pdf",
+          "hyear": "1970"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.25,39.5],[-94.25,39.75],[-94.5,39.75],[-94.5,39.5],[-94.25,39.5]]]
+        },
+        "properties": {
+          "name": "Plattsburg",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/268-Plattsburg/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/268-Plattsburg/Horizontal.pdf",
+          "hyear": "1969"
+        } 
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-94.5,39.5],[-94.5,39.75],[-94.75,39.75],[-94.75,39.5],[-94.5,39.5]]]
+        },
+        "properties": {
+          "name": "Gower",
+          "vertical": "https://geodata.thesurveystation.com/USGS/MO/269-Gower/Vertical.pdf",
+          "vyear": "1970",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/MO/269-Gower/Horizontal.pdf",
+          "hyear": "1970"
+        } 
       }
     ]
   };
