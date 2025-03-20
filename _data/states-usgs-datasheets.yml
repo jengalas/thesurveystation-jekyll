@@ -54,7 +54,7 @@
   dev: false
 - state: Missouri
   abbrev: MO
-  dev: true  
+  dev: false  
 - state: Montana
   abbrev: MT
   dev: false  
