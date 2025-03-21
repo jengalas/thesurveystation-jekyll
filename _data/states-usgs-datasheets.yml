@@ -58,6 +58,9 @@
 - state: Montana
   abbrev: MT
   dev: false  
+- state: Nebraska
+  abbrev: NE
+  dev: true  
 - state: New Hampshire
   abbrev: NH
   dev: false
