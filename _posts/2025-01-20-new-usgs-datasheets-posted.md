@@ -2,7 +2,7 @@
 title: New USGS Datasheets Posted—AZ and CA
 author: Zhanna
 date: '2025-01-20T09:36:00-05:00'
-tags: [datasheets, USGS]
+tags: ["USGS datasheets"]
 excerpt: >-
     
 ---
