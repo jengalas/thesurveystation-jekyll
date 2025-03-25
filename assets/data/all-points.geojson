@@ -4,6 +4,24 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "R 1320",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2024-12-24T12:37:00-07:00",
+          "permalink": "/surveymarks/ht2267/",
+          "image": "https://images.planetzhanna.com/2024/12/24/thumbnails/ht2267csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.477139,
+            37.765583
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "PROP COR REF EL 329.99",
           "status": "Recovered",
           "condition": "Good",
