@@ -23882,6 +23882,42 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "MT MINSI",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/20/2002 18:22",
+          "permalink": "/surveymarks/kv3570/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.128874,
+            40.95966
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "AIRWAY BN 22 B S DEL WATER GAP",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "10/20/2002 18:02",
+          "permalink": "/surveymarks/kv3571/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.128841,
+            40.959903
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "Z 80",
           "status": "Not Found",
           "condition": "Unknown (Not Found)",
