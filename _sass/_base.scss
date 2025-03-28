@@ -27,7 +27,7 @@ body {
   min-height: 100vh;
   padding-top: var(--nav-height);
 
-  @media (max-width: $mobile){
+  @media (max-width: $mobile) {
     --nav-height: 90px;
   }
 }
@@ -92,7 +92,7 @@ strong {
         padding: .5rem 0;
 
         @media (min-width: $mobile) {
-          padding: 5rem 0;
+          padding: 4rem 0;
         }
       }
     }
@@ -246,6 +246,9 @@ strong {
     }
 
     .section-text {
+      align-items: center;
+      display: flex;
+      justify-content: center;
       margin-left: 1rem;
 
       h1 {
@@ -365,6 +368,7 @@ strong {
     @media (min-width: $narrower) {
       display: flex;
     }
+
     font-size: 1rem;
     justify-content: space-between;
     margin-top: 1rem;

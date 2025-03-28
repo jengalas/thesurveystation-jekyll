@@ -1,12 +1,11 @@
 <div class="container">
-    <div class="header-row">
-        <h2>Recent Posts</h2>
-        <a href="/posts/">All posts »</a>
-    </div>
-    <div>
-        {% for post in site.posts limit:4 %}
-            {% include blog-index.html %}
-        {% endfor %}
-    </div>
+  <div class="header-row">
+    <h2>Recent Posts</h2>
+    <a href="/posts/">All posts »</a>
+  </div>
+  <div>
+    {% for post in site.posts limit:4 %}
+    {% include blog-index.html %}
+    {% endfor %}
+  </div>
 </div>
-

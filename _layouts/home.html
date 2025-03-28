@@ -1,82 +1,81 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
-  
-  {% include head.html %}
 
-  <body>
+{% include head.html %}
 
-    {% include nav.html %}
+<body>
 
-    <main class="default-template home">
+  {% include nav.html %}
 
-      <section id="banner">
-        <header>
-          <div class="hero__content">
-            <h1>TheSurveyStation</h1>
-            <img src="" alt="Zhanna documenting a mark" id="profileImage">
-            <p>Follow along with Zhanna as she searches for survey marks, airway beacons, and other relics of infrastructure!</p>
-            <a href="/about-survey-mark-hunting/" class="button">Learn more</a>
-          </div>
-        </header>
-      </section>
-      
-        <div class="grid-container three-col">
-          <a href="/survey-mark-hunting">
-            <div class="grid-item main-section">
-              <div class="image">
-                <img src="/assets/img/benchmark-icon.png" alt="">
-              </div>
-              <div class="section-text">
-                <h1>Survey Mark Hunting</h1>
-                <!-- <p>Follow Zhanna's adventures and learn about how to search for survey markers</p> -->
-              </div>
-            </div>
-          </a>          
-          <a href="/survey-data">
-            <div class="grid-item main-section">
-              <div class="image">
-                <img src="/assets/img/data-icon.png" alt="">
-              </div>
-              <div class="section-text">
-                <h1>Survey Mark Data</h1>
-                <!-- <p>Current and historical data from NGS, USGS, and other agencies</p>   -->
-              </div>        
-            </div>
-          </a>
-          <a href="/airway-beacons">
-            <div class="grid-item main-section">
-              <div class="image">
-                <img src="/assets/img/beacon-icon.png" alt="">
-              </div>
-              <div class="section-text">
-                <h1>Airway Beacons</h1>
-                <!-- <p>History, images, and maps related to historical airway beacons in the U.S.</p> -->
-              </div>
-            </div>
-          </a>
+  <main class="default-template home">
+
+    <section id="banner">
+      <header>
+        <div class="hero__content">
+          <h1>TheSurveyStation</h1>
+          <img src="" alt="Zhanna documenting a mark" id="profileImage">
+          <p>Follow along with Zhanna as she searches for survey marks, airway beacons, and other relics of
+            infrastructure!</p>
+          <a href="/about-survey-mark-hunting/" class="button">Learn more</a>
         </div>
+      </header>
+    </section>
 
-        <section class="blog background">
-          {% include recent-posts.html %}
-        </section>
+    <div class="grid-container three-col">
+      <a href="/survey-mark-hunting">
+        <div class="grid-item main-section">
+          <div class="image">
+            <img src="/assets/img/benchmark-icon.png" alt="">
+          </div>
+          <div class="section-text">
+            <h1>Survey Mark Hunting</h1>
+            <!-- <p>Follow Zhanna's adventures and learn about how to search for survey markers</p> -->
+          </div>
+        </div>
+      </a>
+      <a href="/survey-data">
+        <div class="grid-item main-section">
+          <div class="image">
+            <img src="/assets/img/data-icon.png" alt="">
+          </div>
+          <div class="section-text">
+            <h1>Survey Mark Data</h1>
+            <!-- <p>Current and historical data from NGS, USGS, and other agencies</p>   -->
+          </div>
+        </div>
+      </a>
+      <a href="/airway-beacons">
+        <div class="grid-item main-section">
+          <div class="image">
+            <img src="/assets/img/beacon-icon.png" alt="">
+          </div>
+          <div class="section-text">
+            <h1>Airway Beacons</h1>
+            <!-- <p>History, images, and maps related to historical airway beacons in the U.S.</p> -->
+          </div>
+        </div>
+      </a>
+    </div>
 
-        <section class="recent-recoveries">
-          <div class="section-text container"><h2>Recent Survey Mark Recoveries</h2></div>
-            <div class="grid-container two-col">
-              {% include recent-recoveries-home.html %}
-            </div>
-        </section> 
-  
-    </main>
-    
-    {% include footer.html %}  
+    <section class="blog background">
+      {% include recent-posts.html %}
+    </section>
 
-  </body>
-  <script>
-    let imageArray = ["/assets/img/4850canyong4csm-featured.jpg","/assets/img/aa0389g1csm-featured.jpg","/assets/img/homepage-feature.jpg","/assets/img/ly1150rg9csm-featured.jpg","/assets/img/kv1768g4csm-featured.jpg","/assets/img/P1000730d-featured.jpg","/assets/img/P1040486-featured.jpg","/assets/img/pe2033g4csm-featured.jpg","/assets/img/P9060145-featured.jpg","/assets/img/P9131148-featured.jpg","/assets/img/P9131148-featured.jpg","/assets/img/P9050050-featured.jpg","/assets/img/P9041864-featured.jpg"];
-    let i = Math.floor(Math.random() * imageArray.length);
-    let selectedImage = imageArray[i];
-    let profileImage = document.getElementById("profileImage");
-    profileImage.src = selectedImage;
-  </script>
+    <section class="recent-recoveries">
+      {% include recent-recoveries-home.html %}
+    </section>
+
+  </main>
+
+  {% include footer.html %}
+
+</body>
+<script>
+  let imageArray = ["/assets/img/4850canyong4csm-featured.jpg", "/assets/img/aa0389g1csm-featured.jpg", "/assets/img/homepage-feature.jpg", "/assets/img/ly1150rg9csm-featured.jpg", "/assets/img/kv1768g4csm-featured.jpg", "/assets/img/P1000730d-featured.jpg", "/assets/img/P1040486-featured.jpg", "/assets/img/pe2033g4csm-featured.jpg", "/assets/img/P9060145-featured.jpg", "/assets/img/P9131148-featured.jpg", "/assets/img/P9131148-featured.jpg", "/assets/img/P9050050-featured.jpg", "/assets/img/P9041864-featured.jpg"];
+  let i = Math.floor(Math.random() * imageArray.length);
+  let selectedImage = imageArray[i];
+  let profileImage = document.getElementById("profileImage");
+  profileImage.src = selectedImage;
+</script>
+
 </html>

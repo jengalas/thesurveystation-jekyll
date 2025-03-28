@@ -2,141 +2,156 @@
 $bodyColor: #474747;
 
 .home {
-    #banner {
-        width: 100%;
-        background-image: url(/assets/img/dave-hoefler-cls3zN5wte0-unsplash.jpg);
-        background-image: url(/assets/img/k10g3c-2.jpg);
-        background-position: center bottom;
-        background-size: cover;
-        height: 28em;
-        text-align: center;
-        position: relative;
+  #banner {
+    width: 100%;
+    background-image: url(/assets/img/dave-hoefler-cls3zN5wte0-unsplash.jpg);
+    background-image: url(/assets/img/k10g3c-2.jpg);
+    background-position: center bottom;
+    background-size: cover;
+    height: 28em;
+    text-align: center;
+    position: relative;
+
+    @media (max-width: $mobile) {
+      height: 18em;
+    }
+  }
+
+  #profileImage {
+    background-color: #ffffff;
+    border-radius: 50%;
+    float: right;
+    height: auto;
+    max-width: 170px;
+    padding: 4px;
+    box-shadow: 0 1px 2px #666666;
+
+    @media (max-width: $mobile) {
+      max-width: 100px;
+      padding: 3px;
+    }
+  }
+
+  .background {
+    background-image: url('/assets/img/stacked-waves-haikei-greenish.png');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 100%;
+  }
+
+  header {
+    display: grid;
+    grid-template-areas: "hero";
+    height: 28em;
+    max-height: 600px;
+    padding: 2rem 1rem;
+    align-items: center;
+    justify-content: center;
+
+    @media (max-width: $mobile) {
+      height: 18em;
+    }
+
+    >* {
+      grid-area: hero;
+    }
+
+    .hero__content {
+      text-align: left;
+      max-width: 800px;
+
+      h1 {
+        color: #ffffff;
+        font-size: 3rem;
+        margin-top: 0;
+        text-shadow: 2px 2px 5px black;
 
         @media (max-width: $mobile) {
-            height: 18em;
+          font-size: 2rem;
         }
-    }
-    #profileImage {
-        background-color: #ffffff;
-        border-radius: 50%;
-        float: right;
-        height: auto;
-        max-width: 170px;
-        padding: 4px;
-        box-shadow: 0 1px 2px #666666;
+      }
+
+      p {
+        color: #ffffff;
+        font-size: 1.5rem;
+        font-weight: 400;
+        text-shadow: 2px 2px 5px black;
 
         @media (max-width: $mobile) {
-            max-width: 100px;
-            padding: 3px;
+          font-size: 1rem;
         }
-    }
-    .background {
-        background-image: url('/assets/img/stacked-waves-haikei-greenish.png');
-        background-size: cover;
-        background-position: center;
-        height: auto;
-        width: 100%;
-    }
-    header {
-        display: grid;
-        grid-template-areas: "hero";
-        height: 28em;
-        max-height: 600px;
-        padding: 2rem 1rem;
-        align-items: center;
-        justify-content: center;
+      }
 
-        @media (max-width: $mobile) {
-            height: 18em;
+      .button {
+        background: #484848;
+        border: 2px solid #45e7fa;
+        border-radius: 2px;
+        color: #42ebff;
+        font-size: 1.02rem;
+        font-weight: 400;
+        padding: 0.5rem .9rem;
+
+        &:hover {
+          background: #45e7fa;
+          color: #484848;
         }
-
-            > * {
-            grid-area: hero;
-            }
-
-            .hero__content {
-            text-align: left;
-            max-width: 800px;
-
-            h1 {
-                color: #ffffff;
-                font-size: 3rem;
-                margin-top: 0;
-                text-shadow: 2px 2px 5px black;
-
-                @media (max-width: $mobile) {
-                    font-size: 2rem;
-                }
-            }
-
-            p {
-                color: #ffffff;
-                font-size: 1.5rem;
-                font-weight: 400;
-                text-shadow: 2px 2px 5px black;
-
-                @media (max-width: $mobile) {
-                    font-size: 1rem;
-                }
-            }
-            .button {
-                background: #484848;
-                border: 2px solid #45e7fa;
-                border-radius: 2px;                
-                color: #42ebff;
-                font-size: 1.02rem;
-                font-weight: 400;   
-                padding: 0.5rem .9rem;
-
-                &:hover {
-                    background: #45e7fa;
-                    color: #484848;
-                }
-            }
-        }
+      }
     }
-    .blog { 
-        padding: 2rem 2rem 5rem 2rem;
+  }
+
+  .blog {
+    padding: 2rem 2rem 5rem 2rem;
 
 
     .header-row {
-        align-items: center; 
-        border-bottom: 1px solid #e5e7eb;
-        display: flex; 
-        justify-content: space-between;  
+      align-items: center;
+      border-bottom: 1px solid #e5e7eb;
+      display: flex;
+      justify-content: space-between;
     }
-  
-  h3 {
-    margin-top: 0;
+
+    h3 {
+      margin-top: 0;
+    }
+
+    .grid-item {
+      flex-direction: row;
+      gap: 2rem;
+    }
   }
 
-  .grid-item {
-    flex-direction: row;
-    gap: 2rem;
-  }
-}
   .recent-recoveries {
     padding: 2rem 2rem 3rem 2rem;
-    
+
+    .header-row {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+    }
+
     .img-container {
-        width: 25%;
-      }
-    img {    
-        float: left;
-        margin-right: 2rem;
-        width: 100%;
-        border-radius: 50%;
-        padding: 5px;
-        box-shadow: rgb(102, 102, 102) 0px 1px 2px;
+      width: 25%;
     }
+
+    img {
+      float: left;
+      margin-right: 2rem;
+      width: 100%;
+      border-radius: 50%;
+      padding: 5px;
+      box-shadow: rgb(102, 102, 102) 0px 1px 2px;
+    }
+
     .grid-item {
-        flex-direction: row;
-        gap: 2rem;
+      flex-direction: row;
+      gap: 2rem;
     }
+
     h3 {
       margin-top: .3em;
 
-      @media (min-width: $narrow){
+      @media (min-width: $narrow) {
         margin-top: 1.404rem;
       }
     }
