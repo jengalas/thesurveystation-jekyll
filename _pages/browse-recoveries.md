@@ -24,6 +24,21 @@ permalink: /browse-recoveries/
       </div>
       <div class="accordion-item">
         <button class="accordion-trigger" id="accordion-trigger-{{ forloop.index }}" aria-expanded="false" aria-controls="accordion-content-{{ forloop.index }}">
+          <span class="accordion-title">Browse by Location</span>
+          <span class="accordion-icon">&plus;</span>
+        </button>
+        <div class="accordion-content" id="accordion-content-{{ forloop.index }}" role="region" aria-labelledby="accordion-trigger-{{ forloop.index }}">
+          <div class="widget__panel archive-grid cards">
+          {% for state in site.data.locations %}
+              <div class="card">
+                <a href="/location/{{ state.state | slugify }}">{{ state.state }}</a>                 
+              </div>
+          {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <button class="accordion-trigger" id="accordion-trigger-{{ forloop.index }}" aria-expanded="false" aria-controls="accordion-content-{{ forloop.index }}">
           <span class="accordion-title">Browse by Marker Type</span>
           <span class="accordion-icon">&plus;</span>
         </button>
