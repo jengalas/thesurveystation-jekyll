@@ -13,4 +13,4 @@ Unfortunately they were all scanned as individual pages in .tif format, so I dow
 
 Note that not all quads were available, and there are no datasheets for horizontal marks, only third-order leveling.
 
-View Florida quads here: [USGS Datasheets: North Dakota](/usgs-datasheets/florida/)
+View Florida quads here: [USGS Datasheets: Florida](/usgs-datasheets/florida/)
