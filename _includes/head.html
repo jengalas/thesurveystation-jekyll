@@ -38,7 +38,7 @@
   <meta name="apple-mobile-web-app-title" content="Zhanna's SurveyStation" />
   <link rel="manifest" href="/assets/img/favicon/site.webmanifest" />
 
-  {% if page.title == "Map of Recoveries" or page.title == "Map of Airway Beacons" or page.title == "PID Prefix Map" or page.title == "USGS Datasheets" %}
+  {% if page.title == "Map of Recoveries" or page.title == "Map of Airway Beacons" or page.title == "PID Prefix Map" or page.title == "USGS Datasheets" or page.title == "Browse Recoveries" %}
   <!-- Load only for recoveries map, airway beacons map, PID prefix map, USGS datasheets map -->
   <!-- Geocoder API -->
   <link rel="stylesheet" href="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.css">
@@ -51,7 +51,7 @@
   <script src="/assets/js/leaflet-mapcentercoord.js"></script>
   {% endif %}
 
-  {% if page.title == "Map of Recoveries" %}
+  {% if page.title == "Map of Recoveries" or page.title == "Browse Recoveries" %}
   <!-- Load only for recoveries map -->
   <link rel="stylesheet" type="text/css"
     href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">

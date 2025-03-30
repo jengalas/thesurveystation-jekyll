@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Browse Recoveries"
 permalink: /browse-recoveries/
 ---
 
@@ -28,6 +29,7 @@ permalink: /browse-recoveries/
           <span class="accordion-icon">&plus;</span>
         </button>
         <div class="accordion-content" id="accordion-content-{{ forloop.index }}" role="region" aria-labelledby="accordion-trigger-{{ forloop.index }}">
+          {% include recoveries-map.html %}
           <div class="widget__panel archive-grid cards">
           {% for state in site.data.locations %}
               <div class="card">
