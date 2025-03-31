@@ -84,12 +84,10 @@ const toggleAccordion = (index) => {
 
   const accordionContent = currentAccordion.querySelector(".accordion-content");
   const accordionTrigger = currentAccordion.querySelector(".accordion-trigger");
-  const panelState = localStorage.getItem("panelState");
 
-  if (currentAccordion.classList.contains("is-active") || panelState == "open") {
+  if (currentAccordion.classList.contains("is-active")) {
     accordionContent.style.height = `${accordionContent.scrollHeight}px`;
     accordionTrigger.setAttribute("aria-expanded", "true");
-    sessionStorage.setItem("panelState", "open");
   } else {
     accordionContent.style.height = 0;
     accordionTrigger.setAttribute("aria-expanded", "false");
@@ -108,6 +106,7 @@ const resetAccordions = (targetIndex) => {
     }
   });
 };
+
 
 /******************************************************************************
 Back-to-Top Button 
