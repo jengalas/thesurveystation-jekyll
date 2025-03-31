@@ -12,7 +12,7 @@ page-type: year-index
 {% assign nfMarks = marks | where: "status", "Not Found" | sort: "date" %}
 {% assign noteMarks = marks | where: "status", "Note Entered" | sort: "date" %}
 
-<div class="widget__wrapper archive-grid">
+<div class="widget__wrapper archive-grid recoveries">
   <details open>
     <summary>{% if recMarks.size > 0 %}Found or Confirmed Destroyed <span class="mark-count">({{ recMarks.size }})</span>{% endif %}</summary>
       <div class="archive-grid cards">

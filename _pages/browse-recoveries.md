@@ -6,11 +6,11 @@ permalink: /browse-recoveries/
 
 <h1>Browse Survey Mark Recoveries</h1>
 
-<section id="accordion" class="accordion open-first">
+<section id="accordion" class="accordion open-first browse-recoveries">
     <div class="accordion-container">    
       <div class="accordion-item">
         <button class="accordion-trigger" id="accordion-trigger-{{ forloop.index }}" aria-expanded="false" aria-controls="accordion-content-{{ forloop.index }}">
-          <span class="accordion-title">Browse by Year</span>
+          <span class="accordion-title">Browse by Year of Recovery</span>
           <span class="accordion-icon">&plus;</span>
         </button>
         <div class="accordion-content" id="accordion-content-{{ forloop.index }}" role="region" aria-labelledby="accordion-trigger-{{ forloop.index }}">

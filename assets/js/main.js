@@ -70,7 +70,7 @@ window.addEventListener("load", () => {
         toggleAccordion(0);  // First panel open by default
       }
     }
-    const accordionTrigger = accordion.querySelector(".accordion-trigger");
+    const accordionTrigger = accordion.querySelector(".accordion-trigger"); 
     accordionTrigger.addEventListener("click", () => toggleAccordion(index));
   });
 });
@@ -78,14 +78,18 @@ window.addEventListener("load", () => {
 /* Toggle function */
 const toggleAccordion = (index) => {
   resetAccordions(index);
+  
   const currentAccordion = accordionItems[index];
   currentAccordion.classList.toggle("is-active");
 
   const accordionContent = currentAccordion.querySelector(".accordion-content");
   const accordionTrigger = currentAccordion.querySelector(".accordion-trigger");
-  if (currentAccordion.classList.contains("is-active")) {
+  const panelState = localStorage.getItem("panelState");
+
+  if (currentAccordion.classList.contains("is-active") || panelState == "open") {
     accordionContent.style.height = `${accordionContent.scrollHeight}px`;
     accordionTrigger.setAttribute("aria-expanded", "true");
+    sessionStorage.setItem("panelState", "open");
   } else {
     accordionContent.style.height = 0;
     accordionTrigger.setAttribute("aria-expanded", "false");

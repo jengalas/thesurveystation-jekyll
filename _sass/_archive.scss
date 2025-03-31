@@ -9,39 +9,22 @@
   display: grid;
   gap: 1rem;
 
-  a, a:hover {
-      border-bottom: 0;
-      color: $bodyColor;
-      text-decoration: none;
-  }
-
-  &#panel-2 a, &#panel-3 a {
-    border-bottom: 1px dotted #7ba60d;
-    color: #7ba60d;
-  }
-
-  &#panel-2 a:hover, &#panel-3 a:hover {
-    border-bottom: 1px solid #a1cf2d;
-    color: #a1cf2d;
-    transition: color 0.3s ease-in-out;
-  }
-
   .card {
-      background-color: #fff;
-      padding: 1rem;
-      padding-bottom: 0.6rem;
+    background-color: #fff;
+    padding: 1rem;
+    padding-bottom: 0.6rem;
 
-      img {
-        height: 150px;
-        object-fit: cover;
-        width: 150px;
-      }
+    img {
+      height: 150px;
+      object-fit: cover;
+      width: 150px;
+    }
 
-      h2 {
+    h2 {
       font-family: $bodyFont;
       margin: 0;
       text-align: center;
-      }
+    }
   }
 
   @media (min-width: 600px) {
@@ -49,8 +32,32 @@
   }
 
   @media (min-width: 900px) {
-      grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, 1fr);
   }
+}
+
+.widget__wrapper.recoveries {
+
+  a,
+  a:hover {
+    border-bottom: 0;
+    color: $bodyColor;
+    text-decoration: none;
+  }
+
+  #panel-2 a,
+  #panel-3 a {
+    border-bottom: 1px dotted #7ba60d;
+    color: #7ba60d;
+  }
+
+  #panel-2 a:hover,
+  #panel-3 a:hover {
+    border-bottom: 1px solid #a1cf2d;
+    color: #a1cf2d;
+    transition: color 0.3s ease-in-out;
+  }
+  
 }
 
 .widget__controls-wrapper {
@@ -63,7 +70,7 @@
   button {
     border: 0;
     background-color: transparent;
-   
+
     @media (min-width: 768px) {
       padding-left: 1rem;
       padding-right: 1rem;
@@ -120,7 +127,7 @@ summary:focus-visible {
   right: 20px;
   height: 20px;
   width: 6px;
-  transition: transform ease-in 200ms;
+  transition: transform ease-in 100ms;
 }
 
 .widget__btn[aria-expanded]::after {
@@ -204,7 +211,7 @@ summary:focus-visible {
 }
 
 @media screen and (forced-colors: active) {
-  
+
   summary:focus-visible {
     outline-width: 3px;
     outline-offset: 3px;
@@ -214,15 +221,15 @@ summary:focus-visible {
   .widget__btn[aria-expanded]::after {
     background-color: ButtonText;
   }
-  
+
   .widget__btn {
     background-color: Window;
   }
-  
+
   .widget__btn[aria-controls]:focus {
     background-color: Window;
   }
-  
+
   .widget__btn[aria-expanded]:focus::before,
   .widget__btn[aria-expanded]:focus::after {
     background-color: ButtonText;

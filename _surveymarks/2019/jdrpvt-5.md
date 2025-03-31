@@ -17,7 +17,11 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-    - filename: 
-      alt:    
-featured_image: jdr-pvt-5csm.jpg
+    - filename: jdrpvt-5
+      alt: Boundary Monument JDR/PVT
+    - filename: jdrpvt-5g1
+      alt: Eyelevel view of the mark, looking N   
+    - filename: jdrpvt-5g2
+      alt: Looking S toward small path                   
+featured_image: jdrpvt-5csm.jpg
 ---
