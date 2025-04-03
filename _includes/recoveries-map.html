@@ -113,7 +113,7 @@
 
     if (mapFullExtent === true) {
       const resizeObserver = new ResizeObserver(entries => {
-        // This will be called upon every element resize
+        // This will be called upon every element resize - needed to display in accordion panel/tab
         for (let entry of entries) {
           if (entry.target.id === "recoveries-map") {
             recoveriesMap.invalidateSize();
