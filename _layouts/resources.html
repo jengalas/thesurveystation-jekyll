@@ -1,30 +1,31 @@
---- 
+---
 layout: page
 ---
 
 <section id="accordion" class="accordion open-first">
-    <div class="accordion-container">
-        {% for item in site.data.resources %} 
-    
-          <div class="accordion-item">
-            <button class="accordion-trigger" id="accordion-trigger-{{ forloop.index }}" aria-expanded="false" aria-controls="accordion-content-{{ forloop.index }}">
-              <span class="accordion-title">{{ item.category }}</span>
-              <span class="accordion-icon">&plus;</span>
-            </button>
-            <div class="accordion-content" id="accordion-content-{{ forloop.index }}" role="region" aria-labelledby="accordion-trigger-{{ forloop.index }}">
-                <dl>
-                {% for entry in item.links %}
-                    <dt><a href="{{ entry.url }}">{{ entry.title }}</a></dt>
-                    {% if entry.description %}
-                      <dd>{{ entry.description | markdownify | remove: '<p>' | remove: '</p>'}}</dd>
-                    {% endif %}
-                {% endfor %}
-                </ul>
-            </div>
-          </div>
-     
-        {% endfor %}
-    </div>
-</section>
+  <div class="accordion-container">
+    {% for item in site.data.resources %}
 
+    <div class="accordion-item">
+      <button class="accordion-trigger" id="accordion-trigger-{{ forloop.index }}" aria-expanded="false"
+        aria-controls="accordion-content-{{ forloop.index }}">
+        <span class="accordion-title">{{ item.category }}</span>
+        <span class="accordion-icon">&plus;</span>
+      </button>
+      <div class="accordion-content" id="accordion-content-{{ forloop.index }}" role="region"
+        aria-labelledby="accordion-trigger-{{ forloop.index }}">
+        <dl>
+          {% for entry in item.links %}
+          <dt><a href="{{ entry.url }}">{{ entry.title }}</a></dt>
+          {% if entry.description %}
+          <dd>{{ entry.description | markdownify | remove: '<p>' | remove: '</p>'}}</dd>
+          {% endif %}
+          {% endfor %}
+          </ul>
+      </div>
+    </div>
+
+    {% endfor %}
+  </div>
+</section>
 

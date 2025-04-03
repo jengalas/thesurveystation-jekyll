@@ -59,53 +59,57 @@ function closeSubmenu(e) {
 Accordion 
 *******************************************************************************/
 
-const accordionItems = document.querySelectorAll(".accordion-item");
-const accordionOpenFirst = document.querySelectorAll(".accordion.open-first");
+const accordionButtons = document.querySelectorAll('.accordion-button');
+const panels = document.querySelectorAll('.panel');
 
-/* Event listener */
-window.addEventListener("load", () => {
-  accordionItems.forEach((accordion, index) => {
-    if (accordionOpenFirst.length == 1) {
-      if (index == 0) {
-        toggleAccordion(0);  // First panel open by default
-      }
+// Function to toggle panels and store state in sessionStorage
+function togglePanel(event) {
+  const button = event.target;
+  const panel = document.getElementById(button.getAttribute('aria-controls'));
+  const isExpanded = button.getAttribute('aria-expanded') === 'true';
+
+  // Collapse all panels
+  panels.forEach(p => p.classList.remove('active'));
+  accordionButtons.forEach(p => p.classList.remove('active'));
+  accordionButtons.forEach(b => b.setAttribute('aria-expanded', 'false'));
+
+  // Toggle the current panel
+  if (!isExpanded) {
+    panel.classList.add('active');
+    button.classList.add('active');
+    button.setAttribute('aria-expanded', 'true');
+    // Store the open panel index in sessionStorage
+    sessionStorage.setItem('accordionOpen', button.textContent);
+  }
+}
+
+// Set initial state on page load based on sessionStorage
+window.addEventListener('load', () => {
+  const openPanel = sessionStorage.getItem('accordionOpen');
+  
+  // If sessionStorage contains a previous state, open that panel
+  if (openPanel) {
+    const openButton = Array.from(accordionButtons).find(button => button.textContent === openPanel);
+    if (openButton) {
+      openButton.setAttribute('aria-expanded', 'true');
+      const panel = document.getElementById(openButton.getAttribute('aria-controls'));
+      panel.classList.add('active');
+      openButton.classList.add('active');
     }
-    const accordionTrigger = accordion.querySelector(".accordion-trigger"); 
-    accordionTrigger.addEventListener("click", () => toggleAccordion(index));
-  });
+  } else {
+    // Default: Open the first panel
+    const firstButton = accordionButtons[0];
+    firstButton.setAttribute('aria-expanded', 'true');
+    const firstPanel = document.getElementById(firstButton.getAttribute('aria-controls'));
+    firstPanel.classList.add('active');
+    firstButton.classList.add('active');
+  }
 });
 
-/* Toggle function */
-const toggleAccordion = (index) => {
-  resetAccordions(index);
-  
-  const currentAccordion = accordionItems[index];
-  currentAccordion.classList.toggle("is-active");
-
-  const accordionContent = currentAccordion.querySelector(".accordion-content");
-  const accordionTrigger = currentAccordion.querySelector(".accordion-trigger");
-
-  if (currentAccordion.classList.contains("is-active")) {
-    accordionContent.style.height = `${accordionContent.scrollHeight}px`;
-    accordionTrigger.setAttribute("aria-expanded", "true");
-  } else {
-    accordionContent.style.height = 0;
-    accordionTrigger.setAttribute("aria-expanded", "false");
-  }
-};
-
-/* Only open one panel at a time */
-const resetAccordions = (targetIndex) => {
-  accordionItems.forEach((accordion, index) => {
-    const accordionContent = accordion.querySelector(".accordion-content");
-    const accordionTrigger = accordion.querySelector(".accordion-trigger");
-    if (targetIndex != index) {
-      accordion.classList.remove("is-active");
-      accordionContent.style.height = 0;
-      accordionTrigger.setAttribute("aria-expanded", "false");
-    }
-  });
-};
+// Add event listeners to all accordion buttons
+accordionButtons.forEach(button => {
+  button.addEventListener('click', togglePanel);
+});
 
 
 /******************************************************************************
