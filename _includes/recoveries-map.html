@@ -1,170 +1,179 @@
 <div class="fullscreen-map-wrapper">
-    <div id="recoveries-map" class="map"></div>
+  <div id="recoveries-map" class="map"></div>
 </div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
 
-    let mapFullExtent = false;
+  let mapFullExtent = false;
 
-    function getQueryStringValue (key) {  
-        return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
-    } 
-    
-    if (getQueryStringValue("lat") == '') {
-        mapFullExtent = true;
-    }   
-    
-    var lat = getQueryStringValue("lat") || '37.71859';
-    var lng = getQueryStringValue("lng") || '-92.15332';
-    var zoom = getQueryStringValue("zoom") || '16';
+  function getQueryStringValue(key) {
+    return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+  }
 
-    var sliderControl = null;
-    
-    var recoveriesMap = L.map('recoveries-map', { fullscreenControl: true, geocoderControl: true }).setView([lat,lng], zoom);
+  if (getQueryStringValue("lat") == '') {
+    mapFullExtent = true;
+  }
 
-    objBasemaps['OpenStreetMap'].addTo(recoveriesMap); // Assign default basemap
+  var lat = getQueryStringValue("lat") || '37.71859';
+  var lng = getQueryStringValue("lng") || '-92.15332';
+  var zoom = getQueryStringValue("zoom") || '16';
 
-    var recSub = L.featureGroup.subGroup().addTo(recoveriesMap);
-    var nfSub = L.featureGroup.subGroup().addTo(recoveriesMap);
-    var neSub = L.featureGroup.subGroup().addTo(recoveriesMap);
+  var sliderControl = null;
 
-    $.getJSON("/assets/data/all-points.geojson", function (geojsonData) {
-     
-        var categories = {},
-            Status;
+  var recoveriesMap = L.map('recoveries-map', { fullscreenControl: true, geocoderControl: true }).setView([lat, lng], zoom);
 
-        // Create a hash table for markers
-        var markerHashTable = {};
-        function addMarker([lat, lng], popupText) {
-            var marker = L.marker([lat,lng], {icon: transparentIcon}).addTo(recoveriesMap).bindPopup(popupText);
-            markerHashTable[[lat,lng]] = marker;
-        }
+  objBasemaps['OpenStreetMap'].addTo(recoveriesMap); // Assign default basemap
 
-        var transparentIcon = L.icon({
-            iconUrl: '/assets/img/marker-icon-transparent.png',
-            popupAnchor: [0, -13]
-        });
+  var recSub = L.featureGroup.subGroup().addTo(recoveriesMap);
+  var nfSub = L.featureGroup.subGroup().addTo(recoveriesMap);
+  var neSub = L.featureGroup.subGroup().addTo(recoveriesMap);
 
-        function groupMarkers(feature, latlng) {
-            var visitedDateFormatted = new Date(feature.properties.time).toLocaleString("en-US", dateOptions);
-            function getImage(imageUrl) {
-                if (!imageUrl)
-                    return "";
-                else
-                    return imageUrl;
-            }
-            var popupText = "<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + getImage(feature.properties.image) + "'>";
-  
-            if (mapFullExtent !== true) {
-                addMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], popupText);
-            }  
+  $.getJSON("/assets/data/all-points.geojson", function (geojsonData) {
 
-            switch (feature.properties.status) {
-                case "Recovered":
-                    var recoveredIcon = new L.icon({
-                        iconUrl: '/assets/img/marker-icon-green.png',
-                        iconSize: [22, 30], // size of the icon
-                        iconAnchor: [11, 30], // point of the icon which will correspond to marker's location
-                        popupAnchor: [-3, -26] // point from which the popup should open relative to the iconAnchor    
-                    });               
-                    return L.marker(latlng, {
-                        icon: recoveredIcon
-                    }).bindPopup(popupText).addTo(recSub);
-                case "Not Found":
-                    var notfoundIcon = new L.icon({
-                        iconUrl: '/assets/img/marker-icon-red.png',
-                        iconSize: [22, 30],
-                        iconAnchor: [11, 30],
-                        popupAnchor: [-3, -26]
-                    });
-                    return L.marker(latlng, {
-                        icon: notfoundIcon
-                    }).bindPopup(popupText).addTo(nfSub);
-                case "Note Entered":
-                    var noteIcon = new L.icon({
-                        iconUrl: '/assets/img/marker-icon-blue.png',
-                        iconSize: [22, 30],
-                        iconAnchor: [11, 30],
-                        popupAnchor: [-3, -26]
-                    });
-                    return L.marker(latlng, {
-                        icon: noteIcon
-                    }).bindPopup(popupText).addTo(neSub);
-            }
-        };
+    var categories = {},
+      Status;
 
-        var dateOptions = {
-            month: "long",
-            day: "numeric",
-            year: "numeric"            
-        }
+    // Create a hash table for markers
+    var markerHashTable = {};
+    function addMarker([lat, lng], popupText) {
+      var marker = L.marker([lat, lng], { icon: transparentIcon }).addTo(recoveriesMap).bindPopup(popupText);
+      markerHashTable[[lat, lng]] = marker;
+    }
 
-        var allPoints = L.geoJson(geojsonData, {
-            pointToLayer: groupMarkers
-        });
-
-        var overlayMap = {
-            "Recovered": recSub,
-            "Not Found": nfSub,
-            "Note Entered": neSub
-        };
-
-        if (mapFullExtent === true) {
-            recoveriesMap.fitBounds(recSub.getBounds(), {
-                padding: [20, 20]
-            });
-        } else {
-            var location = lat + "," + lng;
-            var popup = markerHashTable[location].openPopup();
-            
-        }
-
-        L.markerClusterGroup.layerSupport({
-            disableClusteringAtZoom: 17
-        }).addTo(recoveriesMap).checkIn(allPoints);
-
-        var textSearch = L.control.search({
-            layer: allPoints,
-            initial: false,
-            zoom: 9,
-            marker: {
-                animate: false,
-                circle: false,
-                icon: false
-            },
-            textPlaceholder: 'Search by designation ...',
-            propertyName: 'designation',
-            hideMarkerOnCollapse: true,
-            moveToLocation: function (latlng, title, map) {
-                var zoom = 17;
-                recoveriesMap.setView(latlng, zoom);
-            }
-        }).addTo(recoveriesMap);
-
-        textSearch.on('search:locationfound', function (event) {
-            event.layer.openPopup();
-        });
-
-        L.control.layers(objBasemaps, overlayMap, {
-            collapsed: true
-        }).addTo(recoveriesMap);
-
-        var sliderControl = L.control.sliderControl({
-            layer: allPoints,
-            position: "bottomleft",
-            range: true,
-            timeAttribute: 'time',
-            orderDesc: true,
-            showAllOnStart: true,
-            timeStrLength: 10
-        });
-
-        recoveriesMap.addControl(sliderControl);
-        sliderControl.startSlider();
-
-        L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(recoveriesMap);
-
+    var transparentIcon = L.icon({
+      iconUrl: '/assets/img/marker-icon-transparent.png',
+      popupAnchor: [0, -13]
     });
+
+    function groupMarkers(feature, latlng) {
+      var visitedDateFormatted = new Date(feature.properties.time).toLocaleString("en-US", dateOptions);
+      function getImage(imageUrl) {
+        if (!imageUrl)
+          return "";
+        else
+          return imageUrl;
+      }
+      var popupText = "<b><a href=" + feature.properties.permalink + " target='_blank'>" + feature.properties.designation + "</a></b>" + '<br/>' + "<b>Status: </b>" + feature.properties.status + ", " + feature.properties.condition + '<br/>' + "<b>Date: </b>" + visitedDateFormatted + "<br><img style='max-width:100%;' src='" + getImage(feature.properties.image) + "'>";
+
+      if (mapFullExtent !== true) {
+        addMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], popupText);
+      }
+
+      switch (feature.properties.status) {
+        case "Recovered":
+          var recoveredIcon = new L.icon({
+            iconUrl: '/assets/img/marker-icon-green.png',
+            iconSize: [22, 30], // size of the icon
+            iconAnchor: [11, 30], // point of the icon which will correspond to marker's location
+            popupAnchor: [-3, -26] // point from which the popup should open relative to the iconAnchor    
+          });
+          return L.marker(latlng, {
+            icon: recoveredIcon
+          }).bindPopup(popupText).addTo(recSub);
+        case "Not Found":
+          var notfoundIcon = new L.icon({
+            iconUrl: '/assets/img/marker-icon-red.png',
+            iconSize: [22, 30],
+            iconAnchor: [11, 30],
+            popupAnchor: [-3, -26]
+          });
+          return L.marker(latlng, {
+            icon: notfoundIcon
+          }).bindPopup(popupText).addTo(nfSub);
+        case "Note Entered":
+          var noteIcon = new L.icon({
+            iconUrl: '/assets/img/marker-icon-blue.png',
+            iconSize: [22, 30],
+            iconAnchor: [11, 30],
+            popupAnchor: [-3, -26]
+          });
+          return L.marker(latlng, {
+            icon: noteIcon
+          }).bindPopup(popupText).addTo(neSub);
+      }
+    };
+
+    var dateOptions = {
+      month: "long",
+      day: "numeric",
+      year: "numeric"
+    }
+
+    var allPoints = L.geoJson(geojsonData, {
+      pointToLayer: groupMarkers
+    });
+
+    var overlayMap = {
+      "Recovered": recSub,
+      "Not Found": nfSub,
+      "Note Entered": neSub
+    };
+
+    if (mapFullExtent === true) {
+      const resizeObserver = new ResizeObserver(entries => {
+        // This will be called upon every element resize
+        for (let entry of entries) {
+          if (entry.target.id === "recoveries-map") {
+            recoveriesMap.invalidateSize();
+            recoveriesMap.fitBounds(recSub.getBounds(), {
+              padding: [20, 20]
+            });
+          }
+        }
+      });
+      resizeObserver.observe(document.getElementById("recoveries-map"));
+
+    } else {
+      var location = lat + "," + lng;
+      var popup = markerHashTable[location].openPopup();
+    }
+
+    L.markerClusterGroup.layerSupport({
+      disableClusteringAtZoom: 17
+    }).addTo(recoveriesMap).checkIn(allPoints);
+
+    var textSearch = L.control.search({
+      layer: allPoints,
+      initial: false,
+      zoom: 9,
+      marker: {
+        animate: false,
+        circle: false,
+        icon: false
+      },
+      textPlaceholder: 'Search by designation ...',
+      propertyName: 'designation',
+      hideMarkerOnCollapse: true,
+      moveToLocation: function (latlng, title, map) {
+        var zoom = 17;
+        recoveriesMap.setView(latlng, zoom);
+      }
+    }).addTo(recoveriesMap);
+
+    textSearch.on('search:locationfound', function (event) {
+      event.layer.openPopup();
+    });
+
+    L.control.layers(objBasemaps, overlayMap, {
+      collapsed: true
+    }).addTo(recoveriesMap);
+
+    var sliderControl = L.control.sliderControl({
+      layer: allPoints,
+      position: "bottomleft",
+      range: true,
+      timeAttribute: 'time',
+      orderDesc: true,
+      showAllOnStart: true,
+      timeStrLength: 10
+    });
+
+    recoveriesMap.addControl(sliderControl);
+    sliderControl.startSlider();
+
+    L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(recoveriesMap);
+
+  });
 </script>
