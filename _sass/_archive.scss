@@ -45,14 +45,14 @@
     text-decoration: none;
   }
 
-  #panel-2 a,
-  #panel-3 a {
+  .nfMarks a,
+  .noteMarks a {
     border-bottom: 1px dotted #7ba60d;
     color: #7ba60d;
   }
 
-  #panel-2 a:hover,
-  #panel-3 a:hover {
+  .nfMarks a:hover,
+  .noteMarks a:hover {
     border-bottom: 1px solid #a1cf2d;
     color: #a1cf2d;
     transition: color 0.3s ease-in-out;
