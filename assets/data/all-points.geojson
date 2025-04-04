@@ -4,6 +4,42 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "TT 46 T RM",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "2025-04-02 09:08:00 -0400",
+          "permalink": "/reference-marks/tt-46-t-rm/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.641824,
+            41.498594
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "TT 46 T",
+          "status": "Not Found",
+          "condition": "Unknown (Not Found)",
+          "time": "2025-04-02 09:08:00-04:00",
+          "permalink": "/surveymarks/tt-46-t/",
+          "image": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.64177,
+            41.498889
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "R 1320",
           "status": "Recovered",
           "condition": "Good",
