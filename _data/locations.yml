@@ -224,6 +224,7 @@
     - name: Orange County
       quad:
         - name: Cornwall Quad
+        - name: Otisville Quad
         - name: Pine Island Quad
         - name: Port Jervis North Quad
         - name: Port Jervis South Quad

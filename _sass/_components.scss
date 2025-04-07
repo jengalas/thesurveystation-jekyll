@@ -24,7 +24,7 @@
   cursor: pointer;
 }
 
-button:not(:first-of-type) {
+.accordion button:not(:first-of-type) {
   border-top: 3px solid #eaeaea;
 }
 
