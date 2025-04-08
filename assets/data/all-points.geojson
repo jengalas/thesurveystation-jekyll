@@ -23846,6 +23846,24 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "NY CENTER OF POPULATION",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2002-11-03 16:00:01 -0400",
+          "permalink": "/surveymarks/dg9708/",
+          "image": "https://images.planetzhanna.com/2002/11/03/thumbnails/dg9708csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.601488,
+            41.459219
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "PIMPLE HILL RM 2",
           "status": "Recovered",
           "condition": "Good",
