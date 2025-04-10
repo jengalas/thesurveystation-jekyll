@@ -434,6 +434,118 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/32-Tecumseh/Horizontal.pdf",
         "hyear": "1964"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.25,40.25],[-96.25,40.5],[-96.5,40.5],[-96.5,40.25],[-96.25,40.25]]]
+      },
+      "properties": {
+        "name": "Tecumseh No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/33-Tecumseh-No-2/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/33-Tecumseh-No-2/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.5,40.25],[-96.5,40.5],[-96.75,40.5],[-96.75,40.25],[-96.5,40.25]]]
+      },
+      "properties": {
+        "name": "Beatrice No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/34-Beatrice-No-1/Vertical.pdf",
+        "vyear": "1963",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/34-Beatrice-No-1/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.75,40.25],[-96.75,40.5],[-97,40.5],[-97,40.25],[-96.75,40.25]]]
+      },
+      "properties": {
+        "name": "Beatrice No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/35-Beatrice-No-2/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/35-Beatrice-No-2/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97,40.25],[-97,40.5],[-97.25,40.5],[-97.25,40.25],[-97,40.25]]]
+      },
+      "properties": {
+        "name": "Western",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/36-Western/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/36-Western/Horizontal.pdf",
+        "hyear": "1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.25,40.25],[-97.25,40.5],[-97.5,40.5],[-97.5,40.25],[-97.25,40.25]]]
+      },
+      "properties": {
+        "name": "Tobias",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/37-Tobias/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/37-Tobias/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.5,40.25],[-97.5,40.5],[-97.75,40.5],[-97.75,40.25],[-97.5,40.25]]]
+      },
+      "properties": {
+        "name": "Bruning",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/38-Bruning/Vertical.pdf",
+        "vyear": "1986",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/38-Bruning/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.75,40.25],[-97.75,40.5],[-98,40.5],[-98,40.25],[-97.75,40.25]]]
+      },
+      "properties": {
+        "name": "Edgar",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/39-Edgar/Vertical.pdf",
+        "vyear": "1967",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/39-Edgar/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98,40.25],[-98,40.5],[-98.25,40.5],[-98.25,40.25],[-98,40.25]]]
+      },
+      "properties": {
+        "name": "Fairfield",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/40-Fairfield/Vertical.pdf",
+        "vyear": "1983",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/40-Fairfield/Horizontal.pdf",
+        "hyear": "1967"
+      }
     }                 
   ]
 };
