@@ -57,12 +57,25 @@
     color: #a1cf2d;
     transition: color 0.3s ease-in-out;
   }
+  
+  .nfMarks ul,
+  .noteMarks ul {
+    margin-left: 1rem;
+  }
 
 }
 
 .widget__controls-wrapper {
   // border-bottom: 1px solid #ddd;
   border: 3px solid #eaeaea;
+
+  h3.widget__heading:not(:first-of-type) button {
+    border-top: 3px solid #eaeaea;
+
+    @media (min-width: 768px) {
+      border-top: 0;
+    }
+  }
 
   @media (min-width: 768px) {
     border: 0;
@@ -78,6 +91,11 @@
     @media (min-width: 768px) {
       padding-left: 1rem;
       padding-right: 1rem;
+
+      &:hover {
+        border-bottom: 5px solid #7ba60d;
+        transition: all ease .07s;
+      }
     }
   }
 }
@@ -100,14 +118,6 @@ summary:focus-visible {
 }
 
 .widget__btn {
-  // color: #474747;
-  // font-family: $bodyFont;
-  // line-height: 1.5;
-  // position: relative;
-  // font-size: 1.2rem;
-  // font-weight: bold;
-  // cursor: pointer;
-
   width: 100%;
   display: block;
   background-color: rgb(250, 250, 250);

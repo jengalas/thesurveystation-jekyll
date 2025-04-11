@@ -29,10 +29,11 @@ page-type: year-index
         {% endfor %}
         </div>
   </details>
+  {% if nfMarks.size > 0 %}
   <details>
-    <summary>{% if nfMarks.size > 0 %}Not Found <span class="mark-count">({{ nfMarks.size }})</span>{% endif %}</summary>
+    <summary>Not Found <span class="mark-count">({{ nfMarks.size }})</span>{% endif %}</summary>
     <div>
-      {% if nfMarks.size > 0 %}
+      
       <div id="id_second-{{ forloop.index }}" class="nfMarks">
           <ul>
           {% for rec in nfMarks reversed %}
@@ -40,13 +41,14 @@ page-type: year-index
           {% endfor %}
           </ul>
       </div>
-      {% endif %}
+      
     </div>
   </details>
+  {% if noteMarks.size > 0 %}
   <details>
-    <summary>{% if noteMarks.size > 0 %}Notes Made <span class="mark-count">({{ noteMarks.size }})</span>{% endif %}</summary>
+    <summary>Notes Made <span class="mark-count">({{ noteMarks.size }})</span>{% endif %}</summary>
     <div>
-      {% if noteMarks.size > 0 %}
+      
       <div id="id_third-{{ forloop.index }}" class="noteMarks">
           <ul>
           {% for rec in noteMarks reversed %}
@@ -54,7 +56,7 @@ page-type: year-index
           {% endfor %}
           </ul>
       </div>
-      {% endif %}
+     
     </div>
   </details>
 </div>
