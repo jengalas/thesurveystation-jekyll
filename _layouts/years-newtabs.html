@@ -6,7 +6,7 @@ page-type: year-index
 <h1>Survey Mark Recoveries</h1>
 <h2>{{ page.year }}</h2>
 
-{% assign marks = site.surveymarks | concat: site.reference_marks | where: "date", page.year  | sort: "date" | reverse %}
+{% assign marks = site.surveymarks | concat: site.reference_marks | where: "date", page.year | sort: "date" | reverse %}
 
 {% assign recMarks = marks | where: "status", "Recovered" | sort: "date" %}
 {% assign nfMarks = marks | where: "status", "Not Found" | sort: "date" %}
@@ -16,47 +16,47 @@ page-type: year-index
   {% if recMarks.size > 0 %}
   <details open>
     <summary>Found or Confirmed Destroyed <span class="mark-count">({{ recMarks.size }})</span>{% endif %}</summary>
-      <div class="archive-grid cards">
-        {% for rec in recMarks reversed %}
-            <div class="card">
-                {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
-                {% if rec.featured_image %}
-                    <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{ rec.designation }}</a>  
-                {% else %} 
-                    <a href="{{ rec.url }}"><img src="/assets/img/default-bm-featured-image-150x150.jpg" style="width: 150px;"><br>{{ rec.designation }}</a>
-                {% endif %}   
-            </div>
-        {% endfor %}
-        </div>
+    <div class="archive-grid cards">
+      {% for rec in recMarks reversed %}
+      <div class="card">
+        {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
+        {% if rec.featured_image %}
+        <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{
+          rec.designation }}</a>
+        {% else %}
+        <a href="{{ rec.url }}"><img src="/assets/img/default-bm-featured-image-150x150.jpg"
+            style="width: 150px;"><br>{{ rec.designation }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
   </details>
   {% if nfMarks.size > 0 %}
   <details>
-    <summary>Not Found <span class="mark-count">({{ nfMarks.size }})</span>{% endif %}</summary>
+    <summary>Not Found <span class="mark-count">({{ nfMarks.size }})</span></summary>
     <div>
-      
       <div id="id_second-{{ forloop.index }}" class="nfMarks">
-          <ul>
+        <ul>
           {% for rec in nfMarks reversed %}
-              <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
+          <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>
           {% endfor %}
-          </ul>
+        </ul>
       </div>
-      
     </div>
   </details>
+  {% endif %}
   {% if noteMarks.size > 0 %}
   <details>
-    <summary>Notes Made <span class="mark-count">({{ noteMarks.size }})</span>{% endif %}</summary>
+    <summary>Notes Made <span class="mark-count">({{ noteMarks.size }})</span></summary>
     <div>
-      
       <div id="id_third-{{ forloop.index }}" class="noteMarks">
-          <ul>
+        <ul>
           {% for rec in noteMarks reversed %}
-              <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>    
+          <li><a href="{{ rec.url }}">{{ rec.designation }}</a></li>
           {% endfor %}
-          </ul>
+        </ul>
       </div>
-     
     </div>
   </details>
+  {% endif %}
 </div>
