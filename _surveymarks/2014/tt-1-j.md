@@ -46,8 +46,13 @@ zhanna_text: >-
     even certain we were looking in the correct spot.  Perhaps a late fall or
     winter day when the vegetation is down would allow for a more thorough
     search of the area. At that time we also might want to expand the search a
-    distance up and down the highway. Also note that the highway in question is
-    not, nor was it ever (according to PAHighways.com) State Highway 168. It is
-    now State Route 435 and at the time this mark was set (1926) it was
-    designated US Highway 611.
+    distance up and down the highway. 
+    
+    
+    **_Update (April 2025)_**: Originally I was confused by the mention of State Highway 168, because I could find no reference to this route number on PAHighways.com, which is generally a reliable resource. However, I just checked the Historic Type 10 Lackawanna County map from 1923, and I see that the route was in fact Route 168.
+galleries:    
+  gallery_zh:
+    images:    
+    - filename: tt-1-j-route-168
+      alt: Route 168 south of Daleville     
 ---
