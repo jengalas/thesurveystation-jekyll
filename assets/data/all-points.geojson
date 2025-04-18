@@ -4,6 +4,24 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "DANVILLE SLOVAK GIRLS ACAD TWR",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2025-04-14 10:20:00 -0400",
+          "permalink": "/surveymarks/kw3143/",
+          "image": "https://images.planetzhanna.com/2025/04/14/thumbnails/kw3143sqcsm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.603011,
+            40.962984
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "TT 46 T RM",
           "status": "Not Found",
           "condition": "Unknown (Not Found)",
