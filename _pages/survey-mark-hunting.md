@@ -44,7 +44,7 @@ Survey marks or monuments are objects used to mark a precise location and/or ele
 </div>
 
 <div>
-<div style="margin: 1rem; padding: 0 2rem;" class="box" markdown=1>
+<div class="box zhannas-recoveries" markdown=1>
 
 ## Zhanna's Recoveries
 
