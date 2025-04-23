@@ -40,7 +40,7 @@
               popupAnchor: [3, -40],
               html: iconNumber
             });
-            return new L.marker(latlng, { icon: myIcon }).setZIndexOffset(1000 - iconNumber);
+            return new L.marker(latlng, { icon: myIcon, riseOnHover: true }).setZIndexOffset(1000 - iconNumber);
           },
           onEachFeature: function (feature, layer) {
             layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
