@@ -6,12 +6,12 @@
 /_surveymarks/2002/ly2611.md - photos added to 20030627
 /_surveymarks/2002/ly2736.md - photos added to 20021031
 /_surveymarks/2003/ly0621.md - photos added to 20030630
-/_surveymarks/2003/ly0791.md
-/_surveymarks/2003/ly1344.md
-/_surveymarks/2003/ly1345.md
-/_surveymarks/2003/ly1346.md
-/_surveymarks/2003/ly1347.md
-/_surveymarks/2003/ly1348.md
+/_surveymarks/2003/ly0791.md - photos added to 20021115
+/_surveymarks/2003/ly1344.md - photos added to 20030410
+/_surveymarks/2003/ly1345.md - photos added to 20030410
+/_surveymarks/2003/ly1346.md - photos added to 20030410
+/_surveymarks/2003/ly1347.md - photos added to 20021103
+/_surveymarks/2003/ly1348.md - photos added to 20030420
 /_surveymarks/2003/ly1759.md
 /_surveymarks/2003/ly1760.md 
 /_surveymarks/2003/ly2560.md
