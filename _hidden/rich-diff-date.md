@@ -4,8 +4,8 @@
 /_surveymarks/2002/ai8313.md - photos OK
 /_surveymarks/2002/ly1225.md - photos added to 20030810
 /_surveymarks/2002/ly2611.md - photos added to 20030627
-/_surveymarks/2002/ly2736.md
-/_surveymarks/2003/ly0621.md
+/_surveymarks/2002/ly2736.md - photos added to 20021031
+/_surveymarks/2003/ly0621.md - photos added to 20030630
 /_surveymarks/2003/ly0791.md
 /_surveymarks/2003/ly1344.md
 /_surveymarks/2003/ly1345.md
