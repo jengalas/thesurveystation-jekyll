@@ -21,7 +21,7 @@
 <script>
   var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([{{ latitude }}, {{ longitude }}], {{ zoom }});
 
-  var marker = L.marker([{{ latitude }}, { { longitude } }]).addTo(markMap);
+  var marker = L.marker([{{ latitude }}, {{ longitude }}]).addTo(markMap);
   marker.bindPopup("{{ marker_name }}");
 
   objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
