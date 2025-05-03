@@ -6,6 +6,7 @@ class: surveymark-page
 {% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
 {% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 {% capture date %}{{ page.date | date: "%B %e, %Y" }}{% endcapture %}
+{% capture richDate %}{{ page.rich_date | date: "%B %e, %Y" }}{% endcapture %}
 
 <h1>{{ page.designation }}</h1>
 
@@ -167,6 +168,7 @@ class: surveymark-page
     {% endif %}
     {% if page.rich_text %}
     <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+      <p><i>(Recovered on {{ richDate}})</i></p>
       {{ page.rich_text | markdownify }}
       {% assign gal_r_class = page.image_gallery_r_class %}
       {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
