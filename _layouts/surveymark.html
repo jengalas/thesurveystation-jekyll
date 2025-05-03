@@ -30,8 +30,7 @@ class: surveymark-page
         {% endif %}
       </div>
       <div style="margin-left: 2rem;" class="gallery single">
-        <a class="card" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img
-            src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
+        <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ page.type }} {{ page.designation }}</div>" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
       </div>
     </div>
 
@@ -184,9 +183,20 @@ class: surveymark-page
 {% if page.is_parent == true %}
 <div class="reference-marks">{% include reference-marks.html %}</div>
 {% endif %}
+
+<section class="post-navigation">
+  {%if page.previous.url %}
+    <a class="prev-post" href="{{page.previous.url}}" title="Previous survey mark: {{page.previous.designation | upcase}}" alt="Previous survey mark: {{page.previous.designation | upcase}}">{{page.previous.designation | upcase}}</a>
+  {% endif %}
+  {%if page.next.url %}
+    <a class="next-post" href="{{page.next.url}}" style="float: right;" title="Next survey mark: {{page.next.designation | upcase}}" alt="Next survey mark: {{page.next.designation | upcase}}">{{page.next.designation | upcase}}</a>
+  {% endif %}
+</section>
+
 <div class="recovery-date">
   <a href="/year/{{ page.date | date: '%Y' }}">« {{ page.date | date: "%Y" }} Recoveries</a>
 </div>
+
 <section class="comments">
   {% include comment-form.html %}
 </section>

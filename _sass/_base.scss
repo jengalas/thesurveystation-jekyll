@@ -396,3 +396,37 @@ strong {
     }
   }
 }
+
+.post-navigation {
+  background-color: transparent;
+  margin: 0 auto;
+  padding: 1rem 0;
+  font-size: 1rem;
+  font-weight: bold;
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 1px dashed white;
+    }
+  }
+
+  .prev-post {
+    &::before {
+      content: "\02C2";
+      margin-right: 0.5rem;
+    }
+  }
+
+  .next-post {
+    &::after {
+      content: "\02C3";
+      margin-left: 0.5rem;
+    }
+  }
+
+  a:hover::before {
+    text-decoration: none;
+  }
+}

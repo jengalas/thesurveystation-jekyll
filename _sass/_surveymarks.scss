@@ -156,9 +156,17 @@
     margin-top: 1.5rem;
   }
 
-  .referenceMarks img {
-    height: 150px;
-    object-fit: cover;
-    width: 150px;
+  .referenceMarks {
+    img {
+      height: 150px;
+      object-fit: cover;
+      width: 150px;
+    }
+    caption {
+      font-size: 1.17em;
+      font-weight: 600;
+      margin: 1.5rem 0;
+      text-align: left;
+    }
   }
 }
