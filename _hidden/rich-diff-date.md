@@ -12,30 +12,30 @@
 /_surveymarks/2003/ly1346.md - photos added to 20030410
 /_surveymarks/2003/ly1347.md - photos added to 20021103
 /_surveymarks/2003/ly1348.md - photos added to 20030420
-/_surveymarks/2003/ly1759.md
-/_surveymarks/2003/ly1760.md 
-/_surveymarks/2003/ly2560.md
-/_surveymarks/2003/ly2678.md
-/_surveymarks/2003/ly2679.md
+/_surveymarks/2003/ly1759.md - photos added to 20030420
+/_surveymarks/2003/ly1760.md - photos added to 20030422
+/_surveymarks/2003/ly2560.md - photos added to 20030327
+/_surveymarks/2003/ly2678.md - (figure out what date(s) to use here)
+/_surveymarks/2003/ly2679.md - photos added to 20040417
 /_surveymarks/2003/ly2714.md
-/_surveymarks/2003/ly2722.md
+/_surveymarks/2003/ly2722.md - photos added to 20040406
 /_surveymarks/2003/ly2724-2.md
-/_surveymarks/2003/ly2731.md
-/_surveymarks/2003/ly2747.md
-/_surveymarks/2005/k-24.md
-/_surveymarks/2005/pe0279.md
-/_surveymarks/2005/pe0280.md
-/_surveymarks/2005/pe0281.md
-/_surveymarks/2005/pe0282.md
-/_surveymarks/2005/pe0283.md
-/_surveymarks/2005/pe0286.md
-/_surveymarks/2005/pe1778.md
-/_surveymarks/2005/pe1780.md
-/_surveymarks/2005/pe1787.md
-/_surveymarks/2006/ai8315.md
-/_surveymarks/2006/pe0273.md
-/_surveymarks/2006/pe0277.md
-/_surveymarks/2006/pe0278.md
-/_surveymarks/2006/pe1664.md
-/_surveymarks/2007/ai8314.md
-/_surveymarks/2007/pe0276.md
+/_surveymarks/2003/ly2731.md -(3 different dates - figure out how to split them up)
+/_surveymarks/2003/ly2747.md - photos added to 20040806
+/_surveymarks/2005/k-24.md - photos added to 20020912
+/_surveymarks/2005/pe0279.md - photos added to 20020911
+/_surveymarks/2005/pe0280.md - photos added to 20020911
+/_surveymarks/2005/pe0281.md - photos added to 20020909
+/_surveymarks/2005/pe0282.md - photos added to 20020911
+/_surveymarks/2005/pe0283.md - photos added to 20020911
+/_surveymarks/2005/pe0286.md - photos added to 20020911
+/_surveymarks/2005/pe1778.md - photos added to 20020912
+/_surveymarks/2005/pe1780.md - photos added to 20020905
+/_surveymarks/2005/pe1787.md - photos added to 20020911
+/_surveymarks/2006/ai8315.md - photos added to 20020909
+/_surveymarks/2006/pe0273.md - photos added to 20020912
+/_surveymarks/2006/pe0277.md - photos added to 20020911
+/_surveymarks/2006/pe0278.md - photos added to 20020911
+/_surveymarks/2006/pe1664.md - photos added to 20020912
+/_surveymarks/2007/ai8314.md - photos added to 20020909
+/_surveymarks/2007/pe0276.md - (no photos)
