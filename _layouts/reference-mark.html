@@ -173,10 +173,16 @@ class: surveymark-page
     {% endif %}
     {% if page.rich_text %}
     <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
-      <p><i>(Recovered on {{ richDate}})</i></p>
+      {% if page.rich_date %}
+        <p><i>(Recovered on {{ richDate}})</i></p>
+      {% endif %}  
       {{ page.rich_text | markdownify }}
       {% assign gal_r_class = page.image_gallery_r_class %}
-      {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      {% if page.rich_date %}
+        {% include rich-gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      {% else %}
+        {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      {% endif %}  
     </div>
     {% endif %}
   </div>

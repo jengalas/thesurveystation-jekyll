@@ -1,7 +1,7 @@
-/_reference_marks/2002/ly2604.md
-/_reference_marks/2002/ly2611-rm-1.md
-/_reference_marks/2002/ly2715.md
-/_surveymarks/2002/ai8313.md - photos OK
+/_reference_marks/2002/ly2604.md - photos added to 20020929
+/_reference_marks/2002/ly2611-rm-1.md - photos added to 20030627
+/_reference_marks/2002/ly2715.md - photos added to 20030421
+/_surveymarks/2002/ai8313.md - (no photos)
 /_surveymarks/2002/ly1225.md - photos added to 20030810
 /_surveymarks/2002/ly2611.md - photos added to 20030627
 /_surveymarks/2002/ly2736.md - photos added to 20021031
@@ -15,12 +15,12 @@
 /_surveymarks/2003/ly1759.md - photos added to 20030420
 /_surveymarks/2003/ly1760.md - photos added to 20030422
 /_surveymarks/2003/ly2560.md - photos added to 20030327
-/_surveymarks/2003/ly2678.md - (figure out what date(s) to use here)
+/_surveymarks/2003/ly2678.md - (figure out what date(s) to use here) ***
 /_surveymarks/2003/ly2679.md - photos added to 20040417
-/_surveymarks/2003/ly2714.md
+/_surveymarks/2003/ly2714.md - photos added to 20030413
 /_surveymarks/2003/ly2722.md - photos added to 20040406
 /_surveymarks/2003/ly2724-2.md
-/_surveymarks/2003/ly2731.md -(3 different dates - figure out how to split them up)
+/_surveymarks/2003/ly2731.md -(3 different dates - figure out how to split them up) ***
 /_surveymarks/2003/ly2747.md - photos added to 20040806
 /_surveymarks/2005/k-24.md - photos added to 20020912
 /_surveymarks/2005/pe0279.md - photos added to 20020911
