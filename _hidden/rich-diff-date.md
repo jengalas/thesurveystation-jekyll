@@ -1,4 +1,4 @@
-/_reference_marks/2002/ly2604.md - photos added to 20020929
+/_reference_marks/2002/ly2604.md - photos added to 20020929 - removed from 20021103
 /_reference_marks/2002/ly2611-rm-1.md - photos added to 20030627
 /_reference_marks/2002/ly2715.md - photos added to 20030421
 /_surveymarks/2002/ai8313.md - (no photos)
