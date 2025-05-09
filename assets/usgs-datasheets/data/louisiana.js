@@ -9,9 +9,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Burrwood Bayou",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/0-Burrwood-Bayou/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/0-Burrwood-Bayou/Vertical.pdf",
           "vyear": "1970",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/0-Burrwood-Bayou/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/0-Burrwood-Bayou/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -23,9 +23,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "East Delta",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/1-East-Delta/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/1-East-Delta/Vertical.pdf",
           "vyear": "1970",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/1-East-Delta/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/1-East-Delta/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -37,7 +37,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Oyster Bayou",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/7-Oyster-Bayou/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/7-Oyster-Bayou/Vertical.pdf",
           "vyear": "1973"
         }
       },
@@ -49,9 +49,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Breton Islands",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/8-Breton-Islands/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/8-Breton-Islands/Vertical.pdf",
           "vyear": "1970",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/8-Breton-Islands/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/8-Breton-Islands/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -63,9 +63,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Empire",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/10-Empire/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/10-Empire/Vertical.pdf",
           "vyear": "1949",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/10-Empire/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/10-Empire/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -77,7 +77,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Bernard",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/38-St-Bernard/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/38-St-Bernard/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -89,7 +89,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Orleans",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/39-New-Orleans/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/39-New-Orleans/Vertical.pdf",
           "vyear": "1955"
         }
       },
@@ -101,9 +101,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Hahnville",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/40-Hahnville/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/40-Hahnville/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/40-Hahnville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/40-Hahnville/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -115,7 +115,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lac Des Allemands",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/41-Lac-Des-Allemands/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/41-Lac-Des-Allemands/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -127,7 +127,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Thibodaux",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/42-Thibodaux/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/42-Thibodaux/Horizontal.pdf",
           "hyear": "1980"
         }
       },
@@ -139,7 +139,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Napoleonville",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/43-Napoleonville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/43-Napoleonville/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -151,7 +151,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Centerville",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/44-Centerville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/44-Centerville/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -163,9 +163,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Jeanerette",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/45-Jeanerette/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/45-Jeanerette/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/45-Jeanerette/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/45-Jeanerette/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -177,9 +177,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Abbeville",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/47-Abbeville/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/47-Abbeville/Vertical.pdf",
           "vyear": "1939",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/47-Abbeville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/47-Abbeville/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -191,7 +191,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Forked Island",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/48-Forked-Island/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/48-Forked-Island/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -203,7 +203,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Grand Lake East",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/49-Grand-Lake-East/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/49-Grand-Lake-East/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -215,7 +215,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Grand Lake West",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/50-Grand-Lake-West/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/50-Grand-Lake-West/Vertical.pdf",
           "vyear": "1959"
         }
       },
@@ -227,7 +227,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sweet Lake",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/51-Sweet-Lake/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/51-Sweet-Lake/Vertical.pdf",
           "vyear": "1966"
         }
       },
@@ -239,7 +239,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cameron",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/52-Cameron/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/52-Cameron/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -251,7 +251,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Johnsons Bayou",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/53-Johnsons-Bayou/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/53-Johnsons-Bayou/Vertical.pdf",
           "vyear": "1980"
         }
       },
@@ -263,9 +263,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Port Arthur",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/54-Port-Arthur/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/54-Port-Arthur/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/54-Port-Arthur/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/54-Port-Arthur/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -277,7 +277,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Rigolets",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/57-Rigolets/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/57-Rigolets/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -289,7 +289,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Spanish Fort",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/59-Spanish-Fort/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/59-Spanish-Fort/Horizontal.pdf",
           "hyear": "1964"
         }
       },
@@ -301,7 +301,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bonnet Carre",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/60-Bonnet-Carre/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/60-Bonnet-Carre/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -313,9 +313,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Donaldsonville",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/62-Donaldsonville/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/62-Donaldsonville/Vertical.pdf",
           "vyear": "1961",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/62-Donaldsonville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/62-Donaldsonville/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -327,7 +327,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "White Castle",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/63-White-Castle/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/63-White-Castle/Vertical.pdf",
           "vyear": "1965"
         }
       },
@@ -339,7 +339,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Martinville",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/66-St-Martinville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/66-St-Martinville/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -351,7 +351,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lafayette",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/67-Lafayette/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/67-Lafayette/Vertical.pdf",
           "vyear": "1966"
         }
       },
@@ -363,7 +363,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Crowley",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/68-Crowley/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/68-Crowley/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -375,7 +375,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Jennings",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/69-Jennings/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/69-Jennings/Vertical.pdf",
           "vyear": "1966"
         }
       },
@@ -387,7 +387,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Welsh",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/70-Welsh/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/70-Welsh/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -399,9 +399,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lake Charles",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/71-Lake-Charles/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/71-Lake-Charles/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/71-Lake-Charles/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/71-Lake-Charles/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -413,7 +413,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Orange",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/73-Orange/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/73-Orange/Vertical.pdf",
           "vyear": "1959"
         }
       },
@@ -425,7 +425,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Orangefield",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/74-Orangefield/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/74-Orangefield/Horizontal.pdf",
           "hyear": "1952"
         }
       },
@@ -437,7 +437,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Nicholson",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/75-Nicholson/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/75-Nicholson/Vertical.pdf",
           "vyear": "1963"
         }
       },
@@ -449,7 +449,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Slidell",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/76-Slidell/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/76-Slidell/Vertical.pdf",
           "vyear": "1970"
         }
       },
@@ -461,9 +461,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Denham Springs",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/80-Denham-Springs/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/80-Denham-Springs/Vertical.pdf",
           "vyear": "1979",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/80-Denham-Springs/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/80-Denham-Springs/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -475,9 +475,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Baton Rouge",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/81-Baton-Rouge/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/81-Baton-Rouge/Vertical.pdf",
           "vyear": "1971",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/81-Baton-Rouge/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/81-Baton-Rouge/Horizontal.pdf",
           "hyear": "1971"
         }
       },
@@ -489,9 +489,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Grosse Tete",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/82-Grosse-Tete/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/82-Grosse-Tete/Vertical.pdf",
           "vyear": "1953",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/82-Grosse-Tete/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/82-Grosse-Tete/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -503,9 +503,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Maringouin",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/83-Maringouin/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/83-Maringouin/Vertical.pdf",
           "vyear": "1953",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/83-Maringouin/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/83-Maringouin/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -517,9 +517,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Arnaudville",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/84-Arnaudville/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/84-Arnaudville/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/84-Arnaudville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/84-Arnaudville/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -531,7 +531,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carencro",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/85-Carencro/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/85-Carencro/Horizontal.pdf",
           "hyear": "1969"
         }
       },
@@ -543,7 +543,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bessmay",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/92-Bessmay/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/92-Bessmay/Horizontal.pdf",
           "hyear": "1954"
         }
       },
@@ -555,7 +555,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Zachary",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/98-Zachary/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/98-Zachary/Vertical.pdf",
           "vyear": "1966"
         }
       },
@@ -567,7 +567,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New Roads",
-          "vertical": "https://geodata.thesurveystation.com/USGS/LA/99-New-Roads/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/99-New-Roads/Vertical.pdf",
           "vyear": "1966"
         }
       },
@@ -579,7 +579,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fordoche",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/LA/100-Fordoche/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/LA/100-Fordoche/Horizontal.pdf",
           "hyear": "1967"
         }
       },

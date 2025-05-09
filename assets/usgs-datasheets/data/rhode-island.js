@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Block Island",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/1-Block-Island/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/1-Block-Island/Vertical.pdf",
           "vyear": "1956"
         }
       },
@@ -21,7 +21,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sakonnet Point",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/2-Sakonnet-Point/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/2-Sakonnet-Point/Vertical.pdf",
           "vyear": "1954"
         }
       },
@@ -33,7 +33,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Newport",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/3-Newport/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/3-Newport/Vertical.pdf",
           "vyear": "1942"
         }
       },
@@ -45,9 +45,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Charlestown",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/4-Charlestown/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/4-Charlestown/Vertical.pdf",
           "vyear": "1942",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/4-Charlestown/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/4-Charlestown/Horizontal.pdf",
           "hyear": "1942"
         }
       },
@@ -59,9 +59,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Stonington",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/5-Stonington/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/5-Stonington/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/5-Stonington/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/5-Stonington/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -73,7 +73,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fall River",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/6-Fall-River/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/6-Fall-River/Vertical.pdf",
           "vyear": "1957"
         }
       },
@@ -85,9 +85,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Narragansett",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/7-Narragansett/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/7-Narragansett/Vertical.pdf",
           "vyear": "1942",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/7-Narragansett/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/7-Narragansett/Horizontal.pdf",
           "hyear": "1941"
         }
       },
@@ -99,9 +99,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kent",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/8-Kent/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/8-Kent/Vertical.pdf",
           "vyear": "1942",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/8-Kent/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/8-Kent/Horizontal.pdf",
           "hyear": "1968"
         }
       },
@@ -113,9 +113,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Moosup",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/9-Moosup/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/9-Moosup/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/9-Moosup/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/9-Moosup/Horizontal.pdf",
           "hyear": "1954"
         }
       },
@@ -127,9 +127,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Providence",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/10-Providence/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/10-Providence/Vertical.pdf",
           "vyear": "1955",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/10-Providence/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/10-Providence/Horizontal.pdf",
           "hyear": "1957"
         }
       },
@@ -141,9 +141,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Burrillville",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/11-Burrillville/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/11-Burrillville/Vertical.pdf",
           "vyear": "1943",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/11-Burrillville/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/11-Burrillville/Horizontal.pdf",
           "hyear": "1942"
         }
       },
@@ -155,9 +155,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Putnam",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/12-Putnam/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/12-Putnam/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/12-Putnam/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/12-Putnam/Horizontal.pdf",
           "hyear": "1958"
         }
       },
@@ -169,9 +169,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Franklin",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/13-Franklin/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/13-Franklin/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/13-Franklin/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/13-Franklin/Horizontal.pdf",
           "hyear": "1957"
         }
       },
@@ -183,9 +183,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Blackstone",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/14-Blackstone/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/14-Blackstone/Vertical.pdf",
           "vyear": "1958",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/14-Blackstone/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/14-Blackstone/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -197,9 +197,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Webster",
-          "vertical": "https://geodata.thesurveystation.com/USGS/RI/15-Webster/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/15-Webster/Vertical.pdf",
           "vyear": "1980",
-          "horizontal": "https://geodata.thesurveystation.com/USGS/RI/15-Webster/Horizontal.pdf",
+          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/RI/15-Webster/Horizontal.pdf",
           "hyear": "1965"
         }
       },

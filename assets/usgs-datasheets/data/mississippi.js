@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mossy Lake",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/150-Mossy-Lake/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/150-Mossy-Lake/Vertical.pdf",
           "vyear": "1977"
         }
       },
@@ -21,7 +21,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Baird",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/151-Baird/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/151-Baird/Vertical.pdf",
           "vyear": "1965"
         }
       },
@@ -33,7 +33,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tralake",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/152-Tralake/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/152-Tralake/Vertical.pdf",
           "vyear": "1967"
         }
       },
@@ -45,7 +45,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Schlater",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/163-Schlater/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/163-Schlater/Vertical.pdf",
           "vyear": "1982"
         }
       },
@@ -57,7 +57,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cleveland",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/164-Cleveland/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/164-Cleveland/Vertical.pdf",
           "vyear": "1965"
         }
       },
@@ -69,7 +69,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Choctaw",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/165-Choctaw/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/165-Choctaw/Vertical.pdf",
           "vyear": "1967"
         }
       },
@@ -81,7 +81,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sumner",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/176-Sumner/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/176-Sumner/Vertical.pdf",
           "vyear": "1980"
         }
       },
@@ -93,7 +93,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mound Bayou",
-          "vertical": "https://geodata.thesurveystation.com/USGS/MS/177-Mound-Bayou/Vertical.pdf",
+          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/MS/177-Mound-Bayou/Vertical.pdf",
           "vyear": "1965"
         }
       },

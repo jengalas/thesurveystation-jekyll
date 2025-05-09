@@ -1579,9 +1579,9 @@ var geojsonFeature = {
         "name": "Le Conte",
         "vertical": "https://geodeticsurvey.nc.gov/docs/164_quad.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NC/164-Le-Conte/Horizontal.pdf",
+        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/NC/164-Le-Conte/Horizontal.pdf",
         "hyear": "1975",
-        "triangulation": "https://geodata.thesurveystation.com/USGS/NC/164-Le-Conte/Triangulation.pdf",
+        "triangulation": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/NC/164-Le-Conte/Triangulation.pdf",
         "tyear": "1928"
       }
     },
