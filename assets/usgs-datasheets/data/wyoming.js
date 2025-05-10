@@ -9,9 +9,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mule Creek",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/262-Mule-Creek/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WY/262-Mule-Creek/Vertical.pdf",
           "vyear": "1970",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/262-Mule-Creek/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WY/262-Mule-Creek/Horizontal.pdf",
           "hyear": "1957"
         }
       },
@@ -23,9 +23,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Dewey",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/291-Dewey/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WY/291-Dewey/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/291-Dewey/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WY/291-Dewey/Horizontal.pdf",
           "hyear": "1957"
         }
       },
@@ -37,9 +37,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Newcastle",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/320-Newcastle/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WY/320-Newcastle/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/320-Newcastle/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WY/320-Newcastle/Horizontal.pdf",
           "hyear": "1957"
         }
       },
@@ -51,9 +51,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Four Corners",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/349-Four-Corners/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WY/349-Four-Corners/Vertical.pdf",
           "vyear": "1969",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/349-Four-Corners/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WY/349-Four-Corners/Horizontal.pdf",
           "hyear": "1960"
         }
       },
@@ -65,9 +65,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tinton",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/378-Tinton/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WY/378-Tinton/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/378-Tinton/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WY/378-Tinton/Horizontal.pdf",
           "hyear": "1958"
         }
       },
@@ -79,9 +79,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Beulah",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/407-Beulah/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WY/407-Beulah/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/407-Beulah/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WY/407-Beulah/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -93,9 +93,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Colony",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/436-Colony/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WY/436-Colony/Vertical.pdf",
           "vyear": "1968",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WY/436-Colony/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WY/436-Colony/Horizontal.pdf",
           "hyear": "1964"
         }
       },

@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Clarks Hill",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/SC/61-Clarks-Hill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/SC/61-Clarks-Hill/Vertical.pdf",
           "vyear": "1975"
         }
       },

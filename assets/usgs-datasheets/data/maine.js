@@ -9,9 +9,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "York",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/1-York/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/1-York/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/1-York/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/1-York/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -23,9 +23,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dover",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/2-Dover/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/2-Dover/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/2-Dover/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/2-Dover/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -37,9 +37,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Biddeford",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/3-Biddeford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/3-Biddeford/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/3-Biddeford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/3-Biddeford/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -51,9 +51,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kennebunk",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/4-Kennebunk/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/4-Kennebunk/Vertical.pdf",
         "vyear": "1943",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/4-Kennebunk/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/4-Kennebunk/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -65,9 +65,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Berwick",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/5-Berwick/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/5-Berwick/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/5-Berwick/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/5-Berwick/Horizontal.pdf",
         "hyear": "1941"
       }
     },
@@ -79,7 +79,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Small Point",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/6-Small-Point/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/6-Small-Point/Vertical.pdf",
         "vyear": "1941"
       }
     },
@@ -91,9 +91,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Casco Bay",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/7-Casco-Bay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/7-Casco-Bay/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/7-Casco-Bay/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/7-Casco-Bay/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -105,9 +105,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Portland",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/8-Portland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/8-Portland/Vertical.pdf",
         "vyear": "1975",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/8-Portland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/8-Portland/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -119,9 +119,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Buxton",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/9-Buxton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/9-Buxton/Vertical.pdf",
         "vyear": "1981",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/9-Buxton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/9-Buxton/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -133,9 +133,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Newfield",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/10-Newfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/10-Newfield/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/10-Newfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/10-Newfield/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -147,9 +147,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Boothbay",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/14-Boothbay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/14-Boothbay/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/14-Boothbay/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/14-Boothbay/Horizontal.pdf",
         "hyear": "1969"
       }
     },
@@ -161,9 +161,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bath",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/15-Bath/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/15-Bath/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/15-Bath/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/15-Bath/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -175,9 +175,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Freeport",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/16-Freeport/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/16-Freeport/Vertical.pdf",
         "vyear": "1943",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/16-Freeport/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/16-Freeport/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -189,9 +189,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Gray",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/17-Gray/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/17-Gray/Vertical.pdf",
         "vyear": "1943",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/17-Gray/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/17-Gray/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -203,9 +203,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sebago Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/18-Sebago-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/18-Sebago-Lake/Vertical.pdf",
         "vyear": "1971",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/18-Sebago-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/18-Sebago-Lake/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -217,9 +217,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kezar Falls",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/19-Kezar-Falls/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/19-Kezar-Falls/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/19-Kezar-Falls/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/19-Kezar-Falls/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -231,7 +231,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Deer Isle",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/22-Deer-Isle/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/22-Deer-Isle/Vertical.pdf",
         "vyear": "1929"
       }
     },
@@ -243,9 +243,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Rockland",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/24-Rockland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/24-Rockland/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/24-Rockland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/24-Rockland/Horizontal.pdf",
         "hyear": "1958"
       }
     },
@@ -257,9 +257,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Waldoboro",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/25-Waldoboro/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/25-Waldoboro/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/25-Waldoboro/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/25-Waldoboro/Horizontal.pdf",
         "hyear": "1969"
       }
     },
@@ -271,9 +271,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wiscasset",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/26-Wiscasset/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/26-Wiscasset/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/26-Wiscasset/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/26-Wiscasset/Horizontal.pdf",
         "hyear": "1940"
       }
     },
@@ -285,9 +285,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Gardiner",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/27-Gardiner/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/27-Gardiner/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/27-Gardiner/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/27-Gardiner/Horizontal.pdf",
         "hyear": "1978"
       }
     },
@@ -299,9 +299,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lewiston",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/28-Lewiston/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/28-Lewiston/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/28-Lewiston/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/28-Lewiston/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -313,9 +313,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Poland",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/29-Poland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/29-Poland/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/29-Poland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/29-Poland/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -327,9 +327,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Norway",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/30-Norway/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/30-Norway/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/30-Norway/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/30-Norway/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -341,9 +341,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fryeburg",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/31-Fryeburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/31-Fryeburg/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/31-Fryeburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/31-Fryeburg/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -355,9 +355,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "North Conway",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/32-North-Conway/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/32-North-Conway/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/32-North-Conway/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/32-North-Conway/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -369,9 +369,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bar Harbor",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/35-Bar-Harbor/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/35-Bar-Harbor/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/35-Bar-Harbor/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/35-Bar-Harbor/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -383,9 +383,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mount Desert",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/36-Mount-Desert/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/36-Mount-Desert/Vertical.pdf",
         "vyear": "1934",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/36-Mount-Desert/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/36-Mount-Desert/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -397,9 +397,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Blue Hill",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/37-Blue-Hill/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/37-Blue-Hill/Vertical.pdf",
         "vyear": "1941",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/37-Blue-Hill/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/37-Blue-Hill/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -411,9 +411,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Castine",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/38-Castine/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/38-Castine/Vertical.pdf",
         "vyear": "1941",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/38-Castine/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/38-Castine/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -425,9 +425,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Belfast",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/39-Belfast/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/39-Belfast/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/39-Belfast/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/39-Belfast/Horizontal.pdf",
         "hyear": "1958"
       }
     },
@@ -439,9 +439,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Liberty",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/40-Liberty/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/40-Liberty/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/40-Liberty/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/40-Liberty/Horizontal.pdf",
         "hyear": "1956"
       }
     },
@@ -453,9 +453,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Vassalboro",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/41-Vassalboro/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/41-Vassalboro/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/41-Vassalboro/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/41-Vassalboro/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -467,9 +467,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Augusta",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/42-Augusta/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/42-Augusta/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/42-Augusta/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/42-Augusta/Horizontal.pdf",
         "hyear": "1978"
       }
     },
@@ -481,9 +481,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Livermore",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/43-Livermore/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/43-Livermore/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/43-Livermore/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/43-Livermore/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -495,9 +495,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Buckfield",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/44-Buckfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/44-Buckfield/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/44-Buckfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/44-Buckfield/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -509,9 +509,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bryant",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/45-Bryant/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/45-Bryant/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/45-Bryant/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/45-Bryant/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -523,9 +523,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bethel",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/46-Bethel/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/46-Bethel/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/46-Bethel/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/46-Bethel/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -537,9 +537,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Gorham",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/47-Gorham/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/47-Gorham/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/47-Gorham/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/47-Gorham/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -551,7 +551,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cutler",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/48-Cutler/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/48-Cutler/Vertical.pdf",
         "vyear": "1956"
       }
     },
@@ -563,7 +563,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Machias",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/49-Machias/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/49-Machias/Vertical.pdf",
         "vyear": "1958"
       }
     },
@@ -575,9 +575,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Columbia Falls",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/50-Columbia-Falls/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/50-Columbia-Falls/Vertical.pdf",
         "vyear": "1940",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/50-Columbia-Falls/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/50-Columbia-Falls/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -589,9 +589,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cherryfield",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/51-Cherryfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/51-Cherryfield/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/51-Cherryfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/51-Cherryfield/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -603,9 +603,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Tunk Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/52-Tunk-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/52-Tunk-Lake/Vertical.pdf",
         "vyear": "1929",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/52-Tunk-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/52-Tunk-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -617,9 +617,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ellsworth",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/53-Ellsworth/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/53-Ellsworth/Vertical.pdf",
         "vyear": "1955",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/53-Ellsworth/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/53-Ellsworth/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -631,9 +631,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Orland",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/54-Orland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/54-Orland/Vertical.pdf",
         "vyear": "1945",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/54-Orland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/54-Orland/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -645,9 +645,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bucksport",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/55-Bucksport/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/55-Bucksport/Vertical.pdf",
         "vyear": "1943",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/55-Bucksport/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/55-Bucksport/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -659,9 +659,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Brooks",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/56-Brooks/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/56-Brooks/Vertical.pdf",
         "vyear": "1973",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/56-Brooks/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/56-Brooks/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -673,9 +673,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Burnham",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/57-Burnham/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/57-Burnham/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/57-Burnham/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/57-Burnham/Horizontal.pdf",
         "hyear": "1940"
       }
     },
@@ -687,9 +687,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Waterville",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/58-Waterville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/58-Waterville/Vertical.pdf",
         "vyear": "1956?",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/58-Waterville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/58-Waterville/Horizontal.pdf",
         "hyear": "1978"
       }
     },
@@ -701,9 +701,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Norridgewock",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/59-Norridgewock/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/59-Norridgewock/Vertical.pdf",
         "vyear": "1941",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/59-Norridgewock/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/59-Norridgewock/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -715,9 +715,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Farmington",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/60-Farmington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/60-Farmington/Vertical.pdf",
         "vyear": "1986",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/60-Farmington/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/60-Farmington/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -729,9 +729,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dixfield",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/61-Dixfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/61-Dixfield/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/61-Dixfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/61-Dixfield/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -743,9 +743,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Rumford",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/62-Rumford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/62-Rumford/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/62-Rumford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/62-Rumford/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -757,9 +757,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Old Speck Mountain",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/63-Old-Speck-Mountain/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/63-Old-Speck-Mountain/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/63-Old-Speck-Mountain/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/63-Old-Speck-Mountain/Horizontal.pdf",
         "hyear": "1969"
       }
     },
@@ -771,9 +771,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Milan",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/64-Milan/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/64-Milan/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/64-Milan/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/64-Milan/Horizontal.pdf",
         "hyear": "1969"
       }
     },
@@ -785,7 +785,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Eastport",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/65-Eastport/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/65-Eastport/Vertical.pdf",
         "vyear": "1956"
       }
     },
@@ -797,9 +797,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Gardner Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/66-Gardner-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/66-Gardner-Lake/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/66-Gardner-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/66-Gardner-Lake/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -811,9 +811,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wesley",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/67-Wesley/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/67-Wesley/Vertical.pdf",
         "vyear": "1965",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/67-Wesley/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/67-Wesley/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -825,9 +825,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Tug Mountain",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/68-Tug-Mountain/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/68-Tug-Mountain/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/68-Tug-Mountain/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/68-Tug-Mountain/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -839,9 +839,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lead Mountain",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/69-Lead-Mountain/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/69-Lead-Mountain/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/69-Lead-Mountain/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/69-Lead-Mountain/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -853,9 +853,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Great Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/70-Great-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/70-Great-Pond/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/70-Great-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/70-Great-Pond/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -867,9 +867,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Orono",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/71-Orono/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/71-Orono/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/71-Orono/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/71-Orono/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -881,9 +881,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bangor",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/72-Bangor/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/72-Bangor/Vertical.pdf",
         "vyear": "1943",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/72-Bangor/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/72-Bangor/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -895,9 +895,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Stetson",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/73-Stetson/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/73-Stetson/Vertical.pdf",
         "vyear": "1953",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/73-Stetson/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/73-Stetson/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -909,9 +909,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Pittsfield",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/74-Pittsfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/74-Pittsfield/Vertical.pdf",
         "vyear": "1953",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/74-Pittsfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/74-Pittsfield/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -923,9 +923,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Skowhegan",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/75-Skowhegan/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/75-Skowhegan/Vertical.pdf",
         "vyear": "1955",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/75-Skowhegan/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/75-Skowhegan/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -937,9 +937,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Anson",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/76-Anson/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/76-Anson/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/76-Anson/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/76-Anson/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -951,9 +951,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kingfield",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/77-Kingfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/77-Kingfield/Vertical.pdf",
         "vyear": "1982",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/77-Kingfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/77-Kingfield/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -965,9 +965,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Phillips",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/78-Phillips/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/78-Phillips/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/78-Phillips/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/78-Phillips/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -979,9 +979,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Rangeley",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/79-Rangeley/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/79-Rangeley/Vertical.pdf",
         "vyear": "1982",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/79-Rangeley/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/79-Rangeley/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -993,9 +993,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Oquossoc",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/80-Oquossoc/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/80-Oquossoc/Vertical.pdf",
         "vyear": "1982",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/80-Oquossoc/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/80-Oquossoc/Horizontal.pdf",
         "hyear": "1956"
       }
     },
@@ -1007,9 +1007,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Errol",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/81-Errol/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/81-Errol/Vertical.pdf",
         "vyear": "1993",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/81-Errol/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/81-Errol/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -1021,7 +1021,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Robbinston",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/82-Robbinston/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/82-Robbinston/Vertical.pdf",
         "vyear": "1971"
       }
     },
@@ -1033,9 +1033,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Calais",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/83-Calais/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/83-Calais/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/83-Calais/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/83-Calais/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1047,9 +1047,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Big Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/84-Big-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/84-Big-Lake/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/84-Big-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/84-Big-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -1061,9 +1061,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wabassus Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/85-Wabassus-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/85-Wabassus-Lake/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/85-Wabassus-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/85-Wabassus-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -1075,9 +1075,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Nicatous Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/86-Nicatous-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/86-Nicatous-Lake/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/86-Nicatous-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/86-Nicatous-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -1089,9 +1089,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Saponac",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/87-Saponac/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/87-Saponac/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/87-Saponac/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/87-Saponac/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1103,9 +1103,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Passadumkeag",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/88-Passadumkeag/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/88-Passadumkeag/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/88-Passadumkeag/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/88-Passadumkeag/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1117,9 +1117,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Boyd Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/89-Boyd-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/89-Boyd-Lake/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/89-Boyd-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/89-Boyd-Lake/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1131,9 +1131,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dover-Foxcroft",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/90-Dover-Foxcroft/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/90-Dover-Foxcroft/Vertical.pdf",
         "vyear": "1953",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/90-Dover-Foxcroft/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/90-Dover-Foxcroft/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1145,9 +1145,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Guilford",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/91-Guilford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/91-Guilford/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/91-Guilford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/91-Guilford/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1159,9 +1159,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kingsbury",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/92-Kingsbury/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/92-Kingsbury/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/92-Kingsbury/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/92-Kingsbury/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1173,9 +1173,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bingham",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/93-Bingham/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/93-Bingham/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/93-Bingham/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/93-Bingham/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1187,7 +1187,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dead River",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/94-Dead-River/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/94-Dead-River/Vertical.pdf",
         "vyear": "1955"
       }
     },
@@ -1199,9 +1199,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Stratton",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/95-Stratton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/95-Stratton/Vertical.pdf",
         "vyear": "1969",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/95-Stratton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/95-Stratton/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1213,9 +1213,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kennebago",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/96-Kennebago/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/96-Kennebago/Vertical.pdf",
         "vyear": "1969",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/96-Kennebago/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/96-Kennebago/Horizontal.pdf",
         "hyear": "1970"
       }
     },
@@ -1227,9 +1227,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cupsuptic",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/97-Cupsuptic/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/97-Cupsuptic/Vertical.pdf",
         "vyear": "1982",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/97-Cupsuptic/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/97-Cupsuptic/Horizontal.pdf",
         "hyear": "1956"
       }
     },
@@ -1241,9 +1241,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Second Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/98-Second-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/98-Second-Lake/Vertical.pdf",
         "vyear": "1992",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/98-Second-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/98-Second-Lake/Horizontal.pdf",
         "hyear": "1969"
       }
     },
@@ -1255,9 +1255,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kellyland",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/99-Kellyland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/99-Kellyland/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/99-Kellyland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/99-Kellyland/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1269,7 +1269,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Waite",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/100-Waite/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/100-Waite/Vertical.pdf",
         "vyear": "1946"
       }
     },
@@ -1281,7 +1281,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Springfield",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/102-Springfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/102-Springfield/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1293,7 +1293,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Winn",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/103-Winn/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/103-Winn/Vertical.pdf",
         "vyear": "1958"
       }
     },
@@ -1305,7 +1305,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Schoodic",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/105-Schoodic/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/105-Schoodic/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -1317,9 +1317,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sebec",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/106-Sebec/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/106-Sebec/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/106-Sebec/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/106-Sebec/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1331,7 +1331,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sebec Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/107-Sebec-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/107-Sebec-Lake/Vertical.pdf",
         "vyear": "1944"
       }
     },
@@ -1343,9 +1343,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Greenville",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/108-Greenville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/108-Greenville/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/108-Greenville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/108-Greenville/Horizontal.pdf",
         "hyear": "1950"
       }
     },
@@ -1357,9 +1357,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "The Forks",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/109-The-Forks/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/109-The-Forks/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/109-The-Forks/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/109-The-Forks/Horizontal.pdf",
         "hyear": "1948"
       }
     },
@@ -1371,9 +1371,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Pierce Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/110-Pierce-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/110-Pierce-Pond/Vertical.pdf",
         "vyear": "1955",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/110-Pierce-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/110-Pierce-Pond/Horizontal.pdf",
         "hyear": "1948"
       }
     },
@@ -1385,9 +1385,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Spencer",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/111-Spencer/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/111-Spencer/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/111-Spencer/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/111-Spencer/Horizontal.pdf",
         "hyear": "1927"
       }
     },
@@ -1399,9 +1399,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chain Lakes",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/112-Chain-Lakes/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/112-Chain-Lakes/Vertical.pdf",
         "vyear": "1969",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/112-Chain-Lakes/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/112-Chain-Lakes/Horizontal.pdf",
         "hyear": "1970"
       }
     },
@@ -1413,9 +1413,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Around Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/113-Around-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/113-Around-Pond/Vertical.pdf",
         "vyear": "1969",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/113-Around-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/113-Around-Pond/Horizontal.pdf",
         "hyear": "1956"
       }
     },
@@ -1427,9 +1427,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Moose Bog",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/114-Moose-Bog/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/114-Moose-Bog/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/114-Moose-Bog/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/114-Moose-Bog/Horizontal.pdf",
         "hyear": "1950"
       }
     },
@@ -1441,9 +1441,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Vanceboro",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/115-Vanceboro/Horizontal-and-vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/115-Vanceboro/Horizontal-and-vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/115-Vanceboro/Horizontal-and-vertical.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/115-Vanceboro/Horizontal-and-vertical.pdf",
         "hyear": "1977"
       }
     },
@@ -1455,9 +1455,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Forest",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/116-Forest/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/116-Forest/Vertical.pdf",
         "vyear": "1946",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/116-Forest/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/116-Forest/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1469,9 +1469,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Danforth",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/117-Danforth/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/117-Danforth/Vertical.pdf",
         "vyear": "1946",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/117-Danforth/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/117-Danforth/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1483,9 +1483,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wytopitlock",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/118-Wytopitlock/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/118-Wytopitlock/Vertical.pdf",
         "vyear": "1946",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/118-Wytopitlock/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/118-Wytopitlock/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1497,9 +1497,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mattawamkeag",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/119-Mattawamkeag/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/119-Mattawamkeag/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/119-Mattawamkeag/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/119-Mattawamkeag/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -1511,9 +1511,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Millinocket",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/120-Millinocket/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/120-Millinocket/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/120-Millinocket/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/120-Millinocket/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -1525,9 +1525,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Norcross",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/121-Norcross/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/121-Norcross/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/121-Norcross/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/121-Norcross/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -1539,9 +1539,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Jo-Mary Mountain",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/122-Jo-Mary-Mountain/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/122-Jo-Mary-Mountain/Vertical.pdf",
         "vyear": "1954",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/122-Jo-Mary-Mountain/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/122-Jo-Mary-Mountain/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -1553,9 +1553,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "First Roach Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/123-First-Roach-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/123-First-Roach-Pond/Vertical.pdf",
         "vyear": "1954",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/123-First-Roach-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/123-First-Roach-Pond/Horizontal.pdf",
         "hyear": "1950"
       }
     },
@@ -1567,9 +1567,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Moosehead Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/124-Moosehead-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/124-Moosehead-Lake/Vertical.pdf",
         "vyear": "1955",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/124-Moosehead-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/124-Moosehead-Lake/Horizontal.pdf",
         "hyear": "1948"
       }
     },
@@ -1581,9 +1581,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Brassua Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/125-Brassua-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/125-Brassua-Lake/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/125-Brassua-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/125-Brassua-Lake/Horizontal.pdf",
         "hyear": "1950"
       }
     },
@@ -1595,9 +1595,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Long Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/126-Long-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/126-Long-Pond/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/126-Long-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/126-Long-Pond/Horizontal.pdf",
         "hyear": "1956"
       }
     },
@@ -1609,9 +1609,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Attean",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/127-Attean/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/127-Attean/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/127-Attean/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/127-Attean/Horizontal.pdf",
         "hyear": "1956"
       }
     },
@@ -1623,9 +1623,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Skinner",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/128-Skinner/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/128-Skinner/Vertical.pdf",
         "vyear": "1948",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/128-Skinner/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/128-Skinner/Horizontal.pdf",
         "hyear": "1948"
       }
     },
@@ -1637,9 +1637,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Amity",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/129-Amity/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/129-Amity/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/129-Amity/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/129-Amity/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1651,9 +1651,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mattawamkeag Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/130-Mattawamkeag-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/130-Mattawamkeag-Lake/Vertical.pdf",
         "vyear": "1942",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/130-Mattawamkeag-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/130-Mattawamkeag-Lake/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1665,9 +1665,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sherman",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/131-Sherman/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/131-Sherman/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/131-Sherman/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/131-Sherman/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -1679,9 +1679,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Stacyville",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/132-Stacyville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/132-Stacyville/Vertical.pdf",
         "vyear": "1944",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/132-Stacyville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/132-Stacyville/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -1693,9 +1693,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Katahdin",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/133-Katahdin/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/133-Katahdin/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/133-Katahdin/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/133-Katahdin/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -1707,9 +1707,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Harrington Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/134-Harrington-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/134-Harrington-Lake/Vertical.pdf",
         "vyear": "1955",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/134-Harrington-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/134-Harrington-Lake/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1721,7 +1721,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ragged Lake",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/135-Ragged-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/135-Ragged-Lake/Horizontal.pdf",
         "hyear": "1955"
       }
     },
@@ -1733,9 +1733,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "North East Carry",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/136-North-East-Carry/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/136-North-East-Carry/Vertical.pdf",
         "vyear": "1955",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/136-North-East-Carry/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/136-North-East-Carry/Horizontal.pdf",
         "hyear": "1954"
       }
     },
@@ -1747,7 +1747,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sebomook Lake",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/137-Sebomook-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/137-Sebomook-Lake/Horizontal.pdf",
         "hyear": "1954"
       }
     },
@@ -1759,9 +1759,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Penobscot Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/138-Penobscot-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/138-Penobscot-Lake/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/138-Penobscot-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/138-Penobscot-Lake/Horizontal.pdf",
         "hyear": "1931"
       }
     },
@@ -1773,7 +1773,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sandy Bay",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/139-Sandy-Bay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/139-Sandy-Bay/Vertical.pdf",
         "vyear": "1956"
       }
     },
@@ -1785,7 +1785,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Houlton",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/140-Houlton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/140-Houlton/Vertical.pdf",
         "vyear": "1980"
       }
     },
@@ -1797,9 +1797,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Smyrna Mills",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/141-Smyrna-Mills/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/141-Smyrna-Mills/Vertical.pdf",
         "vyear": "1980",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/141-Smyrna-Mills/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/141-Smyrna-Mills/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1811,9 +1811,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Island Falls",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/142-Island-Falls/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/142-Island-Falls/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/142-Island-Falls/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/142-Island-Falls/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1825,9 +1825,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Shin Ponds",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/143-Shin-Ponds/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/143-Shin-Ponds/Vertical.pdf",
         "vyear": "1950",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/143-Shin-Ponds/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/143-Shin-Ponds/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1839,9 +1839,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Traveler Mountain",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/144-Traveler-Mountain/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/144-Traveler-Mountain/Vertical.pdf",
         "vyear": "1950",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/144-Traveler-Mountain/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/144-Traveler-Mountain/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1853,9 +1853,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Telos Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/145-Telos-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/145-Telos-Lake/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/145-Telos-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/145-Telos-Lake/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -1867,9 +1867,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chesuncook",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/146-Chesuncook/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/146-Chesuncook/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/146-Chesuncook/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/146-Chesuncook/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -1881,7 +1881,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Caucomgomoc Lake",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/147-Caucomgomoc-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/147-Caucomgomoc-Lake/Horizontal.pdf",
         "hyear": "1931"
       }
     },
@@ -1893,9 +1893,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Saint John Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/148-Saint-John-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/148-Saint-John-Pond/Vertical.pdf",
         "vyear": "1957",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/148-Saint-John-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/148-Saint-John-Pond/Horizontal.pdf",
         "hyear": "1931"
       }
     },
@@ -1907,7 +1907,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Norris Brook",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/149-Norris-Brook/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/149-Norris-Brook/Vertical.pdf",
         "vyear": "1957"
       }
     },
@@ -1919,9 +1919,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bridgewater",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/151-Bridgewater/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/151-Bridgewater/Vertical.pdf",
         "vyear": "1953",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/151-Bridgewater/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/151-Bridgewater/Horizontal.pdf",
         "hyear": "1924"
       }
     },
@@ -1933,9 +1933,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Howe Brook",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/152-Howe-Brook/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/152-Howe-Brook/Vertical.pdf",
         "vyear": "1968",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/152-Howe-Brook/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/152-Howe-Brook/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1947,9 +1947,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Oxbow",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/153-Oxbow/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/153-Oxbow/Vertical.pdf",
         "vyear": "1968",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/153-Oxbow/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/153-Oxbow/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1961,9 +1961,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Grand Lake Seboeis",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/154-Grand-Lake-Seboeis/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/154-Grand-Lake-Seboeis/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/154-Grand-Lake-Seboeis/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/154-Grand-Lake-Seboeis/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -1975,9 +1975,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Millinocket Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/155-Millinocket-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/155-Millinocket-Lake/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/155-Millinocket-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/155-Millinocket-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -1989,9 +1989,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Spider Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/156-Spider-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/156-Spider-Lake/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/156-Spider-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/156-Spider-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -2003,9 +2003,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Churchill Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/157-Churchill-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/157-Churchill-Lake/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/157-Churchill-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/157-Churchill-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -2017,9 +2017,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Allagash Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/158-Allagash-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/158-Allagash-Lake/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/158-Allagash-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/158-Allagash-Lake/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2031,9 +2031,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Baker Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/159-Baker-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/159-Baker-Lake/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/159-Baker-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/159-Baker-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -2045,7 +2045,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Hardwood Mountain",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/160-Hardwood-Mountain/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/160-Hardwood-Mountain/Vertical.pdf",
         "vyear": "1957"
       }
     },
@@ -2057,9 +2057,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mars Hill",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/161-Mars-Hill/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/161-Mars-Hill/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/161-Mars-Hill/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/161-Mars-Hill/Horizontal.pdf",
         "hyear": "1952"
       }
     },
@@ -2071,9 +2071,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Presque Isle",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/162-Presque-Isle/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/162-Presque-Isle/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/162-Presque-Isle/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/162-Presque-Isle/Horizontal.pdf",
         "hyear": "1952"
       }
     },
@@ -2085,9 +2085,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ashland",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/163-Ashland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/163-Ashland/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/163-Ashland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/163-Ashland/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -2099,9 +2099,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Greenlaw",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/164-Greenlaw/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/164-Greenlaw/Vertical.pdf",
         "vyear": "1959",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/164-Greenlaw/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/164-Greenlaw/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -2113,9 +2113,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mooseleuk Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/165-Mooseleuk-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/165-Mooseleuk-Lake/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/165-Mooseleuk-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/165-Mooseleuk-Lake/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -2127,9 +2127,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Musquacook Lakes",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/166-Musquacook-Lakes/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/166-Musquacook-Lakes/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/166-Musquacook-Lakes/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/166-Musquacook-Lakes/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2141,9 +2141,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Umsaskis Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/167-Umsaskis-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/167-Umsaskis-Lake/Vertical.pdf",
         "vyear": "1990",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/167-Umsaskis-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/167-Umsaskis-Lake/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2155,9 +2155,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Clayton Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/168-Clayton-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/168-Clayton-Lake/Vertical.pdf",
         "vyear": "1985",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/168-Clayton-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/168-Clayton-Lake/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -2169,9 +2169,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Beaver Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/169-Beaver-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/169-Beaver-Pond/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/169-Beaver-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/169-Beaver-Pond/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -2183,9 +2183,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fort Fairfield",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/171-Fort-Fairfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/171-Fort-Fairfield/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/171-Fort-Fairfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/171-Fort-Fairfield/Horizontal.pdf",
         "hyear": "1952"
       }
     },
@@ -2197,9 +2197,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Caribou",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/172-Caribou/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/172-Caribou/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/172-Caribou/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/172-Caribou/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2211,9 +2211,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Portage",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/173-Portage/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/173-Portage/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/173-Portage/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/173-Portage/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -2225,9 +2225,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Winterville",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/174-Winterville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/174-Winterville/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/174-Winterville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/174-Winterville/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -2239,9 +2239,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fish River Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/175-Fish-River-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/175-Fish-River-Lake/Vertical.pdf",
         "vyear": "1988",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/175-Fish-River-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/175-Fish-River-Lake/Horizontal.pdf",
         "hyear": "1973"
       }
     },
@@ -2253,9 +2253,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Allagash Falls",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/176-Allagash-Falls/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/176-Allagash-Falls/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/176-Allagash-Falls/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/176-Allagash-Falls/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2267,9 +2267,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Round Pond",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/177-Round-Pond/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/177-Round-Pond/Vertical.pdf",
         "vyear": "1985",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/177-Round-Pond/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/177-Round-Pond/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2281,9 +2281,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Seven Islands",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/178-Seven-Islands/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/178-Seven-Islands/Vertical.pdf",
         "vyear": "1985",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/178-Seven-Islands/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/178-Seven-Islands/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2295,9 +2295,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Depot Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/179-Depot-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/179-Depot-Lake/Vertical.pdf",
         "vyear": "1985",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/179-Depot-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/179-Depot-Lake/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2309,9 +2309,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Van Buren",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/180-Van-Buren/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/180-Van-Buren/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/180-Van-Buren/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/180-Van-Buren/Horizontal.pdf",
         "hyear": "1978"
       }
     },
@@ -2323,9 +2323,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Stockholm",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/181-Stockholm/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/181-Stockholm/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/181-Stockholm/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/181-Stockholm/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2337,9 +2337,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Square Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/182-Square-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/182-Square-Lake/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/182-Square-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/182-Square-Lake/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2351,9 +2351,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Eagle Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/183-Eagle-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/183-Eagle-Lake/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/183-Eagle-Lake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/183-Eagle-Lake/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2365,9 +2365,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "St. Francis",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/184-St-Francis/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/184-St-Francis/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/184-St-Francis/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/184-St-Francis/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2379,9 +2379,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Allagash",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/185-Allagash/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/185-Allagash/Vertical.pdf",
         "vyear": "1985",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/185-Allagash/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/185-Allagash/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2393,9 +2393,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Rocky Mountain",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/186-Rocky-Mountain/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/186-Rocky-Mountain/Vertical.pdf",
         "vyear": "1985",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/186-Rocky-Mountain/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/186-Rocky-Mountain/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2407,7 +2407,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Little East Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/187-Little-East-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/187-Little-East-Lake/Vertical.pdf",
         "vyear": "1958"
       }
     },
@@ -2419,9 +2419,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Grand Isle",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/188-Grand-Isle/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/188-Grand-Isle/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/188-Grand-Isle/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/188-Grand-Isle/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2433,9 +2433,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Frenchville",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/189-Frenchville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/189-Frenchville/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/189-Frenchville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/189-Frenchville/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2447,9 +2447,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fort Kent",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/190-Fort-Kent/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/190-Fort-Kent/Vertical.pdf",
         "vyear": "1956",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/190-Fort-Kent/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/ME/190-Fort-Kent/Horizontal.pdf",
         "hyear": "1975"
       }
     },
@@ -2461,7 +2461,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Beau Lake",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/191-Beau-Lake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/191-Beau-Lake/Vertical.pdf",
         "vyear": "1958"
       }
     },
@@ -2473,7 +2473,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Rocky Brook",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/ME/192-Rocky-Brook/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/ME/192-Rocky-Brook/Vertical.pdf",
         "vyear": "1958"
       }
     },

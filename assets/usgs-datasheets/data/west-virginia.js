@@ -9,9 +9,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bland",
-        "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/1-Bland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.net/USGS/WV/1-Bland/Vertical.pdf",
         "vyear": "1990",
-        "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/1-Bland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.net/USGS/WV/1-Bland/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -23,9 +23,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Burkes Garden",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/2-Burkes-Garden/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/WV/2-Burkes-Garden/Vertical.pdf",
           "vyear": "1990",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/2-Burkes-Garden/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/WV/2-Burkes-Garden/Horizontal.pdf",
           "hyear": "1974"
         }
     },
@@ -37,9 +37,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Pounding Mill",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/3-Pounding-Mill/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/3-Pounding-Mill/Vertical.pdf",
             "vyear": "1974",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/3-Pounding-Mill/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/3-Pounding-Mill/Horizontal.pdf",
             "hyear": "1974"
         }
     },
@@ -51,9 +51,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Waiteville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/4-Waiteville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/4-Waiteville/Vertical.pdf",
             "vyear": "1976",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/4-Waiteville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/4-Waiteville/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -65,9 +65,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Pearisburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/5-Pearisburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/5-Pearisburg/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/5-Pearisburg/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/5-Pearisburg/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -79,9 +79,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Narrows",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/6-Narrows/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/6-Narrows/Vertical.pdf",
             "vyear": "1990",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/6-Narrows/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/6-Narrows/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -93,9 +93,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Bluefield",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/7-Bluefield/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/7-Bluefield/Vertical.pdf",
             "vyear": "1990",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/7-Bluefield/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/7-Bluefield/Horizontal.pdf",
             "hyear": "1978"
         }
     },
@@ -107,9 +107,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Bramwell",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/8-Bramwell/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/8-Bramwell/Vertical.pdf",
             "vyear": "1974",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/8-Bramwell/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/8-Bramwell/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -121,9 +121,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Welch",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/9-Welch/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/9-Welch/Vertical.pdf",
             "vyear": "1990",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/9-Welch/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/9-Welch/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -135,9 +135,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Iaeger",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/10-Iaeger/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/10-Iaeger/Vertical.pdf",
             "vyear": "1990",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/10-Iaeger/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/10-Iaeger/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -149,9 +149,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "New Castle",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/11-New-Castle/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/11-New-Castle/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/11-New-Castle/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/11-New-Castle/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -163,9 +163,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Ronceverte",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/12-Ronceverte/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/12-Ronceverte/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/12-Ronceverte/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/12-Ronceverte/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -177,9 +177,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Alderson",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/13-Alderson/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/13-Alderson/Vertical.pdf",
             "vyear": "1969",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/13-Alderson/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/13-Alderson/Horizontal.pdf",
             "hyear": "1970"
         }
     },
@@ -191,9 +191,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Big Bend",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/14-Big-Bend/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/14-Big-Bend/Vertical.pdf",
             "vyear": "1968",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/14-Big-Bend/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/14-Big-Bend/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -205,9 +205,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Flat Top",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/15-Flat-Top/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/15-Flat-Top/Vertical.pdf",
             "vyear": "1968",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/15-Flat-Top/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/15-Flat-Top/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -219,9 +219,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Mullens",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/16-Mullens/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/16-Mullens/Vertical.pdf",
             "vyear": "1967",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/16-Mullens/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/16-Mullens/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -233,9 +233,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Pineville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/17-Pineville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/17-Pineville/Vertical.pdf",
             "vyear": "1960",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/17-Pineville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/17-Pineville/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -247,9 +247,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Gilbert",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/18-Gilbert/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/18-Gilbert/Vertical.pdf",
             "vyear": "1960",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/18-Gilbert/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/18-Gilbert/Horizontal.pdf",
             "hyear": "1968"
         }
     },
@@ -261,9 +261,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Matewan",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/19-Matewan/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/19-Matewan/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/19-Matewan/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/19-Matewan/Horizontal.pdf",
             "hyear": "1955"
         }
     },
@@ -275,9 +275,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Williamson",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/20-Williamson/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/20-Williamson/Vertical.pdf",
             "vyear": "1974",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/20-Williamson/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/20-Williamson/Horizontal.pdf",
             "hyear": "1977"
         }
     },
@@ -289,9 +289,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Callaghan",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/21-Callaghan/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/21-Callaghan/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/21-Callaghan/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/21-Callaghan/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -303,9 +303,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "White Sulphur Springs",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/22-White-Sulphur-Springs/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/22-White-Sulphur-Springs/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/22-White-Sulphur-Springs/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/22-White-Sulphur-Springs/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -317,9 +317,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Clintonville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/23-Clintonville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/23-Clintonville/Vertical.pdf",
             "vyear": "1965",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/23-Clintonville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/23-Clintonville/Horizontal.pdf",
             "hyear": "1969"
         }
     },
@@ -331,9 +331,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Meadow Creek",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/24-Meadow-Creek/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/24-Meadow-Creek/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/24-Meadow-Creek/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/24-Meadow-Creek/Horizontal.pdf",
             "hyear": "1969"
         }
     },
@@ -345,9 +345,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Beckley",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/25-Beckley/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/25-Beckley/Vertical.pdf",
             "vyear": "1969",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/25-Beckley/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/25-Beckley/Horizontal.pdf",
             "hyear": "1970"
         }
     },
@@ -359,9 +359,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Eccles",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/26-Eccles/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/26-Eccles/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/26-Eccles/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/26-Eccles/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -373,9 +373,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Bald Knob",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/27-Bald-Knob/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/27-Bald-Knob/Vertical.pdf",
             "vyear": "1965",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/27-Bald-Knob/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/27-Bald-Knob/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -387,9 +387,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Logan",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/28-Logan/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/28-Logan/Vertical.pdf",
             "vyear": "1960",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/28-Logan/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/28-Logan/Horizontal.pdf",
             "hyear": "1961"
         }
     },
@@ -401,9 +401,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Holden",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/29-Holden/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/29-Holden/Vertical.pdf",
             "vyear": "1960",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/29-Holden/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/29-Holden/Horizontal.pdf",
             "hyear": "1960"
         }
     },
@@ -415,9 +415,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Naugatuck",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/30-Naugatuck/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/30-Naugatuck/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/30-Naugatuck/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/30-Naugatuck/Horizontal.pdf",
             "hyear": "1977"
         }
     },
@@ -429,9 +429,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Warm Springs",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/31-Warm-Springs/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/31-Warm-Springs/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/31-Warm-Springs/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/31-Warm-Springs/Horizontal.pdf",
             "hyear": "1977"
         }
     },
@@ -443,7 +443,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Marlinton",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/32-Marlinton/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/32-Marlinton/Vertical.pdf",
             "vyear": "1977"
         }
     },
@@ -455,9 +455,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Lobelia",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/33-Lobelia/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/33-Lobelia/Vertical.pdf",
             "vyear": "1965",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/33-Lobelia/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/33-Lobelia/Horizontal.pdf",
             "hyear": "1921"
         }
     },
@@ -469,9 +469,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Richwood",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/34-Richwood/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/34-Richwood/Vertical.pdf",
             "vyear": "1948",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/34-Richwood/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/34-Richwood/Horizontal.pdf",
             "hyear": "1970"
         }
     },
@@ -483,9 +483,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Winona",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/35-Winona/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/35-Winona/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/35-Winona/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/35-Winona/Horizontal.pdf",
             "hyear": "1970"
         }
     },
@@ -497,9 +497,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Fayetteville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/36-Fayetteville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/36-Fayetteville/Vertical.pdf",
             "vyear": "1969",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/36-Fayetteville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/36-Fayetteville/Horizontal.pdf",
             "hyear": "1970"
         }
     },
@@ -511,9 +511,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Montgomery",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/37-Montgomery/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/37-Montgomery/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/37-Montgomery/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/37-Montgomery/Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -525,9 +525,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Peytona",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/38-Peytona/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/38-Peytona/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/38-Peytona/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/38-Peytona/Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -539,9 +539,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Madison",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/39-Madison/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/39-Madison/Vertical.pdf",
             "vyear": "1959",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/39-Madison/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/39-Madison/Horizontal.pdf",
             "hyear": "1961"
         }
     },
@@ -553,9 +553,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Midkiff",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/40-Midkiff/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/40-Midkiff/Vertical.pdf",
             "vyear": "1959",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/40-Midkiff/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/40-Midkiff/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -567,9 +567,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Wayne",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/41-Wayne/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/41-Wayne/Vertical.pdf",
             "vyear": "1959",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/41-Wayne/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/41-Wayne/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -581,9 +581,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Louisa",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/42-Louisa/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/42-Louisa/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/42-Louisa/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/42-Louisa/Horizontal.pdf",
             "hyear": "1977"
         }
     },
@@ -595,9 +595,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Parnassus",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/43-Parnassus/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/43-Parnassus/Vertical.pdf",
             "vyear": "1986",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/43-Parnassus/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/43-Parnassus/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -609,9 +609,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "McDowell",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/44-McDowell/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/44-McDowell/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/44-McDowell/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/44-McDowell/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -623,9 +623,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Monterey",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/45-Monterey/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/45-Monterey/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/45-Monterey/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/45-Monterey/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -637,11 +637,11 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Cass",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/46-Cass/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/46-Cass/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/46-Cass/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/46-Cass/Horizontal.pdf",
             "hyear": "1976",
-            "coe": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/46-Cass/Corps-of-Engineers.pdf",
+            "coe": "https://geodata.thesurveystation.net/USGS/WV/46-Cass/Corps-of-Engineers.pdf",
             "cyear": "1934"
         }
     },
@@ -653,9 +653,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Mingo",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/47-Mingo/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/47-Mingo/Vertical.pdf",
             "vyear": "1957",
-            "coe": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/47-Mingo/Corps-of-Engineers.pdf",
+            "coe": "https://geodata.thesurveystation.net/USGS/WV/47-Mingo/Corps-of-Engineers.pdf",
             "cyear": "1934"
         }
     },
@@ -667,9 +667,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Webster Springs",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/48-Webster-Springs/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/48-Webster-Springs/Vertical.pdf",
             "vyear": "1965",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/48-Webster-Springs/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/48-Webster-Springs/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -681,9 +681,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Cowen",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/49-Cowen/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/49-Cowen/Vertical.pdf",
             "vyear": "1965",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/49-Cowen/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/49-Cowen/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -695,9 +695,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Summersville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/50-Summersville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/50-Summersville/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/50-Summersville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/50-Summersville/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -709,9 +709,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Clay",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/51-Clay/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/51-Clay/Vertical.pdf",
             "vyear": "1965",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/51-Clay/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/51-Clay/Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -723,9 +723,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Clendenin",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/52-Clendenin/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/52-Clendenin/Vertical.pdf",
             "vyear": "1966",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/52-Clendenin/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/52-Clendenin/Horizontal.pdf",
             "hyear": "1956"
         }
     },
@@ -737,9 +737,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Charleston",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/53-Charleston/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/53-Charleston/Vertical.pdf",
             "vyear": "1965",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/53-Charleston/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/53-Charleston/Horizontal.pdf",
             "hyear": "1955"
         }
     },
@@ -751,9 +751,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "St. Albans",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/54-St-Albans/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/54-St-Albans/Vertical.pdf",
             "vyear": "1957",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/54-St-Albans/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/54-St-Albans/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -765,9 +765,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Milton",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/55-Milton/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/55-Milton/Vertical.pdf",
             "vyear": "1966",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/55-Milton/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/55-Milton/Horizontal.pdf",
             "hyear": "1956"
         }
     },
@@ -779,9 +779,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Guyandotte",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/56-Guyandotte/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/56-Guyandotte/Vertical.pdf",
             "vyear": "1958",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/56-Guyandotte/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/56-Guyandotte/Horizontal.pdf",
             "hyear": "1956"
         }
     },
@@ -793,9 +793,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Ceredo",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/57-Ceredo/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/57-Ceredo/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/57-Ceredo/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/57-Ceredo/Horizontal.pdf",
             "hyear": "1977"
         }
     },
@@ -807,9 +807,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Fort Seybert",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/58-Fort-Seybert/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/58-Fort-Seybert/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/58-Fort-Seybert/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/58-Fort-Seybert/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -821,9 +821,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Circleville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/59-Circleville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/59-Circleville/Vertical.pdf",
             "vyear": "1967",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/59-Circleville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/59-Circleville/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -835,9 +835,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Spruce Knob",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/60-Spruce-Knob/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/60-Spruce-Knob/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/60-Spruce-Knob/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/60-Spruce-Knob/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -849,9 +849,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Durbin",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/61-Durbin/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/61-Durbin/Vertical.pdf",
             "vyear": "1975",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/61-Durbin/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/61-Durbin/Horizontal.pdf",
             "hyear": "1921"
         }
     },
@@ -863,9 +863,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Pickens",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/62-Pickens/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/62-Pickens/Vertical.pdf",
             "vyear": "1975",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/62-Pickens/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/62-Pickens/Horizontal.pdf",
             "hyear": "1913"
         }
     },
@@ -877,9 +877,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Hacker Valley",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/63-Hacker-Valley/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/63-Hacker-Valley/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/63-Hacker-Valley/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/63-Hacker-Valley/Horizontal.pdf",
             "hyear": "1915"
         }
     },
@@ -891,9 +891,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Sutton",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/64-Sutton/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/64-Sutton/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/64-Sutton/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/64-Sutton/Horizontal.pdf",
             "hyear": "1915"
         }
     },
@@ -905,9 +905,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Gassaway",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/65-Gassaway/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/65-Gassaway/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/65-Gassaway/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/65-Gassaway/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -919,9 +919,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Otter",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/66-Otter/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/66-Otter/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/66-Otter/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/66-Otter/Horizontal.pdf",
             "hyear": "1962"
         }
     },
@@ -933,9 +933,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Walton",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/67-Walton/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/67-Walton/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/67-Walton/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/67-Walton/Horizontal.pdf",
             "hyear": "1956"
         }
     },
@@ -947,9 +947,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Kenna",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/68-Kenna/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/68-Kenna/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/68-Kenna/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/68-Kenna/Horizontal.pdf",
             "hyear": "1956"
         }
     },
@@ -961,9 +961,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Winfield",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/69-Winfield/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/69-Winfield/Vertical.pdf",
             "vyear": "1966",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/69-Winfield/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/69-Winfield/Horizontal.pdf",
             "hyear": "1957"
         }
     },
@@ -975,9 +975,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Glenwood",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/70-Glenwood/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/70-Glenwood/Vertical.pdf",
             "vyear": "1962",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/70-Glenwood/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/70-Glenwood/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -989,9 +989,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Athalia",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/71-Athalia/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/71-Athalia/Vertical.pdf",
             "vyear": "1962",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/71-Athalia/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/71-Athalia/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1003,9 +1003,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Edinburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/72-Edinburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/72-Edinburg/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/72-Edinburg/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/72-Edinburg/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1017,9 +1017,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Orkney Springs",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/73-Orkney-Springs/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/73-Orkney-Springs/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/73-Orkney-Springs/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/73-Orkney-Springs/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1031,9 +1031,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Petersburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/74-Petersburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/74-Petersburg/Vertical.pdf",
             "vyear": "1967",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/74-Petersburg/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/74-Petersburg/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1045,9 +1045,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Onego",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/75-Onego/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/75-Onego/Vertical.pdf",
             "vyear": "1967",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/75-Onego/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/75-Onego/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -1059,9 +1059,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Horton",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/76-Horton/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/76-Horton/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/76-Horton/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/76-Horton/Horizontal.pdf",
             "hyear": "1969"
         }
     },
@@ -1073,9 +1073,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Elkins",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/77-Elkins/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/77-Elkins/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/77-Elkins/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/77-Elkins/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1087,7 +1087,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Sago",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/78-Sago/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/78-Sago/Vertical.pdf",
             "vyear": "1975"
         }
     },
@@ -1099,7 +1099,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Crawford",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/79-Crawford/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/79-Crawford/Vertical.pdf",
             "vyear": "1964"
         }
     },
@@ -1111,7 +1111,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Burnsville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/80-Burnsville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/80-Burnsville/Vertical.pdf",
             "vyear": "1964"
         }
     },
@@ -1123,7 +1123,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Glenville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/81-Glenville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/81-Glenville/Vertical.pdf",
             "vyear": "1964"
         }
     },
@@ -1135,7 +1135,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Arnoldsburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/82-Arnoldsburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/82-Arnoldsburg/Vertical.pdf",
             "vyear": "1986"
         }
     },
@@ -1147,9 +1147,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Spencer",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/83-Spencer/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/83-Spencer/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/83-Spencer/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/83-Spencer/Horizontal.pdf",
             "hyear": "1956"
         }
     },
@@ -1161,9 +1161,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Ripley",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/84-Ripley/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/84-Ripley/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/84-Ripley/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/84-Ripley/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1175,9 +1175,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Ravenswood",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/85-Ravenswood/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/85-Ravenswood/Vertical.pdf",
             "vyear": "1962",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/85-Ravenswood/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/85-Ravenswood/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1189,9 +1189,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Point Pleasant",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/86-Point-Pleasant/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/86-Point-Pleasant/Vertical.pdf",
             "vyear": "1976",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/86-Point-Pleasant/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/86-Point-Pleasant/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1203,9 +1203,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Berryville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/87-Berryville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/87-Berryville/Vertical.pdf",
             "vyear": "1976",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/87-Berryville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/87-Berryville/Horizontal.pdf",
             "hyear": "1974"
         }
     },
@@ -1217,9 +1217,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Winchester",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/88-Winchester/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/88-Winchester/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/88-Winchester/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/88-Winchester/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1231,9 +1231,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Middletown",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/89-Middletown/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/89-Middletown/Vertical.pdf",
             "vyear": "1980",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/89-Middletown/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/89-Middletown/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1245,9 +1245,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Wardensville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/90-Wardensville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/90-Wardensville/Vertical.pdf",
             "vyear": "1970",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/90-Wardensville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/90-Wardensville/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1259,9 +1259,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Moorefield",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/91-Moorefield/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/91-Moorefield/Vertical.pdf",
             "vyear": "1970",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/91-Moorefield/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/91-Moorefield/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -1273,9 +1273,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Greenland",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/92-Greenland/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/92-Greenland/Vertical.pdf",
             "vyear": "1967",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/92-Greenland/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/92-Greenland/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -1287,9 +1287,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Davis",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/93-Davis/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/93-Davis/Vertical.pdf",
             "vyear": "1974",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/93-Davis/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/93-Davis/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -1301,9 +1301,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Parsons",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/94-Parsons/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/94-Parsons/Vertical.pdf",
             "vyear": "1964",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/94-Parsons/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/94-Parsons/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -1315,9 +1315,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Belington",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/95-Belington/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/95-Belington/Vertical.pdf",
             "vyear": "1957",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/95-Belington/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/95-Belington/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1329,9 +1329,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Philippi",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/96-Philippi/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/96-Philippi/Vertical.pdf",
             "vyear": "1966",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/96-Philippi/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/96-Philippi/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1343,9 +1343,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Weston",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/97-Weston/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/97-Weston/Vertical.pdf",
             "vyear": "1957",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/97-Weston/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/97-Weston/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1357,7 +1357,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Vadis",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/98-Vadis/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/98-Vadis/Vertical.pdf",
             "vyear": "1962"
         }
     },
@@ -1369,7 +1369,7 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Holbrook",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/99-Holbrook/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/99-Holbrook/Vertical.pdf",
             "vyear": "1962"
         }
     },
@@ -1381,9 +1381,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Harrisville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/100-Harrisville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/100-Harrisville/Vertical.pdf",
             "vyear": "1963",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/100-Harrisville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/100-Harrisville/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1395,9 +1395,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Elizabeth",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/101-Elizabeth/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/101-Elizabeth/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/101-Elizabeth/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/101-Elizabeth/Horizontal.pdf",
             "hyear": "1956"
         }
     },
@@ -1409,9 +1409,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Belleville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/102-Belleville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/102-Belleville/Vertical.pdf",
             "vyear": "1962",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/102-Belleville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/102-Belleville/Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -1423,9 +1423,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Keno",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/103-Keno/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/103-Keno/Vertical.pdf",
             "vyear": "1962",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/103-Keno/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/103-Keno/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1437,9 +1437,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Pomeroy",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/104-Pomeroy/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/104-Pomeroy/Vertical.pdf",
             "vyear": "1962",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/104-Pomeroy/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/104-Pomeroy/Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -1451,9 +1451,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Antietam",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/105-Antietam/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/105-Antietam/Vertical.pdf",
             "vyear": "1977",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/105-Antietam/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/105-Antietam/Horizontal.pdf",
             "hyear": "1974"
         }
     },
@@ -1465,9 +1465,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Martinsburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/106-Martinsburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/106-Martinsburg/Vertical.pdf",
             "vyear": "1978",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/106-Martinsburg/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/106-Martinsburg/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1479,11 +1479,11 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Gerrardstown",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/107-Gerrardstown/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/107-Gerrardstown/Vertical.pdf",
             "vyear": "1979",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/107-Gerrardstown/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/107-Gerrardstown/Horizontal.pdf",
             "hyear": "1977",
-            "coe": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/107-Gerrardstown/Corps-of-Engineers.pdf",
+            "coe": "https://geodata.thesurveystation.net/USGS/WV/107-Gerrardstown/Corps-of-Engineers.pdf",
             "cyear": "1986"
         }
     },
@@ -1495,9 +1495,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Capon Bridge",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/108-Capon-Bridge/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/108-Capon-Bridge/Vertical.pdf",
             "vyear": "1979",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/108-Capon-Bridge/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/108-Capon-Bridge/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1509,9 +1509,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Hanging Rock",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/109-Hanging-Rock/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/109-Hanging-Rock/Vertical.pdf",
             "vyear": "1978",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/109-Hanging-Rock/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/109-Hanging-Rock/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -1523,9 +1523,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Keyser",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/110-Keyser/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/110-Keyser/Vertical.pdf",
             "vyear": "1978",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/110-Keyser/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/110-Keyser/Horizontal.pdf",
             "hyear": "1948"
         }
     },
@@ -1537,11 +1537,11 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Elk Garden",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/111-Elk-Garden/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/111-Elk-Garden/Vertical.pdf",
             "vyear": "1974",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/111-Elk-Garden/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/111-Elk-Garden/Horizontal.pdf",
             "hyear": "1966",
-            "coe": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/111-Elk-Garden/Corps-of-Engineers.pdf",
+            "coe": "https://geodata.thesurveystation.net/USGS/WV/111-Elk-Garden/Corps-of-Engineers.pdf",
             "cyear": "1973"
         }
     },
@@ -1553,9 +1553,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Oakland",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/112-Oakland/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/112-Oakland/Vertical.pdf",
             "vyear": "1974",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/112-Oakland/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/112-Oakland/Horizontal.pdf",
             "hyear": "1967"
         }
     },
@@ -1567,9 +1567,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Kingwood",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/113-Kingwood/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/113-Kingwood/Vertical.pdf",
             "vyear": "1957",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/113-Kingwood/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/113-Kingwood/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -1581,9 +1581,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Thornton",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/114-Thornton/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/114-Thornton/Vertical.pdf",
             "vyear": "1957",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/114-Thornton/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/114-Thornton/Horizontal.pdf",
             "hyear": "1959"
         }
     },
@@ -1595,9 +1595,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Fairmont",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/115-Fairmont/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/115-Fairmont/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/115-Fairmont/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/115-Fairmont/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1609,9 +1609,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Clarksburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/116-Clarksburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/116-Clarksburg/Vertical.pdf",
             "vyear": "1957",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/116-Clarksburg/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/116-Clarksburg/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1623,9 +1623,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Centerpoint",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/117-Centerpoint/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/117-Centerpoint/Vertical.pdf",
             "vyear": "1956",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/117-Centerpoint/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/117-Centerpoint/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1637,9 +1637,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "West Union",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/118-West-Union/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/118-West-Union/Vertical.pdf",
             "vyear": "1969",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/118-West-Union/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/118-West-Union/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1651,9 +1651,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "St. Marys",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/119-St-Marys/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/119-St-Marys/Vertical.pdf",
             "vyear": "1963",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/119-St-Marys/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/119-St-Marys/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1665,9 +1665,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Marietta",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/120-Marietta/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/120-Marietta/Vertical.pdf",
             "vyear": "1963",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/120-Marietta/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/120-Marietta/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1679,9 +1679,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Parkersburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/121-Parkersburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/121-Parkersburg/Vertical.pdf",
             "vyear": "1959",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/121-Parkersburg/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/121-Parkersburg/Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -1693,9 +1693,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Williamsport",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/122-Williamsport/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/122-Williamsport/Vertical.pdf",
             "vyear": "1974",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/122-Williamsport/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/122-Williamsport/Horizontal.pdf",
             "hyear": "1973"
         }
     },
@@ -1707,9 +1707,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Hancock",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/123-Hancock/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/123-Hancock/Vertical.pdf",
             "vyear": "1979",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/123-Hancock/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/123-Hancock/Horizontal.pdf",
             "hyear": "1948"
         }
     },
@@ -1721,9 +1721,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Paw Paw",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/124-Paw-Paw/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/124-Paw-Paw/Vertical.pdf",
             "vyear": "1973",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/124-Paw-Paw/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/124-Paw-Paw/Horizontal.pdf",
             "hyear": "1948"
         }
     },
@@ -1735,9 +1735,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Flintstone",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/125-Flintstone/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/125-Flintstone/Vertical.pdf",
             "vyear": "1979",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/125-Flintstone/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/125-Flintstone/Horizontal.pdf",
             "hyear": "1948"
         }
     },
@@ -1749,9 +1749,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Frostburg",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/126-Frostburg/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/126-Frostburg/Vertical.pdf",
             "vyear": "1971",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/126-Frostburg/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/126-Frostburg/Horizontal.pdf",
             "hyear": "1975"
         }
     },
@@ -1763,9 +1763,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Accident",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/127-Accident/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/127-Accident/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/127-Accident/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/127-Accident/Horizontal.pdf",
             "hyear": "1979"
         }
     },
@@ -1777,9 +1777,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Bruceton Mills",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/128-Bruceton-Mills/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/128-Bruceton-Mills/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/128-Bruceton-Mills/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/128-Bruceton-Mills/Horizontal.pdf",
             "hyear": "1979"
         }
     },
@@ -1791,9 +1791,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Morgantown",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/129-Morgantown/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/129-Morgantown/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/129-Morgantown/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/129-Morgantown/Horizontal.pdf",
             "hyear": "1978"
         }
     },
@@ -1805,9 +1805,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Blacksville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/130-Blacksville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/130-Blacksville/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/130-Blacksville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/130-Blacksville/Horizontal.pdf",
             "hyear": "1976"
         }
     },
@@ -1819,9 +1819,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Mannington",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/131-Mannington/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/131-Mannington/Vertical.pdf",
             "vyear": "1978",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/131-Mannington/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/131-Mannington/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1833,9 +1833,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Littleton",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/132-Littleton/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/132-Littleton/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/132-Littleton/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/132-Littleton/Horizontal.pdf",
             "hyear": "1965"
         }
     },
@@ -1847,9 +1847,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "New Martinsville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/133-New-Martinsville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/133-New-Martinsville/Vertical.pdf",
             "vyear": "1963",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/133-New-Martinsville/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/133-New-Martinsville/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -1861,9 +1861,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "New Matamoras",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/134-New-Matamoras/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/134-New-Matamoras/Vertical.pdf",
             "vyear": "1963",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/134-New-Matamoras/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/134-New-Matamoras/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -1875,9 +1875,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Cameron",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/135-Cameron/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/135-Cameron/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/135-Cameron/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/135-Cameron/Horizontal.pdf",
             "hyear": "1966"
         }
     },
@@ -1889,9 +1889,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Clarington",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/136-Clarington/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/136-Clarington/Vertical.pdf",
             "vyear": "1963",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/136-Clarington/Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/136-Clarington/Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -1903,9 +1903,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Wheeling",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/137-Wheeling/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/137-Wheeling/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/137-Wheeling//Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/137-Wheeling//Horizontal.pdf",
             "hyear": "1964"
         }
     },
@@ -1917,9 +1917,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Steubenville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/138-Steubenville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/138-Steubenville/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/138-Steubenville//Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/138-Steubenville//Horizontal.pdf",
             "hyear": "1959"
         }
     },
@@ -1931,9 +1931,9 @@ var geojsonFeature = {
         },
         "properties": {
             "name": "Wellsville",
-            "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/139-Wellsville/Vertical.pdf",
+            "vertical": "https://geodata.thesurveystation.net/USGS/WV/139-Wellsville/Vertical.pdf",
             "vyear": "1972",
-            "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/WV/139-Wellsville//Horizontal.pdf",
+            "horizontal": "https://geodata.thesurveystation.net/USGS/WV/139-Wellsville//Horizontal.pdf",
             "hyear": "1965"
         }
     }

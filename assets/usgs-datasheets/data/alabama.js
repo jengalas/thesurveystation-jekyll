@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Fairhope",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/AL/11-Fairhope/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/AL/11-Fairhope/Vertical.pdf",
           "vyear": "1976"
         }
       },
@@ -21,9 +21,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Congo",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/AL/206-Congo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/AL/206-Congo/Vertical.pdf",
           "vyear": "1972",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/AL/206-Congo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/AL/206-Congo/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -35,9 +35,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bear Creek",
-          "vertical": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/AL/214-Bear-Creek/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.net/USGS/AL/214-Bear-Creek/Vertical.pdf",
           "vyear": "1982",
-          "horizontal": "https://geodata-ngs-usgs.nyc3.digitaloceanspaces.com/USGS/AL/214-Bear-Creek/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.net/USGS/AL/214-Bear-Creek/Horizontal.pdf",
           "hyear": "1972"
         }
       }      
