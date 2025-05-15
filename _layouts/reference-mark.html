@@ -31,7 +31,7 @@ class: surveymark-page
         {% endif %}
       </div>
       <div style="margin-left: 2rem;" class="gallery single">
-        <a class="card" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img
+        <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ page.type }} {{ page.designation }}</div>" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img
             src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
       </div>
     </div>
