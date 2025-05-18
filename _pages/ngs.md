@@ -20,7 +20,7 @@ permalink: /ngs/
                                 <summary>{{ item.name }}</summary>
                                 <ul>
                                     {% for item2 in item.file %}
-                                    <li><a href="https://geodata.thesurveystation.net/NGS/{{ entry.d0 }}/{{ item.name }}/{{ item2.name }}">{{ item2.name }}</a></li>
+                                    <li><a href="https://geodata.thesurveystation.com/NGS/{{ entry.d0 }}/{{ item.name }}/{{ item2.name }}">{{ item2.name }}</a></li>
                                     {% endfor %}
                                 </ul>
                             </details>
@@ -30,7 +30,7 @@ permalink: /ngs/
                 {% elsif entry.d2 %}
                     <ul>
                         {% for item in entry.d2 %}
-                        <li><a href="https://geodata.thesurveystation.net/NGS/{{ entry.d0 }}/{{ item.name }}">{{ item.name }}</a></li>
+                        <li><a href="https://geodata.thesurveystation.com/NGS/{{ entry.d0 }}/{{ item.name }}">{{ item.name }}</a></li>
                         {% endfor %}
                     </ul>
                 {% endif %}

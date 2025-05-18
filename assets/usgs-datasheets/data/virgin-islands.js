@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Croix",
-          "vertical": "https://geodata.thesurveystation.net/USGS/VI/St-Croix-Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/VI/St-Croix-Vertical.pdf",
           "vyear": "1957"
         }
       },
@@ -21,7 +21,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "St. Thomas",
-          "vertical": "https://geodata.thesurveystation.net/USGS/VI/St-Thomas-Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/VI/St-Thomas-Vertical.pdf",
           "vyear": "1954"
         }
       }

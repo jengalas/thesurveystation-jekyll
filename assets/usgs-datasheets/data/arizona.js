@@ -9,9 +9,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Apache",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/12-Apache/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/12-Apache/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/12-Apache/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/12-Apache/Horizontal.pdf",
           "hyear": "1958"
         }
       },
@@ -23,9 +23,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pedregosa",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/13-Pedregosa/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/13-Pedregosa/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/13-Pedregosa/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/13-Pedregosa/Horizontal.pdf",
           "hyear": "1958"
         }
       },
@@ -37,9 +37,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tubac",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/20-Tubac/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/20-Tubac/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/20-Tubac/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/20-Tubac/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -51,9 +51,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Portal",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/26-Portal/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/26-Portal/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/26-Portal/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/26-Portal/Horizontal.pdf",
           "hyear": "1958"
         }
       },
@@ -65,9 +65,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Chiricahua Peak",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/27-Chiricahua-Peak/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/27-Chiricahua-Peak/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/27-Chiricahua-Peak/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/27-Chiricahua-Peak/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -79,9 +79,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Diaz Peak",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/40-Diaz-Peak/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/40-Diaz-Peak/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/40-Diaz-Peak/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/40-Diaz-Peak/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -93,9 +93,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Lukeville",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/41-Lukeville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/41-Lukeville/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/41-Lukeville/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/41-Lukeville/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -107,9 +107,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cochise Head",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/44-Cochise-Head/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/44-Cochise-Head/Vertical.pdf",
           "vyear": "1976",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/44-Cochise-Head/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/44-Cochise-Head/Horizontal.pdf",
           "hyear": "1948"
         }
       },
@@ -121,9 +121,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Rincon Valley",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/49-Rincon-Valley/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/49-Rincon-Valley/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/49-Rincon-Valley/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/49-Rincon-Valley/Horizontal.pdf",
           "hyear": "1973"
         }
       },
@@ -135,9 +135,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Tucson",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/50-Tucson/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/50-Tucson/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/50-Tucson/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/50-Tucson/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -149,9 +149,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "San Xavier Mission",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/51-San-Xavier-Mission/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/51-San-Xavier-Mission/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/51-San-Xavier-Mission/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/51-San-Xavier-Mission/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -163,9 +163,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mt. Ajo",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/57-Mt-Ajo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/57-Mt-Ajo/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/57-Mt-Ajo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/57-Mt-Ajo/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -177,9 +177,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Kino Peak",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/58-Kino-Peak/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/58-Kino-Peak/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/58-Kino-Peak/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/58-Kino-Peak/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -191,7 +191,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Willcox",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/66-Willcox/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/66-Willcox/Vertical.pdf",
           "vyear": "1976"
         }
       },
@@ -203,9 +203,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bellota Ranch",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/69-Bellota-Ranch/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/69-Bellota-Ranch/Vertical.pdf",
           "vyear": "1958",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/69-Bellota-Ranch/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/69-Bellota-Ranch/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -217,9 +217,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mount Lemmon",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/70-Mount-Lemmon/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/70-Mount-Lemmon/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/70-Mount-Lemmon/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/70-Mount-Lemmon/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -231,9 +231,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Cortaro",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/71-Cortaro/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/71-Cortaro/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/71-Cortaro/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/71-Cortaro/Horizontal.pdf",
           "hyear": "1967"
         }
       },
@@ -245,9 +245,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Sikort Chuapo Mts.",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/77-Sikort-Chuapo-Mts/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/77-Sikort-Chuapo-Mts/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/77-Sikort-Chuapo-Mts/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/77-Sikort-Chuapo-Mts/Horizontal.pdf",
           "hyear": "1962"
         }
       },
@@ -259,9 +259,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ajo",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/78-Ajo/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/78-Ajo/Vertical.pdf",
           "vyear": "1966",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/78-Ajo/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/78-Ajo/Horizontal.pdf",
           "hyear": "1956"
         }
       },
@@ -273,9 +273,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mammoth",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/93-Mammoth/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/93-Mammoth/Vertical.pdf",
           "vyear": "1958",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/93-Mammoth/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/93-Mammoth/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -287,9 +287,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Oracle Hill",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/94-Oracle-Hill/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/94-Oracle-Hill/Vertical.pdf",
           "vyear": "1967",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/94-Oracle-Hill/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/94-Oracle-Hill/Horizontal.pdf",
           "hyear": "1954"
         }
       },
@@ -301,9 +301,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Redrock",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/96-Redrock/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/96-Redrock/Vertical.pdf",
           "vyear": "1964",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/96-Redrock/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/96-Redrock/Horizontal.pdf",
           "hyear": "1978"
         }
       },
@@ -315,11 +315,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Guthrie",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/112-Guthrie/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/112-Guthrie/Vertical.pdf",
           "vyear": "1964",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/112-Guthrie/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/112-Guthrie/Horizontal.pdf",
           "hyear": "Various dates",
-          "recoveries": "https://geodata.thesurveystation.net/USGS/AZ/112-Guthrie/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/AZ/112-Guthrie/Recoveries.pdf",
           "ryear": "1983"
         }
       },
@@ -331,11 +331,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Safford",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/113-Safford/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/113-Safford/Vertical.pdf",
           "vyear": "Unknown",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/113-Safford/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/113-Safford/Horizontal.pdf",
           "hyear": "Various dates",
-          "recoveries": "https://geodata.thesurveystation.net/USGS/AZ/113-Safford/Recoveries.pdf",
+          "recoveries": "https://geodata.thesurveystation.com/USGS/AZ/113-Safford/Recoveries.pdf",
           "ryear": "1983"
         }
       },
@@ -347,9 +347,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Globe",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/164-Globe/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/164-Globe/Vertical.pdf",
           "vyear": "1964",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/164-Globe/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/164-Globe/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -361,9 +361,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Superior",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/165-Superior/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/165-Superior/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/165-Superior/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/165-Superior/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -375,9 +375,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Desert Well",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/167-Desert-Well/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/167-Desert-Well/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/167-Desert-Well/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/167-Desert-Well/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -389,9 +389,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mesa",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/168-Mesa/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/168-Mesa/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/168-Mesa/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/168-Mesa/Horizontal.pdf",
           "hyear": "1957"
         }
       },
@@ -403,9 +403,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Phoenix",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/169-Phoenix/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/169-Phoenix/Vertical.pdf",
           "vyear": "1961",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/169-Phoenix/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/169-Phoenix/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -417,9 +417,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Avondale",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/170-Avondale/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/170-Avondale/Vertical.pdf",
           "vyear": "1972, 1973",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/170-Avondale/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/170-Avondale/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -431,9 +431,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Roosevelt No. 4",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/188-Roosevelt-No-4/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/188-Roosevelt-No-4/Vertical.pdf",
           "vyear": "1957, 1963",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/188-Roosevelt-No-4/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/188-Roosevelt-No-4/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -445,9 +445,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Ft. McDowell",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/190-Ft-McDowell/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/190-Ft-McDowell/Vertical.pdf",
           "vyear": "1964",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/190-Ft-McDowell/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/190-Ft-McDowell/Horizontal.pdf",
           "hyear": "1963, 1975"
         }
       },
@@ -459,9 +459,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Camelback",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/191-Camelback/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/191-Camelback/Vertical.pdf",
           "vyear": "1973",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/191-Camelback/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/191-Camelback/Horizontal.pdf",
           "hyear": "Various dates"
         }
       },
@@ -473,7 +473,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "New River No. 4",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/192-New-River-No-4/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/192-New-River-No-4/Vertical.pdf",
           "vyear": "1974"
         }
       },
@@ -485,9 +485,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Camp Verde No. 4",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/280-Camp-Verde-No-4/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/280-Camp-Verde-No-4/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/280-Camp-Verde-No-4/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/280-Camp-Verde-No-4/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -499,9 +499,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Camp Verde No. 3",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/281-Camp-Verde-No-3/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/281-Camp-Verde-No-3/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/281-Camp-Verde-No-3/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/281-Camp-Verde-No-3/Horizontal.pdf",
           "hyear": "1970"
         }
       },
@@ -513,9 +513,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Mingus Mtn",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/282-Mingus-Mtn/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/282-Mingus-Mtn/Vertical.pdf",
           "vyear": "1955",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/282-Mingus-Mtn/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/282-Mingus-Mtn/Horizontal.pdf",
           "hyear": "1974"
         }
       },
@@ -527,9 +527,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Prescott",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/283-Prescott/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/283-Prescott/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/283-Prescott/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/283-Prescott/Horizontal.pdf",
           "hyear": "1974, 1977"
         }
       },
@@ -541,9 +541,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Adamana No. 1",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/294-Adamana-No-1/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/294-Adamana-No-1/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/294-Adamana-No-1/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/294-Adamana-No-1/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -555,9 +555,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Petrified Forest",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/295-Petrified-Forest/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/295-Petrified-Forest/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/295-Petrified-Forest/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/295-Petrified-Forest/Horizontal.pdf",
           "hyear": "1976"
         }
       },
@@ -569,9 +569,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Camp Verde No. 1",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/302-Camp-Verde-No-1/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/302-Camp-Verde-No-1/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/302-Camp-Verde-No-1/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/302-Camp-Verde-No-1/Horizontal.pdf",
           "hyear": "1965"
         }
       },
@@ -583,11 +583,11 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Camp Verde No. 2",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/303-Camp-Verde-No-2/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/303-Camp-Verde-No-2/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/303-Camp-Verde-No-2/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/303-Camp-Verde-No-2/Horizontal.pdf",
           "hyear": "1974",
-          "usfs": "https://geodata.thesurveystation.net/USGS/AZ/303-Camp-Verde-No-2/USFS.pdf",
+          "usfs": "https://geodata.thesurveystation.com/USGS/AZ/303-Camp-Verde-No-2/USFS.pdf",
           "usfsyear": "1970"
         }
       },
@@ -599,9 +599,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pinto No. 4",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/317-Pinto-No-4/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/317-Pinto-No-4/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/317-Pinto-No-4/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/317-Pinto-No-4/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -613,9 +613,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Pinto No. 3",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/318-Pinto-No-3/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/318-Pinto-No-3/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/318-Pinto-No-3/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/318-Pinto-No-3/Horizontal.pdf",
           "hyear": "1972"
         }
       },
@@ -627,9 +627,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Grandview Point",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/395-Grandview-Point/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/395-Grandview-Point/Vertical.pdf",
           "vyear": "1965",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/395-Grandview-Point/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/395-Grandview-Point/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -641,9 +641,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Red Butte",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/396-Red-Butte/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/396-Red-Butte/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/396-Red-Butte/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/396-Red-Butte/Horizontal.pdf",
           "hyear": "1975"
         }
       },
@@ -655,9 +655,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Canyon Del Muerto",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/408-Canyon-Del-Muerto/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/408-Canyon-Del-Muerto/Vertical.pdf",
           "vyear": "1957",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/408-Canyon-Del-Muerto/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/408-Canyon-Del-Muerto/Horizontal.pdf",
           "hyear": "1966"
         }
       },
@@ -669,9 +669,9 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Bright Angel",
-          "vertical": "https://geodata.thesurveystation.net/USGS/AZ/419-Bright-Angel/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/AZ/419-Bright-Angel/Vertical.pdf",
           "vyear": "1963",
-          "horizontal": "https://geodata.thesurveystation.net/USGS/AZ/419-Bright-Angel/Horizontal.pdf",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/AZ/419-Bright-Angel/Horizontal.pdf",
           "hyear": "1958"
         }
       }

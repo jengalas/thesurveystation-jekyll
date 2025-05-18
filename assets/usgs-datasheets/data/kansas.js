@@ -9,7 +9,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Carbondale",
-          "vertical": "https://geodata.thesurveystation.net/USGS/KS/222-Carbondale/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/KS/222-Carbondale/Vertical.pdf",
           "vyear": "1981"
         }
       },
@@ -21,7 +21,7 @@ var geojsonFeature = {
         },
         "properties": {
           "name": "Harveyville",
-          "vertical": "https://geodata.thesurveystation.net/USGS/KS/223-Harveyville/Vertical.pdf",
+          "vertical": "https://geodata.thesurveystation.com/USGS/KS/223-Harveyville/Vertical.pdf",
           "vyear": "1981"
         }
       },

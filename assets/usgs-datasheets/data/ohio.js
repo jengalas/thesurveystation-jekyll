@@ -9,9 +9,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Guyandotte",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/1-Guyandotte/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/1-Guyandotte/Vertical.pdf",
         "vyear": "1958",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/1-Guyandotte/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/1-Guyandotte/Horizontal.pdf",
         "hyear": "1956"
       }
     },
@@ -23,9 +23,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ceredo",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/2-Ceredo/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/2-Ceredo/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/2-Ceredo/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/2-Ceredo/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -37,9 +37,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Glenwood",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/3-Glenwood/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/3-Glenwood/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/3-Glenwood/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/3-Glenwood/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -51,9 +51,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Athalia",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/4-Athalia/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/4-Athalia/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/4-Athalia/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/4-Athalia/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -65,9 +65,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ironton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/5-Ironton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/5-Ironton/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/5-Ironton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/5-Ironton/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -79,9 +79,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Greenup",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/6-Greenup/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/6-Greenup/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/6-Greenup/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/6-Greenup/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -93,9 +93,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Garrison",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/7-Garrison/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/7-Garrison/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/7-Garrison/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/7-Garrison/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -107,9 +107,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Vanceburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/8-Vanceburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/8-Vanceburg/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/8-Vanceburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/8-Vanceburg/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -121,9 +121,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Springdale",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/9-Springdale/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/9-Springdale/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/9-Springdale/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/9-Springdale/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -135,9 +135,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Maysville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/10-Maysville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/10-Maysville/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/10-Maysville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/10-Maysville/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -149,9 +149,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ravenswood",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/11-Ravenswood/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/11-Ravenswood/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/11-Ravenswood/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/11-Ravenswood/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -163,9 +163,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Point Pleasant",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/12-Point-Pleasant/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/12-Point-Pleasant/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/12-Point-Pleasant/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/12-Point-Pleasant/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -177,9 +177,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bidwell",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/13-Bidwell/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/13-Bidwell/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/13-Bidwell/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/13-Bidwell/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -191,9 +191,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Oak Hill",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/14-Oak-Hill/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/14-Oak-Hill/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/14-Oak-Hill/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/14-Oak-Hill/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -205,9 +205,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sciotoville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/15-Sciotoville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/15-Sciotoville/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/15-Sciotoville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/15-Sciotoville/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -219,9 +219,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Otway",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/16-Otway/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/16-Otway/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/16-Otway/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/16-Otway/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -233,9 +233,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Peebles",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/17-Peebles/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/17-Peebles/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/17-Peebles/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/17-Peebles/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -247,9 +247,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Seaman",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/18-Seaman/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/18-Seaman/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/18-Seaman/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/18-Seaman/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -261,9 +261,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Higginsport",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/19-Higginsport/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/19-Higginsport/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/19-Higginsport/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/19-Higginsport/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -275,9 +275,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Felicity",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/20-Felicity/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/20-Felicity/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/20-Felicity/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/20-Felicity/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -289,9 +289,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Alexandria",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/21-Alexandria/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/21-Alexandria/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/21-Alexandria/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/21-Alexandria/Horizontal.pdf",
         "hyear": "1977"
       }
     },
@@ -303,9 +303,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Belleville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/22-Belleville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/22-Belleville/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/22-Belleville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/22-Belleville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -317,9 +317,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Keno",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/23-Keno/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/23-Keno/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/23-Keno/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/23-Keno/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -331,9 +331,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Pomeroy",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/24-Pomeroy/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/24-Pomeroy/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/24-Pomeroy/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/24-Pomeroy/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -345,9 +345,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wilkesville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/25-Wilkesville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/25-Wilkesville/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/25-Wilkesville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/25-Wilkesville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -359,9 +359,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Jackson",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/26-Jackson/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/26-Jackson/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/26-Jackson/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/26-Jackson/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -373,9 +373,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Waverly",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/27-Waverly/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/27-Waverly/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/27-Waverly/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/27-Waverly/Horizontal.pdf",
         "hyear": "1984"
       }
     },
@@ -387,9 +387,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Piketon",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/28-Piketon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/28-Piketon/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/28-Piketon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/28-Piketon/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -401,9 +401,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bainbridge",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/29-Bainbridge/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/29-Bainbridge/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/29-Bainbridge/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/29-Bainbridge/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -415,9 +415,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Hillsboro",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/30-Hillsboro/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/30-Hillsboro/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/30-Hillsboro/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/30-Hillsboro/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -429,9 +429,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sardinia",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/31-Sardinia/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/31-Sardinia/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/31-Sardinia/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/31-Sardinia/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -443,9 +443,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Batavia",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/32-Batavia/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/32-Batavia/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/32-Batavia/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/32-Batavia/Horizontal.pdf",
         "hyear": "1984/1964"
       }
     },
@@ -457,9 +457,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "East Cincinnati",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/33-East-Cincinnati/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/33-East-Cincinnati/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/33-East-Cincinnati/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/33-East-Cincinnati/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -471,9 +471,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "West Cincinnati",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/34-West-Cincinnati/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/34-West-Cincinnati/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/34-West-Cincinnati/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/34-West-Cincinnati/Horizontal.pdf",
         "hyear": "1968"
       }
     },
@@ -485,9 +485,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lawrenceburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/35-Lawrenceburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/35-Lawrenceburg/Vertical.pdf",
         "vyear": "1974",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/35-Lawrenceburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/35-Lawrenceburg/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -499,9 +499,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Saint Marys",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/36-Saint-Marys/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/36-Saint-Marys/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/36-Saint-Marys/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/36-Saint-Marys/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -513,9 +513,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Marietta",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/37-Marietta/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/37-Marietta/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/37-Marietta/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/37-Marietta/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -527,9 +527,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Parkersburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/38-Parkersburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/38-Parkersburg/Vertical.pdf",
         "vyear": "1957",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/38-Parkersburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/38-Parkersburg/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -541,9 +541,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chesterhill",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/39-Chesterhill/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/39-Chesterhill/Vertical.pdf",
         "vyear": "1962",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/39-Chesterhill/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/39-Chesterhill/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -555,9 +555,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Athens",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/40-Athens/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/40-Athens/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/40-Athens/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/40-Athens/Horizontal.pdf",
         "hyear": "1984"
       }
     },
@@ -569,9 +569,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Zaleski",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/41-Zaleski/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/41-Zaleski/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/41-Zaleski/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/41-Zaleski/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -583,9 +583,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Laurelville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/42-Laurelville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/42-Laurelville/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/42-Laurelville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/42-Laurelville/Horizontal.pdf",
         "hyear": "1984"
       }
     },
@@ -597,9 +597,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chillicothe",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/43-Chillicothe/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/43-Chillicothe/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/43-Chillicothe/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/43-Chillicothe/Horizontal.pdf",
         "hyear": "1984"
       }
     },
@@ -611,9 +611,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Roxabell",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/44-Roxabell/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/44-Roxabell/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/44-Roxabell/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/44-Roxabell/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -625,9 +625,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Greenfield",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/45-Greenfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/45-Greenfield/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/45-Greenfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/45-Greenfield/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -639,9 +639,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sabina",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/46-Sabina/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/46-Sabina/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/46-Sabina/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/46-Sabina/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -653,9 +653,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Blanchester",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/47-Blanchester/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/47-Blanchester/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/47-Blanchester/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/47-Blanchester/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -667,9 +667,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Morrow",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/48-Morrow/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/48-Morrow/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/48-Morrow/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/48-Morrow/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -681,9 +681,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mason",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/49-Mason/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/49-Mason/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/49-Mason/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/49-Mason/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -695,9 +695,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Hamilton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/50-Hamilton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/50-Hamilton/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/50-Hamilton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/50-Hamilton/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -709,9 +709,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Harrison",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/51-Harrison/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/51-Harrison/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/51-Harrison/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/51-Harrison/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -723,9 +723,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New Martinsville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/52-New-Martinsville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/52-New-Martinsville/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/52-New-Martinsville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/52-New-Martinsville/Horizontal.pdf",
         "hyear": "1966"
       }
     },
@@ -737,9 +737,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New Matamoras",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/53-New-Matamoras/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/53-New-Matamoras/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/53-New-Matamoras/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/53-New-Matamoras/Horizontal.pdf",
         "hyear": "1966"
       }
     },
@@ -751,9 +751,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Macksburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/54-Macksburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/54-Macksburg/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/54-Macksburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/54-Macksburg/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -765,9 +765,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Caldwell",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/55-Caldwell/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/55-Caldwell/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/55-Caldwell/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/55-Caldwell/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -779,9 +779,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "McConnelsville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/56-McConnelsville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/56-McConnelsville/Vertical.pdf",
         "vyear": "1988",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/56-McConnelsville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/56-McConnelsville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -793,9 +793,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New Lexington",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/57-New-Lexington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/57-New-Lexington/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/57-New-Lexington/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/57-New-Lexington/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -807,9 +807,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Logan",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/58-Logan/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/58-Logan/Vertical.pdf",
         "vyear": "1985",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/58-Logan/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/58-Logan/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -821,9 +821,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lancaster",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/59-Lancaster/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/59-Lancaster/Vertical.pdf",
         "vyear": "1984",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/59-Lancaster/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/59-Lancaster/Horizontal.pdf",
         "hyear": "1966"
       }
     },
@@ -835,9 +835,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Circleville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/60-Circleville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/60-Circleville/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/60-Circleville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/60-Circleville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -849,9 +849,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Era",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/61-Era/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/61-Era/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/61-Era/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/61-Era/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -863,9 +863,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mount Sterling",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/62-Mount-Sterling/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/62-Mount-Sterling/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/62-Mount-Sterling/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/62-Mount-Sterling/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -877,9 +877,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Octa",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/63-Octa/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/63-Octa/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/63-Octa/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/63-Octa/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -891,9 +891,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Xenia",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/64-Xenia/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/64-Xenia/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/64-Xenia/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/64-Xenia/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -905,9 +905,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Waynesville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/65-Waynesville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/65-Waynesville/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/65-Waynesville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/65-Waynesville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -919,9 +919,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Miamisburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/66-Miamisburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/66-Miamisburg/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/66-Miamisburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/66-Miamisburg/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -933,9 +933,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Oxford",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/67-Oxford/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/67-Oxford/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/67-Oxford/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/67-Oxford/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -947,9 +947,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "College Corner",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/68-College-Corner/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/68-College-Corner/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/68-College-Corner/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/68-College-Corner/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -961,9 +961,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cameron",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/69-Cameron/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/69-Cameron/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/69-Cameron/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/69-Cameron/Horizontal.pdf",
         "hyear": "1966"
       }
     },
@@ -975,9 +975,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Clarington",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/70-Clarington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/70-Clarington/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/70-Clarington/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/70-Clarington/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -989,9 +989,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Woodfield",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/71-Woodfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/71-Woodfield/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/71-Woodfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/71-Woodfield/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1003,9 +1003,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Summerfield",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/72-Summerfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/72-Summerfield/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/72-Summerfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/72-Summerfield/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1017,9 +1017,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cumberland",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/73-Cumberland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/73-Cumberland/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/73-Cumberland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/73-Cumberland/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1031,9 +1031,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Philo",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/74-Philo/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/74-Philo/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/74-Philo/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/74-Philo/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1045,9 +1045,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Zanesville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/75-Zanesville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/75-Zanesville/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/75-Zanesville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/75-Zanesville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1059,9 +1059,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Thornville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/76-Thornville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/76-Thornville/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/76-Thornville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/76-Thornville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1073,9 +1073,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Thurston",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/77-Thurston/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/77-Thurston/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/77-Thurston/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/77-Thurston/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1087,9 +1087,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "East Columbus",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/78-East-Columbus/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/78-East-Columbus/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/78-East-Columbus/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/78-East-Columbus/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1101,9 +1101,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "West Columbus",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/79-West-Columbus/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/79-West-Columbus/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/79-West-Columbus/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/79-West-Columbus/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1115,9 +1115,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "London",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/80-London/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/80-London/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/80-London/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/80-London/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1129,9 +1129,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "South Charleston",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/81-South-Charleston/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/81-South-Charleston/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/81-South-Charleston/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/81-South-Charleston/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1143,9 +1143,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Springfield",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/82-Springfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/82-Springfield/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/82-Springfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/82-Springfield/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1157,9 +1157,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dayton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/83-Dayton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/83-Dayton/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/83-Dayton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/83-Dayton/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1171,9 +1171,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Brookville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/84-Brookville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/84-Brookville/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/84-Brookville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/84-Brookville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1185,9 +1185,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "West Manchester",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/85-West-Manchester/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/85-West-Manchester/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/85-West-Manchester/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/85-West-Manchester/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1199,9 +1199,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New Paris",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/86-New-Paris/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/86-New-Paris/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/86-New-Paris/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/86-New-Paris/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1213,9 +1213,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wheeling",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/87-Wheeling/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/87-Wheeling/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/87-Wheeling/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/87-Wheeling/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1227,9 +1227,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Saint Clairsville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/88-Saint-Clairsville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/88-Saint-Clairsville/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/88-Saint-Clairsville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/88-Saint-Clairsville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1241,9 +1241,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Flushing",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/89-Flushing/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/89-Flushing/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/89-Flushing/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/89-Flushing/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1255,9 +1255,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Antrim",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/90-Antrim/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/90-Antrim/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/90-Antrim/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/90-Antrim/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1269,9 +1269,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cambridge",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/91-Cambridge/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/91-Cambridge/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/91-Cambridge/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/91-Cambridge/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1283,9 +1283,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Conesville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/92-Conesville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/92-Conesville/Vertical.pdf",
         "vyear": "1986",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/92-Conesville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/92-Conesville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1297,9 +1297,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Frazeysburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/93-Frazeysburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/93-Frazeysburg/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/93-Frazeysburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/93-Frazeysburg/Horizontal.pdf",
         "hyear": "1983"
       }
     },
@@ -1311,9 +1311,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Newark",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/94-Newark/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/94-Newark/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/94-Newark/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/94-Newark/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1325,9 +1325,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Granville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/95-Granville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/95-Granville/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/95-Granville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/95-Granville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1339,9 +1339,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Westerville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/96-Westerville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/96-Westerville/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/96-Westerville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/96-Westerville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1353,9 +1353,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dublin",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/97-Dublin/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/97-Dublin/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/97-Dublin/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/97-Dublin/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1367,9 +1367,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Milford Center",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/98-Milford-Center/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/98-Milford-Center/Vertical.pdf",
         "vyear": "1964?",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/98-Milford-Center/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/98-Milford-Center/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1381,9 +1381,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mechanicsburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/99-Mechanicsburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/99-Mechanicsburg/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/99-Mechanicsburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/99-Mechanicsburg/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1395,9 +1395,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Saint Paris",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/100-Saint-Paris/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/100-Saint-Paris/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/100-Saint-Paris/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/100-Saint-Paris/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1409,9 +1409,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Troy",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/101-Troy/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/101-Troy/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/101-Troy/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/101-Troy/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1423,9 +1423,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Covington",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/102-Covington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/102-Covington/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/102-Covington/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/102-Covington/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1437,9 +1437,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Greenville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/103-Greenville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/103-Greenville/Vertical.pdf",
         "vyear": "1986",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/103-Greenville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/103-Greenville/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1451,9 +1451,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Winchester",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/104-Winchester/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/104-Winchester/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/104-Winchester/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/104-Winchester/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1465,9 +1465,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Steubenville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/105-Steubenville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/105-Steubenville/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/105-Steubenville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/105-Steubenville/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -1479,9 +1479,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cadiz",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/106-Cadiz/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/106-Cadiz/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/106-Cadiz/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/106-Cadiz/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1493,9 +1493,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Scio",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/107-Scio/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/107-Scio/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/107-Scio/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/107-Scio/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1507,9 +1507,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Uhrichsville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/108-Uhrichsville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/108-Uhrichsville/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/108-Uhrichsville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/108-Uhrichsville/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1521,9 +1521,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Newcomerstown",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/109-Newcomerstown/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/109-Newcomerstown/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/109-Newcomerstown/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/109-Newcomerstown/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1535,9 +1535,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Coshocton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/110-Coshocton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/110-Coshocton/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/110-Coshocton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/110-Coshocton/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1549,9 +1549,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Brinkhaven",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/111-Brinkhaven/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/111-Brinkhaven/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/111-Brinkhaven/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/111-Brinkhaven/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1563,9 +1563,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Gambier",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/112-Gambier/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/112-Gambier/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/112-Gambier/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/112-Gambier/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1577,9 +1577,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fredericktown",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/113-Fredericktown/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/113-Fredericktown/Vertical.pdf",
         "vyear": "1963",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/113-Fredericktown/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/113-Fredericktown/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1591,9 +1591,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Marengo",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/114-Marengo/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/114-Marengo/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/114-Marengo/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/114-Marengo/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1605,9 +1605,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Delaware",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/115-Delaware/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/115-Delaware/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/115-Delaware/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/115-Delaware/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1619,9 +1619,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Richwood",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/116-Richwood/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/116-Richwood/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/116-Richwood/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/116-Richwood/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1633,9 +1633,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "East Liberty",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/117-East-Liberty/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/117-East-Liberty/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/117-East-Liberty/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/117-East-Liberty/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1647,9 +1647,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bellefontaine",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/118-Bellefontaine/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/118-Bellefontaine/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/118-Bellefontaine/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/118-Bellefontaine/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1661,9 +1661,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sidney",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/119-Sidney/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/119-Sidney/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/119-Sidney/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/119-Sidney/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1675,9 +1675,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Loramie",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/120-Loramie/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/120-Loramie/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/120-Loramie/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/120-Loramie/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1689,9 +1689,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Saint Henry",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/121-Saint-Henry/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/121-Saint-Henry/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/121-Saint-Henry/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/121-Saint-Henry/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -1703,9 +1703,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fort Recovery",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/122-Fort-Recovery/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/122-Fort-Recovery/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/122-Fort-Recovery/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/122-Fort-Recovery/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1717,9 +1717,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wellsville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/123-Wellsville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/123-Wellsville/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/123-Wellsville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/123-Wellsville/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1731,9 +1731,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Salineville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/124-Salineville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/124-Salineville/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/124-Salineville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/124-Salineville/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1745,9 +1745,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Carrollton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/125-Carrollton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/125-Carrollton/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/125-Carrollton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/125-Carrollton/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1759,9 +1759,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dover",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/126-Dover/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/126-Dover/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/126-Dover/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/126-Dover/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1773,9 +1773,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Navarre",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/127-Navarre/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/127-Navarre/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/127-Navarre/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/127-Navarre/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1787,9 +1787,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Millersburg",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/128-Millersburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/128-Millersburg/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/128-Millersburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/128-Millersburg/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1801,9 +1801,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Loudonville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/129-Loudonville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/129-Loudonville/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/129-Loudonville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/129-Loudonville/Horizontal.pdf",
         "hyear": "1963"
       }
     },
@@ -1815,9 +1815,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Perrysville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/130-Perrysville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/130-Perrysville/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/130-Perrysville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/130-Perrysville/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1829,9 +1829,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Shauck",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/131-Shauck/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/131-Shauck/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/131-Shauck/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/131-Shauck/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1843,9 +1843,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mount Gilead",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/132-Mount-Gilead/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/132-Mount-Gilead/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/132-Mount-Gilead/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/132-Mount-Gilead/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1857,9 +1857,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Marion",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/133-Marion/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/133-Marion/Vertical.pdf",
         "vyear": "1983",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/133-Marion/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/133-Marion/Horizontal.pdf",
         "hyear": "1983"
       }
     },
@@ -1871,9 +1871,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "La Rue",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/134-La-Rue/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/134-La-Rue/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/134-La-Rue/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/134-La-Rue/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1885,9 +1885,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kenton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/135-Kenton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/135-Kenton/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/135-Kenton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/135-Kenton/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1899,9 +1899,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Alger",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/136-Alger/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/136-Alger/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/136-Alger/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/136-Alger/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1913,9 +1913,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lima",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/137-Lima/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/137-Lima/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/137-Lima/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/137-Lima/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1927,9 +1927,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Spencerville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/138-Spencerville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/138-Spencerville/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/138-Spencerville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/138-Spencerville/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1941,9 +1941,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Celina",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/139-Celina/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/139-Celina/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/139-Celina/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/139-Celina/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1955,9 +1955,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Berne",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/140-Berne/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/140-Berne/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/140-Berne/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/140-Berne/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1969,9 +1969,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Columbiana",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/141-Columbiana/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/141-Columbiana/Vertical.pdf",
         "vyear": "1976",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/141-Columbiana/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/141-Columbiana/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -1983,9 +1983,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lisbon",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/142-Lisbon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/142-Lisbon/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/142-Lisbon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/142-Lisbon/Horizontal.pdf",
         "hyear": "1965?"
       }
     },
@@ -1997,9 +1997,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Alliance",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/143-Alliance/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/143-Alliance/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/143-Alliance/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/143-Alliance/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2011,9 +2011,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Canton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/144-Canton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/144-Canton/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/144-Canton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/144-Canton/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -2025,9 +2025,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Massillon",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/145-Massillon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/145-Massillon/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/145-Massillon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/145-Massillon/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2039,9 +2039,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wooster",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/146-Wooster/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/146-Wooster/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/146-Wooster/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/146-Wooster/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2053,9 +2053,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "West Salem",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/147-West-Salem/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/147-West-Salem/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/147-West-Salem/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/147-West-Salem/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2067,9 +2067,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ashland",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/148-Ashland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/148-Ashland/Vertical.pdf",
         "vyear": "1965",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/148-Ashland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/148-Ashland/Horizontal.pdf",
         "hyear": "1964"
       }
     },
@@ -2081,9 +2081,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Crestline",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/149-Crestline/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/149-Crestline/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/149-Crestline/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/149-Crestline/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2095,9 +2095,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bucyrus",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/150-Bucyrus/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/150-Bucyrus/Vertical.pdf",
         "vyear": "1986",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/150-Bucyrus/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/150-Bucyrus/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2109,9 +2109,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sycamore",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/151-Sycamore/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/151-Sycamore/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/151-Sycamore/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/151-Sycamore/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2123,9 +2123,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Upper Sandusky",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/152-Upper-Sandusky/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/152-Upper-Sandusky/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/152-Upper-Sandusky/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/152-Upper-Sandusky/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2137,9 +2137,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Arlington",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/153-Arlington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/153-Arlington/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/153-Arlington/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/153-Arlington/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2151,9 +2151,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bluffton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/154-Bluffton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/154-Bluffton/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/154-Bluffton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/154-Bluffton/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2165,9 +2165,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Columbus Grove",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/155-Columbus-Grove/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/155-Columbus-Grove/Vertical.pdf",
         "vyear": "1978?",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/155-Columbus-Grove/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/155-Columbus-Grove/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2179,9 +2179,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Delphos",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/156-Delphos/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/156-Delphos/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/156-Delphos/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/156-Delphos/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2193,9 +2193,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Van Wert",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/157-Van-Wert/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/157-Van-Wert/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/157-Van-Wert/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/157-Van-Wert/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2207,9 +2207,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bobo",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/158-Bobo/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/158-Bobo/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/158-Bobo/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/158-Bobo/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2221,9 +2221,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Youngstown",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/159-Youngstown/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/159-Youngstown/Vertical.pdf",
         "vyear": "1972",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/159-Youngstown/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/159-Youngstown/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2235,9 +2235,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Warren",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/160-Warren/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/160-Warren/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/160-Warren/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/160-Warren/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2249,9 +2249,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ravenna",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/161-Ravenna/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/161-Ravenna/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/161-Ravenna/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/161-Ravenna/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2263,9 +2263,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kent",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/162-Kent/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/162-Kent/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/162-Kent/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/162-Kent/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2277,9 +2277,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Akron",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/163-Akron/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/163-Akron/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/163-Akron/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/163-Akron/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2291,9 +2291,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Medina",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/164-Medina/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/164-Medina/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/164-Medina/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/164-Medina/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2305,9 +2305,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wellington",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/165-Wellington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/165-Wellington/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/165-Wellington/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/165-Wellington/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2319,7 +2319,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "New London",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/166-New-London/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/166-New-London/Vertical.pdf",
         "vyear": "1986"
       }
     },
@@ -2331,9 +2331,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Norwalk",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/167-Norwalk/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/167-Norwalk/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/167-Norwalk/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/167-Norwalk/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2345,9 +2345,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Siam",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/168-Siam/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/168-Siam/Vertical.pdf",
         "vyear": "1987",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/168-Siam/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/168-Siam/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2359,9 +2359,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Tiffin",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/169-Tiffin/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/169-Tiffin/Vertical.pdf",
         "vyear": "1986",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/169-Tiffin/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/169-Tiffin/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2373,9 +2373,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fostoria",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/170-Fostoria/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/170-Fostoria/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/170-Fostoria/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/170-Fostoria/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2387,9 +2387,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Findlay",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/171-Findlay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/171-Findlay/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/171-Findlay/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/171-Findlay/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2401,9 +2401,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Deshler",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/172-Deshler/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/172-Deshler/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/172-Deshler/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/172-Deshler/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2415,9 +2415,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ottawa",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/173-Ottawa/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/173-Ottawa/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/173-Ottawa/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/173-Ottawa/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2429,9 +2429,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Continental",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/174-Continental/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/174-Continental/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/174-Continental/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/174-Continental/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2443,9 +2443,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Paulding",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/175-Paulding/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/175-Paulding/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/175-Paulding/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/175-Paulding/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2457,9 +2457,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Halls Corners",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/176-Halls-Corners/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/176-Halls-Corners/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/176-Halls-Corners/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/176-Halls-Corners/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2471,9 +2471,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Kinsman",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/177-Kinsman/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/177-Kinsman/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/177-Kinsman/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/177-Kinsman/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2485,9 +2485,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bristonville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/178-Bristonville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/178-Bristonville/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/178-Bristonville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/178-Bristonville/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2499,9 +2499,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Garrettsville",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/179-Garrettsville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/179-Garrettsville/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/179-Garrettsville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/179-Garrettsville/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2513,9 +2513,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chagrin Falls",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/180-Chagrin-Falls/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/180-Chagrin-Falls/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/180-Chagrin-Falls/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/180-Chagrin-Falls/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2527,9 +2527,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Cleveland",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/181-Cleveland/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/181-Cleveland/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/181-Cleveland/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/181-Cleveland/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2541,9 +2541,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Berea",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/182-Berea/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/182-Berea/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/182-Berea/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/182-Berea/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2555,9 +2555,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Oberlin",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/183-Oberlin/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/183-Oberlin/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/183-Oberlin/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/183-Oberlin/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2569,9 +2569,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Vermilion",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/184-Vermilion/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/184-Vermilion/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/184-Vermilion/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/184-Vermilion/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2583,7 +2583,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sandusky",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/185-Sandusky/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/185-Sandusky/Vertical.pdf",
         "vyear": "1964"
       }
     },
@@ -2595,7 +2595,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bellevue",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/186-Bellevue/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/186-Bellevue/Vertical.pdf",
         "vyear": "1979"
       }
     },
@@ -2607,7 +2607,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fremont",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/187-Fremont/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/187-Fremont/Vertical.pdf",
         "vyear": "1977"
       }
     },
@@ -2619,9 +2619,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Elmore",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/188-Elmore/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/188-Elmore/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/188-Elmore/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/188-Elmore/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2633,9 +2633,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bowling Green",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/189-Bowling-Green/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/189-Bowling-Green/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/189-Bowling-Green/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/189-Bowling-Green/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2647,9 +2647,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "McClure",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/190-McClure/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/190-McClure/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/190-McClure/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/190-McClure/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2661,9 +2661,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Napoleon",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/191-Napoleon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/191-Napoleon/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/191-Napoleon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/191-Napoleon/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2675,9 +2675,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Defiance",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/192-Defiance/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/192-Defiance/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/192-Defiance/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/192-Defiance/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2689,9 +2689,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Bryan",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/193-Bryan/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/193-Bryan/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/193-Bryan/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/193-Bryan/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2703,9 +2703,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Butler",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/194-Butler/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/194-Butler/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/194-Butler/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/194-Butler/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2717,9 +2717,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Andover",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/195-Andover/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/195-Andover/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/195-Andover/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/195-Andover/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2731,9 +2731,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Jefferson",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/196-Jefferson/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/196-Jefferson/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/196-Jefferson/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/196-Jefferson/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2745,9 +2745,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chardon",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/197-Chardon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/197-Chardon/Vertical.pdf",
         "vyear": "1977",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/197-Chardon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/197-Chardon/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2759,9 +2759,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Mentor",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/198-Mentor/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/198-Mentor/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/198-Mentor/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/198-Mentor/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2773,9 +2773,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Euclid",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/199-Euclid/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/199-Euclid/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/199-Euclid/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/199-Euclid/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2798,9 +2798,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Put-in-Bay",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/201-Put-In-Bay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/201-Put-In-Bay/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/201-Put-In-Bay/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/201-Put-In-Bay/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2812,9 +2812,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Oak Harbor",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/202-Oak-Harbor/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/202-Oak-Harbor/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/202-Oak-Harbor/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/202-Oak-Harbor/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2826,9 +2826,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Maumee Bay",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/203-Maumee-Bay/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/203-Maumee-Bay/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/203-Maumee-Bay/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/203-Maumee-Bay/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2840,9 +2840,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Toledo",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/204-Toledo/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/204-Toledo/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/204-Toledo/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/204-Toledo/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2854,9 +2854,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Swanton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/205-Swanton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/205-Swanton/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/205-Swanton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/205-Swanton/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2868,9 +2868,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Wauseon",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/206-Wauseon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/206-Wauseon/Vertical.pdf",
         "vyear": "1986",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/206-Wauseon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/206-Wauseon/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2882,9 +2882,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Alvordton",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/207-Alvordton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/207-Alvordton/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/207-Alvordton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/207-Alvordton/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2896,9 +2896,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Pioneer",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/208-Pioneer/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/208-Pioneer/Vertical.pdf",
         "vyear": "1978",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/208-Pioneer/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/208-Pioneer/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2910,9 +2910,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Angol East",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/209-Angol-East/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/209-Angol-East/Vertical.pdf",
         "vyear": "1960",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/209-Angol-East/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/209-Angol-East/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2924,9 +2924,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Conneaut",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/210-Conneaut/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/210-Conneaut/Vertical.pdf",
         "vyear": "1979",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/210-Conneaut/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/210-Conneaut/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2938,9 +2938,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Ashtabula",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/211-Ashtabula/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/211-Ashtabula/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/211-Ashtabula/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/211-Ashtabula/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -2952,9 +2952,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Perry",
-        "vertical": "https://geodata.thesurveystation.net/USGS/OH/212-Perry/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/OH/212-Perry/Vertical.pdf",
         "vyear": "1964",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/OH/212-Perry/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/OH/212-Perry/Horizontal.pdf",
         "hyear": "1965"
       }
     }

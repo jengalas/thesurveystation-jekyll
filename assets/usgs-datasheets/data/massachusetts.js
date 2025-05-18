@@ -9,9 +9,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Muskeget",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/2-Muskeget/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/2-Muskeget/Vertical.pdf",
         "vyear": "1973",
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/2-Muskeget/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/2-Muskeget/Horizontal.pdf",
         "hyear": "1935"
       }
     },
@@ -23,9 +23,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Martha's Vineyard",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/3-Marthas-Vineyard/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/3-Marthas-Vineyard/Vertical.pdf",
         "vyear": "1941",
-        "hvcontrol": "https://geodata.thesurveystation.net/USGS/MA/3-Marthas-Vineyard/Horizontal-Vertical-Control-Data.pdf",
+        "hvcontrol": "https://geodata.thesurveystation.com/USGS/MA/3-Marthas-Vineyard/Horizontal-Vertical-Control-Data.pdf",
         "hvyear": "1943"
       }
     },
@@ -37,9 +37,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Gay Head",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/4-Gay-Head/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/4-Gay-Head/Vertical.pdf",
         "vyear": "1957",
-        "hvcontrol": "https://geodata.thesurveystation.net/USGS/MA/4-Gay-Head/Horizontal-Vertical-Control-Data.pdf",
+        "hvcontrol": "https://geodata.thesurveystation.com/USGS/MA/4-Gay-Head/Horizontal-Vertical-Control-Data.pdf",
         "hvyear": "1936"
       }
     },
@@ -51,7 +51,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sakonnett",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/5-Sakonnett/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/5-Sakonnett/Vertical.pdf",
         "vyear": "1954"
       }
     },
@@ -63,7 +63,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chatham",        
-        "hvcontrol": "https://geodata.thesurveystation.net/USGS/MA/6-Chatham/Horizontal-Vertical-Control-Data.pdf",
+        "hvcontrol": "https://geodata.thesurveystation.com/USGS/MA/6-Chatham/Horizontal-Vertical-Control-Data.pdf",
         "hvyear": "1942"
       }
     },
@@ -75,7 +75,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Yarmouth",        
-        "hvcontrol": "https://geodata.thesurveystation.net/USGS/MA/7-Yarmouth/Horizontal-Vertical-Control-Data.pdf",
+        "hvcontrol": "https://geodata.thesurveystation.com/USGS/MA/7-Yarmouth/Horizontal-Vertical-Control-Data.pdf",
         "hvyear": "1943"
       }
     },
@@ -87,11 +87,11 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Barnstable",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/8-Barnstable/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/8-Barnstable/Vertical.pdf",
         "vyear": "1958",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/8-Barnstable/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/8-Barnstable/Horizontal.pdf",
         "hyear": "1956",
-        "hvcontrol": "https://geodata.thesurveystation.net/USGS/MA/8-Barnstable/Horizontal-Vertical-Control-Data.pdf",
+        "hvcontrol": "https://geodata.thesurveystation.com/USGS/MA/8-Barnstable/Horizontal-Vertical-Control-Data.pdf",
         "hvyear": "1942"
       }
     },
@@ -103,11 +103,11 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Falmouth",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/9-Falmouth/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/9-Falmouth/Vertical.pdf",
         "vyear": "1952",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/9-Falmouth/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/9-Falmouth/Horizontal.pdf",
         "hyear": "1958",
-        "hvcontrol": "https://geodata.thesurveystation.net/USGS/MA/9-Falmouth/Horizontal-Vertical-Control-Data.pdf",
+        "hvcontrol": "https://geodata.thesurveystation.com/USGS/MA/9-Falmouth/Horizontal-Vertical-Control-Data.pdf",
         "hvyear": "1942"
       }
     },
@@ -119,7 +119,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fairhaven",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/10-Fairhaven/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/10-Fairhaven/Vertical.pdf",
         "vyear": "1957"
       }
     },
@@ -131,7 +131,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fall River",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/11-Fall-River/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/11-Fall-River/Vertical.pdf",
         "vyear": "1957"
       }
     },
@@ -143,9 +143,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Plymouth",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/13-Plymouth/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/13-Plymouth/Vertical.pdf",
         "vyear": "1936",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/13-Plymouth/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/13-Plymouth/Horizontal.pdf",
         "hyear": "1951",
       }
     },
@@ -157,7 +157,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Middleboro",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/14-Middleboro/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/14-Middleboro/Vertical.pdf",
         "vyear": "1936"
       }
     },
@@ -169,9 +169,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Taunton",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/15-Taunton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/15-Taunton/Vertical.pdf",
         "vyear": "1936",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/15-Taunton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/15-Taunton/Horizontal.pdf",
         "hyear": "1936"
       }
     },
@@ -183,9 +183,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Providence",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/16-Providence/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/16-Providence/Vertical.pdf",
         "vyear": "1955",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/16-Providence/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/16-Providence/Horizontal.pdf",
         "hyear": "1957"
       }
     },
@@ -197,7 +197,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Duxbury",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/18-Duxbury/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/18-Duxbury/Vertical.pdf",
         "vyear": "1958"
       }
     },
@@ -209,7 +209,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Abington",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/19-Abington/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/19-Abington/Vertical.pdf",
         "vyear": "1957"
       }
     },
@@ -221,7 +221,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Dedham",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/20-Dedham/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/20-Dedham/Vertical.pdf",
         "vyear": "1957"
       }
     },
@@ -233,9 +233,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Franklin",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/21-Franklin/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/21-Franklin/Vertical.pdf",
         "vyear": "1957",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/21-Franklin/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/21-Franklin/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -247,9 +247,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Blackstone",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/22-Blackstone/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/22-Blackstone/Vertical.pdf",
         "vyear": "1958",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/22-Blackstone/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/22-Blackstone/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -261,9 +261,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Webster",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/23-Webster/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/23-Webster/Vertical.pdf",
         "vyear": "1980",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/23-Webster/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/23-Webster/Horizontal.pdf",
         "hyear": "1965"
       }
     },
@@ -275,9 +275,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Brookfield",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/24-Brookfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/24-Brookfield/Vertical.pdf",
         "vyear": "1972",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/24-Brookfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/24-Brookfield/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -289,9 +289,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Palmer",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/25-Palmer/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/25-Palmer/Vertical.pdf",
         "vyear": "1981",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/25-Palmer/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/25-Palmer/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -303,9 +303,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Springfield",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/26-Springfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/26-Springfield/Vertical.pdf",
         "vyear": "1981",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/26-Springfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/26-Springfield/Horizontal.pdf",
         "hyear": "1959"
       }
     },
@@ -317,9 +317,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Granville",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/27-Granville/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/27-Granville/Vertical.pdf",
         "vyear": "1972",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/27-Granville/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/27-Granville/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -331,9 +331,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sandisfield",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/28-Sandisfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/28-Sandisfield/Vertical.pdf",
         "vyear": "1972",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/28-Sandisfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/28-Sandisfield/Horizontal.pdf",
         "hyear": "1971"
       }
     },
@@ -345,9 +345,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Sheffield",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/29-Sheffield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/29-Sheffield/Vertical.pdf",
         "vyear": "1982",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/29-Sheffield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/29-Sheffield/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -359,9 +359,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Copake",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/30-Copake/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/30-Copake/Vertical.pdf",
         "vyear": "1966",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/30-Copake/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/30-Copake/Horizontal.pdf",
         "hyear": "1974"
       }
     },
@@ -373,7 +373,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Boston",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/32-Boston/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/32-Boston/Vertical.pdf",
         "vyear": "1958"
       }
     },
@@ -385,7 +385,7 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Framingham",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/33-Framingham/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/33-Framingham/Vertical.pdf",
         "vyear": "1984"
       }
     },
@@ -397,9 +397,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Marlboro",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/34-Marlboro/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/34-Marlboro/Vertical.pdf",
         "vyear": "1958",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/34-Marlboro/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/34-Marlboro/Horizontal.pdf",
         "hyear": "1979"
       }
     },
@@ -411,9 +411,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Worcester",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/35-Worcester/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/35-Worcester/Vertical.pdf",
         "vyear": "1958",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/35-Worcester/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/35-Worcester/Horizontal.pdf",
         "hyear": "1954"
       }
     },
@@ -425,9 +425,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Barre",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/36-Barre/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/36-Barre/Vertical.pdf",
         "vyear": "1958",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/36-Barre/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/36-Barre/Horizontal.pdf",
         "hyear": "1943"
       }
     },
@@ -439,9 +439,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Belchertown",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/37-Belchertown/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/37-Belchertown/Vertical.pdf",
         "vyear": "1945",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/37-Belchertown/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/37-Belchertown/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -453,9 +453,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Northampton",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/38-Northampton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/38-Northampton/Vertical.pdf",
         "vyear": "1954",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/38-Northampton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/38-Northampton/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -467,11 +467,11 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Chesterfield",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/39-Chesterfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/39-Chesterfield/Vertical.pdf",
         "vyear": "1943",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/39-Chesterfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/39-Chesterfield/Horizontal.pdf",
         "hyear": "1943",
-        "hvcontrol": "https://geodata.thesurveystation.net/USGS/MA/39-Chesterfield/Horizontal-Vertical-Control-Data.pdf",
+        "hvcontrol": "https://geodata.thesurveystation.com/USGS/MA/39-Chesterfield/Horizontal-Vertical-Control-Data.pdf",
         "hvyear": "1944"
       }
     },
@@ -483,9 +483,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Becket",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/40-Becket/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/40-Becket/Vertical.pdf",
         "vyear": "1942",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/40-Becket/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/40-Becket/Horizontal.pdf",
         "hyear": "1942"
       }
     },
@@ -497,9 +497,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Pittsfield",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/41-Pittsfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/41-Pittsfield/Vertical.pdf",
         "vyear": "1952",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/41-Pittsfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/41-Pittsfield/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -511,9 +511,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lawrence",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/44-Lawrence/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/44-Lawrence/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/44-Lawrence/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/44-Lawrence/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -525,9 +525,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Lowell",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/45-Lowell/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/45-Lowell/Vertical.pdf",
         "vyear": "1984",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/45-Lowell/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/45-Lowell/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -539,9 +539,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Groton",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/46-Groton/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/46-Groton/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/46-Groton/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/46-Groton/Horizontal.pdf",
         "hyear": "1922"
       }
     },
@@ -553,9 +553,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Fitchburg",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/47-Fitchburg/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/47-Fitchburg/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/47-Fitchburg/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/47-Fitchburg/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -567,9 +567,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Winchendon",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/48-Winchendon/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/48-Winchendon/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/48-Winchendon/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/48-Winchendon/Horizontal.pdf",
         "hyear": "1944"
       }
     },
@@ -581,9 +581,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Warwick",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/49-Warwick/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/49-Warwick/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/49-Warwick/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/49-Warwick/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -595,9 +595,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Greenfield",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/50-Greenfield/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/50-Greenfield/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/50-Greenfield/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/50-Greenfield/Horizontal.pdf",
         "hyear": "1976"
       }
     },
@@ -609,9 +609,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Hawley",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/51-Hawley/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/51-Hawley/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/51-Hawley/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/51-Hawley/Horizontal.pdf",
         "hyear": "1943"
       }
     },
@@ -623,9 +623,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Greylock",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/52-Greylock/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/52-Greylock/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/52-Greylock/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/52-Greylock/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -637,9 +637,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Berlin",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/53-Berlin/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/53-Berlin/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/53-Berlin/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/53-Berlin/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -651,9 +651,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Exeter",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/54-Exeter/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/54-Exeter/Vertical.pdf",
         "vyear": "1974",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/54-Exeter/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/54-Exeter/Horizontal.pdf",
         "hyear": "1972"
       }
     },
@@ -665,9 +665,9 @@ var geojsonFeature = {
       },
       "properties": {
         "name": "Haverhill",        
-        "vertical": "https://geodata.thesurveystation.net/USGS/MA/55-Haverhill/Vertical.pdf",
+        "vertical": "https://geodata.thesurveystation.com/USGS/MA/55-Haverhill/Vertical.pdf",
         "vyear": "1983",         
-        "horizontal": "https://geodata.thesurveystation.net/USGS/MA/55-Haverhill/Horizontal.pdf",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/MA/55-Haverhill/Horizontal.pdf",
         "hyear": "1972"
       }
     }
