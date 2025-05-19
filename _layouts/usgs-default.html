@@ -1,44 +1,52 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
-  
-  {% include usgs-head.html %}
 
-  <body>
-    {% include nav.html %}
-    <main class="default-template">
-    
-      <div class="container">
+{% include usgs-head.html %}
 
-        {% if page.title != "Index" %}
-          <h1>USGS Datasheets: {{ page.title }}</h1>
-        {% else %}
-          <h1>USGS Datasheets</h1>
+<body>
+  {% include nav.html %}
+  <main class="default-template">
+
+    <div class="container">
+
+      {% if page.title != "Index" %}
+      <h1>USGS Datasheets: {{ page.title }}</h1>
+      {% else %}
+      <h1>USGS Datasheets</h1>
+      {% endif %}
+
+      {% if page.additional_text %}
+      <p>{{ page.additional_text | markdownify }}</p>
+      {% endif %}
+
+      {{ content }}
+
+      {% if page.title == "Index" %}
+      <ul>
+        {% for item in site.data.states-usgs-datasheets %}
+        {% if item.dev == false %}
+        <li><a href="/usgs-datasheets/{{ item.state | slugify }}">{{ item.state }}</a></li>
         {% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
 
-        {% if page.additional_text %}
-          <p>{{ page.additional_text | markdownify }}</p>
-        {% endif %}
+      {% if page.title != "Index" %}
+      <section class="post-navigation">
+        <a class="prev-post" href="/usgs-datasheets" title="USGS Datasheets index" alt="USGS Datasheets index">USGS
+          Datasheets</a>
+      </section>
+      {% endif %}
+      
+      <section class="comments">
+        {% include comment-form.html %}
+      </section>
 
-        {{ content }}
+    </div>
+  </main>
 
-        {% if page.title == "Index" %}
-        <ul>
-          {% for item in site.data.states-usgs-datasheets %}
-            {% if item.dev == false %}
-              <li><a href="/usgs-datasheets/{{ item.state | slugify }}">{{ item.state }}</a></li>
-            {% endif %}
-          {% endfor %}
-          </ul>
-        {% endif %}
-        
-        <section class="comments">
-          {% include comment-form.html %}
-        </section>
+  {% include usgs-footer.html %}
 
-      </div>
-    </main>
-    
-    {% include usgs-footer.html %}  
+</body>
 
-  </body>
 </html>
