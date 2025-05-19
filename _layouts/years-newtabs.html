@@ -60,3 +60,15 @@ page-type: year-index
   </details>
   {% endif %}
 </div>
+
+<section class="post-navigation">
+  {% if page.year > site.data.years[-1].year %}
+  <a class="prev-post" href="/year/{{page.year | to_i | minus: 1}}"
+    title="Previous year: {{page.year | to_i | minus: 1}}"
+    alt="Previous year: {{page.year | to_i | minus: 1}}">{{page.year | to_i | minus: 1}} Recoveries</a>
+  {% endif %}
+  {% if page.year < site.data.years[0].year %} <a class="next-post" style="float: right;"
+    href="/year/{{page.year | to_i | plus: 1}}" title="Previous year: {{page.year | to_i | plus: 1}}"
+    alt="Next year: {{page.year | to_i | plus: 1}}">{{page.year | to_i | plus: 1}} Recoveries</a>
+  {% endif %}
+</section>
