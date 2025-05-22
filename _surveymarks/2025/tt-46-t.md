@@ -31,6 +31,16 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-      - filename:   
-        alt:               
+      - filename: tt46tg1  
+        alt: Standing at the approximate coordinates of the mark      
+      - filename: tt46tg2  
+        alt: Could it still be here, near these boulders (and beneath a lot of vegetation)?    
+      - filename: tt46tg3  
+        alt: Looking NNW toward Ackerly Road      
+      - filename: tt46tg4
+        alt: Looking SW toward the reference mark
+      - filename: tt46tg5  
+        alt: The Village Doll House      
+      - filename: tt46tg6  
+        alt: The Village Doll House                                        
 ---

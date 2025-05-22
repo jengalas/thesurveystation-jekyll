@@ -18,10 +18,17 @@ official_description: >-
 status: Not Found
 condition: Unknown (Not Found)
 zhanna_text: >-
-    
+  
 galleries:
   gallery_zh:
     images:
-    - filename: 
-      alt: 
+    - filename: tt46trmg1
+      alt: Carvings (but not the chiseled square) on top of the bridge wall
+    - filename: tt46trmg2
+      alt: We couldn't find a square here anywhere.
+    - filename: tt46trmg3
+      alt: This is the center of the bridge wall. The square that appears to be on the face is just an illusion.
+    - filename: tt46trmg6
+      alt: Looking SW along Layton Road     
+image_gallery_zh_class: justify     
 ---
