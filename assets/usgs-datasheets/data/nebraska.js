@@ -934,6 +934,48 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/67-Harvard/Horizontal.pdf",
         "hyear": "1967"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.25,40.5],[-98.25,40.75],[-98.5,40.75],[-98.5,40.5],[-98.25,40.5]]]
+      },
+      "properties": {
+        "name": "Hastings",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/68-Hastings/Vertical.pdf",
+        "vyear": "1967",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/68-Hastings/Horizontal.pdf",
+        "hyear": "1969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.5,40.5],[-98.5,40.75],[-98.75,40.75],[-98.75,40.5],[-98.5,40.5]]]
+      },
+      "properties": {
+        "name": "Kenesaw",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/69-Kenesaw/Vertical.pdf",
+        "vyear": "1967",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/69-Kenesaw/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.75,40.5],[-98.75,40.75],[-99,40.75],[-99,40.5],[-98.75,40.5]]]
+      },
+      "properties": {
+        "name": "Minden",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/70-Minden/Vertical.pdf",
+        "vyear": "1967",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/70-Minden/Horizontal.pdf",
+        "hyear": "1967"
+      }
     }               
   ]
 };
