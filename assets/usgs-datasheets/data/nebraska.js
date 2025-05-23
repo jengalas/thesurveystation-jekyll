@@ -976,6 +976,118 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/70-Minden/Horizontal.pdf",
         "hyear": "1967"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99,40.5],[-99,40.75],[-99.25,40.75],[-99.25,40.5],[-99,40.5]]]
+      },
+      "properties": {
+        "name": "Kearney",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/71-Kearney/Vertical.pdf",
+        "vyear": "1969",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/71-Kearney/Horizontal.pdf",
+        "hyear": "1968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.25,40.5],[-99.25,40.75],[-99.5,40.75],[-99.5,40.5],[-99.25,40.5]]]
+      },
+      "properties": {
+        "name": "Elm Creek",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/72-Elm-Creek/Vertical.pdf",
+        "vyear": "1969",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/72-Elm-Creek/Horizontal.pdf",
+        "hyear": "1968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.5,40.5],[-99.5,40.75],[-99.75,40.75],[-99.75,40.5],[-99.5,40.5]]]
+      },
+      "properties": {
+        "name": "Bertrand",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/73-Bertrand/Vertical.pdf",
+        "vyear": "1970",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/73-Bertrand/Horizontal.pdf",
+        "hyear": "1969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.75,40.5],[-99.75,40.75],[-100,40.75],[-100,40.5],[-99.75,40.5]]]
+      },
+      "properties": {
+        "name": "Lexington No. 3",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/74-Lexington-No-3/Vertical.pdf",
+        "vyear": "1970",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/74-Lexington-No-3/Horizontal.pdf",
+        "hyear": "1969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100,40.5],[-100,40.75],[-100.25,40.75],[-100.25,40.5],[-100,40.5]]]
+      },
+      "properties": {
+        "name": "Eustis",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/75-Eustis/Vertical.pdf",
+        "vyear": "1971",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/75-Eustis/Horizontal.pdf",
+        "hyear": "1970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.25,40.5],[-100.25,40.75],[-100.5,40.75],[-100.5,40.5],[-100.25,40.5]]]
+      },
+      "properties": {
+        "name": "Stockville",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/76-Stockville/Vertical.pdf",
+        "vyear": "1960",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/76-Stockville/Horizontal.pdf",
+        "hyear": "1970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.5,40.5],[-100.5,40.75],[-100.75,40.75],[-100.75,40.5],[-100.5,40.5]]]
+      },
+      "properties": {
+        "name": "Curtis",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/77-Curtis/Vertical.pdf",
+        "vyear": "1960",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/77-Curtis/Horizontal.pdf",
+        "hyear": "Unknown date"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.75,40.5],[-100.75,40.75],[-101,40.75],[-101,40.5],[-100.75,40.5]]]
+      },
+      "properties": {
+        "name": "Camp Hays Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/78-Camp-Hays-Lake/Vertical.pdf",
+        "vyear": "1967",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/78-Camp-Hays-Lake/Horizontal.pdf",
+        "hyear": "1970"
+      }
     }               
   ]
 };
