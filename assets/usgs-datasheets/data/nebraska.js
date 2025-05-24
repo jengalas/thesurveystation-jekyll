@@ -2500,6 +2500,230 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/182-Clarkson/Vertical.pdf",
         "hyear": "1981"
       }
-    }          
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.25,41.5],[-97.25,41.75],[-97.5,41.75],[-97.5,41.5],[-97.25,41.5]]]
+      },
+      "properties": {
+        "name": "Humphrey",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/183-Humphrey/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/183-Humphrey/Vertical.pdf",
+        "hyear": "1966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.5,41.5],[-97.5,41.75],[-97.75,41.75],[-97.75,41.5],[-97.5,41.5]]]
+      },
+      "properties": {
+        "name": "Lindsay No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/184-Lindsay-No-4/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/184-Lindsay-No-4/Vertical.pdf",
+        "hyear": "1966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.75,41.5],[-97.75,41.75],[-98,41.75],[-98,41.5],[-97.75,41.5]]]
+      },
+      "properties": {
+        "name": "St. Edwards",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/185-St-Edwards/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/185-St-Edwards/Vertical.pdf",
+        "hyear": "1966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98,41.5],[-98,41.75],[-98.25,41.75],[-98.25,41.5],[-98,41.5]]]
+      },
+      "properties": {
+        "name": "Cedar Rapids",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/186-Cedar-Rapids/Vertical.pdf",
+        "vyear": "1954",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/186-Cedar-Rapids/Vertical.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.25,41.5],[-98.25,41.75],[-98.5,41.75],[-98.5,41.5],[-98.25,41.5]]]
+      },
+      "properties": {
+        "name": "Spalding",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/187-Spalding/Vertical.pdf",
+        "vyear": "1954",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/187-Spalding/Vertical.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.5,41.5],[-98.5,41.75],[-98.75,41.75],[-98.75,41.5],[-98.5,41.5]]]
+      },
+      "properties": {
+        "name": "Greeley",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/188-Greeley/Vertical.pdf",
+        "vyear": "1969",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/188-Greeley/Vertical.pdf",
+        "hyear": "1969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.75,41.5],[-98.75,41.75],[-99,41.75],[-99,41.5],[-98.75,41.5]]]
+      },
+      "properties": {
+        "name": "Ord No. 3",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/189-Ord-No-3/Vertical.pdf",
+        "vyear": "1954",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/189-Ord-No-3/Vertical.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99,41.5],[-99,41.75],[-99.25,41.75],[-99.25,41.5],[-99,41.5]]]
+      },
+      "properties": {
+        "name": "Comstock",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/190-Comstock/Vertical.pdf",
+        "vyear": "1961",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/190-Comstock/Vertical.pdf",
+        "hyear": "1961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.25,41.5],[-99.25,41.75],[-99.5,41.75],[-99.5,41.5],[-99.25,41.5]]]
+      },
+      "properties": {
+        "name": "Sargent",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/191-Sargent/Vertical.pdf",
+        "vyear": "1961",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/191-Sargent/Vertical.pdf",
+        "hyear": "1961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.5,41.5],[-99.5,41.75],[-99.75,41.75],[-99.75,41.5],[-99.5,41.5]]]
+      },
+      "properties": {
+        "name": "Brewster No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/192-Brewster-No-4/Vertical.pdf",
+        "vyear": "1952",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/192-Brewster-No-4/Vertical.pdf",
+        "hyear": "1952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.75,41.5],[-99.75,41.75],[-100,41.75],[-100,41.5],[-99.75,41.5]]]
+      },
+      "properties": {
+        "name": "Anselmo",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/193-Anselmo/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/193-Anselmo/Vertical.pdf",
+        "hyear": "1951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100,41.5],[-100,41.75],[-100.25,41.75],[-100.25,41.5],[-100,41.5]]]
+      },
+      "properties": {
+        "name": "Linscott",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/194-Linscott/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/194-Linscott/Vertical.pdf",
+        "hyear": "1951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.25,41.5],[-100.25,41.75],[-100.5,41.75],[-100.5,41.5],[-100.25,41.5]]]
+      },
+      "properties": {
+        "name": "Hoagland",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/195-Hoagland/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/195-Hoagland/Vertical.pdf",
+        "hyear": "1951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.5,41.5],[-100.5,41.75],[-100.75,41.75],[-100.75,41.5],[-100.5,41.5]]]
+      },
+      "properties": {
+        "name": "Cody Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/196-Cody-Lake/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/196-Cody-Lake/Vertical.pdf",
+        "hyear": "1951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.75,41.5],[-100.75,41.75],[-101,41.75],[-101,41.5],[-100.75,41.5]]]
+      },
+      "properties": {
+        "name": "Tryon",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/197-Tryon/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/197-Tryon/Vertical.pdf",
+        "hyear": "1951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101,41.5],[-101,41.75],[-101.25,41.75],[-101.25,41.5],[-101,41.5]]]
+      },
+      "properties": {
+        "name": "Wright Valley",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/198-Wright-Valley/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/198-Wright-Valley/Vertical.pdf",
+        "hyear": "1951"
+      }
+    }         
   ]
 };
