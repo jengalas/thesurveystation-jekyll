@@ -2441,8 +2441,8 @@ var geojsonFeature = {
         "name": "Blair",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/178-Blair/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/178-Blair/Vertical.pdf",
-        "hyear": "1966"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/178-Blair/Horizontal.pdf",
+        "hyear": "1965"
       }
     },
     {
@@ -2455,8 +2455,8 @@ var geojsonFeature = {
         "name": "Nickerson",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/179-Nickerson/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/179-Nickerson/Vertical.pdf",
-        "hyear": "1966"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/179-Nickerson/Horizontal.pdf",
+        "hyear": "1965"
       }
     },
     {
@@ -2469,8 +2469,8 @@ var geojsonFeature = {
         "name": "Oleyen No. 4",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/180-Oleyen-No-4/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/180-Oleyen-No-4/Vertical.pdf",
-        "hyear": "1966"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/180-Oleyen-No-4/Horizontal.pdf",
+        "hyear": "1965"
       }
     },
     {
@@ -2483,8 +2483,8 @@ var geojsonFeature = {
         "name": "Dodge",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/181-Dodge/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/181-Dodge/Vertical.pdf",
-        "hyear": "1966"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/181-Dodge/Horizontal.pdf",
+        "hyear": "1965"
       }
     },
     {
@@ -2497,8 +2497,8 @@ var geojsonFeature = {
         "name": "Clarkson",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/182-Clarkson/Vertical.pdf",
         "vyear": "1981",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/182-Clarkson/Vertical.pdf",
-        "hyear": "1981"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/182-Clarkson/Horizontal.pdf",
+        "hyear": "1965"
       }
     },
     {
@@ -2511,8 +2511,8 @@ var geojsonFeature = {
         "name": "Humphrey",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/183-Humphrey/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/183-Humphrey/Vertical.pdf",
-        "hyear": "1966"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/183-Humphrey/Horizontal.pdf",
+        "hyear": "1965"
       }
     },
     {
@@ -2525,8 +2525,8 @@ var geojsonFeature = {
         "name": "Lindsay No. 4",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/184-Lindsay-No-4/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/184-Lindsay-No-4/Vertical.pdf",
-        "hyear": "1966"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/184-Lindsay-No-4/Horizontal.pdf",
+        "hyear": "1965"
       }
     },
     {
@@ -2539,8 +2539,8 @@ var geojsonFeature = {
         "name": "St. Edwards",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/185-St-Edwards/Vertical.pdf",
         "vyear": "1966",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/185-St-Edwards/Vertical.pdf",
-        "hyear": "1966"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/185-St-Edwards/Horizontal.pdf",
+        "hyear": "1964"
       }
     },
     {
@@ -2553,8 +2553,8 @@ var geojsonFeature = {
         "name": "Cedar Rapids",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/186-Cedar-Rapids/Vertical.pdf",
         "vyear": "1954",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/186-Cedar-Rapids/Vertical.pdf",
-        "hyear": "1954"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/186-Cedar-Rapids/Horizontal.pdf",
+        "hyear": "1962"
       }
     },
     {
@@ -2567,8 +2567,8 @@ var geojsonFeature = {
         "name": "Spalding",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/187-Spalding/Vertical.pdf",
         "vyear": "1954",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/187-Spalding/Vertical.pdf",
-        "hyear": "1954"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/187-Spalding/Horizontal.pdf",
+        "hyear": "1962"
       }
     },
     {
@@ -2581,8 +2581,8 @@ var geojsonFeature = {
         "name": "Greeley",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/188-Greeley/Vertical.pdf",
         "vyear": "1969",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/188-Greeley/Vertical.pdf",
-        "hyear": "1969"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/188-Greeley/Horizontal.pdf",
+        "hyear": "1962"
       }
     },
     {
@@ -2595,8 +2595,8 @@ var geojsonFeature = {
         "name": "Ord No. 3",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/189-Ord-No-3/Vertical.pdf",
         "vyear": "1954",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/189-Ord-No-3/Vertical.pdf",
-        "hyear": "1954"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/189-Ord-No-3/Horizontal.pdf",
+        "hyear": "1952"
       }
     },
     {
@@ -2609,8 +2609,8 @@ var geojsonFeature = {
         "name": "Comstock",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/190-Comstock/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/190-Comstock/Vertical.pdf",
-        "hyear": "1961"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/190-Comstock/Horizontal.pdf",
+        "hyear": "1952"
       }
     },
     {
@@ -2623,8 +2623,8 @@ var geojsonFeature = {
         "name": "Sargent",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/191-Sargent/Vertical.pdf",
         "vyear": "1961",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/191-Sargent/Vertical.pdf",
-        "hyear": "1961"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/191-Sargent/Horizontal.pdf",
+        "hyear": "1949"
       }
     },
     {
@@ -2637,8 +2637,8 @@ var geojsonFeature = {
         "name": "Brewster No. 4",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/192-Brewster-No-4/Vertical.pdf",
         "vyear": "1952",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/192-Brewster-No-4/Vertical.pdf",
-        "hyear": "1952"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/192-Brewster-No-4/Horizontal.pdf",
+        "hyear": "1949"
       }
     },
     {
@@ -2651,8 +2651,8 @@ var geojsonFeature = {
         "name": "Anselmo",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/193-Anselmo/Vertical.pdf",
         "vyear": "1951",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/193-Anselmo/Vertical.pdf",
-        "hyear": "1951"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/193-Anselmo/Horizontal.pdf",
+        "hyear": "1949"
       }
     },
     {
@@ -2665,8 +2665,8 @@ var geojsonFeature = {
         "name": "Linscott",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/194-Linscott/Vertical.pdf",
         "vyear": "1951",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/194-Linscott/Vertical.pdf",
-        "hyear": "1951"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/194-Linscott/Horizontal.pdf",
+        "hyear": "1956"
       }
     },
     {
@@ -2679,8 +2679,8 @@ var geojsonFeature = {
         "name": "Hoagland",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/195-Hoagland/Vertical.pdf",
         "vyear": "1951",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/195-Hoagland/Vertical.pdf",
-        "hyear": "1951"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/195-Hoagland/Horizontal.pdf",
+        "hyear": "1956"
       }
     },
     {
@@ -2693,8 +2693,8 @@ var geojsonFeature = {
         "name": "Cody Lake",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/196-Cody-Lake/Vertical.pdf",
         "vyear": "1951",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/196-Cody-Lake/Vertical.pdf",
-        "hyear": "1951"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/196-Cody-Lake/Horizontal.pdf",
+        "hyear": "1954"
       }
     },
     {
@@ -2707,8 +2707,8 @@ var geojsonFeature = {
         "name": "Tryon",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/197-Tryon/Vertical.pdf",
         "vyear": "1951",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/197-Tryon/Vertical.pdf",
-        "hyear": "1951"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/197-Tryon/Horizontal.pdf",
+        "hyear": "1956"
       }
     },
     {
@@ -2721,8 +2721,186 @@ var geojsonFeature = {
         "name": "Wright Valley",
         "vertical": "https://geodata.thesurveystation.com/USGS/NE/198-Wright-Valley/Vertical.pdf",
         "vyear": "1951",
-        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/198-Wright-Valley/Vertical.pdf",
-        "hyear": "1951"
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/198-Wright-Valley/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.25,41.5],[-101.25,41.75],[-101.5,41.75],[-101.5,41.5],[-101.25,41.5]]]
+      },
+      "properties": {
+        "name": "Flats",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/199-Flats/Vertical.pdf",
+        "vyear": "1973",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/199-Flats/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.5,41.5],[-101.5,41.75],[-101.75,41.75],[-101.75,41.5],[-101.5,41.5]]]
+      },
+      "properties": {
+        "name": "Arthur",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/200-Arthur/Vertical.pdf",
+        "vyear": "1952",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/200-Arthur/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.75,41.5],[-101.75,41.75],[-102,41.75],[-102,41.5],[-101.75,41.5]]]
+      },
+      "properties": {
+        "name": "Velma",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/201-Velma/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/201-Velma/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102,41.5],[-102,41.75],[-102.25,41.75],[-102.25,41.5],[-102,41.5]]]
+      },
+      "properties": {
+        "name": "Rackett",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/202-Rackett/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/202-Rackett/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.25,41.5],[-102.25,41.75],[-102.5,41.75],[-102.5,41.5],[-102.25,41.5]]]
+      },
+      "properties": {
+        "name": "Crescent Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/203-Crescent-Lake/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/203-Crescent-Lake/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.5,41.5],[-102.5,41.75],[-102.75,41.75],[-102.75,41.5],[-102.5,41.5]]]
+      },
+      "properties": {
+        "name": "Tar Valley",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/204-Tar-Valley/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/204-Tar-Valley/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.75,41.5],[-102.75,41.75],[-103,41.75],[-103,41.5],[-102.75,41.5]]]
+      },
+      "properties": {
+        "name": "Broadwater",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/205-Broadwater/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/205-Broadwater/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103,41.5],[-103,41.75],[-103.25,41.75],[-103.25,41.5],[-103,41.5]]]
+      },
+      "properties": {
+        "name": "Bridgeport",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/206-Bridgeport/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/206-Bridgeport/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.25,41.5],[-103.25,41.75],[-103.5,41.75],[-103.5,41.5],[-103.25,41.5]]]
+      },
+      "properties": {
+        "name": "Camp Clarke No. 3",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/207-Camp-Clarke-No-3/Vertical.pdf",
+        "vyear": "1974",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/207-Camp-Clarke-No-3/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.5,41.5],[-103.5,41.75],[-103.75,41.75],[-103.75,41.5],[-103.5,41.5]]]
+      },
+      "properties": {
+        "name": "Scotts Bluff No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/208-Scotts-Bluff-No-4/Vertical.pdf",
+        "vyear": "1975",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/208-Scotts-Bluff-No-4/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.75,41.5],[-103.75,41.75],[-104,41.75],[-104,41.5],[-103.75,41.5]]]
+      },
+      "properties": {
+        "name": "Scotts Bluff No. 3",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/209-Scotts-Bluff-No-3/Vertical.pdf",
+        "vyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96,41.75],[-96,42],[-96.25,42],[-96.25,41.75],[-96,41.75]]]
+      },
+      "properties": {
+        "name": "Tekamah",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/211-Tekamah/Horizontal.pdf",
+        "hyear": "1965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.25,41.75],[-96.25,42],[-96.5,42],[-96.5,41.75],[-96.25,41.75]]]
+      },
+      "properties": {
+        "name": "Basfor",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/212-Basfor/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/212-Basfor/Horizontal.pdf",
+        "hyear": "1965"
       }
     }         
   ]
