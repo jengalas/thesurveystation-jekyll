@@ -2902,6 +2902,132 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/212-Basfor/Horizontal.pdf",
         "hyear": "1965"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.5,41.75],[-96.5,42],[-96.75,42],[-96.75,41.75],[-96.5,41.75]]]
+      },
+      "properties": {
+        "name": "West Point",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/213-West-Point/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/213-West-Point/Horizontal.pdf",
+        "hyear": "1965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.75,41.75],[-96.75,42],[-97,42],[-97,41.75],[-96.75,41.75]]]
+      },
+      "properties": {
+        "name": "Cleyen No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/214-Cleyen-No-2/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/214-Cleyen-No-2/Horizontal.pdf",
+        "hyear": "1965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97,41.75],[-97,42],[-97.25,42],[-97.25,41.75],[-97,41.75]]]
+      },
+      "properties": {
+        "name": "Stanton",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/215-Stanton/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/215-Stanton/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.25,41.75],[-97.25,42],[-97.5,42],[-97.5,41.75],[-97.25,41.75]]]
+      },
+      "properties": {
+        "name": "Madison",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/216-Madison/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/216-Madison/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.5,41.75],[-97.5,42],[-97.75,42],[-97.75,41.75],[-97.5,41.75]]]
+      },
+      "properties": {
+        "name": "Battle Creek",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/217-Battle-Creek/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/217-Battle-Creek/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.75,41.75],[-97.75,42],[-98,42],[-98,41.75],[-97.75,41.75]]]
+      },
+      "properties": {
+        "name": "Closter",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/218-Closter/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/218-Closter/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98,41.75],[-98,42],[-98.25,42],[-98.25,41.75],[-98,41.75]]]
+      },
+      "properties": {
+        "name": "Elgin",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/219-Elgin/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/219-Elgin/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.25,41.75],[-98.25,42],[-98.5,42],[-98.5,41.75],[-98.25,41.75]]]
+      },
+      "properties": {
+        "name": "Spalding No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/220-Spalding-No-2/Vertical.pdf",
+        "vyear": "1958",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/220-Spalding-No-2/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.5,41.75],[-98.5,42],[-98.75,42],[-98.75,41.75],[-98.5,41.75]]]
+      },
+      "properties": {
+        "name": "Bartlett",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/221-Bartlett/Vertical.pdf",
+        "vyear": "1954",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/221-Bartlett/Horizontal.pdf",
+        "hyear": "1962"
+      }
     }         
   ]
 };
