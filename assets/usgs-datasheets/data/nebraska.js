@@ -2444,6 +2444,62 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/178-Blair/Vertical.pdf",
         "hyear": "1966"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.25,41.5],[-96.25,41.75],[-96.5,41.75],[-96.5,41.5],[-96.25,41.5]]]
+      },
+      "properties": {
+        "name": "Nickerson",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/179-Nickerson/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/179-Nickerson/Vertical.pdf",
+        "hyear": "1966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.5,41.5],[-96.5,41.75],[-96.75,41.75],[-96.75,41.5],[-96.5,41.5]]]
+      },
+      "properties": {
+        "name": "Oleyen No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/180-Oleyen-No-4/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/180-Oleyen-No-4/Vertical.pdf",
+        "hyear": "1966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.75,41.5],[-96.75,41.75],[-97,41.75],[-97,41.5],[-96.75,41.5]]]
+      },
+      "properties": {
+        "name": "Dodge",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/181-Dodge/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/181-Dodge/Vertical.pdf",
+        "hyear": "1966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97,41.5],[-97,41.75],[-97.25,41.75],[-97.25,41.5],[-97,41.5]]]
+      },
+      "properties": {
+        "name": "Clarkson",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/182-Clarkson/Vertical.pdf",
+        "vyear": "1981",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/182-Clarkson/Vertical.pdf",
+        "hyear": "1981"
+      }
     }          
   ]
 };
