@@ -2256,6 +2256,194 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/163-Stapleton/Horizontal.pdf",
         "hyear": "1954"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.75,41.25],[-100.75,41.5],[-101,41.5],[-101,41.25],[-100.75,41.25]]]
+      },
+      "properties": {
+        "name": "North Platte No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/164-North-Platte-No-2/Vertical.pdf",
+        "vyear": "1972",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/164-North-Platte-No-2/Horizontal.pdf",
+        "hyear": "1970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101,41.25],[-101,41.5],[-101.25,41.5],[-101.25,41.25],[-101,41.25]]]
+      },
+      "properties": {
+        "name": "Paxter No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/165-Paxter-No-1/Vertical.pdf",
+        "vyear": "1972",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/165-Paxter-No-1/Horizontal.pdf",
+        "hyear": "1970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.25,41.25],[-101.25,41.5],[-101.5,41.5],[-101.5,41.25],[-101.25,41.25]]]
+      },
+      "properties": {
+        "name": "Big Bald Hill",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/166-Big-Bald-Hill/Vertical.pdf",
+        "vyear": "1973",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/166-Big-Bald-Hill/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.5,41.25],[-101.5,41.5],[-101.75,41.5],[-101.75,41.25],[-101.5,41.25]]]
+      },
+      "properties": {
+        "name": "Ogallala No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/167-Ogallala-No-1/Vertical.pdf",
+        "vyear": "1973",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/167-Ogallala-No-1/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.75,41.25],[-101.75,41.5],[-102,41.5],[-102,41.25],[-101.75,41.25]]]
+      },
+      "properties": {
+        "name": "Ogallala No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/168-Ogallala-No-2/Vertical.pdf",
+        "vyear": "1972",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/168-Ogallala-No-2/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102,41.25],[-102,41.5],[-102.25,41.5],[-102.25,41.25],[-102,41.25]]]
+      },
+      "properties": {
+        "name": "Chappell No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/169-Chappell-No-1/Vertical.pdf",
+        "vyear": "1972",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/169-Chappell-No-1/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.25,41.25],[-102.25,41.5],[-102.5,41.5],[-102.5,41.25],[-102.25,41.25]]]
+      },
+      "properties": {
+        "name": "Oshkosh",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/170-Oshkosh/Vertical.pdf",
+        "vyear": "1972",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/170-Oshkosh/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.5,41.25],[-102.5,41.5],[-102.75,41.5],[-102.75,41.25],[-102.5,41.25]]]
+      },
+      "properties": {
+        "name": "Lisco",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/171-Lisco/Vertical.pdf",
+        "vyear": "1972",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/171-Lisco/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.75,41.25],[-102.75,41.5],[-103,41.5],[-103,41.25],[-102.75,41.25]]]
+      },
+      "properties": {
+        "name": "Dalton",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/172-Dalton/Vertical.pdf",
+        "vyear": "1973",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/172-Dalton/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.25,41.25],[-103.25,41.5],[-103.5,41.5],[-103.5,41.25],[-103.25,41.25]]]
+      },
+      "properties": {
+        "name": "Potter No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/174-Potter-No-2/Vertical.pdf",
+        "vyear": "1975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.5,41.25],[-103.5,41.5],[-103.75,41.5],[-103.75,41.25],[-103.5,41.25]]]
+      },
+      "properties": {
+        "name": "Bennett Reservoir",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/175-Bennett-Reservoir/Vertical.pdf",
+        "vyear": "1975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.75,41.25],[-103.75,41.5],[-104,41.5],[-104,41.25],[-103.75,41.25]]]
+      },
+      "properties": {
+        "name": "Kimball No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/176-Kimball-No-2/Vertical.pdf",
+        "vyear": "1975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-104,41.25],[-104,41.5],[-104.25,41.5],[-104.25,41.25],[-104,41.25]]]
+      },
+      "properties": {
+        "name": "Egbert No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/177-Egbert-No-1/Vertical.pdf",
+        "vyear": "1975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96,41.5],[-96,41.75],[-96.25,41.75],[-96.25,41.5],[-96,41.5]]]
+      },
+      "properties": {
+        "name": "Blair",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/178-Blair/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/178-Blair/Vertical.pdf",
+        "hyear": "1966"
+      }
     }          
   ]
 };
