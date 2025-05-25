@@ -3028,6 +3028,118 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/221-Bartlett/Horizontal.pdf",
         "hyear": "1962"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.75,41.75],[-98.75,42],[-99,42],[-99,41.75],[-98.75,41.75]]]
+      },
+      "properties": {
+        "name": "Gables",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/222-Gables/Vertical.pdf",
+        "vyear": "1954",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/222-Gables/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99,41.75],[-99,42],[-99.25,42],[-99.25,41.75],[-99,41.75]]]
+      },
+      "properties": {
+        "name": "Burwell",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/223-Burwell/Vertical.pdf",
+        "vyear": "1952",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/223-Burwell/Horizontal.pdf",
+        "hyear": "Various dates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.25,41.75],[-99.25,42],[-99.5,42],[-99.5,41.75],[-99.25,41.75]]]
+      },
+      "properties": {
+        "name": "Taylor",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/224-Taylor/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/224-Taylor/Horizontal.pdf",
+        "hyear": "Various dates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.5,41.75],[-99.5,42],[-99.75,42],[-99.75,41.75],[-99.5,41.75]]]
+      },
+      "properties": {
+        "name": "Almeria",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/225-Almeria/Vertical.pdf",
+        "vyear": "1952",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/225-Almeria/Horizontal.pdf",
+        "hyear": "Various dates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.75,41.75],[-99.75,42],[-100,42],[-100,41.75],[-99.75,41.75]]]
+      },
+      "properties": {
+        "name": "Brewster",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/226-Brewster/Vertical.pdf",
+        "vyear": "1952",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/226-Brewster/Horizontal.pdf",
+        "hyear": "1952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100,41.75],[-100,42],[-100.25,42],[-100.25,41.75],[-100,41.75]]]
+      },
+      "properties": {
+        "name": "Dunning",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/227-Dunning/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/227-Dunning/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.25,41.75],[-100.25,42],[-100.5,42],[-100.5,41.75],[-100.25,41.75]]]
+      },
+      "properties": {
+        "name": "Halsey",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/228-Halsey/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/228-Halsey/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.5,41.75],[-100.5,42],[-100.75,42],[-100.75,41.75],[-100.5,41.75]]]
+      },
+      "properties": {
+        "name": "Thedford",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/229-Thedford/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/229-Thedford/Horizontal.pdf",
+        "hyear": "1954"
+      }
     }         
   ]
 };
