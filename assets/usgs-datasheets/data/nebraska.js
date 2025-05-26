@@ -2881,6 +2881,20 @@ var geojsonFeature = {
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
+        "coordinates": [[[-104,41.5],[-104,41.75],[-104.25,41.75],[-104.25,41.5],[-104,41.5]]]
+      },
+      "properties": {
+        "name": "Goshen Hole No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/210-Goshen-Hole-No-4/Vertical.pdf",
+        "vyear": "1965",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/210-Goshen-Hole-No-4/Horizontal.pdf",
+        "hyear": "1966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
         "coordinates": [[[-96,41.75],[-96,42],[-96.25,42],[-96.25,41.75],[-96,41.75]]]
       },
       "properties": {
@@ -3139,6 +3153,214 @@ var geojsonFeature = {
         "vyear": "1951",
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/229-Thedford/Horizontal.pdf",
         "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.75,41.75],[-100.75,42],[-101,42],[-101,41.75],[-100.75,41.75]]]
+      },
+      "properties": {
+        "name": "Shimmins Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/230-Shimmins-Lake/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/230-Shimmins-Lake/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101,41.75],[-101,42],[-101.25,42],[-101.25,41.75],[-101,41.75]]]
+      },
+      "properties": {
+        "name": "Dismal River Ranch",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/231-Dismal-River-Ranch/Vertical.pdf",
+        "vyear": "1984",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/231-Dismal-River-Ranch/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.25,41.75],[-101.25,42],[-101.5,42],[-101.5,41.75],[-101.25,41.75]]]
+      },
+      "properties": {
+        "name": "Carr Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/232-Carr-Lake/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/232-Carr-Lake/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.5,41.75],[-101.5,42],[-101.75,42],[-101.75,41.75],[-101.5,41.75]]]
+      },
+      "properties": {
+        "name": "Spring Valley",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/233-Spring-Valley/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/233-Spring-Valley/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.75,41.75],[-101.75,42],[-102,42],[-102,41.75],[-101.75,41.75]]]
+      },
+      "properties": {
+        "name": "George Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/234-George-Lake/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/234-George-Lake/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102,41.75],[-102,42],[-102.25,42],[-102.25,41.75],[-102,41.75]]]
+      },
+      "properties": {
+        "name": "Longfellow Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/235-Longfellow-Lake/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/235-Longfellow-Lake/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.25,41.75],[-102.25,42],[-102.5,42],[-102.5,41.75],[-102.25,41.75]]]
+      },
+      "properties": {
+        "name": "Mumper",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/236-Mumper/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/236-Mumper/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.5,41.75],[-102.5,42],[-102.75,42],[-102.75,41.75],[-102.5,41.75]]]
+      },
+      "properties": {
+        "name": "Storm Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/237-Storm-Lake/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/237-Storm-Lake/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.75,41.75],[-102.75,42],[-103,42],[-103,41.75],[-102.75,41.75]]]
+      },
+      "properties": {
+        "name": "Lynn",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/238-Lynn/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/238-Lynn/Horizontal.pdf",
+        "hyear": "1971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103,41.75],[-103,42],[-103.25,42],[-103.25,41.75],[-103,41.75]]]
+      },
+      "properties": {
+        "name": "Camp Clarke No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/239-Camp-Clarke-No-1/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/239-Camp-Clarke-No-1/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.25,41.75],[-103.25,42],[-103.5,42],[-103.5,41.75],[-103.25,41.75]]]
+      },
+      "properties": {
+        "name": "Camp Clarke No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/240-Camp-Clarke-No-2/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/240-Camp-Clarke-No-2/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.5,41.75],[-103.5,42],[-103.75,42],[-103.75,41.75],[-103.5,41.75]]]
+      },
+      "properties": {
+        "name": "Scotts Bluff No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/241-Scotts-Bluff-No-1/Vertical.pdf",
+        "vyear": "1975",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/241-Scotts-Bluff-No-1/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.75,41.75],[-103.75,42],[-104,42],[-104,41.75],[-103.75,41.75]]]
+      },
+      "properties": {
+        "name": "Scotts Bluff No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/242-Scotts-Bluff-No-2/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/242-Scotts-Bluff-No-2/Horizontal.pdf",
+        "hyear": "1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-104,41.75],[-104,42],[-104.25,42],[-104.25,41.75],[-104,41.75]]]
+      },
+      "properties": {
+        "name": "Goshen Hole No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/243-Goshen-Hole-No-1/Vertical.pdf",
+        "vyear": "1967",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/243-Goshen-Hole-No-1/Horizontal.pdf",
+        "hyear": "1961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96,42],[-96,42.25],[-96.25,42.25],[-96.25,42],[-96,42]]]
+      },
+      "properties": {
+        "name": "Onawa",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/244-Onawa/Horizontal.pdf",
+        "hyear": "1965"
       }
     }         
   ]
