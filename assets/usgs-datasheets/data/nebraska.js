@@ -3724,6 +3724,258 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/270-Antioch/Horizontal.pdf",
         "hyear": "1953"
       }
-    }        
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.75,42],[-102.75,42.25],[-103,42.25],[-103,42],[-102.75,42]]]
+      },
+      "properties": {
+        "name": "Alliance",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/271-Alliance/Vertical.pdf",
+        "vyear": "1963",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/271-Alliance/Horizontal.pdf",
+        "hyear": "1953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103,42],[-103,42.25],[-103.25,42.25],[-103.25,42],[-103,42]]]
+      },
+      "properties": {
+        "name": "Hemingford No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/272-Hemingford-No-4/Vertical.pdf",
+        "vyear": "1963",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/272-Hemingford-No-4/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.25,42],[-103.25,42.25],[-103.5,42.25],[-103.5,42],[-103.25,42]]]
+      },
+      "properties": {
+        "name": "Kilpatrick Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/273-Kilpatrick-Lake/Vertical.pdf",
+        "vyear": "1963",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/273-Kilpatrick-Lake/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.5,42],[-103.5,42.25],[-103.75,42.25],[-103.75,42],[-103.5,42]]]
+      },
+      "properties": {
+        "name": "Whistle Creek No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/274-Whistle-Creek-No-4/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/274-Whistle-Creek-No-4/Horizontal.pdf",
+        "hyear": "1953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.75,42],[-103.75,42.25],[-104,42.25],[-104,42],[-103.75,42]]]
+      },
+      "properties": {
+        "name": "Whistle Creek No. 3",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/275-Whistle-Creek-No-3/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/275-Whistle-Creek-No-3/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-104,42],[-104,42.25],[-104.25,42.25],[-104.25,42],[-104,42]]]
+      },
+      "properties": {
+        "name": "Patrick No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/276-Patrick-No-4/Vertical.pdf",
+        "vyear": "1975",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/276-Patrick-No-4/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.25,42.25],[-96.25,42.5],[-96.5,42.5],[-96.5,42.25],[-96.25,42.25]]]
+      },
+      "properties": {
+        "name": "Sioux City South",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/277-Sioux-City-South/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/277-Sioux-City-South/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.5,42.25],[-96.5,42.5],[-96.75,42.5],[-96.75,42.25],[-96.5,42.25]]]
+      },
+      "properties": {
+        "name": "Emerson",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/278-Emerson/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/278-Emerson/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.75,42.25],[-96.75,42.5],[-97,42.5],[-97,42.25],[-96.75,42.25]]]
+      },
+      "properties": {
+        "name": "Wakefield",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/279-Wakefield/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/279-Wakefield/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97,42.25],[-97,42.5],[-97.25,42.5],[-97.25,42.25],[-97,42.25]]]
+      },
+      "properties": {
+        "name": "Laurel",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/280-Laurel/Vertical.pdf",
+        "vyear": "1967",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/280-Laurel/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.25,42.25],[-97.25,42.5],[-97.5,42.5],[-97.5,42.25],[-97.25,42.25]]]
+      },
+      "properties": {
+        "name": "Randolph",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/281-Randolph/Vertical.pdf",
+        "vyear": "1971",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/281-Randolph/Horizontal.pdf",
+        "hyear": "1969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.5,42.25],[-97.5,42.5],[-97.75,42.5],[-97.75,42.25],[-97.5,42.25]]]
+      },
+      "properties": {
+        "name": "Pierce",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/282-Pierce/Vertical.pdf",
+        "vyear": "1987",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/282-Pierce/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.75,42.25],[-97.75,42.5],[-98,42.5],[-98,42.25],[-97.75,42.25]]]
+      },
+      "properties": {
+        "name": "Plainview",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/283-Plainview/Vertical.pdf",
+        "vyear": "1975",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/283-Plainview/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98,42.25],[-98,42.5],[-98.25,42.5],[-98.25,42.25],[-98,42.25]]]
+      },
+      "properties": {
+        "name": "Orchard",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/284-Orchard/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/284-Orchard/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.25,42.25],[-98.25,42.5],[-98.5,42.5],[-98.5,42.25],[-98.25,42.25]]]
+      },
+      "properties": {
+        "name": "Ewing",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/285-Ewing/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/285-Ewing/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.5,42.25],[-98.5,42.5],[-98.75,42.5],[-98.75,42.25],[-98.5,42.25]]]
+      },
+      "properties": {
+        "name": "O'Neill No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/286-O-Neill-No-1/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/286-O-Neill-No-1/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.75,42.25],[-98.75,42.5],[-99,42.5],[-99,42.25],[-98.75,42.25]]]
+      },
+      "properties": {
+        "name": "Emmet",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/287-Emmet/Vertical.pdf",
+        "vyear": "1976",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/287-Emmet/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99,42.25],[-99,42.5],[-99.25,42.5],[-99.25,42.25],[-99,42.25]]]
+      },
+      "properties": {
+        "name": "Lambs Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/288-Lambs-Lake/Vertical.pdf",
+        "vyear": "1976",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/288-Lambs-Lake/Horizontal.pdf",
+        "hyear": "1951"
+      }
+    }       
   ]
 };
