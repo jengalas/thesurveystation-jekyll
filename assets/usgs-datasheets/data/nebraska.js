@@ -3362,6 +3362,368 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/244-Onawa/Horizontal.pdf",
         "hyear": "1965"
       }
-    }         
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.25,42],[-96.25,42.25],[-96.5,42.25],[-96.5,42],[-96.25,42]]]
+      },
+      "properties": {
+        "name": "Walthill",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/245-Walthill/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/245-Walthill/Horizontal.pdf",
+        "hyear": "1965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.5,42],[-96.5,42.25],[-96.75,42.25],[-96.75,42],[-96.5,42]]]
+      },
+      "properties": {
+        "name": "Pender",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/246-Pender/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/246-Pender/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-96.75,42],[-96.75,42.25],[-97,42.25],[-97,42],[-96.75,42]]]
+      },
+      "properties": {
+        "name": "Altona",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/247-Altona/Vertical.pdf",
+        "vyear": "1966",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/247-Altona/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97,42],[-97,42.25],[-97.25,42.25],[-97.25,42],[-97,42]]]
+      },
+      "properties": {
+        "name": "Wayne",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/248-Wayne/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/248-Wayne/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.25,42],[-97.25,42.25],[-97.5,42.25],[-97.5,42],[-97.25,42]]]
+      },
+      "properties": {
+        "name": "Norfolk",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/249-Norfolk/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/249-Norfolk/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.5,42],[-97.5,42.25],[-97.75,42.25],[-97.75,42],[-97.5,42]]]
+      },
+      "properties": {
+        "name": "Pierce",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/250-Pierce/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/250-Pierce/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-97.75,42],[-97.75,42.25],[-98,42.25],[-98,42],[-97.75,42]]]
+      },
+      "properties": {
+        "name": "Tilden",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/251-Tilden/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/251-Tilden/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98,42],[-98,42.25],[-98.25,42.25],[-98.25,42],[-98,42]]]
+      },
+      "properties": {
+        "name": "Neligh",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/252-Neligh/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/252-Neligh/Horizontal.pdf",
+        "hyear": "1962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.25,42],[-98.25,42.25],[-98.5,42.25],[-98.5,42],[-98.25,42]]]
+      },
+      "properties": {
+        "name": "Deloit",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/253-Deloit/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/253-Deloit/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.5,42],[-98.5,42.25],[-98.75,42.25],[-98.75,42],[-98.5,42]]]
+      },
+      "properties": {
+        "name": "Goose Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/254-Goose-Lake/Vertical.pdf",
+        "vyear": "1962",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/254-Goose-Lake/Horizontal.pdf",
+        "hyear": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-98.75,42],[-98.75,42.25],[-99,42.25],[-99,42],[-98.75,42]]]
+      },
+      "properties": {
+        "name": "O'Neill No. 3",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/255-O-Neill-No-3/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/255-O-Neill-No-3/Horizontal.pdf",
+        "hyear": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99,42],[-99,42.25],[-99.25,42.25],[-99.25,42],[-99,42]]]
+      },
+      "properties": {
+        "name": "Sybrant No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/256-Sybrant-No-4/Vertical.pdf",
+        "vyear": "1950",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/256-Sybrant-No-4/Horizontal.pdf",
+        "hyear": "1950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.25,42],[-99.25,42.25],[-99.5,42.25],[-99.5,42],[-99.25,42]]]
+      },
+      "properties": {
+        "name": "Sybrant No. 3",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/257-Sybrant-No-3/Vertical.pdf",
+        "vyear": "1976",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/257-Sybrant-No-3/Horizontal.pdf",
+        "hyear": "1950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.5,42],[-99.5,42.25],[-99.75,42.25],[-99.75,42],[-99.5,42]]]
+      },
+      "properties": {
+        "name": "Raven No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/258-Raven-No-4/Vertical.pdf",
+        "vyear": "1976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-99.75,42],[-99.75,42.25],[-100,42.25],[-100,42],[-99.75,42]]]
+      },
+      "properties": {
+        "name": "Goldman Lake",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/259-Goldman-Lake/Vertical.pdf",
+        "vyear": "1976",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/259-Goldman-Lake/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100,42],[-100,42.25],[-100.25,42.25],[-100.25,42],[-100,42]]]
+      },
+      "properties": {
+        "name": "Koshopah",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/260-Koshopah/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/260-Koshopah/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.25,42],[-100.25,42.25],[-100.5,42.25],[-100.5,42],[-100.25,42]]]
+      },
+      "properties": {
+        "name": "Purum",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/261-Purum/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/261-Purum/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.5,42],[-100.5,42.25],[-100.75,42.25],[-100.75,42],[-100.5,42]]]
+      },
+      "properties": {
+        "name": "Seneca No. 4",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/262-Seneca-No-4/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/262-Seneca-No-4/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-100.75,42],[-100.75,42.25],[-101,42.25],[-101,42],[-100.75,42]]]
+      },
+      "properties": {
+        "name": "Seneca",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/263-Seneca/Vertical.pdf",
+        "vyear": "1951",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/263-Seneca/Horizontal.pdf",
+        "hyear": "1956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101,42],[-101,42.25],[-101.25,42.25],[-101.25,42],[-101,42]]]
+      },
+      "properties": {
+        "name": "Mullen",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/264-Mullen/Vertical.pdf",
+        "vyear": "1984",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/264-Mullen/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.25,42],[-101.25,42.25],[-101.5,42.25],[-101.5,42],[-101.25,42]]]
+      },
+      "properties": {
+        "name": "Hire",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/265-Hire/Vertical.pdf",
+        "vyear": "1983",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/265-Hire/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.5,42],[-101.5,42.25],[-101.75,42.25],[-101.75,42],[-101.5,42]]]
+      },
+      "properties": {
+        "name": "Whitman",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/266-Whitman/Vertical.pdf",
+        "vyear": "1983",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/266-Whitman/Horizontal.pdf",
+        "hyear": "1952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-101.75,42],[-101.75,42.25],[-102,42.25],[-102,42],[-101.75,42]]]
+      },
+      "properties": {
+        "name": "Ashby",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/267-Ashby/Vertical.pdf",
+        "vyear": "1963",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/267-Ashby/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102,42],[-102,42.25],[-102.25,42.25],[-102.25,42],[-102,42]]]
+      },
+      "properties": {
+        "name": "Bingham",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/268-Bingham/Vertical.pdf",
+        "vyear": "1963",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/268-Bingham/Horizontal.pdf",
+        "hyear": "1954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.25,42],[-102.25,42.25],[-102.5,42.25],[-102.5,42],[-102.25,42]]]
+      },
+      "properties": {
+        "name": "Lakeside",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/269-Lakeside/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/269-Lakeside/Horizontal.pdf",
+        "hyear": "1953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-102.5,42],[-102.5,42.25],[-102.75,42.25],[-102.75,42],[-102.5,42]]]
+      },
+      "properties": {
+        "name": "Antioch",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/270-Antioch/Vertical.pdf",
+        "vyear": "1964",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/270-Antioch/Horizontal.pdf",
+        "hyear": "1953"
+      }
+    }        
   ]
 };
