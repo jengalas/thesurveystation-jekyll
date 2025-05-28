@@ -60,7 +60,7 @@
   dev: false  
 - state: Nebraska
   abbrev: NE
-  dev: true  
+  dev: false  
 - state: New Hampshire
   abbrev: NH
   dev: false

@@ -5034,6 +5034,68 @@ var geojsonFeature = {
         "horizontal": "https://geodata.thesurveystation.com/USGS/NE/364-Chadron/Horizontal.pdf",
         "hyear": "1969"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103,42.75],[-103,43],[-103.25,43],[-103.25,42.75],[-103,42.75]]]
+      },
+      "properties": {
+        "name": "Fort Robinson No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/365-Fort-Robinson-No-1/Vertical.pdf",
+        "vyear": "1977",
+        "horizontal": "https://geodata.thesurveystation.com/USGS/NE/365-Fort-Robinson-No-1/Horizontal.pdf",
+        "hyear": "1967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.25,42.75],[-103.25,43],[-103.5,43],[-103.5,42.75],[-103.25,42.75]]]
+      },
+      "properties": {
+        "name": "Fort Robinson No. 2",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/366-Fort-Robinson-No-2/Vertical.pdf",
+        "vyear": "1978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.5,42.75],[-103.5,43],[-103.75,43],[-103.75,42.75],[-103.5,42.75]]]
+      },
+      "properties": {
+        "name": "Harrison No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/367-Harrison-No-1/Vertical.pdf",
+        "vyear": "1976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-103.75,42.75],[-103.75,43],[-104,43],[-104,42.75],[-103.75,42.75]]]
+      },
+      "properties": {
+        "name": "Story",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/368-Story/Vertical.pdf",
+        "vyear": "1976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-104,42.75],[-104,43],[-104.25,43],[-104.25,42.75],[-104,42.75]]]
+      },
+      "properties": {
+        "name": "Lusk No. 1",
+        "vertical": "https://geodata.thesurveystation.com/USGS/NE/369-Lusk-No-1/Vertical.pdf",
+        "vyear": "1975"
+      }
     }         
   ]
 };
