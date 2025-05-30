@@ -91,6 +91,9 @@
 - state: South Carolina
   abbrev: SC
   dev: false 
+- state: South Dakota
+  abbrev: SD
+  dev: true   
 - state: Vermont
   abbrev: VT
   dev: false  
