@@ -13,7 +13,7 @@ agency: Unknown
 status: Recovered
 condition: Good
 zhanna_text: >-
-    
+    This is one of several boundary markers we found in deep woods while exploring near the old Archbold estate. This one appears to be in good condition, with the post set solidly in the ground. It is also surrounded by a wooden stake and some pink flags that indicate it may still be in use and/or indicate a modern boundary between park and private land.
 galleries:
   gallery_zh:
     images:

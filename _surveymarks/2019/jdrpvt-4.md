@@ -13,7 +13,7 @@ agency: Unknown
 status: Recovered
 condition: Poor
 zhanna_text: >-
-    
+  This is one of several boundary markers we found in deep woods while exploring near the old Archbold estate. Like others in this area, it is in quite poor condition, its granite post leaning at a severe angle. 
 galleries:
   gallery_zh:
     images:

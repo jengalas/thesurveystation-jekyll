@@ -13,7 +13,7 @@ agency: Unknown
 status: Recovered
 condition: Good
 zhanna_text: >-
-    
+    This is one of several boundary markers we found in deep woods while exploring near the old Archbold estate. This one is in somewhat better condition than others nearby. It in unknown whether these posts still mark a true boundary of park land. 
 galleries:
   gallery_zh:
     images:
