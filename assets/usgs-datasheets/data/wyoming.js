@@ -33,21 +33,23 @@ var geojsonFeature = {
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[-110.5, 43.5], [-110.5, 43.75], [-110.75, 43.75], [-110.75, 44], [-110.5, 44]]]
+        "coordinates": [[[-110.5, 43.5], [-110.5, 43.75], [-110.75, 43.75], [-110.75, 43.5], [-110.5, 43.5]]]
       },
       "properties": {
         "name": "Grand Teton No. 4",
         "vertical": "https://geodata.thesurveystation.com/USGS/WY/317-Grand-Teton-No-4/Vertical.pdf",
-        "vyear": "1957",
+        "vyear": "1953",
         "horizontal": "https://geodata.thesurveystation.com/USGS/WY/317-Grand-Teton-No-4/Horizontal.pdf",
-        "hyear": "1957"
+        "hyear": "Various dates",
+        "recoveries": "https://geodata.thesurveystation.com/USGS/WY/317-Grand-Teton-No-4/Recoveries.pdf",
+        "ryear": "2015"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[-110.75, 43.5], [-110.75, 43.75], [-111, 43.75], [-111, 44], [-110.75, 44]]]
+        "coordinates": [[[-110.75, 43.5], [-110.75, 43.75], [-111, 43.75], [-111, 43.5], [-110.75, 43.5]]]
       },
       "properties": {
         "name": "Grand Teton No. 3",
@@ -122,9 +124,11 @@ var geojsonFeature = {
       "properties": {
         "name": "West Thumb",
         "vertical": "https://geodata.thesurveystation.com/USGS/WY/404-West-Thumb/Vertical.pdf",
-        "vyear": "1957",
+        "vyear": "1956",
         "horizontal": "https://geodata.thesurveystation.com/USGS/WY/404-West-Thumb/Horizontal.pdf",
-        "hyear": "1958"
+        "hyear": "Various dates",
+        "supplemental": "https://geodata.thesurveystation.com/USGS/WY/404-West-Thumb/Supplemental.pdf",
+        "syear": "Unknown date"
       }
     },
     {
@@ -150,9 +154,11 @@ var geojsonFeature = {
       "properties": {
         "name": "Canyon Village",
         "vertical": "https://geodata.thesurveystation.com/USGS/WY/432-Canyon-Village/Vertical.pdf",
-        "vyear": "1957",
+        "vyear": "1958",
         "horizontal": "https://geodata.thesurveystation.com/USGS/WY/432-Canyon-Village/Horizontal.pdf",
-        "hyear": "1967"
+        "hyear": "Various dates",
+        "recoveries": "https://geodata.thesurveystation.com/USGS/WY/432-Canyon-Village/Recoveries.pdf",
+        "ryear": "1958"
       }
     },
     {

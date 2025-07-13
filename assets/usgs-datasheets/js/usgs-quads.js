@@ -78,6 +78,9 @@ $(document).ready(function(){
             if (feature.properties.misc) {
                 popupText += '<br><a target="_blank" href="' + feature.properties.misc + '">Miscellaneous, ' + feature.properties.myear;
             }
+            if (feature.properties.supplemental) {
+                popupText += '<br><a target="_blank" href="' + feature.properties.supplemental + '">Supplemental, ' + feature.properties.syear;
+            }
             if (feature.properties.usfs) {
               popupText += '<br><a target="_blank" href="' + feature.properties.usfs + '">U. S. Forest Service, ' + feature.properties.usfsyear;
             }
