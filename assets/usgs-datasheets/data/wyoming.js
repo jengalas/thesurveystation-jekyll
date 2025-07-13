@@ -54,9 +54,13 @@ var geojsonFeature = {
       "properties": {
         "name": "Grand Teton No. 3",
         "vertical": "https://geodata.thesurveystation.com/USGS/WY/318-Grand-Teton-No-3/Vertical.pdf",
-        "vyear": "1957",
+        "vyear": "1953",
         "horizontal": "https://geodata.thesurveystation.com/USGS/WY/318-Grand-Teton-No-3/Horizontal.pdf",
-        "hyear": "1957"
+        "hyear": "Various dates",
+        "supplemental": "https://geodata.thesurveystation.com/USGS/WY/318-Grand-Teton-No-3/Supplemental.pdf",
+        "syear": "1971",
+        "recoveries": "https://geodata.thesurveystation.com/USGS/WY/318-Grand-Teton-No-3/Recoveries.pdf",
+        "ryear": "1968"
       }
     },
     {
@@ -82,9 +86,11 @@ var geojsonFeature = {
       "properties": {
         "name": "Grand Teton No. 1",
         "vertical": "https://geodata.thesurveystation.com/USGS/WY/346-Grand-Teton-No-1/Vertical.pdf",
-        "vyear": "1957",
+        "vyear": "1946, 1977",
         "horizontal": "https://geodata.thesurveystation.com/USGS/WY/346-Grand-Teton-No-1/Horizontal.pdf",
-        "hyear": "1957"
+        "hyear": "Various dates",
+        "recoveries": "https://geodata.thesurveystation.com/USGS/WY/346-Grand-Teton-No-1/Recoveries.pdf",
+        "ryear": "1968"
       }
     },
     {
