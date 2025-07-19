@@ -49,6 +49,9 @@ Roger’s lists have generated a lot of discussion among aviation enthusiasts an
 Cibola County Historical Society Aviation Heritage Museum - _website currently offline_
 : Learn about the air history museum and restored beacon tower at Grants-Milan Airport in New Mexico.
 
+[Historical Airway Maps](/historical-airway-maps/)
+: Index of historical airway maps with links to the digitized maps in the Library of Congress digital collections.
+
 [Historical Map and Chart Collection, Office of Coast Survey](https://historicalcharts.noaa.gov/)
 : Aeronautical charts, among other types of maps, are available at this site.
 
