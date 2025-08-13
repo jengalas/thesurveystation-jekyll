@@ -986,7 +986,7 @@ var geojsonFeature = {
           "vertical": "https://geodata.thesurveystation.com/USGS/SD/74-Smithwick/Vertical.pdf",
           "vyear": "1968",
           "horizontal": "https://geodata.thesurveystation.com/USGS/SD/74-Smithwick/Horizontal.pdf",
-          "hyear": "1967"
+          "hyear": "1978"
         }
       },
       {
