@@ -624,6 +624,440 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/SD/47-Larchwood/Horizontal.pdf",
           "hyear": "1967"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-96.5,43.25],[-96.5,43.5],[-96.75,43.5],[-96.75,43.25],[-96.5,43.25]]]
+        },
+        "properties": {
+          "name": "Canton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/48-Canton/Vertical.pdf",
+          "vyear": "1967",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/48-Canton/Horizontal.pdf",
+          "hyear": "1962"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-96.75,43.25],[-96.75,43.5],[-97,43.5],[-97,43.25],[-96.75,43.25]]]
+        },
+        "properties": {
+          "name": "Lennox",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/49-Lennox/Vertical.pdf",
+          "vyear": "1959",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/49-Lennox/Horizontal.pdf",
+          "hyear": "1959"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97,43.25],[-97,43.5],[-97.25,43.5],[-97.25,43.25],[-97,43.25]]]
+        },
+        "properties": {
+          "name": "Parker",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/50-Parker/Vertical.pdf",
+          "vyear": "1967",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/50-Parker/Horizontal.pdf",
+          "hyear": "1982"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97.25,43.25],[-97.25,43.5],[-97.5,43.5],[-97.5,43.25],[-97.25,43.25]]]
+        },
+        "properties": {
+          "name": "Freeman",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/51-Freeman/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/51-Freeman/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97.5,43.25],[-97.5,43.5],[-97.75,43.5],[-97.75,43.25],[-97.5,43.25]]]
+        },
+        "properties": {
+          "name": "Clayton",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/52-Clayton/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/52-Clayton/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97.75,43.25],[-97.75,43.5],[-98,43.5],[-98,43.25],[-97.75,43.25]]]
+        },
+        "properties": {
+          "name": "Parkston",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/53-Parkston/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/53-Parkston/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-98,43.25],[-98,43.5],[-98.25,43.5],[-98.25,43.25],[-98,43.25]]]
+        },
+        "properties": {
+          "name": "Delmont",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/54-Delmont/Vertical.pdf",
+          "vyear": "1976"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-98.25,43.25],[-98.25,43.5],[-98.5,43.5],[-98.5,43.25],[-98.25,43.25]]]
+        },
+        "properties": {
+          "name": "Armour No. 2",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/55-Armour-No-2/Vertical.pdf",
+          "vyear": "1976"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-98.5,43.25],[-98.5,43.5],[-98.75,43.5],[-98.75,43.25],[-98.5,43.25]]]
+        },
+        "properties": {
+          "name": "Lake Andes No. 1",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/56-Lake-Andes-No-1/Vertical.pdf",
+          "vyear": "1976"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-98.75,43.25],[-98.75,43.5],[-99,43.5],[-99,43.25],[-98.75,43.25]]]
+        },
+        "properties": {
+          "name": "Platte",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/57-Platte/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/57-Platte/Horizontal.pdf",
+          "hyear": "1962"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-99,43.25],[-99,43.5],[-99.25,43.5],[-99.25,43.25],[-99,43.25]]]
+        },
+        "properties": {
+          "name": "Lucas",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/58-Lucas/Vertical.pdf",
+          "vyear": "1971",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/58-Lucas/Horizontal.pdf",
+          "hyear": "1956"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-99.25,43.25],[-99.25,43.5],[-99.5,43.5],[-99.5,43.25],[-99.25,43.25]]]
+        },
+        "properties": {
+          "name": "Dixon",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/59-Dixon/Vertical.pdf",
+          "vyear": "1970",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/59-Dixon/Horizontal.pdf",
+          "hyear": "1956"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-99.5,43.25],[-99.5,43.5],[-99.75,43.5],[-99.75,43.25],[-99.5,43.25]]]
+        },
+        "properties": {
+          "name": "Colome",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/60-Colome/Vertical.pdf",
+          "vyear": "1971",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/60-Colome/Horizontal.pdf",
+          "hyear": "1956"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-99.75,43.25],[-99.75,43.5],[-100,43.5],[-100,43.25],[-99.75,43.25]]]
+        },
+        "properties": {
+          "name": "Winner",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/61-Winner/Vertical.pdf",
+          "vyear": "1971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-100,43.25],[-100,43.5],[-100.25,43.5],[-100.25,43.25],[-100,43.25]]]
+        },
+        "properties": {
+          "name": "Witten",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/62-Witten/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/62-Witten/Horizontal.pdf",
+          "hyear": "1936"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-100.25,43.25],[-100.25,43.5],[-100.5,43.5],[-100.5,43.25],[-100.25,43.25]]]
+        },
+        "properties": {
+          "name": "Okreek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/63-Okreek/Vertical.pdf",
+          "vyear": "1980"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-100.5,43.25],[-100.5,43.5],[-100.75,43.5],[-100.75,43.25],[-100.5,43.25]]]
+        },
+        "properties": {
+          "name": "Mission",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/64-Mission/Vertical.pdf",
+          "vyear": "1980",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/64-Mission/Horizontal.pdf",
+          "hyear": "Various dates"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-100.75,43.25],[-100.75,43.5],[-101,43.5],[-101,43.25],[-100.75,43.25]]]
+        },
+        "properties": {
+          "name": "Soldier Creek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/65-Soldier-Creek/Vertical.pdf",
+          "vyear": "1979",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/65-Soldier-Creek/Horizontal.pdf",
+          "hyear": "1950"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-101,43.25],[-101,43.5],[-101.25,43.5],[-101.25,43.25],[-101,43.25]]]
+        },
+        "properties": {
+          "name": "Parmelee",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/66-Parmelee/Vertical.pdf",
+          "vyear": "1979",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/66-Parmelee/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-101.25,43.25],[-101.25,43.5],[-101.5,43.5],[-101.5,43.25],[-101.25,43.25]]]
+        },
+        "properties": {
+          "name": "Black Pipe",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/67-Black-Pipe/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/67-Black-Pipe/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-101.5,43.25],[-101.5,43.5],[-101.75,43.5],[-101.75,43.25],[-101.5,43.25]]]
+        },
+        "properties": {
+          "name": "Patricia",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/68-Patricia/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/68-Patricia/Horizontal.pdf",
+          "hyear": "Various dates"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-101.75,43.25],[-101.75,43.5],[-102,43.5],[-102,43.25],[-101.75,43.25]]]
+        },
+        "properties": {
+          "name": "Allen",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/69-Allen/Vertical.pdf",
+          "vyear": "1976"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-102,43.25],[-102,43.5],[-102.25,43.5],[-102.25,43.25],[-102,43.25]]]
+        },
+        "properties": {
+          "name": "Kyle",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/70-Kyle/Vertical.pdf",
+          "vyear": "1976"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-102.25,43.25],[-102.25,43.5],[-102.5,43.5],[-102.5,43.25],[-102.25,43.25]]]
+        },
+        "properties": {
+          "name": "Evergreen",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/71-Evergreen/Vertical.pdf",
+          "vyear": "1977",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/71-Evergreen/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-102.5,43.25],[-102.5,43.5],[-102.75,43.5],[-102.75,43.25],[-102.5,43.25]]]
+        },
+        "properties": {
+          "name": "Rockyford",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/72-Rockyford/Vertical.pdf",
+          "vyear": "1959",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/72-Rockyford/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-102.75,43.25],[-102.75,43.5],[-103,43.5],[-103,43.25],[-102.75,43.25]]]
+        },
+        "properties": {
+          "name": "Willow Creek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/73-Willow-Creek/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/73-Willow-Creek/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-103,43.25],[-103,43.5],[-103.25,43.5],[-103.25,43.25],[-103,43.25]]]
+        },
+        "properties": {
+          "name": "Smithwick",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/74-Smithwick/Vertical.pdf",
+          "vyear": "1968",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/74-Smithwick/Horizontal.pdf",
+          "hyear": "1967"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-103.25,43.25],[-103.25,43.5],[-103.5,43.5],[-103.5,43.25],[-103.25,43.25]]]
+        },
+        "properties": {
+          "name": "Hot Springs",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/75-Hot-Springs/Vertical.pdf",
+          "vyear": "1957",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/75-Hot-Springs/Horizontal.pdf",
+          "hyear": "1957"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-103.5,43.25],[-103.5,43.5],[-103.75,43.5],[-103.75,43.25],[-103.5,43.25]]]
+        },
+        "properties": {
+          "name": "Minnekahta",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/76-Minnekahta/Vertical.pdf",
+          "vyear": "1957",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/76-Minnekahta/Horizontal.pdf",
+          "hyear": "1957"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-103.75,43.25],[-103.75,43.5],[-104,43.5],[-104,43.25],[-103.75,43.25]]]
+        },
+        "properties": {
+          "name": "Edgemont",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/77-Edgemont/Vertical.pdf",
+          "vyear": "1978",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/77-Edgemont/Horizontal.pdf",
+          "hyear": "1957"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-104,43.25],[-104,43.5],[-104.25,43.5],[-104.25,43.25],[-104,43.25]]]
+        },
+        "properties": {
+          "name": "Mule Creek",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/78-Mule-Creek/Vertical.pdf",
+          "vyear": "1970",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/78-Mule-Creek/Horizontal.pdf",
+          "hyear": "1957"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-96.25,43.5],[-96.25,43.75],[-96.5,43.75],[-96.5,43.5],[-96.25,43.5]]]
+        },
+        "properties": {
+          "name": "Hills",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/79-Hills/Vertical.pdf",
+          "vyear": "1984",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/79-Hills/Horizontal.pdf",
+          "hyear": "1968"
+        }
       }
     ]
   };
