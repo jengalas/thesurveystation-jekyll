@@ -4,6 +4,42 @@
       {
         "type": "Feature",
         "properties": {
+          "designation": "C 71",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2025-08-21 14:20:00 -0400",
+          "permalink": "/surveymarks/kv1416/",
+          "image": "https://images.planetzhanna.com/2025/08/21/thumbnails/kv1416csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1947309,
+            40.9864444
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "designation": "U 278 RESET",
+          "status": "Recovered",
+          "condition": "Good",
+          "time": "2025-07-15 10:20:00 -0400",
+          "permalink": "/surveymarks/ly2878/",
+          "image": "https://images.planetzhanna.com/2025/07/15/thumbnails/ly2878csm.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.650289,
+            41.453662
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "designation": "DANVILLE SLOVAK GIRLS ACAD TWR",
           "status": "Recovered",
           "condition": "Good",
