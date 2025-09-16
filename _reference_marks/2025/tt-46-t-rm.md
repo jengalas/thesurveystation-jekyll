@@ -5,6 +5,7 @@ designation: TT 46 T RM
 date: '2025-04-02T09:08:00'
 latitude: 41.498594
 longitude: 75.641824
+estimate: true
 state: Pennsylvania
 county: Lackawanna County
 quad: Scranton Quad
