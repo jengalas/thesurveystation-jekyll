@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "P 144",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2025-09-11 12:31 -0400",
+        "permalink": "/surveymarks/pe0271/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.33205,
+          44.383917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "IRESON RM 2",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
