@@ -76,6 +76,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "K 15",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2025-09-08 12:23 -0400",
+        "permalink": "/surveymarks/k-15/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.38494,
+          44.27033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "C 71",
         "status": "Recovered",
         "condition": "Good",
