@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "G 145",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-14 12:44 -0400",
+        "permalink": "/surveymarks/pe0313/",
+        "image": "https://images.planetzhanna.com/2025/09/14/thumbnails/pe0313csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.385406,
+          44.25976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "P 144",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
