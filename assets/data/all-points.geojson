@@ -40,6 +40,42 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "M 144",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-11 12:11 -0400",
+        "permalink": "/surveymarks/pe0269/",
+        "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/pe0269csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.351361,
+          44.408226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "K 3",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-11 11:37 -0400",
+        "permalink": "/surveymarks/pe0268/",
+        "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/pe0268csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.362716,
+          44.420206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "IRESON RM 2",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
