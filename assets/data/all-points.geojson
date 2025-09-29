@@ -76,6 +76,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "J 145",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-08 12:45 -0400",
+        "permalink": "/surveymarks/pe0315-2/",
+        "image": "https://images.planetzhanna.com/2025/09/08/thumbnails/pe0315csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.397781,
+          44.283468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "IRESON RM 2",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
