@@ -148,6 +148,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "12487-51",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-11 09:30 -0400",
+        "permalink": "/surveymarks/12487-51/",
+        "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/12487-51csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.250793,
+          44.415913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "J 145",
         "status": "Recovered",
         "condition": "Good",
