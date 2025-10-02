@@ -1058,6 +1058,132 @@ var geojsonFeature = {
           "horizontal": "https://geodata.thesurveystation.com/USGS/SD/79-Hills/Horizontal.pdf",
           "hyear": "1968"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-96.5,43.5],[-96.5,43.75],[-96.75,43.75],[-96.75,43.5],[-96.5,43.5]]]
+        },
+        "properties": {
+          "name": "Sioux Falls",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/80-Sioux-Falls/Vertical.pdf",
+          "vyear": "1967",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/80-Sioux-Falls/Horizontal.pdf",
+          "hyear": "1968"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-96.75,43.5],[-96.75,43.75],[-97,43.75],[-97,43.5],[-96.75,43.5]]]
+        },
+        "properties": {
+          "name": "Hartford",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/81-Hartford/Vertical.pdf",
+          "vyear": "1962",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/81-Hartford/Horizontal.pdf",
+          "hyear": "1959"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97,43.5],[-97,43.75],[-97.25,43.75],[-97.25,43.5],[-97,43.5]]]
+        },
+        "properties": {
+          "name": "Humboldt",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/82-Humboldt/Vertical.pdf",
+          "vyear": "1966",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/82-Humboldt/Horizontal.pdf",
+          "hyear": "1963"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97.25,43.5],[-97.25,43.75],[-97.5,43.75],[-97.5,43.5],[-97.25,43.5]]]
+        },
+        "properties": {
+          "name": "Salem",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/83-Salem/Vertical.pdf",
+          "vyear": "1962",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/83-Salem/Horizontal.pdf",
+          "hyear": "1963"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97.5,43.5],[-97.5,43.75],[-97.75,43.75],[-97.75,43.5],[-97.5,43.5]]]
+        },
+        "properties": {
+          "name": "Spencer",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/84-Spencer/Vertical.pdf",
+          "vyear": "1973",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/84-Spencer/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-97.75,43.5],[-97.75,43.75],[-98,43.75],[-98,43.5],[-97.75,43.5]]]
+        },
+        "properties": {
+          "name": "Alexandria No. 3",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/85-Alexandria-No-3/Vertical.pdf",
+          "vyear": "1960",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/85-Alexandria-No-3/Horizontal.pdf",
+          "hyear": "1969"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-98,43.5],[-98,43.75],[-98.25,43.75],[-98.25,43.5],[-98,43.5]]]
+        },
+        "properties": {
+          "name": "Mitchell",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/86-Mitchell/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/86-Mitchell/Horizontal.pdf",
+          "hyear": "1954"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-98.25,43.5],[-98.25,43.75],[-98.5,43.75],[-98.5,43.5],[-98.25,43.5]]]
+        },
+        "properties": {
+          "name": "Mitchell No. 3",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/87-Mitchell-No-3/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/87-Mitchell-No-3/Horizontal.pdf",
+          "hyear": "1939"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[-98.5,43.5],[-98.5,43.75],[-98.75,43.75],[-98.75,43.5],[-98.5,43.5]]]
+        },
+        "properties": {
+          "name": "Kimball No. 4",
+          "vertical": "https://geodata.thesurveystation.com/USGS/SD/88-Kimball-No-4/Vertical.pdf",
+          "vyear": "1976",
+          "horizontal": "https://geodata.thesurveystation.com/USGS/SD/88-Kimball-No-4/Horizontal.pdf",
+          "hyear": "1939"
+        }
       }
     ]
   };
