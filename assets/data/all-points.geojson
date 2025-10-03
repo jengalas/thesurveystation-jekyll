@@ -76,6 +76,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "12797-20",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-11 11:17 -0400",
+        "permalink": "/surveymarks/12797-20/",
+        "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/12797-20csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.362718,
+          44.420211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "K 144",
         "status": "Recovered",
         "condition": "Good",
