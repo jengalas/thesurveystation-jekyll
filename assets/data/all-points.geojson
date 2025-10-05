@@ -220,6 +220,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "H 17",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-04 09:43 -0400",
+        "permalink": "/surveymarks/pe1285/",
+        "image": "https://images.planetzhanna.com/2025/09/04/thumbnails/pe1285csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.665528,
+          44.000306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "C 71",
         "status": "Recovered",
         "condition": "Good",
