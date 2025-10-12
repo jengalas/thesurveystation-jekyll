@@ -139,7 +139,10 @@
         - name: Swans Island Quad   
     - name: Knox County
       quad:
-        - name: Isle au Haut West Quad     
+        - name: Isle au Haut West Quad    
+    - name: Lincoln County
+      quad:
+        - name: Wiscasset Quad           
     - name: Waldo County
       quad:
         - name: Belfast Quad
