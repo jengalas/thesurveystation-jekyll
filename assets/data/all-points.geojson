@@ -220,6 +220,42 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "WISCASSET BROWN SPIRE",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-04 10:03 -0400",
+        "permalink": "/surveymarks/pe2418/",
+        "image": "https://images.planetzhanna.com/2025/09/04/thumbnails/pe2418csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.666941,
+          44.005228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "WISCASSET CONG WHITE SPIRE",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-04 09:55 -0400",
+        "permalink": "/surveymarks/pe2415/",
+        "image": "https://images.planetzhanna.com/2025/09/04/thumbnails/pe2415csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.668082,
+          44.004055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "H 17",
         "status": "Recovered",
         "condition": "Good",
