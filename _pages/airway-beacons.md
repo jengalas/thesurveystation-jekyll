@@ -46,8 +46,8 @@ Roger’s lists have generated a lot of discussion among aviation enthusiasts an
 [Arrows Across America](http://www.dreamsmithphotos.com/arrow/)
 : More about the beacon and arrow system that guided our pioneer aviators.
 
-Cibola County Historical Society Aviation Heritage Museum - _website currently offline_
-: Learn about the air history museum and restored beacon tower at Grants-Milan Airport in New Mexico.
+[Western New Mexico Airways Heritage Museum](https://www.westernnmaviationmuseum.org/home)
+: Formerly the Cibola County Historical Society Aviation Heritage Museum, here you can learn about the air history museum and restored beacon tower at Grants-Milan Airport in New Mexico.
 
 [Historical Airway Maps](/historical-airway-maps/)
 : Index of historical airway maps with links to the digitized maps in the Library of Congress digital collections.
