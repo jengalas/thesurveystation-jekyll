@@ -23,12 +23,17 @@
       clickable: true
   };
   
-  jQuery.getJSON('/assets/data/airway-beacons-complete-us.geojson', function (geojsonData) {
+fetch('/assets/data/airway-beacons-complete-us.geojson')
+    .then(res => res.json())
+    .then(data => initMap(data))
+    .catch(err => console.error('GeoJSON load error:', err));
+
+  function initMap(geojson) {
 
     const categories = {};
     let Status;
 
-    const allPoints = L.geoJson(geojsonData, {
+    const allPoints = L.geoJson(geojson, {
       pointToLayer: function(feature, latlng) {            
         return L.circleMarker(latlng, markerStyle);
       },
@@ -159,5 +164,5 @@
             } 
       });
     });
-  });
+  };
 </script>
