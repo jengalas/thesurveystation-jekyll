@@ -30,7 +30,12 @@
   var nfSub = L.featureGroup.subGroup().addTo(recoveriesMap);
   var neSub = L.featureGroup.subGroup().addTo(recoveriesMap);
 
-  $.getJSON("/assets/data/all-points.geojson", function (geojsonData) {
+  fetch('/assets/data/all-points.geojson')
+    .then(res => res.json())
+    .then(data => initMap(data))
+    .catch(err => console.error('GeoJSON load error:', err));
+
+  function initMap(geojson) {
 
     var categories = {},
       Status;
@@ -101,7 +106,7 @@
       year: "numeric"
     }
 
-    var allPoints = L.geoJson(geojsonData, {
+    var allPoints = L.geoJson(geojson, {
       pointToLayer: groupMarkers
     });
 
@@ -175,5 +180,5 @@
 
     L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(recoveriesMap);
 
-  });
+  };
 </script>
