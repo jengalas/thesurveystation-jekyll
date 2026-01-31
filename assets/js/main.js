@@ -85,6 +85,8 @@ function togglePanel(event) {
 
 // Set initial state on page load based on sessionStorage
 window.addEventListener('load', () => {
+  if (accordionButtons.length === 0) return;
+  
   const openPanel = sessionStorage.getItem('accordionOpen');
   
   // If sessionStorage contains a previous state, open that panel
