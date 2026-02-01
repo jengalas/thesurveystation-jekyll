@@ -1,0 +1,298 @@
+<!-- Grouped Layer Control -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.css" />
+<script src="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.js"></script>
+<!-- Marker Clusterer -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+<!-- Leaflet AwesomeMarkers -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+<script src="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.js"></script>
+<!-- NoUI Slider -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
+
+<style>
+  .timeline-control {
+    font-size: 13px;
+  }
+
+  .timeline-control .noUi-target {
+    margin-top: 4px;
+  }
+</style>
+
+<!-- <div class="fullscreen-map-wrapper"> -->
+<div id="map" class="map" style="height: 600px;"></div>
+<!-- </div> -->
+
+<!-- Load common basemaps -->
+<script src="/assets/data/basemaps.js"></script>
+<script>
+
+  function parseTimestamp(str) {
+    if (!str) return NaN;
+
+    // Expect: "YYYY-MM-DD HH:MM -0400"
+    const iso = str
+      .replace(' ', 'T')
+      .replace(/([+-]\d{2})(\d{2})$/, '$1:$2'); // -0400 -> -04:00
+
+    const d = new Date(iso);
+    return d.getTime(); // NaN if invalid
+  }
+
+  function formatMDY(ts) {
+    const d = new Date(ts);
+    return `${d.toLocaleString('default', { month: 'long' })} ${d.getDate()}, ${d.getFullYear()}`;
+  }
+
+  /* ------------------ Map setup ------------------ */
+
+  const map = L.map('map', { fullscreenControl: true, geocoderControl: true }).setView([48.2, 16.37], 2);
+
+  objBasemaps['OpenStreetMap'].addTo(map); // Assign default basemap
+
+  /* ------------------ Fetch data ------------------ */
+
+  fetch('/assets/data/all-points.geojson')
+    .then(res => res.json())
+    .then(data => initMap(data))
+    .catch(err => console.error('GeoJSON load error:', err));
+
+  function initMap(geojson) {
+
+    /* ------------------ Cluster group (the only real layer) ------------------ */
+
+    const clusterGroup = L.markerClusterGroup({
+      showCoverageOnHover: false,
+      disableClusteringAtZoom: 18,
+      chunkedLoading: true
+    }).addTo(map);
+
+    /* ------------------ Create markers one time ------------------ */
+
+    const allMarkers = [];
+
+    const statusColors = {
+      "Recovered": "green",
+      "Not Found": "red",
+      "Note Entered": "blue"
+    };
+
+    function getMarkerIcon(status) {
+      return L.AwesomeMarkers.icon({
+        icon: "circle",
+        prefix: "fa",
+        markerColor: statusColors[status] || "gray",
+        iconColor: "white"
+      });
+    }
+
+    L.geoJSON(geojson, {
+      pointToLayer: (feature, latlng) => {
+        const marker = L.marker(latlng, {
+          icon: getMarkerIcon(
+            feature.properties.status
+          )
+        });
+
+        // Metadata used for AND filtering
+        const timestamp = parseTimestamp(feature.properties.time);
+        console.log(timestamp,feature.properties.designation);
+        marker.meta = {
+          status: feature.properties.status,
+          timestamp
+        };
+
+        let date = new Date(feature.properties.time).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+
+        marker.bindPopup(`
+      <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
+      Status: ${feature.properties.status}<br>
+      Date: ${date}
+    `);
+
+        allMarkers.push(marker);
+        return marker;
+      }
+    });
+
+    /* ------------------ Create dummy layers for UI ------------------ 
+    Leaflet.GroupedLayerControl is a good fit as a UI, but the key thing to be very explicit about is this:
+  
+    The plugin only groups checkboxes visually.
+    It does NOT change Leaflet’s OR logic.
+  
+    So we will use it only as a control surface, while keeping the central AND-filtering + clustering logic exactly as before.
+    These dummy layers never contain markers.
+    They exist only to give the control something to toggle. ------------------ */
+
+    const statusLayers = {};
+
+    geojson.features.forEach(f => {
+      statusLayers[f.properties.status] ??= L.layerGroup();
+    });
+
+    /* ------------------ Set up grouped control ------------------ */
+
+    const groupedOverlays = {
+      "Statuses": statusLayers
+    };
+
+    L.control.groupedLayers(
+      objBasemaps,
+      groupedOverlays,
+      { collapsed: true }
+    ).addTo(map);
+
+    /* ------------------ Manage filter state ------------------ */
+
+    // Add dummy layers to map so checkboxes show as checked
+    Object.values(statusLayers).forEach(layer => map.addLayer(layer));
+
+    // Initialize filter state
+    const activeStatuses = new Set(Object.keys(statusLayers));
+    /* ------------------ Create AND filter ------------------ */
+
+    function applyFilters() {
+      clusterGroup.clearLayers();
+
+      allMarkers.forEach(marker => {
+        const { status } = marker.meta;
+        const t = marker.meta.timestamp;
+        if (
+          activeStatuses.has(status) &&
+          t >= activeRange[0] &&
+          t <= activeRange[1]
+        ) {
+          clusterGroup.addLayer(marker);
+        }
+      });
+
+      // Zoom to fit currently visible markers
+      if (clusterGroup.getLayers().length > 0) {
+        map.fitBounds(clusterGroup.getBounds(), { padding: [150, 150] });
+      }
+    }
+
+    /* ------------------ Timeline control (inside map) ------------------ */
+
+    const TimelineControl = L.Control.extend({
+      options: {
+        position: 'bottomleft'
+      },
+
+      onAdd() {
+        const container = L.DomUtil.create('div', 'leaflet-control timeline-control');
+        container.innerHTML = `
+      <div style="background:white;padding:8px 18px;border-radius:6px;min-width:460px;text-align:center;">
+        <strong>Date range:</strong> 
+        <span id="date-range-label"></span>
+        <div id="date-slider" style="margin-top:6px;"></div>
+      </div>
+    `;
+
+        // Prevent map dragging when interacting with slider
+        L.DomEvent.disableClickPropagation(container);
+        L.DomEvent.disableScrollPropagation(container);
+
+        return container;
+      }
+    });
+
+    map.addControl(new TimelineControl());
+
+    /* ------------------ Date slider ------------------ */
+
+    const times = geojson.features
+      .map(f => parseTimestamp(f.properties.time))
+      .filter(t => Number.isFinite(t)); // remove NaN / invalid
+    if (times.length === 0) {
+      console.error("No valid dates found for slider!", geojson.features.map(f => f.properties.time));
+      return;
+    }
+    const minTime = Math.min(...times);
+    const maxTime = Math.max(...times);
+
+    let activeRange = [minTime, maxTime];
+
+    const slider = document.getElementById("date-slider");
+    const rangeLabel = document.getElementById("date-range-label");
+
+    noUiSlider.create(slider, {
+      start: [minTime, maxTime],
+      connect: true,
+      step: 24 * 60 * 60 * 1000,
+      range: {
+        min: minTime,
+        max: maxTime
+      },
+      tooltips: false
+    });
+
+    rangeLabel.textContent = `${formatMDY(minTime)} – ${formatMDY(maxTime)}`;
+
+    slider.noUiSlider.on("update", values => {
+      activeRange = values.map(Number);
+      rangeLabel.textContent = `${formatMDY(activeRange[0])} – ${formatMDY(activeRange[1])}`;
+      applyFilters();
+      updateCounts();
+    });
+
+    /* ------------------ Live counts ------------------ */
+
+    function countStatus(status) {
+      return allMarkers.filter(m =>
+        m.meta.status === status &&
+        m.meta.timestamp >= activeRange[0] &&
+        m.meta.timestamp <= activeRange[1]
+      ).length;
+    }
+    function updateCounts() {
+      // Select all overlay labels in grouped control
+      document.querySelectorAll('.leaflet-control-layers-overlays label').forEach(label => {
+        const input = label.querySelector('input');
+        if (!input) return;
+
+        // Strip any existing count from the text
+        let name = label.querySelector('span')?.textContent || label.textContent;
+        name = name.replace(/\s*\(\d+\)$/, '').trim();
+
+        let count = 0;
+        if (statusLayers[name]) count = countStatus(name);
+
+        // Update the span or fallback to label text
+        const span = label.querySelector('span');
+        if (span) {
+          span.textContent = `${name} (${count})`;
+        } else {
+          label.childNodes.forEach(node => {
+            if (node.nodeType === 3) node.nodeValue = ` ${name} (${count})`;
+          });
+        }
+      });
+    }
+
+    /* ------------------ Control events ------------------ */
+
+    map.on('overlayadd', e => {                       // Fires when a checkbox is checked
+      if (statusLayers[e.name]) activeStatuses.add(e.name);
+      applyFilters();
+      updateCounts();
+    });
+
+    map.on('overlayremove', e => {                    // Fires when a checkbox is unchecked
+      if (statusLayers[e.name]) activeStatuses.delete(e.name);
+      applyFilters();
+      updateCounts();
+    });
+
+    /* ------------------ Initial map draw ------------------ */
+
+    applyFilters();
+    updateCounts();
+  }
+
+</script>
