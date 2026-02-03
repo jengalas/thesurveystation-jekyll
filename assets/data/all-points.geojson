@@ -7,7 +7,7 @@
         "designation": "G 145",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-14 12:44 -0400",
+        "time": "2025-09-14T12:44-04:00",
         "permalink": "/surveymarks/pe0313/",
         "image": "https://images.planetzhanna.com/2025/09/14/thumbnails/pe0313csm.jpg"
       },
@@ -25,7 +25,7 @@
         "designation": "P 144",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2025-09-11 12:31 -0400",
+        "time": "2025-09-11T12:31-04:00",
         "permalink": "/surveymarks/pe0271/",
         "image": ""
       },
@@ -43,7 +43,7 @@
         "designation": "M 144",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-11 12:11 -0400",
+        "time": "2025-09-11T12:11-04:00",
         "permalink": "/surveymarks/pe0269/",
         "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/pe0269csm.jpg"
       },
@@ -61,7 +61,7 @@
         "designation": "K 3",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-11 11:37 -0400",
+        "time": "2025-09-11T11:37-04:00",
         "permalink": "/surveymarks/pe0268/",
         "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/pe0268csm.jpg"
       },
@@ -79,7 +79,7 @@
         "designation": "12797-20",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-11 11:17 -0400",
+        "time": "2025-09-11T11:17-04:00",
         "permalink": "/surveymarks/12797-20/",
         "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/12797-20csm.jpg"
       },
@@ -97,7 +97,7 @@
         "designation": "K 144",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-11 10:49 -0400",
+        "time": "2025-09-11T10:49-04:00",
         "permalink": "/surveymarks/pe0266/",
         "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/pe0266csm.jpg"
       },
@@ -115,7 +115,7 @@
         "designation": "IRESON RM 2",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2025-09-11 09:56 -0400",
+        "time": "2025-09-11T09:56-04:00",
         "permalink": "/reference-marks/pe1889-rm-2/",
         "image": ""
       },
@@ -133,7 +133,7 @@
         "designation": "IRESON RM 1",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2025-09-11 09:55 -0400",
+        "time": "2025-09-11T09:55-04:00",
         "permalink": "/reference-marks/pe1889-rm-1/",
         "image": ""
       },
@@ -151,7 +151,7 @@
         "designation": "IRESON",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-11 09:54 -0400",
+        "time": "2025-09-11T09:54-04:00",
         "permalink": "/surveymarks/pe1889/",
         "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/pe1889csm.jpg"
       },
@@ -169,7 +169,7 @@
         "designation": "12487-51",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-11 09:30 -0400",
+        "time": "2025-09-11T09:30-04:00",
         "permalink": "/surveymarks/12487-51/",
         "image": "https://images.planetzhanna.com/2025/09/11/thumbnails/12487-51csm.jpg"
       },
@@ -187,7 +187,7 @@
         "designation": "J 145",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-08 12:45 -0400",
+        "time": "2025-09-08T12:45-04:00",
         "permalink": "/surveymarks/pe0315-2/",
         "image": "https://images.planetzhanna.com/2025/09/08/thumbnails/pe0315csm.jpg"
       },
@@ -205,7 +205,7 @@
         "designation": "K 15",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2025-09-08 12:23 -0400",
+        "time": "2025-09-08T12:23-04:00",
         "permalink": "/surveymarks/k-15/",
         "image": ""
       },
@@ -223,7 +223,7 @@
         "designation": "WISCASSET BROWN SPIRE",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-04 10:03 -0400",
+        "time": "2025-09-04T10:03-04:00",
         "permalink": "/surveymarks/pe2418/",
         "image": "https://images.planetzhanna.com/2025/09/04/thumbnails/pe2418csm.jpg"
       },
@@ -241,7 +241,7 @@
         "designation": "WISCASSET CONG WHITE SPIRE",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-04 09:55 -0400",
+        "time": "2025-09-04T09:55-04:00",
         "permalink": "/surveymarks/pe2415/",
         "image": "https://images.planetzhanna.com/2025/09/04/thumbnails/pe2415csm.jpg"
       },
@@ -259,7 +259,7 @@
         "designation": "H 17",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-09-04 09:43 -0400",
+        "time": "2025-09-04T09:43-04:00",
         "permalink": "/surveymarks/pe1285/",
         "image": "https://images.planetzhanna.com/2025/09/04/thumbnails/pe1285csm.jpg"
       },
@@ -277,7 +277,7 @@
         "designation": "C 71",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-08-21 14:20:00 -0400",
+        "time": "2025-08-21T14:20:00-04:00",
         "permalink": "/surveymarks/kv1416/",
         "image": "https://images.planetzhanna.com/2025/08/21/thumbnails/kv1416csm.jpg"
       },
@@ -295,7 +295,7 @@
         "designation": "U 278 RESET",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-07-15 10:20:00 -0400",
+        "time": "2025-07-15T10:20:00-04:00",
         "permalink": "/surveymarks/ly2878/",
         "image": "https://images.planetzhanna.com/2025/07/15/thumbnails/ly2878csm.jpg"
       },
@@ -313,7 +313,7 @@
         "designation": "DANVILLE SLOVAK GIRLS ACAD TWR",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-04-14 10:20:00 -0400",
+        "time": "2025-04-14T10:20:00-04:00",
         "permalink": "/surveymarks/kw3143/",
         "image": "https://images.planetzhanna.com/2025/04/14/thumbnails/kw3143sqcsm.jpg"
       },
@@ -331,7 +331,7 @@
         "designation": "TT 46 T RM",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2025-04-02 09:08:00 -0400",
+        "time": "2025-04-02T09:08:00-04:00",
         "permalink": "/reference-marks/tt-46-t-rm/",
         "image": ""
       },
@@ -349,7 +349,7 @@
         "designation": "TT 46 T",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2025-04-02 09:08:00-04:00",
+        "time": "2025-04-02T09:08:00-04:00",
         "permalink": "/surveymarks/tt-46-t/",
         "image": ""
       },
@@ -385,7 +385,7 @@
         "designation": "PROP COR REF EL 329.99",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-10-07 16:29:00 -0400",
+        "time": "2024-10-07T16:29:00-04:00",
         "permalink": "/surveymarks/prop-cor-ref-el-329-99/",
         "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/prop-cor-329-99csm.jpg"
       },
@@ -403,7 +403,7 @@
         "designation": 327.5,
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-10-07 16:25:00 -0400",
+        "time": "2024-10-07T16:25:00-04:00",
         "permalink": "/surveymarks/327-50/",
         "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/327-50csm.jpg"
       },
@@ -421,7 +421,7 @@
         "designation": "X 248",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-10-07 13:15:00 -0400",
+        "time": "2024-10-07T13:15:00-04:00",
         "permalink": "/surveymarks/kw0226/",
         "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/kw0226csm.jpg"
       },
@@ -439,7 +439,7 @@
         "designation": "B 46",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-10-07 12:40:00 -0400",
+        "time": "2024-10-07T12:40:00-04:00",
         "permalink": "/surveymarks/kw0209/",
         "image": ""
       },
@@ -457,7 +457,7 @@
         "designation": "IRVING AZ MK",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-10-07 12:24:00 -0400",
+        "time": "2024-10-07 12:24:00 -04:00",
         "permalink": "/surveymarks/kw0234/",
         "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/kw0234csm.jpg"
       },
@@ -475,7 +475,7 @@
         "designation": "RV 128",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-10-07 12:20:00 -0400",
+        "time": "2024-10-07 12:20:00 -04:00",
         "permalink": "/surveymarks/kw0208/",
         "image": "https://images.planetzhanna.com/2024/10/07/thumbnails/kw0208csm.jpg"
       },
@@ -493,7 +493,7 @@
         "designation": "HUBER AZ MK",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-10-07 11:45:00 -0400",
+        "time": "2024-10-07 11:45:00 -04:00",
         "permalink": "/reference-marks/kw0231-az-mk/",
         "image": ""
       },
@@ -511,7 +511,7 @@
         "designation": "HUBER RM 2",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-10-07 11:30:00 -0400",
+        "time": "2024-10-07 11:30:00 -04:00",
         "permalink": "/reference-marks/kw0232/",
         "image": ""
       },
@@ -529,7 +529,7 @@
         "designation": "HUBER RM 1",
         "status": "Note Entered",
         "condition": "Unknown (Not Found)",
-        "time": "2024-10-07 11:20:00 -0400",
+        "time": "2024-10-07 11:20:00 -04:00",
         "permalink": "/reference-marks/kw0230/",
         "image": ""
       },
@@ -547,7 +547,7 @@
         "designation": "HUBER",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-10-07 11:15:00 -0400",
+        "time": "2024-10-07 11:15:00 -04:00",
         "permalink": "/surveymarks/kw0231/",
         "image": ""
       },
@@ -565,7 +565,7 @@
         "designation": "B 249",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-10-07 10:24:00 -0400",
+        "time": "2024-10-07 10:24:00 -04:00",
         "permalink": "/surveymarks/kw0229/",
         "image": ""
       },
@@ -583,7 +583,7 @@
         "designation": "RV 129 RDGRR",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-10-07 10:20:00 -0400",
+        "time": "2024-10-07 10:20:00 -04:00",
         "permalink": "/surveymarks/kw0210/",
         "image": ""
       },
@@ -601,7 +601,7 @@
         "designation": "16718-11",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-18 13:14:11 -0400",
+        "time": "2024-09-18 13:14:11 -04:00",
         "permalink": "/surveymarks/16718-11-2/",
         "image": "https://images.planetzhanna.com/2024/09/18/thumbnails/16718-11csm.jpg"
       },
@@ -619,7 +619,7 @@
         "designation": "HIGGINS RM 2",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-14 12:41:00 -0400",
+        "time": "2024-09-14 12:41:00 -04:00",
         "permalink": "/reference-marks/pe1870-rm-2-2/",
         "image": "https://images.planetzhanna.com/2024/09/14/thumbnails/pe1870rm2csm.jpg"
       },
@@ -637,7 +637,7 @@
         "designation": "HIGGINS RM 1",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-14 12:40:00 -0400",
+        "time": "2024-09-14 12:40:00 -04:00",
         "permalink": "/reference-marks/pe1870-rm-1-2/",
         "image": "https://images.planetzhanna.com/2024/09/14/thumbnails/pe1870rm1csm.jpg"
       },
@@ -655,7 +655,7 @@
         "designation": "HIGGINS",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-14 12:39:00 -0400",
+        "time": "2024-09-14 12:39:00 -04:00",
         "permalink": "/surveymarks/pe1870-2/",
         "image": "https://images.planetzhanna.com/2024/09/14/thumbnails/pe1870csm.jpg"
       },
@@ -673,7 +673,7 @@
         "designation": "K 6",
         "status": "Note Entered",
         "condition": "Unknown (Not Found)",
-        "time": "2024-09-14 10:35:00 -0400",
+        "time": "2024-09-14 10:35:00 -04:00",
         "permalink": "/surveymarks/k-6/",
         "image": ""
       },
@@ -691,7 +691,7 @@
         "designation": "TIDAL 5 STA 12",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-12 11:05:00 -0400",
+        "time": "2024-09-12 11:05:00 -04:00",
         "permalink": "/surveymarks/pe0301/",
         "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/pe0301csm.jpg"
       },
@@ -709,7 +709,7 @@
         "designation": "TIDAL 2 STA 12",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-12 11:00:00 -0400",
+        "time": "2024-09-12 11:00:00 -04:00",
         "permalink": "/surveymarks/pe0300/",
         "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/pe0300csm.jpg"
       },
@@ -727,7 +727,7 @@
         "designation": "TIDAL 6 STA 12",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-12 10:40:00 -0400",
+        "time": "2024-09-12 10:40:00 -04:00",
         "permalink": "/surveymarks/pe0299/",
         "image": "https://images.planetzhanna.com/2024/09/12/thumbnails/pe0299csm.jpg"
       },
@@ -745,7 +745,7 @@
         "designation": "C 145",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-09-12 10:30:00 -0400",
+        "time": "2024-09-12 10:30:00 -04:00",
         "permalink": "/surveymarks/pe0303/",
         "image": ""
       },
@@ -763,7 +763,7 @@
         "designation": "F 145",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-11 12:58:00 -0400",
+        "time": "2024-09-11 12:58:00 -04:00",
         "permalink": "/surveymarks/pe0312/",
         "image": "https://images.planetzhanna.com/2024/09/11/thumbnails/pe0312csm.jpg"
       },
@@ -781,7 +781,7 @@
         "designation": "K 16",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-11 12:37:00 -0400",
+        "time": "2024-09-11 12:37:00 -04:00",
         "permalink": "/surveymarks/pe0318/",
         "image": "https://images.planetzhanna.com/2024/09/11/thumbnails/pe0318csm.jpg"
       },
@@ -799,7 +799,7 @@
         "designation": "S 144",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-09-10 13:10:00 -0400",
+        "time": "2024-09-10 13:10:00 -04:00",
         "permalink": "/surveymarks/pe0291/",
         "image": ""
       },
@@ -817,7 +817,7 @@
         "designation": "A 145",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-10 12:57:00 -0400",
+        "time": "2024-09-10 12:57:00 -04:00",
         "permalink": "/surveymarks/pe0294/",
         "image": "https://images.planetzhanna.com/2024/09/10/thumbnails/pe0294csm.jpg"
       },
@@ -835,7 +835,7 @@
         "designation": "K 12",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-10 12:46:00 -0400",
+        "time": "2024-09-10 12:46:00 -04:00",
         "permalink": "/surveymarks/pe0292/",
         "image": "https://images.planetzhanna.com/2024/09/10/thumbnails/pe0292csm.jpg"
       },
@@ -853,7 +853,7 @@
         "designation": "Q 144 RESET",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-10 12:32:00 -0400",
+        "time": "2024-09-10 12:32:00 -04:00",
         "permalink": "/surveymarks/pe0287/",
         "image": "https://images.planetzhanna.com/2024/09/10/thumbnails/pe0287csm.jpg"
       },
@@ -871,7 +871,7 @@
         "designation": "S 7",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-09 13:28:00 -0400",
+        "time": "2024-09-09 13:28:00 -04:00",
         "permalink": "/surveymarks/s-7/",
         "image": "https://images.planetzhanna.com/2024/09/09/thumbnails/s7csm.jpg"
       },
@@ -889,7 +889,7 @@
         "designation": "S 6D",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-09 13:26:00 -0400",
+        "time": "2024-09-09 13:26:00 -04:00",
         "permalink": "/surveymarks/s-6d/",
         "image": "https://images.planetzhanna.com/2024/09/09/thumbnails/s6dcsm.jpg"
       },
@@ -907,7 +907,7 @@
         "designation": "NPS (Unstamped, Acadia #20)",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-08 11:46:00 -0400",
+        "time": "2024-09-08 11:46:00 -04:00",
         "permalink": "/surveymarks/nps-unstamped-acadia-20/",
         "image": "https://images.planetzhanna.com/2024/09/08/thumbnails/nps-unstamped-acadia-20csm.jpg"
       },
@@ -925,7 +925,7 @@
         "designation": "NPS (Unstamped, Acadia #19)",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-07 12:35:00 -0400",
+        "time": "2024-09-07 12:35:00 -04:00",
         "permalink": "/surveymarks/nps-unstamped-acadia-19/",
         "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-19csm.jpg"
       },
@@ -943,7 +943,7 @@
         "designation": "NPS (Unstamped, Acadia #18)",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-07 12:30:00 -0400",
+        "time": "2024-09-07 12:30:00 -04:00",
         "permalink": "/surveymarks/nps-unstamped-acadia-18/",
         "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-18csm.jpg"
       },
@@ -961,7 +961,7 @@
         "designation": "NPS (Unstamped, Acadia #17)",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-07 12:22:00 -0400",
+        "time": "2024-09-07 12:22:00 -04:00",
         "permalink": "/surveymarks/nps-unstamped-acadia-17/",
         "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-17csm.jpg"
       },
@@ -979,7 +979,7 @@
         "designation": "NPS (Unstamped, Acadia #16)",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-07 12:19:00 -0400",
+        "time": "2024-09-07 12:19:00 -04:00",
         "permalink": "/surveymarks/nps-unstamped-acadia-16/",
         "image": "https://images.planetzhanna.com/2024/09/07/thumbnails/nps-unstamped-acadia-16csm.jpg"
       },
@@ -997,7 +997,7 @@
         "designation": "Boundary Monument (Unstamped, #2)",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-06 13:53:00 -0400",
+        "time": "2024-09-06 13:53:00 -04:00",
         "permalink": "/surveymarks/boundary-monument-unstamped-2/",
         "image": "https://images.planetzhanna.com/2024/09/06/thumbnails/boundary-monument-unstamped-2csm.jpg"
       },
@@ -1015,7 +1015,7 @@
         "designation": "T 18 RESET",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-05 11:36:00 -0400",
+        "time": "2024-09-05 11:36:00 -04:00",
         "permalink": "/surveymarks/t-18-reset/",
         "image": ""
       },
@@ -1033,7 +1033,7 @@
         "designation": "S 18",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-05 11:18:00 -0400",
+        "time": "2024-09-05 11:18:00 -04:00",
         "permalink": "/surveymarks/pe0901/",
         "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/pe0901csm.jpg"
       },
@@ -1051,7 +1051,7 @@
         "designation": 102,
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-05 11:09:00 -0400",
+        "time": "2024-09-05 11:09:00 -04:00",
         "permalink": "/surveymarks/pe0905/",
         "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/pe0905csm.jpg"
       },
@@ -1069,7 +1069,7 @@
         "designation": "TIDAL 2 STA 31",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-05 10:47:00 -0400",
+        "time": "2024-09-05 10:47:00 -04:00",
         "permalink": "/surveymarks/pe0902/",
         "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/pe0902csm.jpg"
       },
@@ -1087,7 +1087,7 @@
         "designation": "TIDAL 3 STA 31",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-05 10:45:00 -0400",
+        "time": "2024-09-05 10:45:00 -04:00",
         "permalink": "/surveymarks/pe0903/",
         "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/pe0903csm.jpg"
       },
@@ -1105,7 +1105,7 @@
         "designation": "TIDAL 7 STA 31",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-09-05 10:34:00 -0400",
+        "time": "2024-09-05 10:34:00 -04:00",
         "permalink": "/surveymarks/pe0904/",
         "image": "https://images.planetzhanna.com/2024/09/05/thumbnails/pe0904csm.jpg"
       },
@@ -1123,7 +1123,7 @@
         "designation": "MAPLE RM 2",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-06-29 15:20:59 -0400",
+        "time": "2024-06-29 15:20:59 -04:00",
         "permalink": "/reference-marks/kw1072/",
         "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw1072csm.jpg"
       },
@@ -1141,7 +1141,7 @@
         "designation": "MAPLE RM 1",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-06-29 15:19:59 -0400",
+        "time": "2024-06-29 15:19:59 -04:00",
         "permalink": "/reference-marks/kw1070/",
         "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw1070csm.jpg"
       },
@@ -1159,7 +1159,7 @@
         "designation": "MAPLE",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2024-06-29 15:18:59 -0400",
+        "time": "2024-06-29 15:18:59 -04:00",
         "permalink": "/surveymarks/kw1071/",
         "image": ""
       },
@@ -1177,7 +1177,7 @@
         "designation": "WRIGHTSVILLE RESET",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-06-29 15:09:59 -0400",
+        "time": "2024-06-29 15:09:59 -04:00",
         "permalink": "/surveymarks/kw3233/",
         "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw3233csm.jpg"
       },
@@ -1195,7 +1195,7 @@
         "designation": "COLUMBIA W BASE",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2024-06-29 14:56:59 -0400",
+        "time": "2024-06-29 14:56:59 -04:00",
         "permalink": "/surveymarks/kw0803/",
         "image": "https://images.planetzhanna.com/2024/06/29/thumbnails/kw0803csm.jpg"
       },
@@ -24173,7 +24173,7 @@
         "designation": "NY CENTER OF POPULATION",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2002-11-03 16:00:01 -0400",
+        "time": "2002-11-03 16:00:01 -04:00",
         "permalink": "/surveymarks/dg9708/",
         "image": "https://images.planetzhanna.com/2002/11/03/thumbnails/dg9708csm.jpg"
       },
@@ -24263,7 +24263,7 @@
         "designation": "MT MINSI",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "10/20/2002 18:22",
+        "time": "2002-10-20T18:22-05:00",
         "permalink": "/surveymarks/kv3570/",
         "image": ""
       },
@@ -24281,7 +24281,7 @@
         "designation": "AIRWAY BN 22 B S DEL WATER GAP",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "10/20/2002 18:02",
+        "time": "2002-10-20T18:02-05:00",
         "permalink": "/surveymarks/kv3571/",
         "image": ""
       },
