@@ -21,6 +21,10 @@
   .timeline-control .noUi-target {
     margin-top: 4px;
   }
+
+  .default-template a.strong {
+    font-weight: bold;
+  }
 </style>
 
 <!-- <div class="fullscreen-map-wrapper"> -->
@@ -109,7 +113,7 @@
         let date = new Date(feature.properties.time).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
         marker.bindPopup(`
-      <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
+      <a href="${feature.properties.permalink}" class="strong" target='_blank'>${feature.properties.designation}</a><br>
       Status: ${feature.properties.status}<br>
       Date: ${date}
     `);
@@ -138,7 +142,7 @@
     /* ------------------ Set up grouped control ------------------ */
 
     const groupedOverlays = {
-      "Statuses": statusLayers
+      "Status": statusLayers
     };
 
     L.control.groupedLayers(
