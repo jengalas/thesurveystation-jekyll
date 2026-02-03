@@ -28,12 +28,25 @@
 </style>
 
 <!-- <div class="fullscreen-map-wrapper"> -->
-<div id="map" class="map" style="height: 600px;"></div>
+<div id="map" class="map" style="height: 900px;"></div>
 <!-- </div> -->
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
+
+  const params = new URLSearchParams(window.location.search);
+
+  let mapFullExtent = true; // by default, show full extent
+
+  if (params.has("lat") && params.has("lng")) {
+    const lat = parseFloat(params.get("lat"));
+    const lng = parseFloat(params.get("lng"));
+
+    if (!Number.isNaN(lat) && !Number.isNaN(lng)) {
+      mapFullExtent = false;
+    }
+  }
 
   function parseTimestamp(str) {
     if (!str) return NaN;
@@ -94,6 +107,13 @@
       });
     }
 
+    function getImage(imageUrl) {
+      if (!imageUrl)
+        return "";
+      else
+        return imageUrl;
+    }
+
     L.geoJSON(geojson, {
       pointToLayer: (feature, latlng) => {
         const marker = L.marker(latlng, {
@@ -104,7 +124,6 @@
 
         // Metadata used for AND filtering
         const timestamp = parseTimestamp(feature.properties.time);
-        console.log(timestamp,feature.properties.designation);
         marker.meta = {
           status: feature.properties.status,
           timestamp
@@ -114,8 +133,8 @@
 
         marker.bindPopup(`
       <a href="${feature.properties.permalink}" class="strong" target='_blank'>${feature.properties.designation}</a><br>
-      Status: ${feature.properties.status}<br>
-      Date: ${date}
+      <b>Status:</b> ${feature.properties.status}, ${feature.properties.condition}<br>
+      <b>Date:</b> ${date}<img style='max-width:100%;' src='${getImage(feature.properties.image)}'>
     `);
 
         allMarkers.push(marker);
@@ -177,7 +196,7 @@
 
       // Zoom to fit currently visible markers
       if (clusterGroup.getLayers().length > 0) {
-        map.fitBounds(clusterGroup.getBounds(), { padding: [150, 150] });
+        map.fitBounds(clusterGroup.getBounds(), { padding: [50, 50] });
       }
     }
 
