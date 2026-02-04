@@ -38,6 +38,8 @@
   const params = new URLSearchParams(window.location.search);
 
   let mapFullExtent = true; // by default, show full extent
+  let targetLat = null;
+  let targetLng = null;
 
   if (params.has("lat") && params.has("lng")) {
     const lat = parseFloat(params.get("lat"));
@@ -45,8 +47,12 @@
 
     if (!Number.isNaN(lat) && !Number.isNaN(lng)) {
       mapFullExtent = false;
+      targetLat = lat;
+      targetLng = lng;
     }
   }
+
+  console.log(mapFullExtent);
 
   function parseTimestamp(str) {
     if (!str) return NaN;
@@ -91,6 +97,13 @@
     /* ------------------ Create markers one time ------------------ */
 
     const allMarkers = [];
+
+    const markerByCoord = {};         // Create a marker hash (lookup) table
+    function keyForLatLng(lat, lng) {
+      return `${lat.toFixed(6)},${lng.toFixed(6)}`;   // This usually resolves issues with the lat/lng having slightly different decimals than the geoJSON
+    }
+
+    // TODO: Store some kind of feature ID rather than coordinates in the URL in order to deal with the potential precision issue above
 
     const statusColors = {
       "Recovered": "green",
@@ -137,6 +150,9 @@
       <b>Date:</b> ${date}<img style='max-width:100%;' src='${getImage(feature.properties.image)}'>
     `);
 
+        const k = keyForLatLng(latlng.lat, latlng.lng);
+        markerByCoord[k] = marker;
+
         allMarkers.push(marker);
         return marker;
       }
@@ -158,6 +174,11 @@
       statusLayers[f.properties.status] ??= L.layerGroup();
     });
 
+    const markersByStatus = {};   // Pre-group markers by status for faster filtering
+    allMarkers.forEach(m => {
+      (markersByStatus[m.meta.status] ??= []).push(m);
+    });
+
     /* ------------------ Set up grouped control ------------------ */
 
     const groupedOverlays = {
@@ -177,26 +198,37 @@
 
     // Initialize filter state
     const activeStatuses = new Set(Object.keys(statusLayers));
+
     /* ------------------ Create AND filter ------------------ */
 
+    let lastFilterKey = "";       // To avoid redundant redraws
+
     function applyFilters() {
+      const key = JSON.stringify({
+        statuses: [...activeStatuses].sort(),
+        range: activeRange
+      });
+
+      if (key === lastFilterKey) return;
+      lastFilterKey = key;
+
       clusterGroup.clearLayers();
 
-      allMarkers.forEach(marker => {
-        const { status } = marker.meta;
-        const t = marker.meta.timestamp;
-        if (
-          activeStatuses.has(status) &&
-          t >= activeRange[0] &&
-          t <= activeRange[1]
-        ) {
-          clusterGroup.addLayer(marker);
-        }
+      activeStatuses.forEach(status => {
+        const list = markersByStatus[status] || [];
+        list.forEach(marker => {
+          const t = marker.meta.timestamp;
+          if (t >= activeRange[0] && t <= activeRange[1]) {
+            clusterGroup.addLayer(marker);
+          }
+        });
       });
 
       // Zoom to fit currently visible markers
       if (clusterGroup.getLayers().length > 0) {
-        map.fitBounds(clusterGroup.getBounds(), { padding: [50, 50] });
+        if (mapFullExtent) {
+          map.fitBounds(clusterGroup.getBounds(), { padding: [50, 50] });
+        }
       }
     }
 
@@ -316,6 +348,22 @@
 
     applyFilters();
     updateCounts();
+
+    if (!mapFullExtent && targetLat !== null && targetLng !== null) {
+      const k = keyForLatLng(targetLat, targetLng);
+      const marker = markerByCoord[k];
+
+      if (marker) {
+        // Ensure it’s in the cluster and visible
+        clusterGroup.zoomToShowLayer(marker, () => {
+          map.setView([targetLat, targetLng], 14); // choose zoom you like
+          marker.openPopup();
+        });
+      } else {
+        // Fallback: at least center the map
+        map.setView([targetLat, targetLng], 14);
+      }
+    }
   }
 
 </script>
