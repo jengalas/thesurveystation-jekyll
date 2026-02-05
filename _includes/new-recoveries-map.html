@@ -5,6 +5,9 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+<!-- Leaflet Search -->
+<link rel="stylesheet" href="/assets/css/leaflet-search.min.css">
+<script src="/assets/js/leaflet-search.min.js"></script>
 <!-- Leaflet AwesomeMarkers -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
@@ -38,6 +41,7 @@
   const params = new URLSearchParams(window.location.search);
 
   let mapFullExtent = true; // by default, show full extent
+  let suppressAutoFitOnce = false;
   let targetLat = null;
   let targetLng = null;
   let targetZoom = null;
@@ -48,12 +52,11 @@
 
     if (!Number.isNaN(lat) && !Number.isNaN(lng)) {
       mapFullExtent = false;
+      suppressAutoFitOnce = true;   // only suppress the first fit
       targetLat = lat;
       targetLng = lng;
     }
   }
-
-  console.log(mapFullExtent);
 
   function parseTimestamp(str) {
     if (!str) return NaN;
@@ -154,11 +157,56 @@
     `);
 
         marker.on("popupopen", e => {
+          const popup = e.popup;
+
+          // Wait a tick so the popup is in the DOM and has a real size
           requestAnimationFrame(() => {
-            map.panInside(e.popup.getLatLng(), {
-              padding: [20, 20],
-              animate: true
+            const popupEl = popup.getElement();
+            popupEl.querySelectorAll("img").forEach(img => {
+              if (!img.complete) {
+                img.addEventListener("load", () => {
+                  // Re-run the same pan logic after image loads
+                  const popupRect = popupEl.getBoundingClientRect();
+                  const mapRect = map.getContainer().getBoundingClientRect();
+                  const pad = 20;
+
+                  let dx = 0, dy = 0;
+
+                  if (popupRect.right > mapRect.right - pad) dx = popupRect.right - (mapRect.right - pad);
+                  if (popupRect.left < mapRect.left + pad) dx = popupRect.left - (mapRect.left + pad);
+                  if (popupRect.bottom > mapRect.bottom - pad) dy = popupRect.bottom - (mapRect.bottom - pad);
+                  if (popupRect.top < mapRect.top + pad) dy = popupRect.top - (mapRect.top + pad);
+
+                  if (dx || dy) map.panBy([dx, dy], { animate: true });
+                }, { once: true });
+              }
             });
+            if (!popupEl) return;
+
+            const popupRect = popupEl.getBoundingClientRect();
+            const mapRect = map.getContainer().getBoundingClientRect();
+
+            const pad = 20; // pixels of padding from edges
+
+            let dx = 0;
+            let dy = 0;
+
+            if (popupRect.right > mapRect.right - pad) {
+              dx = popupRect.right - (mapRect.right - pad);
+            }
+            if (popupRect.left < mapRect.left + pad) {
+              dx = popupRect.left - (mapRect.left + pad);
+            }
+            if (popupRect.bottom > mapRect.bottom - pad) {
+              dy = popupRect.bottom - (mapRect.bottom - pad);
+            }
+            if (popupRect.top < mapRect.top + pad) {
+              dy = popupRect.top - (mapRect.top + pad);
+            }
+
+            if (dx !== 0 || dy !== 0) {
+              map.panBy([dx, dy], { animate: true });
+            }
           });
         });
 
@@ -238,11 +286,36 @@
 
       // Zoom to fit currently visible markers
       if (clusterGroup.getLayers().length > 0) {
-        if (mapFullExtent) {
+        if (suppressAutoFitOnce) {
+          // Skip exactly once (for deep link initial view)
+          suppressAutoFitOnce = false;
+        } else {
           map.fitBounds(clusterGroup.getBounds(), { padding: [50, 50] });
         }
       }
     }
+
+    let textSearch = L.control.search({
+      layer: clusterGroup,
+      initial: false,
+      zoom: 9,
+      marker: {
+        animate: false,
+        circle: false,
+        icon: false
+      },
+      textPlaceholder: 'Search by designation ...',
+      propertyName: 'designation',
+      hideMarkerOnCollapse: true,
+      moveToLocation: function (latlng, title, map) {
+        let zoom = 18;
+        map.setView(latlng, zoom);
+      }
+    }).addTo(map);
+
+    textSearch.on('search:locationfound', function (event) {
+      event.layer.openPopup();
+    });
 
     /* ------------------ Timeline control (inside map) ------------------ */
 
@@ -374,12 +447,12 @@
         }
         // Ensure it’s in the cluster and visible
         clusterGroup.zoomToShowLayer(marker, () => {
-          map.setView([targetLat, targetLng], targetZoom || 14); // choose appropriate zoom level
+          map.setView([targetLat, targetLng], targetZoom || 18); // choose appropriate zoom level
           marker.openPopup();
         });
       } else {
         // Fallback: at least center the map
-        map.setView([targetLat, targetLng], targetZoom || 14);
+        map.setView([targetLat, targetLng], targetZoom || 18);
       }
     }
   }
