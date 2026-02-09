@@ -25,6 +25,6 @@ galleries:
     - filename: nps-unstamped-acadia-23g2
       alt: A boat is tied up to the post. 
     - filename: nps-unstamped-acadia-23g3
-      alt:                    
+      alt: Looking SW from the dock                   
 featured_image: nps-unstamped-acadia-23csm.jpg    
 ---
