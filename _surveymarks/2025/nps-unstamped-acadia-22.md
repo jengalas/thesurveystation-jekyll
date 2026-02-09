@@ -23,6 +23,6 @@ galleries:
     - filename: nps-unstamped-acadia-22g1
       alt: Eyelevel view of the disk on top of the granite post   
     - filename: nps-unstamped-acadia-22g2
-      alt: Looking W from the boat ramp toward the boundary marker       
+      alt: Looking W from the boat ramp toward the boundary marker            
 featured_image: nps-unstamped-acadia-22csm.jpg    
 ---
