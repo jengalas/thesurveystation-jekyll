@@ -148,18 +148,18 @@
           timestamp
         };
 
-        let date = new Date(feature.properties.time).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-
         const { condition, designation, image, permalink, status, time } = feature.properties;
         const [lng, lat] = feature.geometry.coordinates;
 
-        console.log(feature.geometry.coordinates);
+        const date = new Date(time).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
-        marker.bindPopup(`
-      <a href="${feature.properties.permalink}" class="strong" target='_blank'>${feature.properties.designation}</a><br>
-      <b>Status:</b> ${feature.properties.status}, ${feature.properties.condition}<br>
-      <b>Date:</b> ${date}<img style='max-width:100%;' loading='lazy' src='${getImage(feature.properties.image)}'>
-    `);
+        const popupText = `
+          <a href="${permalink}" class="strong" target='_blank'>${designation}</a><br>
+          <b>Status:</b> ${status}, ${condition}<br>
+          <b>Date:</b> ${date}<img style='max-width:100%;' loading='lazy' src='${getImage(image)}'>
+        `;
+
+        marker.bindPopup(popupText);
 
         marker.on("popupopen", e => {
           const popup = e.popup;
