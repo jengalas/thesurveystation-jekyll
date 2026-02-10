@@ -126,13 +126,6 @@
       });
     }
 
-    function getImage(imageUrl) {
-      if (!imageUrl)
-        return "";
-      else
-        return imageUrl;
-    }
-
     L.geoJSON(geojson, {
       pointToLayer: (feature, latlng) => {
         const marker = L.marker(latlng, {
@@ -153,10 +146,14 @@
 
         const date = new Date(time).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
+        const thumbnail = image || "";
+
+        console.log(thumbnail);
+
         const popupText = `
           <a href="${permalink}" class="strong" target='_blank'>${designation}</a><br>
           <b>Status:</b> ${status}, ${condition}<br>
-          <b>Date:</b> ${date}<img style='max-width:100%;' loading='lazy' src='${getImage(image)}'>
+          <b>Date:</b> ${date}<a href="${permalink}" class="strong" target='_blank'><img style='max-width:100%;' loading='lazy' src='${thumbnail}'></a>
         `;
 
         marker.bindPopup(popupText);
