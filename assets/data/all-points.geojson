@@ -4,16 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "NPS (Unstamped, Acadia #22)": "NPS (Unstamped, Acadia #21)",
-        "Recovered": "Recovered",
-        "Good": "Good",
-        "2025-09-17T10:50:00-04:00": "2025-09-17T10:47:00-04:00",
-        "/surveymarks/nps-unstamped-acadia-22/": "/surveymarks/nps-unstamped-acadia-21/",
-        "-68.203121": -68.203128,
-        "44.32134": 44.32144,
-        "https://images.planetzhanna.com/2025/09/17/thumbnails/nps-unstamped-acadia-22csm.jpg": "https://images.planetzhanna.com/2025/09/17/thumbnails/nps-unstamped-acadia-21csm.jpg"
+        "designation": "NPS (Unstamped, Acadia #23)",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-09-17T10:52:00-04:00",
+        "permalink": "/surveymarks/nps-unstamped-acadia-23/",
+        "image": "https://images.planetzhanna.com/2025/09/17/thumbnails/nps-unstamped-acadia-23csm.jpg"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20302,
+          44.321261
+        ]
+      }
     },
     {
       "type": "Feature",
