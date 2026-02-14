@@ -3,6 +3,8 @@ url: "https://thesurveystation.com"
 title: "Zhanna's SurveyStation" # the name of your site, e.g. ACME Corp.
 # timezone: 'America/New_York'  Commented out 2/2/2026 to try to get timestamps working correctly on all-points.md.
 
+port: 4001
+
 collections:
   surveymarks:
     output: true
