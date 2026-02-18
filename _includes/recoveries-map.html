@@ -433,9 +433,10 @@
     applyFilters();
     updateCounts();
 
-    const mapPanel = document.getElementById('panel-2');
-    if (mapPanel) {
-      const resizeObserver = new ResizeObserver(entries => {
+    const mapPanel = document.getElementById('panel-map');
+
+    if (mapPanel) { 
+      const resizeObserver = new ResizeObserver(entries => {   // Listen for size changes to the map panel (e.g. when accordion opens) so Leaflet map will display correctly
         for (let entry of entries) {
           if (entry.contentRect.height > 0) {
 
