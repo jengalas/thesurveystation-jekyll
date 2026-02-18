@@ -433,12 +433,14 @@
     applyFilters();
     updateCounts();
 
-    const mapPanel = document.getElementById('panel-map');
+    const mapContainer = map.getContainer();
 
-    if (mapPanel) { 
-      const resizeObserver = new ResizeObserver(entries => {   // Listen for size changes to the map panel (e.g. when accordion opens) so Leaflet map will display correctly
+    // If the map was initialized hidden
+    if (mapContainer.offsetWidth === 0 || mapContainer.offsetHeight === 0) {
+
+      const resizeObserver = new ResizeObserver(entries => {  // Listen for size changes to the map container (e.g. when accordion opens) so Leaflet map will display correctly
         for (let entry of entries) {
-          if (entry.contentRect.height > 0) {
+          if (entry.contentRect.width > 0 && entry.contentRect.height > 0) {
 
             map.invalidateSize();
 
@@ -446,11 +448,12 @@
               map.fitBounds(clusterGroup.getBounds());
             }
 
+            resizeObserver.disconnect(); // Run once, then stop
           }
         }
       });
 
-      resizeObserver.observe(mapPanel);
+      resizeObserver.observe(mapContainer.parentElement);
     }
 
     if (!mapFullExtent && targetLat !== null && targetLng !== null) {
@@ -485,4 +488,5 @@
       updateCounts();
     }
   }
+
 </script>
