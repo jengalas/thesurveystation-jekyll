@@ -19,20 +19,29 @@
 <script>
 
   const mapType = "{{ include.type }}";
-  const markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40, -75], {{ zoom }});
+  const map = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([40, -75], {{ zoom }});
   const geodataFile = "/assets/data/posts/geodata/{{ include.file }}";
 
-  objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
+  objBasemaps['{{ basemap }}'].addTo(map); // Assign default basemap
 
-  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap);
+  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(map);
 
-  switch (mapType) {
-    case 'geojson':
-      const geojsonLayer = $.getJSON(geodataFile, function (geojsonData) {
-        const allPoints = L.geoJson(geojsonData, {
+  loadMapData(mapType, geodataFile);
+
+  async function loadMapData(mapType, geodataFile) {
+    let overlayLayer;
+    switch (mapType) {
+      case 'geojson': {
+        const response = await fetch(geodataFile);
+        if (!response.ok) throw new Error(response.statusText);
+
+        const geojsonData = await response.json();
+
+        overlayLayer = L.geoJson(geojsonData, {
           pointToLayer: function (feature, latlng) {
             const iconColor = "{{ include.icon_color }}";
             const iconNumber = feature.properties.number;
+
             const myIcon = L.divIcon({
               className: "number-icon-" + iconColor,
               iconSize: [25, 41],
@@ -40,48 +49,66 @@
               popupAnchor: [3, -40],
               html: iconNumber
             });
-            return new L.marker(latlng, { icon: myIcon, riseOnHover: true }).setZIndexOffset(1000 - iconNumber);
+
+            return L.marker(latlng, {
+              icon: myIcon,
+              riseOnHover: true
+            }).setZIndexOffset(1000 - iconNumber);
           },
+
           onEachFeature: function (feature, layer) {
-            layer.bindPopup("<a href=" + feature.properties.link_href + "><b>" + feature.properties.name + '</b></a><br>' + feature.properties.desc);
+            layer.bindPopup(
+              `<a href="${feature.properties.link_href}">
+              <b>${feature.properties.name}</b>
+             </a><br>${feature.properties.desc}`
+            );
           }
-        }).addTo(markMap);
+        });
 
-        const objOverlays = { "POIs": allPoints };
-        const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
-        markMap.fitBounds(allPoints.getBounds().pad(.5));
-        createGoogleMapLink(markMap);
-      });
-      break;
-    case 'gpx':
-      const lyrGPX = new L.GPX(geodataFile, {
-        async: true,
-        markers: {
-          wptIconUrls: {
-            '': '200px-Yellow_icon.svg.png',
-            'Flag, Blue': 'blue-flag-32.png'
+        overlayLayer.addTo(map);
+        break;
+      }
+      case 'gpx': {
+        overlayLayer = new L.GPX(geodataFile, {
+          async: true,
+          markers: {
+            wptIconUrls: {
+              '': '200px-Yellow_icon.svg.png',
+              'Flag, Blue': 'blue-flag-32.png'
+            },
+            iconSize: [20, 20],
+            iconAnchor: [0, 16],
+            startIcon: null,
+            endIcon: null
           },
-          iconSize: [20, 20],
-          iconAnchor: [0, 16],
-          startIcon: null,
-          endIcon: null
-        },
-        polyline_options: {
-          color: "red"
-        }
-      }).on('loaded', function (e) {
-        markMap.fitBounds(e.target.getBounds().pad(0.1));
-        createGoogleMapLink(markMap);
-      }).addTo(markMap);
+          polyline_options: {
+            color: "red"
+          }
+        }).addTo(map);
 
-      const objOverlays = { "POIs": lyrGPX };
-      const ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
-    default:
-      throw new Error('Invalid type');
+        // GPX loads asynchronously
+        await new Promise(resolve => {
+          overlayLayer.on('loaded', resolve);
+        });
+
+        break;
+      }
+
+      default:
+        throw new Error('Invalid type');
+    }
+
+    L.control.layers(objBasemaps, { "POIs": overlayLayer }).addTo(map);
+
+    if (overlayLayer.getBounds) {
+      map.fitBounds(overlayLayer.getBounds().pad(0.3));
+    }
+
+    createGoogleMapLink(map);
   }
 
   function createGoogleMapLink(map) {
-    const center = markMap.getBounds().getCenter();
+    const center = map.getBounds().getCenter();
     const googleMapLink = document.getElementById("google-map");
     googleMapLink.innerHTML = "<a href=https://www.google.com/maps/search/?api=1&query=" + center.lat + "," + center.lng + ">Google Map</a>";
   }

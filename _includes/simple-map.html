@@ -19,18 +19,18 @@
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-  var markMap = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([{{ latitude }}, {{ longitude }}], {{ zoom }});
+  var map = L.map('{{ page.id }}-{{ mapid }}', { fullscreenControl: true, }).setView([{{ latitude }}, {{ longitude }}], {{ zoom }});
 
-  var marker = L.marker([{{ latitude }}, {{ longitude }}]).addTo(markMap);
+  var marker = L.marker([{{ latitude }}, {{ longitude }}]).addTo(map);
   marker.bindPopup("{{ marker_name }}");
 
-  objBasemaps['{{ basemap }}'].addTo(markMap); // Assign default basemap
+  objBasemaps['{{ basemap }}'].addTo(map); // Assign default basemap
 
   var objOverlays = {
     '{{ marker_name }}': marker
   };
 
-  var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+  var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(map);
 
-  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(markMap); 
+  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(map); 
 </script>

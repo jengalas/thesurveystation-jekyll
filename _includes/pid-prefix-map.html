@@ -1,11 +1,11 @@
 <div class="fullscreen-map-wrapper">
-    <div id="pidprefix-map" class="map"></div>
+  <div id="pidprefix-map" class="map"></div>
 </div>
 <style>
-    .leaflet-tooltip {
-        font-size: 6px;
-        padding: 1px;
-    }
+  .leaflet-tooltip {
+    font-size: 6px;
+    padding: 1px;
+  }
 </style>
 
 <!-- Load common basemaps -->
@@ -14,116 +14,122 @@
 <!-- Load PID prefix data -->
 <script src="/assets/data/pid-prefixes.js"></script>
 <script>
-$(document).ready(function(){
-    let pidPrefixMap = L.map('pidprefix-map', { fullscreenControl: true, geocoderControl: true }).setView([51.9, 7.9], 9);
-    
-    L.control.mapCenterCoord().addTo(pidPrefixMap);
 
-    objBasemaps['OpenStreetMap'].addTo(pidPrefixMap); // Assign default basemap
-    
-    lyrTopoQuads = L.geoJSON(geojsonFeature, {
-        weight: 2,                  
-        onEachFeature: function (feature, layer) {
-            var popupText = '<b>'+feature.properties.PID+'</b>';     
-            layer.bindPopup(popupText);
-            var zoomLevel = pidPrefixMap.getZoom();
-            console.log(zoomLevel);
-            if (zoomLevel <= 15 ) {
-            layer.bindTooltip(feature.properties.PID,
-                {permanent: true, direction:"center"});
-            } else {
-                layer.bindTooltip(feature.properties.PID,
-                {permanent: true, direction:"center"}).openTooltip();
-            }
-            layer.on({
-                mouseover: highlightFeature,
-                mouseout: clearFeature
-            });
-        }
-    }).addTo(pidPrefixMap);
+  let map = L.map('pidprefix-map', { fullscreenControl: true, geocoderControl: true }).setView([51.9, 7.9], 9);
 
-    pidPrefixMap.fitBounds(lyrTopoQuads.getBounds());
+  L.control.mapCenterCoord().addTo(map);
 
-    let objOverlays = {
-        "15' USGS Topo Quads": lyrTopoQuads
-    };
+  objBasemaps['OpenStreetMap'].addTo(map); // Assign default basemap
 
-    let ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(pidPrefixMap);
-
-    let ctlAttribute = L.control.attribution({position: "bottomleft"}).addTo(pidPrefixMap);    
-    ctlAttribute.addAttribution("&copy; <a target='_blank' href='https://thesurveystation.com'>Zhanna's SurveyStation</a>");
-
-    let ctlScale = L.control.scale({position: "bottomleft", metric: false, maxWidth: 200}).addTo(pidPrefixMap);
-
-    // Create infowindow at bottom right to display PID on-hover
-    let ctlInfo = L.control({position: "bottomright"});
-
-    ctlInfo.onAdd = function (pidPrefixMap) {
-        this._div = L.DomUtil.create('div', 'info');
-        this.update();
-        return this._div;
-    };
-
-    ctlInfo.update = function (props) {
-        if (props != undefined) {
-            this._div.innerHTML = "<b>PID Prefix</b><br>" + props.PID;
-            this._div.style.padding = "10px 12px";
-        }
-        else {
-            this._div.innerHTML = "";
-            this._div.style.padding = "0";
-        }
-    };
-
-    ctlInfo.addTo(pidPrefixMap);
-
-    if (L.Browser.mobile) {
-        pidPrefixMap.removeControl(pidPrefixMap.zoomControl);
-        pidPrefixMap.removeControl(ctlInfo);
-        pidPrefixMap.removeControl(ctlScale);
+  lyrTopoQuads = L.geoJSON(geojsonFeature, {
+    weight: 2,
+    onEachFeature: function (feature, layer) {
+      var popupText = '<b>' + feature.properties.PID + '</b>';
+      layer.bindPopup(popupText);
+      var zoomLevel = map.getZoom();
+      console.log(zoomLevel);
+      if (zoomLevel <= 15) {
+        layer.bindTooltip(feature.properties.PID,
+          { permanent: true, direction: "center" });
+      } else {
+        layer.bindTooltip(feature.properties.PID,
+          { permanent: true, direction: "center" }).openTooltip();
+      }
+      layer.on({
+        mouseover: highlightFeature,
+        mouseout: clearFeature
+      });
     }
+  }).addTo(map);
 
-    function highlightFeature(e) {
-        layer = e.target;    
-        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-            layer.bringToFront();
-        }    
-        ctlInfo.update(layer.feature.properties);
+  map.fitBounds(lyrTopoQuads.getBounds());
+
+  let objOverlays = {
+    "15' USGS Topo Quads": lyrTopoQuads
+  };
+
+  let ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(map);
+
+  let ctlAttribute = L.control.attribution({ position: "bottomleft" }).addTo(map);
+  ctlAttribute.addAttribution("&copy; <a target='_blank' href='https://thesurveystation.com'>Zhanna's SurveyStation</a>");
+
+  let ctlScale = L.control.scale({ position: "bottomleft", metric: false, maxWidth: 200 }).addTo(map);
+
+  // Create infowindow at bottom right to display PID on hover
+  let ctlInfo = L.control({ position: "bottomright" });
+
+  ctlInfo.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info');
+    this.update();
+    return this._div;
+  };
+
+  ctlInfo.update = function (props) {
+    if (props != undefined) {
+      this._div.innerHTML = "<b>PID Prefix</b><br>" + props.PID;
+      this._div.style.padding = "10px 12px";
     }
-
-    function clearFeature(e) {
-        layer = e.target;    
-        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-            layer.bringToFront();
-        }    
-        ctlInfo.update();
+    else {
+      this._div.innerHTML = "";
+      this._div.style.padding = "0";
     }
+  };
 
-    pidPrefixMap.on('zoomend', function () {
-        var zoomLevel = pidPrefixMap.getZoom();
-        var tooltip = $('.leaflet-tooltip');
-        switch (zoomLevel) {                
-            case 1:
-                tooltip.css('display', 'none');
-                break;
-            case 2:
-                tooltip.css('display', 'none');
-                break;
-            case 3:                    
-                tooltip.css('font-size', 8);
-                tooltip.css('display', 'block');
-                break;
-            case 4:    
-                tooltip.css('font-size', 10);
-                tooltip.css('display', 'block');
-                break; 
-            case 5:                    
-                tooltip.css('font-size', 11);
-                tooltip.css('display', 'block');
-                break;    
-            default:
-                tooltip.css('font-size', 14);
-        }
-    });    
-});
+  ctlInfo.addTo(map);
+
+  if (L.Browser.mobile) {
+    map.removeControl(map.zoomControl);
+    map.removeControl(ctlInfo);
+    map.removeControl(ctlScale);
+  }
+
+  function highlightFeature(e) {
+    layer = e.target;
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+      layer.bringToFront();
+    }
+    ctlInfo.update(layer.feature.properties);
+  }
+
+  function clearFeature(e) {
+    layer = e.target;
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+      layer.bringToFront();
+    }
+    ctlInfo.update();
+  }
+
+  map.on('zoomend', function () {
+    var zoomLevel = map.getZoom();
+    const tooltip = document.querySelectorAll(".leaflet-tooltip");
+    switch (zoomLevel) {
+      case 1:
+        tooltip.forEach(t => t.style.display = 'none');
+        break;
+      case 2:
+        tooltip.forEach(t => t.style.display = 'none');
+        break;
+      case 3:
+        tooltip.forEach(t => {
+          t.style.fontSize = '8px';
+          t.style.display = 'block';
+        });
+        break;
+      case 4:
+        tooltip.forEach(t => {
+          t.style.fontSize = '10px';
+          t.style.display = 'block';
+        });
+        break;
+      case 5:
+        tooltip.forEach(t => {
+          t.style.fontSize = '11px';
+          t.style.display = 'block';
+        });
+        break;
+      default:
+        tooltip.forEach(t => t.style.fontSize = '14px');
+    }
+  });
+
 </script>
