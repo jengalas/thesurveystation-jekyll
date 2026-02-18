@@ -30,9 +30,9 @@
   }
 </style>
 
-<!-- <div class="fullscreen-map-wrapper"> -->
-<div id="map" class="map" style="height: 900px;"></div>
-<!-- </div> -->
+<div class="fullscreen-map-wrapper">
+  <div id="map" class="map" style="height: 900px;"></div>
+</div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
@@ -432,6 +432,25 @@
 
     applyFilters();
     updateCounts();
+
+    const mapPanel = document.getElementById('panel-2');
+    if (mapPanel) {
+      const resizeObserver = new ResizeObserver(entries => {
+        for (let entry of entries) {
+          if (entry.contentRect.height > 0) {
+
+            map.invalidateSize();
+
+            if (clusterGroup.getLayers().length) {
+              map.fitBounds(clusterGroup.getBounds());
+            }
+
+          }
+        }
+      });
+
+      resizeObserver.observe(mapPanel);
+    }
 
     if (!mapFullExtent && targetLat !== null && targetLng !== null) {
 
