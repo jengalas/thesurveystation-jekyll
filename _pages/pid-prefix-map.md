@@ -2,6 +2,8 @@
 title: PID Prefix Map
 layout: default
 permalink: /pid-prefix-map/
+features:
+  - leaflet
 ---
 
 # PID Prefix Map

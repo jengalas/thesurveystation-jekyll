@@ -2,6 +2,8 @@
 layout: default
 title: "Browse Recoveries"
 permalink: /browse-recoveries/
+features:
+  - leaflet
 ---
 
 <h1>Browse Survey Mark Recoveries</h1>
