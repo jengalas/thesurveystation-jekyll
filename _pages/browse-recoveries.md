@@ -8,9 +8,9 @@ permalink: /browse-recoveries/
 
 <div id="accordion" class="accordion">
 
-  <button class="accordion-button" aria-expanded="false" aria-controls="panel-1">Browse by Year of Recovery<span
+  <button class="accordion-button" aria-expanded="false" aria-controls="panel-year">Browse by Year of Recovery<span
         class="accordion-icon">&plus;</span></button>
-  <div class="panel" id="panel-1">
+  <div class="panel" id="panel-year">
     <div class="widget__panel archive-grid cards">
       {% for year in site.data.years %}
         <div class="card">
@@ -20,9 +20,9 @@ permalink: /browse-recoveries/
     </div>
   </div>
   
-  <button class="accordion-button" aria-expanded="false" aria-controls="panel-2">Browse by Location<span
+  <button class="accordion-button" aria-expanded="false" aria-controls="panel-map">Browse by Location<span
       class="accordion-icon">&plus;</span></button>
-  <div class="panel" id="panel-2">
+  <div class="panel" id="panel-map">
     {% include recoveries-map.html %} 
       <div class="widget__panel archive-grid cards">
       {% for state in site.data.locations %}
@@ -33,9 +33,9 @@ permalink: /browse-recoveries/
       </div>
   </div>
 
-  <button class="accordion-button" aria-expanded="false" aria-controls="panel-3">Browse by Marker Type<span
+  <button class="accordion-button" aria-expanded="false" aria-controls="panel-type">Browse by Marker Type<span
         class="accordion-icon">&plus;</span></button>
-  <div class="panel" id="panel-3">
+  <div class="panel" id="panel-type">
     <div class="widget__panel archive-grid cards">
       {% for type in site.data.types %}
         <div class="card">
@@ -45,9 +45,9 @@ permalink: /browse-recoveries/
     </div>
   </div>
 
-  <button class="accordion-button" aria-expanded="false" aria-controls="panel-4">Browse by Establishing Agency<span
+  <button class="accordion-button" aria-expanded="false" aria-controls="panel-agency">Browse by Establishing Agency<span
         class="accordion-icon">&plus;</span></button>
-  <div class="panel" id="panel-4">
+  <div class="panel" id="panel-agency">
     <div class="widget__panel archive-grid cards">
       {% for agency in site.data.agencies %}
         <div class="card">

@@ -3,6 +3,7 @@ title: Survey Mark Hunting
 layout: page
 permalink: /survey-mark-hunting/
 class: survey-mark-hunting
+use_jquery: true
 ---
 
 <figure class="alignright">

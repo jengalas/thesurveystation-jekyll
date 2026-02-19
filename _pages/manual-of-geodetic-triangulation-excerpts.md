@@ -2,6 +2,9 @@
 title: Manual of Geodetic Triangulation (excerpts)
 layout: default
 permalink: /manual-of-geodetic-triangulation-excerpts/
+use_jquery: true
+features:
+  - datatables
 ---
 
 # Manual of Geodetic Triangulation (excerpts)

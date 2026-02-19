@@ -3,6 +3,9 @@ layout: page
 title: Airway Beacons List—Western U.S.
 permalink: /airway-beacons-list-western-u-s/
 _unlisted: true
+use_jquery: true
+features:
+  - datatables
 ---
 
 **Last updated {{ 'now' | date: "%B %e, %Y" }}**
