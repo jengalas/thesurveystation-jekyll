@@ -13,6 +13,8 @@ galleries:
     - filename: ko0428rm1cm
       alt: BEAK RM 1 at beacon site near Delta, UT
 use_jquery: true      
+features:
+  - leaflet 
 ---
 
 The photographs of this beacon site were contributed by Dean Draper.  The site is located in Millard County, Utah, about 20 miles southwest of Delta. Also in the same location is the NGS triangulation station [BEAK](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=ko0428) (KO0428). 

@@ -6,6 +6,8 @@ tags: [datasheets, history]
 excerpt: >-
   
 featured_image: mag-station.jpg
+features:
+  - leaflet 
 ---
 
 I received three documents from Harry Nelson of MaineDOT concerning magnetic stations.  He states that "The description of magnetic stations are not published by NGS other than in these publications."

@@ -5,6 +5,8 @@ date: '2017-03-27T09:54:00-05:00'
 tags: ["airway beacons"]
 excerpt: >-
   Ken Nussear has found an intact beacon tower near Fernley, Nevada.
+features:
+  - leaflet   
 ---
 
 Ken Nussear has submitted the following photographs of an intact beacon tower near Fernley, Nevada. He also discovered at [Arrows Across America](http://www.dreamsmithphotos.com/arrow/airmail_routes/route_11_20/18/cam_18sf_sl.html) that the beacon was designated "216 SF-SL" on the Reno-Elko section of the San Francisco—Salt Lake route. 

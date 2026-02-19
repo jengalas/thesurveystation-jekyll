@@ -17,7 +17,9 @@ galleries:
       alt: 
     - filename: arrow-sw-las-vegas2-1024x768-1
       alt:       
-use_jquery: true      
+use_jquery: true  
+features:
+  - leaflet     
 ---
 
 {% include simple-map.html map_id="1" latitude="35.740218" longitude="-115.352291" zoom="15" marker_name="BEACON #23" align="right" %}

@@ -6,6 +6,8 @@ tags: [datasheets, history]
 excerpt: >-
   
 featured_image: mag-station.jpg
+features:
+  - leaflet 
 ---
 
 Returning to [Results of Magnetic Observations Made by the United States Coast and Geodetic Survey in 1914](/assets/docs/publications/SP-No-25-Results-Mag-Obsv-1914.pdf/), I researched two other magnetic station locations that are close enough to me that I might be able to search for them, although they are both long shots.

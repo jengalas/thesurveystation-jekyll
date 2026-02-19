@@ -15,7 +15,9 @@ galleries:
       alt: Looking SE
     - filename: image3c
       alt: Looking NE
-use_jquery: true      
+use_jquery: true    
+features:
+  - leaflet   
 ---
 
 

@@ -21,7 +21,9 @@ galleries:
       alt: Here's another shot of what I think is a course light sized beacon. I can't discern any color to it. There are 2 up there facing east-west.
     - filename: 06m
       alt: This building has me stumped, I am calling it the teletype building for now but I don't know for sure. It may have been an addition during the Army Air Force days or prior to that for the CAM 32 mail days.
-use_jquery: true      
+use_jquery: true    
+features:
+  - leaflet   
 ---
 
 _**This is a guest post, with photos and accompanying text contributed by Dave Sbur. Thanks for your contribution, Dave!**_

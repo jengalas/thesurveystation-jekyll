@@ -5,6 +5,8 @@ date: '2018-02-03T14:17:00-05:00'
 tags: ["airway beacons"]
 excerpt: >-
   Jack Fawcett has found a video showing what remains of Beacon #32.
+features:
+  - leaflet   
 ---
 
 Website contributor Jack Fawcett has found the following video showing what remains of Beacon #32 (NGS PID [LR0843](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0843)) near Mt. Tobin, Nevada.

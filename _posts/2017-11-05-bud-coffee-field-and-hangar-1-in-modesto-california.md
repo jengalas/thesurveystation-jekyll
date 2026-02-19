@@ -6,6 +6,8 @@ tags: ["airway beacons", diagrams, maps]
 excerpt: >-
   Gene Gomes has contributed diagrams of Hangar #1 and the former Bud Coffee Field in Modesto, CA!
 featured_image: bud-coffee.jpg   
+features:
+  - leaflet 
 ---
 
 I'm so grateful to Gene Gomes for contributing the following diagrams of Bud Coffee Field and Hangar #1 in Modesto, California.

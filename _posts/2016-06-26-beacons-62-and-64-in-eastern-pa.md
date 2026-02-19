@@ -5,6 +5,8 @@ date: '2016-06-26T13:12:28-05:00'
 tags: ["airway beacons"]
 excerpt: >-
   Bob Pastore submitted the following evidence of what remains of Beacon 62 in Summit Hill, Pennsylvania.
+features:
+  - leaflet   
 ---
 
 Bob Pastore submitted the following evidence of what remains of Beacon 62 in Summit Hill, Pennsylvania (approximate coordinates: N40.819438°, W75.874985°). He writes:
