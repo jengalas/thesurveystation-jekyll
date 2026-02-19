@@ -13,7 +13,8 @@ galleries:
     - filename: beacon-2
       alt: Unknown beacon light     
     - filename: beacon-1
-      alt: Unknown beacon light          
+      alt: Unknown beacon light   
+use_jquery: true             
 ---
 
 Recently I was contacted by a man who has purchased an old airway beacon light. He is wondering if anyone can provide details about it, or some tips on how he might go about finding more information about it. 

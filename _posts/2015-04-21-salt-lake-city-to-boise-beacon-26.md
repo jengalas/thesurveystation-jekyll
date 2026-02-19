@@ -22,6 +22,7 @@ galleries:
       alt: What's left of the tower.
     - filename: 100_7571cm
       alt: Looking east from the end of Sea Breeze Road   
+use_jquery: true      
 ---
 
 These photos were submitted by Glen Smallwood in March 2015. They show the current status of Salt Lake City to Boise Beacon 26 (NGS PID [OZ1045](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OZ1045)).

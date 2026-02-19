@@ -18,6 +18,7 @@ galleries:
       alt: Fort Pike State Park - former beacon location 
     - filename: New-Orleans-Atlanta-Beacon-2-location-scan-2-2-16-C
       alt: Fort Pike State Park - former beacon location
+use_jquery: true      
 ---
 
 These images were submitted by Reese Patterson, who found them in the Fort Pike State Park collection at the Louisiana State Archives. He used the beacon photos from the 1940s in conjunction with Google Satellite imagery to pinpoint the location of the beacon foundation at N 30.166530° W 89.737625°.

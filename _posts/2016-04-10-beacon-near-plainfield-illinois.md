@@ -15,7 +15,8 @@ galleries:
     - filename: 020c
       alt: The beacon in its new location at the rail museum    
     - filename: 010c
-      alt: At the rail museum        
+      alt: At the rail museum  
+use_jquery: true            
 ---
 
 Roger Helm has submitted the following photos and information about a beacon north of Plainfield, Illinois.

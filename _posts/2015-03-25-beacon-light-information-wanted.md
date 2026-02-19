@@ -23,7 +23,8 @@ galleries:
     - filename: IMG_2586cmx
       alt: Beacon light, view 5   
     - filename: IMG2_584cmx
-      alt: Beacon light, view 6        
+      alt: Beacon light, view 6       
+use_jquery: true       
 ---
 
 The following photos were submitted by Bill Huber. He has obtained the beacon light from LOS ANGELES DENVER AWY BCN 76A (NGS PID KL0666), a tower in Eagle, Colorado, and would like to know more about it. Bill writes:

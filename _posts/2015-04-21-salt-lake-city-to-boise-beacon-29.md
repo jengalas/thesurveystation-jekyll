@@ -1,7 +1,7 @@
 ---
 title: Salt Lake City to Boise Beacon 29
 author: Zhanna
-date: '2015-04-21T19:57:28-05:00 America/New_York'
+date: '2015-04-21T19:57:28-05:00'
 tags: ["airway beacons"]
 excerpt: >-
   These photos from Glen Smallwood document the remains of SLC—Boise Beacon 29.

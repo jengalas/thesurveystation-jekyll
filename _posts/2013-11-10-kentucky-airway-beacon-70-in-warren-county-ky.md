@@ -23,7 +23,8 @@ galleries:
     - filename: beacon70-06
       alt: Northwest tower stub.
     - filename: beacon70-07
-      alt: View along the southerly edge of slab, camera pointing in the direction of 120 degrees, the southeast and southwest stubs are marked with white cards.                 
+      alt: View along the southerly edge of slab, camera pointing in the direction of 120 degrees, the southeast and southwest stubs are marked with white cards. 
+use_jquery: true                      
 ---
 
 ## Beacon 70
