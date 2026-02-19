@@ -1,6 +1,9 @@
 ---
 layout: default
 class: surveymark-page
+use_jquery: true
+features:
+  - datatables
 ---
 
 {% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
@@ -31,7 +34,10 @@ class: surveymark-page
         {% endif %}
       </div>
       <div style="margin-left: 2rem;" class="gallery single">
-        <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ page.type }} {{ page.designation }}</div>" href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
+        <a class="card"
+          data-sub-html="<div class='lg-relative-caption-item'>{{ page.type }} {{ page.designation }}</div>"
+          href="{{ imagePath }}{{ page.featured_image | remove: 'csm' }}" style="border-bottom: 0;"><img
+            src="{{ thumb }}{{ page.featured_image }}" alt="" style="max-height: 80px;"></a>
       </div>
     </div>
 
@@ -169,15 +175,15 @@ class: surveymark-page
     {% if page.rich_text %}
     <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
       {% if page.rich_date %}
-        <p><i>(Recovered on {{ richDate}})</i></p>
-      {% endif %}  
+      <p><i>(Recovered on {{ richDate}})</i></p>
+      {% endif %}
       {{ page.rich_text | markdownify }}
       {% assign gal_r_class = page.image_gallery_r_class %}
       {% if page.rich_date %}
-        {% include rich-gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      {% include rich-gallery.html gallery_id="gallery_r" class=gal_r_class %}
       {% else %}
-        {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
-      {% endif %}  
+      {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      {% endif %}
     </div>
     {% endif %}
   </div>
@@ -194,10 +200,13 @@ class: surveymark-page
 
 <section class="post-navigation">
   {%if page.previous.url %}
-    <a class="prev-post" href="{{page.previous.url}}" title="Previous survey mark: {{page.previous.designation | upcase}}" alt="Previous survey mark: {{page.previous.designation | upcase}}">{{page.previous.designation | upcase}}</a>
+  <a class="prev-post" href="{{page.previous.url}}" title="Previous survey mark: {{page.previous.designation | upcase}}"
+    alt="Previous survey mark: {{page.previous.designation | upcase}}">{{page.previous.designation | upcase}}</a>
   {% endif %}
   {%if page.next.url %}
-    <a class="next-post" href="{{page.next.url}}" style="float: right;" title="Next survey mark: {{page.next.designation | upcase}}" alt="Next survey mark: {{page.next.designation | upcase}}">{{page.next.designation | upcase}}</a>
+  <a class="next-post" href="{{page.next.url}}" style="float: right;"
+    title="Next survey mark: {{page.next.designation | upcase}}"
+    alt="Next survey mark: {{page.next.designation | upcase}}">{{page.next.designation | upcase}}</a>
   {% endif %}
 </section>
 

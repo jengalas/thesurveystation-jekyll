@@ -1,141 +1,108 @@
 <footer>
-    <footer-widgets class="container">
-        <popular-pages class="c1 c1-2-md c1-3-lg">
-            {% include popular-pages.html %}
-        </popular-pages>
-        <recent-recoveries class="c1 c1-2-md c1-3-lg">
-            {% include recent-recoveries.html %}
-        </recent-recoveries>
-        <contact-form class="c1 c1-md c1-3-lg">
-          {% include contact-form.html %}
-        </contact-form>
-    </footer-widgets>
-    <site-info class="container">©{{ 'now' | date: "%Y" }} • <a href="{{ site.url }}">{{ site.title }}</a></site-info>
+  <footer-widgets class="container">
+    <popular-pages class="c1 c1-2-md c1-3-lg">
+      {% include popular-pages.html %}
+    </popular-pages>
+    <recent-recoveries class="c1 c1-2-md c1-3-lg">
+      {% include recent-recoveries.html %}
+    </recent-recoveries>
+    <contact-form class="c1 c1-md c1-3-lg">
+      {% include contact-form.html %}
+    </contact-form>
+  </footer-widgets>
+  <site-info class="container">©{{ 'now' | date: "%Y" }} • <a href="{{ site.url }}">{{ site.title }}</a></site-info>
 </footer>
 <button onclick="topFunction()" id="scroll-to-top" title="Scroll to top">
-  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-up" viewBox="0 0 16 16">
-    <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-up"
+    viewBox="0 0 16 16">
+    <path fill-rule="evenodd"
+      d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z" />
   </svg>
 </button>
 <script src="/assets/js/main.js" crossorigin="anonymous"></script>
 {% if page.mark-type == "surveymark" or page.mark-type == "reference-mark" %}
-  <script src="/assets/js/accessible-tabs.js"></script>
+<script src="/assets/js/accessible-tabs.js"></script>
 {% endif %}
 {% if page.page-type == "year-index" %}
-  <script src="/assets/js/accessible-tabs-accordion.js"></script>
+<script src="/assets/js/accessible-tabs-accordion.js"></script>
 {% endif %}
 <script src="/assets/js/lightgallery.min.js"></script>
 <script src="/assets/js/plugins/relativeCaption/lg-relative-caption.min.js"></script>
 <script>
-    document.querySelectorAll('.jg').forEach((lightGalleryElement) => {
-      lightGallery(lightGalleryElement, {
-        selector: ".card",
-        plugins: [lgRelativeCaption],
-        appendSubHtmlTo: '.lg-item',
-        relativeCaption: true,
-        mobileSettings: {
-          controls: false, 
-          showCloseIcon: true, 
-          download: true,
-        },
-      })
-    });
-    document.querySelectorAll('.gallery').forEach((lightGalleryElement) => {
-      lightGallery(lightGalleryElement, {
-        selector: ".card",
-        plugins: [lgRelativeCaption],
-        appendSubHtmlTo: '.lg-item',
-        relativeCaption: true,
-        mobileSettings: {
-          controls: false, 
-          showCloseIcon: true, 
-          download: true,
-        },
-      })
-    });
-    $('.jg').justifiedGallery({
-      rowHeight : 200,
-      margins : 10,
-      lastRow: 'nojustify'
-    });
-    $('.jg.justify').justifiedGallery({
-    rowHeight : 200,
-    margins : 4,
+  document.querySelectorAll('.jg').forEach((lightGalleryElement) => {
+    lightGallery(lightGalleryElement, {
+      selector: ".card",
+      plugins: [lgRelativeCaption],
+      appendSubHtmlTo: '.lg-item',
+      relativeCaption: true,
+      mobileSettings: {
+        controls: false,
+        showCloseIcon: true,
+        download: true,
+      },
+    })
+  });
+  document.querySelectorAll('.gallery').forEach((lightGalleryElement) => {
+    lightGallery(lightGalleryElement, {
+      selector: ".card",
+      plugins: [lgRelativeCaption],
+      appendSubHtmlTo: '.lg-item',
+      relativeCaption: true,
+      mobileSettings: {
+        controls: false,
+        showCloseIcon: true,
+        download: true,
+      },
+    })
+  });
+  $('.jg').justifiedGallery({
+    rowHeight: 200,
+    margins: 10,
+    lastRow: 'nojustify'
+  });
+  $('.jg.justify').justifiedGallery({
+    rowHeight: 200,
+    margins: 4,
     lastRow: 'justify'
-    });
-    $('.jg.2by2').justifiedGallery({
-      rowHeight : 230,
-      margins : 10,
-      lastRow: 'nojustify'
-    });
-    $('.jg.single').justifiedGallery({
-      rowHeight : 240,
-      margins : 10,
-      lastRow: 'nojustify'
-    });
-    $('.jg.special').justifiedGallery({
-      rowHeight : 210,
-      margins : 10,
-      lastRow: 'nojustify'
-    }); 
-    $('.jg.special2').justifiedGallery({
-      rowHeight : 240,
-      margins : 10,
-      lastRow: 'nojustify'
-    }); 
-    $('.jg.300h').justifiedGallery({
-      rowHeight : 300,
-      margins : 10,
-      lastRow: 'nojustify'
-    }); 
-    $('.jg.320h').justifiedGallery({
-      rowHeight : 320,
-      margins : 10,
-      lastRow: 'justify'
-    }); 
-  </script>
+  });
+  $('.jg.2by2').justifiedGallery({
+    rowHeight: 230,
+    margins: 10,
+    lastRow: 'nojustify'
+  });
+  $('.jg.single').justifiedGallery({
+    rowHeight: 240,
+    margins: 10,
+    lastRow: 'nojustify'
+  });
+  $('.jg.special').justifiedGallery({
+    rowHeight: 210,
+    margins: 10,
+    lastRow: 'nojustify'
+  });
+  $('.jg.special2').justifiedGallery({
+    rowHeight: 240,
+    margins: 10,
+    lastRow: 'nojustify'
+  });
+  $('.jg.300h').justifiedGallery({
+    rowHeight: 300,
+    margins: 10,
+    lastRow: 'nojustify'
+  });
+  $('.jg.320h').justifiedGallery({
+    rowHeight: 320,
+    margins: 10,
+    lastRow: 'justify'
+  });
 
-<script>
-    /* Datatables init */
-    $(document).ready( function () {
-        $('#historicalAirwayMaps').DataTable({
-            paging: false,
-            responsive: true
-        });
-        $('.grandCanyonSurvey').DataTable({
-            paging: false,
-            order: [],
-            responsive: true
-        });
-        $('.referenceMarks').DataTable({
-          info: false,  
-          paging: false,
-          searching: false,
-          responsive: true
-        });
-        $('.manual-of-triangulation').DataTable({
-          info: false,
-          ordering: false,
-          paging: false,
-          responsive: true,
-          searching: false          
-        });
-        $('.post-table').DataTable({
-          paging: false,
-          responsive: true
-        });
-        $('.airway-beacons-table').DataTable({
-          paging: false,
-          responsive: true,
-          order: [[2, 'asc']]
-        });
-    } );
 </script>
+
 <script src="/assets/js/super-search.js"></script>
 <script>superSearch({
-  // Change to your own rss feed file path
-  searchFile: '/feed.xml'
-});</script>
+    // Change to your own rss feed file path
+    searchFile: '/feed.xml'
+  });</script>
 <script>
   {
     const nav = document.querySelector(".nav-wrapper");

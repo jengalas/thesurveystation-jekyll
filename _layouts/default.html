@@ -1,23 +1,77 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
-  
-  {% include head.html %}
 
-  <body {% if layout.class %} class="{{ layout.class }}" {% endif %} {% if page.class %} class="{{ page.class }}" {% endif %}>
+{% include head.html %}
 
-    {% include nav.html %}
+<body {% if layout.class %} class="{{ layout.class }}" {% endif %} {% if page.class %} class="{{ page.class }}" {% endif
+  %}>
 
-    <main class="default-template">
+  {% include nav.html %}
 
-        <div class="container">
+  <main class="default-template">
 
-          {{ content }}
+    <div class="container">
 
-        </div>
-        
-    </main>
-    
-    {% include footer.html %}  
+      {{ content }}
 
-  </body>
+    </div>
+
+  </main>
+
+  {% if page.use_jquery or layout.use_jquery %}
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  {% endif %}
+
+  <script src="/assets/js/jquery.justifiedGallery.min.js"></script>
+
+  {% if page.features contains "datatables" or layout.features contains "datatables" %}
+  <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('#historicalAirwayMaps').DataTable({
+        paging: false,
+        responsive: true
+      });
+      $('.grandCanyonSurvey').DataTable({
+        paging: false,
+        order: [],
+        responsive: true
+      });
+      $('.referenceMarks').DataTable({
+        info: false,
+        paging: false,
+        searching: false,
+        responsive: true
+      });
+      $('.manual-of-triangulation').DataTable({
+        info: false,
+        ordering: false,
+        paging: false,
+        responsive: true,
+        searching: false
+      });
+      $('.post-table').DataTable({
+        paging: false,
+        responsive: true
+      });
+      $('.airway-beacons-table').DataTable({
+        paging: false,
+        responsive: true,
+        order: [[2, 'asc']]
+      });
+    });
+  </script>
+  {% endif %}
+
+  {% if page.scripts %}
+  {% for script in page.scripts %}
+  <script src="{{ script }}"></script>
+  {% endfor %}
+  {% endif %}
+
+  {% include footer.html %}
+
+</body>
+
 </html>
