@@ -70,7 +70,7 @@ galleries:
     images:    
     - filename: 10-800x600
       alt: It works!!!                 
-    
+use_jquery: true    
 ---
 
 **_by Harvey Hartman_**

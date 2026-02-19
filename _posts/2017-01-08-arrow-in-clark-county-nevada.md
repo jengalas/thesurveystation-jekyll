@@ -12,6 +12,7 @@ galleries:
       alt: Arrow and remnants of beacon tower leg       
     - filename: marici-arrow2
       alt: Intact arrow 
+use_jquery: true      
 ---
 
 Marici Reid has submitted the following photographs of an intact arrow south of Las Vegas, on a hill between I-15 and Las Vegas Boulevard.

@@ -16,7 +16,8 @@ galleries:
     - filename: IMG_0034cl-1024x768
       alt: Looking southeast toward I-80
     - filename: IMG_0035cl-1024x768
-      alt: You can drive to this one, just be prepared!                  
+      alt: You can drive to this one, just be prepared!   
+use_jquery: true                     
 ---
 
 {% include simple-map.html map_id="1" latitude="40.8265113" longitude="-112.905751" zoom="15" marker_name="San Francisco—Salt Lake Airway Beacon 57" align="right" %}

@@ -27,7 +27,8 @@ galleries:
     - filename: P1070178cm
       alt: BAKER RM 2   
     - filename: P1070186cm
-      alt: The well referred to in the triangulation station description?             
+      alt: The well referred to in the triangulation station description?   
+use_jquery: true                
 ---
 
 Michael LaRose has submitted the following photos from the former site of Beacon 10 on the New York—Boston airway (NGS PID [LX4898](http://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=lx4898)). 

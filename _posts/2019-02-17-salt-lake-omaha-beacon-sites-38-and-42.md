@@ -16,7 +16,8 @@ galleries:
     - filename: SLO42-3-e1550438326473
       alt: "SL-O #42 site"
     - filename: SLO42-4-e1550438334499
-      alt: "SL-O #42 site"   
+      alt: "SL-O #42 site"  
+use_jquery: true       
 ---
 
 Jack Breeding has submitted some photos for beacon sites #38 and #42 on the Salt Lake—Omaha airway!

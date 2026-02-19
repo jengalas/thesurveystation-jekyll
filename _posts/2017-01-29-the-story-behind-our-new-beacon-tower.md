@@ -43,7 +43,8 @@ galleries:
     - filename: fence-sign-1067x600
       alt: 
     - filename: sunset-beacon-1067x800
-      alt:                 
+      alt:     
+use_jquery: true                  
 ---
 
 **_by Harvey Hartman_**

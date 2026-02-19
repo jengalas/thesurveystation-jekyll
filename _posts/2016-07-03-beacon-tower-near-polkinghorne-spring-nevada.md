@@ -41,7 +41,8 @@ galleries:
     - filename: IMG_20160602_073013538-1066x600-1024x576
       alt: Peeking over the hill    
     - filename: IMG_20160602_063607599_HDR-1067x600-1024x576
-      alt: Fawcett brothers, minus 1. Polkinghorn spring is between red & green shirt... Going through the Geocache goodies                  
+      alt: Fawcett brothers, minus 1. Polkinghorn spring is between red & green shirt... Going through the Geocache goodies      
+use_jquery: true                  
 ---
 
 Jack Fawcett visited this tower near Polkinghorne Spring, Nevada on June 2, 2016. The tower was nearly intact, except for the glass lens (pieces of which he found at the site) and the carbide tanks. There is 4WD vehicle access to within one mile of the tower; from there, a hike up the hill is required. A [geocache](https://www.geocaching.com/geocache/GC34VKD_who-turned-out-the-lights-12-polkinghorne-beacon) is hidden at the site as well.
