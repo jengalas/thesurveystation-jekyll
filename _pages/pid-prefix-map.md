@@ -4,6 +4,7 @@ layout: default
 permalink: /pid-prefix-map/
 features:
   - leaflet
+  - leaflet-enhanced
 ---
 
 # PID Prefix Map

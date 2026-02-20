@@ -4,6 +4,8 @@ title: "Browse Recoveries"
 permalink: /browse-recoveries/
 features:
   - leaflet
+  - leaflet-enhanced
+  - noUI-slider
 ---
 
 <h1>Browse Survey Mark Recoveries</h1>

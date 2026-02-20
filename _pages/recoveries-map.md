@@ -5,6 +5,8 @@ permalink: /map-of-recoveries/
 _unlisted: true
 features:
   - leaflet
+  - leaflet-enhanced
+  - noUI-slider
 ---
 
 # Map of Recoveries
