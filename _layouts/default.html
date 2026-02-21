@@ -18,11 +18,89 @@
 
   </main>
 
+  <script src="/assets/js/lightgallery.min.js"></script>
+  <script src="/assets/js/plugins/relativeCaption/lg-relative-caption.min.js"></script>
+  <script>
+    document.querySelectorAll('.jg').forEach((lightGalleryElement) => {
+      lightGallery(lightGalleryElement, {
+        selector: ".card",
+        plugins: [lgRelativeCaption],
+        appendSubHtmlTo: '.lg-item',
+        relativeCaption: true,
+        mobileSettings: {
+          controls: false,
+          showCloseIcon: true,
+          download: true,
+        },
+      })
+    });
+    document.querySelectorAll('.gallery').forEach((lightGalleryElement) => {
+      lightGallery(lightGalleryElement, {
+        selector: ".card",
+        plugins: [lgRelativeCaption],
+        appendSubHtmlTo: '.lg-item',
+        relativeCaption: true,
+        mobileSettings: {
+          controls: false,
+          showCloseIcon: true,
+          download: true,
+        },
+      })
+    });
+  </script>
+
   {% if page.use_jquery or layout.use_jquery %}
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   {% endif %}
 
+  {% if page.features contains "gallery" or layout.features contains "gallery" %}
   <script src="/assets/js/jquery.justifiedGallery.min.js"></script>
+  <script>
+    $('.jg').justifiedGallery({
+      rowHeight: 200,
+      margins: 10,
+      lastRow: 'nojustify'
+    });
+    $('.jg.justify').justifiedGallery({
+      rowHeight: 200,
+      margins: 4,
+      lastRow: 'justify'
+    });
+    $('.jg.2by2').justifiedGallery({
+      rowHeight: 230,
+      margins: 10,
+      lastRow: 'nojustify'
+    });
+    $('.jg.single').justifiedGallery({
+      rowHeight: 240,
+      margins: 10,
+      lastRow: 'nojustify'
+    });
+    $('.jg.special').justifiedGallery({
+      rowHeight: 210,
+      margins: 10,
+      lastRow: 'nojustify'
+    });
+    $('.jg.special2').justifiedGallery({
+      rowHeight: 240,
+      margins: 10,
+      lastRow: 'nojustify'
+    });
+    $('.jg.300h').justifiedGallery({
+      rowHeight: 300,
+      margins: 10,
+      lastRow: 'nojustify'
+    });
+    $('.jg.320h').justifiedGallery({
+      rowHeight: 320,
+      margins: 10,
+      lastRow: 'justify'
+    });
+
+  </script>
+  {% endif %}
+
+
 
   {% if page.features contains "datatables" or layout.features contains "datatables" %}
   <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
