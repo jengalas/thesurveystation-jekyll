@@ -7,7 +7,7 @@ excerpt: >-
   The long-awaited article on survey mark hunting has hit the pages of the Wall Street Journal!
 ---
 
-{% include post-image.html filename="P1040486-featured.jpg" thumb="P1040486-featured.jpg" caption="Zhanna recovers FERNALD HILL" className="alignleft" %}
+{% include post-image.html filename="P1040486cs.jpg" thumb="P1040486-featured.jpg" caption="Zhanna recovers FERNALD HILL" className="alignleft" %}
 
 After several months of work by reporter Erica Phillips (and a few interviews with yours truly) the long-awaited article on survey mark hunting has hit the pages of the Wall Street Journal!
 
