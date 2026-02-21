@@ -16,7 +16,8 @@ galleries:
       alt: Tubing for the acetylene lamp
 use_jquery: true 
 features:
-  - leaflet            
+  - leaflet  
+  - gallery          
 ---
 
 Jack Fawcett, a retired Nevada surveyor and pilot, submitted these photos of the airway tower south of Battle Mountain, Nevada. The location is N40.435814°, W117.163028°.

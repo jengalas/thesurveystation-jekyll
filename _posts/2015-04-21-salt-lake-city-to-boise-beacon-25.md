@@ -17,6 +17,8 @@ galleries:
     - filename: MAP-135_BCN-25-4cm
       alt: According to the NGS datasheet, this was located by sighting the light for the center of the tower.
 use_jquery: true      
+features:
+  - gallery   
 ---
 
 These photos were submitted by Glen Smallwood in March 2015. They show the current status of Salt Lake City to Boise Beacon 25 (NGS PID [OZ1042](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OZ1042)).

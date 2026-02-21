@@ -19,7 +19,8 @@ galleries:
       alt: You can drive to this one, just be prepared!   
 use_jquery: true   
 features:
-  - leaflet                   
+  - leaflet   
+  - gallery                
 ---
 
 {% include simple-map.html map_id="1" latitude="40.8265113" longitude="-112.905751" zoom="15" marker_name="San Francisco—Salt Lake Airway Beacon 57" align="right" %}

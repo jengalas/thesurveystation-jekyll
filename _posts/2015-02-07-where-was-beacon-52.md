@@ -12,7 +12,9 @@ galleries:
       alt: USGS EarthExplorer, aerial single frame, 1952
     - filename: 3-aerial-single
       alt: Closeup showing unidentified objects
-use_jquery: true      
+use_jquery: true    
+features:
+  - gallery     
 ---
 
 ## Richmond—Washington Beacon 52

@@ -22,7 +22,9 @@ galleries:
       alt: Close up of the base of the Crossville, TN airport beacon showing the stub set in concrete with the tower attached to by 4 bolts and a single bolt for brace attachment.
     - filename: beacon25-08
       alt: Another detail view of the Crossville, TN airport beacon tower showing the tubular base for the ladder attachment. 
-use_jquery: true                        
+use_jquery: true     
+features:
+  - gallery                   
 ---
 
 ## Beacon 25

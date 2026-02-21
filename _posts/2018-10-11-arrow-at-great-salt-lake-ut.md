@@ -17,7 +17,8 @@ galleries:
       alt: Looking NE
 use_jquery: true    
 features:
-  - leaflet   
+  - leaflet 
+  - gallery  
 ---
 
 

@@ -44,7 +44,9 @@ galleries:
       alt: 
     - filename: sunset-beacon-1067x800
       alt:     
-use_jquery: true                  
+use_jquery: true    
+features:
+  - gallery                 
 ---
 
 **_by Harvey Hartman_**

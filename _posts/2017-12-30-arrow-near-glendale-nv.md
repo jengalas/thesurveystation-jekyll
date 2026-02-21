@@ -15,7 +15,9 @@ galleries:
       alt: Looking northeast        
     - filename: old-spanish-trail-postc-768x1024
       alt: Old Spanish Trail marker     
-use_jquery: true                             
+use_jquery: true
+features:
+  - gallery                                
 ---
 
 Art Young of the Ardiente Community Hiking Enthusiasts (ACHE) has submitted these photographs of the arrow associated with Los Angeles—Salt Lake Airway Beacon 31A (NGS PID [GR1900](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1900)). The arrow, which is referred to in the linked survey datasheet, is about 700 feet east of the former beacon site (coordinates for the arrow are N 36.685350°, W 114.517609°). The arrow has been painted orange since the images in Google's satellite view were captured.  It appears to be in excellent condition. 

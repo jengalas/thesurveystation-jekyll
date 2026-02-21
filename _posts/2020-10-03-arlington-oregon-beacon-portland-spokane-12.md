@@ -24,6 +24,7 @@ galleries:
 use_jquery: true    
 features:
   - leaflet   
+  - gallery
 ---
 
 _**This is a guest post, with photos and accompanying text contributed by Dave Sbur. Thanks for your contribution, Dave!**_

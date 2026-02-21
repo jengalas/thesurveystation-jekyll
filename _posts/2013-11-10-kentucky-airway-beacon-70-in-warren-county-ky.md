@@ -26,7 +26,8 @@ galleries:
       alt: View along the southerly edge of slab, camera pointing in the direction of 120 degrees, the southeast and southwest stubs are marked with white cards. 
 use_jquery: true    
 features:
-  - leaflet                   
+  - leaflet  
+  - gallery                 
 ---
 
 ## Beacon 70

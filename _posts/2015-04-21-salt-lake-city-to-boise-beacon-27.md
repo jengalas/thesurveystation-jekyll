@@ -29,6 +29,8 @@ galleries:
     - filename: 100_7563cm
       alt: Parking SE of BCN 27 at the base of the hill. The marker is on private ground, but is not signed.     
 use_jquery: true      
+features:
+  - gallery   
 ---
 
 These photos were submitted by Glen Smallwood in March 2015. They show the current status of Salt Lake City to Boise Beacon 27.
