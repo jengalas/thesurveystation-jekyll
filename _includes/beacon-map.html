@@ -1,29 +1,28 @@
-
 <div class="fullscreen-map-wrapper">
-    <div id="beacon-map" class="map"></div>
+  <div id="beacon-map" class="map"></div>
 </div>
 
 <!-- Load common basemaps -->
 <script src="/assets/data/basemaps.js"></script>
 <script>
-  const beaconMap = L.map('beacon-map', { fullscreenControl: true, geocoderControl: true }).setView([39.8283,-98.5795], 9);
-  
+  const beaconMap = L.map('beacon-map', { fullscreenControl: true, geocoderControl: true }).setView([39.8283, -98.5795], 9);
+
   objBasemaps['OpenStreetMap'].addTo(beaconMap); // Assign default basemap
 
   L.control.mapCenterCoord().addTo(beaconMap);
 
   const markerStyle = {
-      radius: 5,
-      fillOpacity: 1,
-      stroke: true,
-      color: "white",
-      weight: 1,
-      opacity: 1,
-      fill: true,
-      clickable: true
+    radius: 5,
+    fillOpacity: 1,
+    stroke: true,
+    color: "white",
+    weight: 1,
+    opacity: 1,
+    fill: true,
+    clickable: true
   };
-  
-fetch('/assets/data/airway-beacons-complete-us.geojson')
+
+  fetch('/assets/data/airway-beacons-complete-us.geojson')
     .then(res => res.json())
     .then(data => initMap(data))
     .catch(err => console.error('GeoJSON load error:', err));
@@ -34,10 +33,10 @@ fetch('/assets/data/airway-beacons-complete-us.geojson')
     let Status;
 
     const allPoints = L.geoJson(geojson, {
-      pointToLayer: function(feature, latlng) {            
+      pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, markerStyle);
       },
-      style: function(feature) {
+      style: function (feature) {
         switch (feature.properties.Status) {
           case "Undetermined NGS beacon/arrow":
             return {
@@ -53,116 +52,132 @@ fetch('/assets/data/airway-beacons-complete-us.geojson')
             };
         }
       },
-      
-      onEachFeature: function(feature, layer) {
-        function determineHasPID(pidProp) {
-              if (!feature.properties.PID)
-                  return "";
-              else    
-                  return "<b>PID:</b> <a href='https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=" + feature.properties.PID + "' target='_blank'>" + feature.properties.PID + "</a>" + '<br/>';
-          }  
-          function determineHasReport(reportProp) {
-              if (!feature.properties.Report)
-                  return "";
-              else    
-                  return "<b>Status Report:</b> " + feature.properties.Report;
-          }         
-        layer.bindPopup(determineHasPID(feature.properties.PID)  + "<b>Designation: </b>" + feature.properties.Designation + '<br>' + "<b>Coordinates: </b>" + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + "<br>" + determineHasReport(feature.properties.Report));
-        
+
+      onEachFeature: function (feature, layer) {
+
+        function hasValue(obj, key) {
+          return obj &&
+            Object.prototype.hasOwnProperty.call(obj, key) &&
+            obj[key] !== null &&
+            obj[key] !== "";
+        }
+
+        const props = feature.properties;
+        let popupContent = "";
+
+        if (hasValue(props, "PID")) {
+          popupContent += `
+      <b>PID:</b>
+      <a href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=${props.PID}" target="_blank">
+        ${props.PID}
+      </a><br/>
+    `;
+        }
+
+        popupContent += `<b>Designation:</b> ${props.Designation}<br>`;
+
+        popupContent += `
+    <b>Coordinates:</b>
+    ${feature.geometry.coordinates[1]},
+    ${feature.geometry.coordinates[0]}<br>
+  `;
+
+        if (hasValue(props, "Report")) {
+          popupContent += `<b>Status Report:</b> ${props.Report}`;
+        }
+
+        layer.bindPopup(popupContent);
         Status = feature.properties.Status;
         // Initialize the category array if not already set.
         if (typeof categories[Status] === "undefined") {
           categories[Status] = [];
         }
         categories[Status].push(layer);
-      }        
+      }
     });
 
     // Feature layers for control	
     const overlaysObj = {};
-    let StatusName;
-    let StatusArray;
-    let StatusLG;
 
-    const labelArray = [];
+    Object.entries(categories).forEach(([statusName, layers]) => {
+      overlaysObj[statusName] = L.layerGroup(layers).addTo(beaconMap);
+    });
 
-    for (StatusName in categories) {
-      StatusArray = categories[StatusName];
-      StatusLG = L.layerGroup(StatusArray).addTo(beaconMap);
-      StatusLG.StatusName = StatusName;  
-      overlaysObj[StatusName] = StatusLG;
-      labelArray.push(StatusLG.StatusName);
-    }
-  
     const control = L.control.layers(objBasemaps, overlaysObj, {
       collapsed: true
     }).addTo(beaconMap);
 
-    beaconMap.fitBounds(allPoints.getBounds());   
+    beaconMap.on("overlayadd overlayremove", updateCounter);
+
+    // ---- Insert Counter Inside Overlay Section ----
+
+    const overlaysContainer =
+      control.getContainer().querySelector(".leaflet-control-layers-overlays");
+
+    const counterNode = document.createElement("div");
+    counterNode.id = "counterValue";
+    counterNode.style.padding = "6px 0 0 0";
+    counterNode.style.fontWeight = "bold";
+
+    overlaysContainer.appendChild(counterNode);
+
+    // Compute visible markers
+    function updateCounter() {
+      let total = 0;
+
+      Object.values(overlaysObj).forEach(layerGroup => {
+        if (beaconMap.hasLayer(layerGroup)) {
+          total += layerGroup.getLayers().length;
+        }
+      });
+
+      counterNode.textContent = `${total} beacons/arrows`;
+    }
+
+    // Initial count
+    updateCounter();
+
+    // Update when toggling overlays
+    beaconMap.on("overlayadd overlayremove", updateCounter);
+
+    beaconMap.fitBounds(allPoints.getBounds());
 
     const textSearch = L.control.search({
-          layer: allPoints,
-          initial: false,
-          zoom: 9,
-          marker: {animate: false, circle: false, icon: false},
-          textPlaceholder: 'Search by PID ...',
-          propertyName: 'PID'
+      layer: allPoints,
+      initial: false,
+      zoom: 9,
+      marker: { animate: false, circle: false, icon: false },
+      textPlaceholder: 'Search by PID ...',
+      propertyName: 'PID'
     }).addTo(beaconMap);
 
-    textSearch.on('search:locationfound', function(event) {
-        event.layer.openPopup();
+    textSearch.on('search:locationfound', function (event) {
+      event.layer.openPopup();
     });
 
-    $(document).ready(function(){
-      
-      const toggleOverlays = document.getElementsByClassName("leaflet-control-layers-overlays")[0].getElementsByTagName("input");
-      
-      toggleOverlays[0].setAttribute('id','first');
-      toggleOverlays[1].setAttribute('id','second');
-      toggleOverlays[2].setAttribute('id','third');
+    document.addEventListener("DOMContentLoaded", () => {
+      // ---- Beacon Counter ----
 
-      let counter = overlaysObj["Undetermined NGS beacon/arrow"].getLayers().length + 
-                  overlaysObj["Updated non-NGS beacon/arrow"].getLayers().length +
-                  overlaysObj["Updated NGS beacon/arrow"].getLayers().length;
-    
-      const node = document.createElement("div");                 
-      const textnode = document.createTextNode(counter + " beacons/arrows");         
-      node.appendChild(textnode);
-      document.getElementsByClassName("leaflet-control-layers")[0].appendChild(node);
-      node.setAttribute( 'id', 'counterValue' );  
+      control.getContainer().appendChild(counterNode);
 
-      $(document).on('change', '.leaflet-control-layers-selector#first', function() {
-          $checkbox = $(this);            
-          if ($checkbox.is(':checked')) {
-              counter = counter + (overlaysObj[labelArray[0]].getLayers().length);
-              textnode.textContent = counter + " beacons/arrows";
-            } else {
-              counter = counter - (overlaysObj[labelArray[0]].getLayers().length);
-              textnode.textContent = counter + " beacons/arrows";
-            }    
-      });
+      // Helper function to compute total visible markers
+      function updateCounter() {
+        let total = 0;
 
-      $(document).on('change', '.leaflet-control-layers-selector#second', function() {
-          $checkbox = $(this);            
-          if ($checkbox.is(':checked')) {
-              counter = counter + (overlaysObj[labelArray[1]].getLayers().length);
-              textnode.textContent = counter + " beacons/arrows";
-            } else {
-              counter = counter - (overlaysObj[labelArray[1]].getLayers().length);
-              textnode.textContent = counter + " beacons/arrows";
-            }     
-      });
+        Object.values(overlaysObj).forEach(layerGroup => {
+          if (beaconMap.hasLayer(layerGroup)) {
+            total += layerGroup.getLayers().length;
+          }
+        });
 
-      $(document).on('change', '.leaflet-control-layers-selector#third', function() {
-          $checkbox = $(this);            
-          if ($checkbox.is(':checked')) {
-              counter = counter + (overlaysObj[labelArray[2]].getLayers().length);
-              textnode.textContent = counter + " beacons/arrows";
-            } else {
-              counter = counter - (overlaysObj[labelArray[2]].getLayers().length);
-              textnode.textContent = counter + " beacons/arrows";
-            } 
-      });
+        counterNode.textContent = `${total} beacons/arrows`;
+      }
+
+      // Initialize counter
+      updateCounter();
+
+      // Update when overlays change
+      beaconMap.on("overlayadd overlayremove", updateCounter);
     });
   };
 </script>
