@@ -10,7 +10,7 @@ state: Pennsylvania
 county: Lackawanna County
 quad: Scranton Quad
 elevation: 1473.094 ft.
-type: Test marker
+type: Bench Mark Disk
 setting: Concrete Post
 year_established: '1932'
 agency: USGS
