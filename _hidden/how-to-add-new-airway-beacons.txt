@@ -1,0 +1,19 @@
+1. Update .xlsx files (eastern, western, and complete).
+
+2. Export each to a .csv file.
+
+3. Add a column between columns 1 and 2, and label it PID.
+
+4. In first data row, enter the formula =IF(A2="","",CONCATENATE("<a href='https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=",A2,"'>",A2,"</a>")) and fill down.
+
+5. Save the .csv and import into TablePress, overwriting the appropriate table. Delete the first column.
+
+6. Remove the new column from the .csv files and generate .geojson files using http://www.convertcsv.com/csv-to-geojson.htm. Clean up files as needed (e.g., sometimes it adds an extra column 16 with no data; use Sublime Text's find and replace to remove this data.).
+
+7. Upload new .xlsx and .geojson files to "Used on Website" folder under "Airway Beacons" on Google Drive and to airwaybeacons folder on live site.
+
+8. If a non-NGS beacon is added, we need to update the .gpx and .kmz files. (Because those files don't currently contain the text of update reports, there is no need to update them when only NGS marks are updated.) 
+	a. To update the .gpx and .kmz files, open the appropriate .xlsx file and temporarily delete all columns except PID, Designation, Latitude and Longitude. Save as a .csv file. 
+	b. Then go to gpsvisualizer.com and choose Convert a File. 
+	c. Open up the .csv in a text editor and select all the text. Paste it into the textbox, change headers to match theirs!, choose "Force text data to be waypoint" and click Convert. 
+Check the map of the resulting file and, if it's OK, save the file as .gpx; then do the same to create the .kmz. Upload both to website and Google Drive.
