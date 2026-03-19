@@ -142,6 +142,10 @@
   </script>
   {% endif %}
 
+  {% if page.features contains "ngs_tree" %}
+  <script src="{{ '/assets/js/ngs-tree.js' | relative_url }}"></script>
+  {% endif %}
+
   {% include footer.html %}
 
 </body>

@@ -2,21 +2,23 @@
 layout: default
 title: NGS Historical Geodetic Control Diagrams
 permalink: /ngs/
+features:
+  - ngs_tree
 ---
 
 # NGS Historical Geodetic Control Diagrams
 
 <div>
-    <ul class="tree">
+    <ul class="tree" id="ngs-diagrams-tree">
         {% for entry in site.data.ngs-files %}
         <li>
-            <details>
+            <details data-id="{{ entry.d0 }}">
                 <summary>{{ entry.d0 }}</summary>
                 {% if entry.d1 %}                
                     <ul>
                         {% for item in entry.d1 %}
                         <li>
-                            <details>
+                            <details data-id="{{ entry.d0 }}-{{ item.name }}">
                                 <summary>{{ item.name }}</summary>
                                 <ul>
                                     {% for item2 in item.file %}
