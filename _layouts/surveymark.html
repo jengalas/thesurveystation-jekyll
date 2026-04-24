@@ -112,14 +112,14 @@ features:
     <div class="ngs-metadata">
       <h3>Metadata</h3>
       {% if page.photos_submitted %}
-      <span class="ngs-photo-status true"><i class="fa-solid fa-check"></i> Photographs submitted</span>
+      <span class="ngs-photo-status true">{% include icons/fa-solid-fa-check.svg class="icon fa-solid-fa-check" %} Photographs submitted</span>
       {% else %}
-      <span class="ngs-photo-status false"><i class="fa-solid fa-xmark"></i> <i>Photographs not submitted</i></span>
+      <span class="ngs-photo-status false">{% include icons/fa-solid-fa-xmark.svg class="icon" %} <i>Photographs not submitted</i></span>
       {% endif %}
       {% if page.coordinates_submitted %}
-      <span class="ngs-coords-status true"><i class="fa-solid fa-check"></i> Coordinates updated
+      <span class="ngs-coords-status true">{% include icons/fa-solid-fa-check.svg class="icon fa-solid-fa-check" %} Coordinates updated
         {% else %}
-        <span class="ngs-coords-status false"><i class="fa-solid fa-xmark"></i> <i>Coordinates not updated</i>
+        <span class="ngs-coords-status false">{% include icons/fa-solid-fa-xmark.svg class="icon" %} <i>Coordinates not updated</i>
           {% endif %}
     </div>
     <div class="ngs-descriptive-text">

@@ -430,3 +430,19 @@ strong {
     text-decoration: none;
   }
 }
+
+.icon {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: -0.1em;
+}
+
+.fa-fa-times{
+  color: $bodyColor;
+}
+
+.fa-solid-fa-check {
+  color: green;
+}
