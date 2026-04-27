@@ -83,8 +83,12 @@
   `;
 
         if (hasValue(props, "Report")) {
-          popupContent += `<b>Status Report:</b> ${props.Report}`;
+          popupContent += `<b>Status Report:</b> ${props.Report}<br>`;
         }
+
+        popupContent += `
+    <a href="https://www.google.com/maps/search/?api=1&query=${feature.geometry.coordinates[1]},${feature.geometry.coordinates[0]}" target="_blank">Google Map</a>
+  `;
 
         layer.bindPopup(popupContent);
         Status = feature.properties.Status;
