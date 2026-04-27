@@ -1780,7 +1780,7 @@
     "Arrow?":"Y",
     "Airway":"",
     "Status":"Updated non-NGS beacon/arrow",
-    "Report":"Arrow intact as of 6/11/2019. Reported by Catharine Graham."
+    "Report":"Arrow intact as of 6/11/2019. Reported by Catharine Graham.Parts of the site along Beacon Hill Road are buried or destroyed, arrow intact as of 4/25/2026. Reported by Garrett McDonald."
     }
   },
   {
@@ -9722,7 +9722,7 @@
     "Arrow?":"N",
     "Airway":"",
     "Status":"Updated NGS beacon/arrow",
-    "Report":"Arrow intact, as of 1/15/2015. Reported by Chris."
+    "Report":"Arrow intact, as of 1/15/2015. Reported by Chris. Arrow intact; seems like the state (or some other organization) is taking care of it. Reported 4/25/2026 by Garrett McDonald."
     }
   },
   {
@@ -10317,6 +10317,28 @@
     "Airway":"",
     "Status":"Undetermined NGS beacon/arrow",
     "Report":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.502922,36.791729 ]
+    },
+    "properties": {
+    "PID":"",
+    "Designation":"Beacon site near Chase City, VA",
+    "State":"VA",
+    "County":"MECKLENBURG",
+    "USGS Quad":"",
+    "First City":"",
+    "Second City":"",
+    "Beacon #":"",
+    "Airport?":"",
+    "Arrow?":"",
+    "Airway":"",
+    "Status":"Updated non-NGS beacon/arrow",
+    "Report":"Tower and light intact and operating, as of 10/24/2020. Not the original location. oval tag on the gear box  sn.  27 original location Salem,Va.  The tower was brought to CXE (Chase City, Va. Municipal Airport) in 1966 ? and had been in operation  until 5-6 years ago for lack of maintenance. Renewed interest in the airport and a change in the town management  has led to the airport being renovated into a functioning airport. About 3 years ago a microburst knocked the tower over and damaged the tower with only minor damage to the light. The tower was 48 hrs from being cut for scrap when we found out  the plans for it  and members of the town council stopped it. After looking for parts for the tower and light I discovered what  the tower was and when it was built. I  rebuilt about 40% of the tower leaving as much of the original  as possible bearing Dept. of Commercial Aviation and part numbers stamped in them.  We updated the lights to Leds but will change them back if they do not put out enough light. One interesting note the rear light has a cobalt blue lens instead of the red or green like the other ones  that I have found information on  and it still has the Fresnel lens. Reported by Monty Hightower."
     }
   },
   {
