@@ -9,6 +9,7 @@
   {% include nav.html %}
 
   <main class="default-template">
+    <pagefind-modal id="search-modal"></pagefind-modal>
 
     <div class="container">
 
@@ -148,6 +149,25 @@
 
   {% include footer.html %}
 
+
+  <script>
+    function openPagefindSearch(e) {
+      e.preventDefault();
+
+      const modal = document.querySelector("#search-modal");
+
+      if (!modal) return;
+
+      // Wait until the custom element is ready
+      if (customElements.get("pagefind-modal")) {
+        modal.open();
+      } else {
+        customElements.whenDefined("pagefind-modal").then(() => {
+          modal.open();
+        });
+      }
+    }
+  </script>
 </body>
 
 </html>

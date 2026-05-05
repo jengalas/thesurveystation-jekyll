@@ -8,6 +8,7 @@
   {% include nav.html %}
 
   <main class="default-template home">
+    <pagefind-modal id="search-modal"></pagefind-modal>
 
     <section id="banner">
       <header>
@@ -76,6 +77,24 @@
   let selectedImage = imageArray[i];
   let profileImage = document.getElementById("profileImage");
   profileImage.src = selectedImage;
+</script>
+<script>
+  function openPagefindSearch(e) {
+    e.preventDefault();
+
+    const modal = document.querySelector("#search-modal");
+
+    if (!modal) return;
+
+    // Wait until the custom element is ready
+    if (customElements.get("pagefind-modal")) {
+      modal.open();
+    } else {
+      customElements.whenDefined("pagefind-modal").then(() => {
+        modal.open();
+      });
+    }
+  }
 </script>
 
 </html>

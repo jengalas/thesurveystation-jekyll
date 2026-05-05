@@ -16,12 +16,7 @@
         {% endif %}              
       {% endfor %}
       <li class="toggle"><a href="#">{% include icons/fa-solid-bars.svg class="icon" %}</a></li>
-      <li class="search-toggle item"><a href="javascript:void(0)" onclick="superSearch.toggle()">{% include icons/fa-fa-search.svg class="icon" %}</a></li>
+      <li class="search-toggle item"><a href="#" onclick="openPagefindSearch(event)">{% include icons/fa-fa-search.svg class="icon" %}</a></li>
     </ul>
   {% endif %}
-  <div class="super-search" id="js-super-search">      
-    <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">{% include icons/fa-fa-times.svg class="icon fa-fa-times" %}</a>
-    <input type="text" placeholder="Search ..." class="super-search__input" id="js-super-search__input">
-    <ul class="super-search__results" id="js-super-search__results"></ul>
-  </div>
 </nav> 

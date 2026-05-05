@@ -17,8 +17,6 @@
   <link rel="stylesheet" href="/assets/css/leaflet-mapcentercoord.css">
   <script src="/assets/js/leaflet-mapcentercoord.js"></script>
 
-  <link rel="stylesheet" href="/assets/css/super-search.css">
-
   <title>{{ page.state }} USGS Quads | {{ site.title }}</title>
 
   <link rel="stylesheet" href="{{ page.css }}">
@@ -30,4 +28,7 @@
   {% else %}
   <script src="{{ page.jsondata }}"></script>
   {% endif %}
+
+  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
 </head>
