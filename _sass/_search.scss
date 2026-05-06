@@ -1,0 +1,9 @@
+@use "base" as *;
+
+pagefind-modal-trigger {
+    display: none;
+}
+
+:root {
+  --pagefind-ui-background: #ff0000;
+}

@@ -3,16 +3,16 @@
 
 {% include head.html %}
 
-<body {% if layout.class %} class="{{ layout.class }}" {% endif %} {% if page.class %} class="{{ page.class }}" {% endif
+<body data-pagefind-body {% if layout.class %} class="{{ layout.class }}" {% endif %} {% if page.class %} class="{{ page.class }}" {% endif
   %}>
 
   {% include nav.html %}
 
   <main class="default-template">
+    <pagefind-modal-trigger shortcut="/"></pagefind-modal-trigger>
     <pagefind-modal id="search-modal"></pagefind-modal>
 
     <div class="container">
-
       {{ content }}
 
     </div>
