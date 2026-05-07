@@ -3,8 +3,8 @@
 
 {% include head.html %}
 
-<body data-pagefind-body {% if layout.class %} class="{{ layout.class }}" {% endif %} {% if page.class %} class="{{ page.class }}" {% endif
-  %}>
+<body data-pagefind-body {% if layout.class %} class="{{ layout.class }}" {% endif %} {% if page.class %}
+  class="{{ page.class }}" {% endif %}>
 
   {% include nav.html %}
 
@@ -168,6 +168,11 @@
       }
     }
   </script>
+  <script type="module">
+    await import('/pagefind/pagefind-highlight.js');
+    new PagefindHighlight({ highlightParam: "highlight" });
+  </script>
+
 </body>
 
 </html>
