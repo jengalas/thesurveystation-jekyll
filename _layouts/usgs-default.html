@@ -3,18 +3,32 @@
 
 {% include usgs-head.html %}
 
-<body>
+<body {% unless page.search_ignore %} data-pagefind-body {% endunless %}>
   {% include nav.html %}
   <main class="default-template">
     <pagefind-modal-trigger shortcut="/"></pagefind-modal-trigger>
-    <pagefind-modal id="search-modal"></pagefind-modal>
+    <pagefind-modal id="search-modal">
+      <pagefind-modal-header>
+        <pagefind-input></pagefind-input>
+      </pagefind-modal-header>
+      <pagefind-modal-body>
+        <pagefind-summary></pagefind-summary>
+        <pagefind-results show-images hide-sub-results></pagefind-results>
+      </pagefind-modal-body>
+      <pagefind-modal-footer>
+        <pagefind-keyboard-hints></pagefind-keyboard-hints>
+      </pagefind-modal-footer>
+    </pagefind-modal>
 
     <div class="container">
 
       {% if page.title != "Index" %}
-      <h1>USGS Datasheets: {{ page.title }}</h1>
+      <h1 data-pagefind-meta="title">USGS Datasheets: {{ page.title }}</h1>
+      <div data-pagefind-body style="display:none;">
+        Scanned USGS datasheets for {{ page.title | strip_html }}
+      </div>
       {% else %}
-      <h1>USGS Datasheets</h1>
+      <h1 data-pagefind-meta="title">USGS Datasheets</h1>
       {% endif %}
 
       {% if page.additional_text %}
@@ -49,7 +63,7 @@
 
   {% include usgs-footer.html %}
 
-<script>
+  <script>
     function openPagefindSearch(e) {
       e.preventDefault();
 

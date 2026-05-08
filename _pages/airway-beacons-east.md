@@ -2,6 +2,7 @@
 layout: page
 title: Airway Beacons List—Eastern U.S.
 permalink: /airway-beacons-list-eastern-u-s/
+description: Airway beacons and arrows in the eastern U.S.
 _unlisted: true
 use_jquery: true
 features:

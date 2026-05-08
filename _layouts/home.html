@@ -3,13 +3,24 @@
 
 {% include head.html %}
 
-<body>
+<body {% unless page.search_ignore %} data-pagefind-body {% endunless %}>
 
   {% include nav.html %}
 
   <main class="default-template home">
     <pagefind-modal-trigger shortcut="/"></pagefind-modal-trigger>
-    <pagefind-modal id="search-modal"></pagefind-modal>
+    <pagefind-modal id="search-modal">
+      <pagefind-modal-header>
+        <pagefind-input></pagefind-input>
+      </pagefind-modal-header>
+      <pagefind-modal-body>
+        <pagefind-summary></pagefind-summary>
+        <pagefind-results show-images hide-sub-results></pagefind-results>
+      </pagefind-modal-body>
+      <pagefind-modal-footer>
+        <pagefind-keyboard-hints></pagefind-keyboard-hints>
+      </pagefind-modal-footer>
+    </pagefind-modal>
 
     <section id="banner">
       <header>

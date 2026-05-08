@@ -2,6 +2,7 @@
 title: Airway Beacons
 layout: default
 permalink: /airway-beacons/
+description: "Airway beacons and arrows: history and locations"
 ---
 
 # Airway Beacons

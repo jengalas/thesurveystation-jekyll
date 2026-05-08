@@ -2,6 +2,7 @@
 title: All Points
 layout: page
 permalink: /all-points/
+search_ignore: true
 ---
 
 {% assign marks = site.surveymarks | concat: site.reference_marks | sort: "date" | reverse %}

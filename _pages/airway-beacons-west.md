@@ -2,6 +2,7 @@
 layout: page
 title: Airway Beacons List—Western U.S.
 permalink: /airway-beacons-list-western-u-s/
+description: Airway beacons and arrows in the western U.S.
 _unlisted: true
 use_jquery: true
 features:

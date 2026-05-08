@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<h2>{{ page.state }}</h2>
+<h1 data-pagefind-meta="title">{{ page.state }}</h1>
+<div data-pagefind-body style="display:none;">
+  Survey marks in {{ page.state | strip_html }}
+</div>
 
 {% assign allMarks = site.surveymarks | concat: site.reference_marks | where: "state", page.state | sort: "date" | reverse %}
 

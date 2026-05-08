@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<h1>Agency: {{ page.agency }}</h1>
+<h1 data-pagefind-meta="title">Agency: {{ page.agency }}</h1>
+<div data-pagefind-body style="display:none;">
+  Survey marks from {{ page.agency | strip_html }}
+</div>
 
 <ul>
     {% assign marks = site.surveymarks | concat: site.reference_marks | where: "agency", page.agency | sort: "date" | reverse %}

@@ -2,6 +2,7 @@
 title: About Survey Mark Hunting
 layout: page
 permalink: /about-survey-mark-hunting/
+description: Learn more about hunting for survey markers
 ---
 
 ## The What
