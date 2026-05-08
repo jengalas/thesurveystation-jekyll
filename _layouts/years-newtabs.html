@@ -61,7 +61,7 @@ page-type: year-index
   {% endif %}
 </div>
 
-<section class="post-navigation">
+<section class="post-navigation" data-pagefind-ignore>
   {% if page.year > site.data.years[-1].year %}
   <a class="prev-post" href="/year/{{page.year | to_i | minus: 1}}"
     title="Previous year: {{page.year | to_i | minus: 1}}"

@@ -213,7 +213,7 @@ features:
 <div class="reference-marks">{% include reference-marks.html %}</div>
 {% endif %}
 
-<section class="post-navigation">
+<section class="post-navigation" data-pagefind-ignore>
   {%if page.previous.url %}
   <a class="prev-post" href="{{page.previous.url}}" title="Previous survey mark: {{page.previous.designation | upcase}}"
     alt="Previous survey mark: {{page.previous.designation | upcase}}">{{page.previous.designation | upcase}}</a>

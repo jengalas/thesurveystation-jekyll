@@ -2,6 +2,7 @@
 layout: default
 title: Tags
 permalink: /tags/
+search_ignore: true
 _unlisted: true
 ---
 

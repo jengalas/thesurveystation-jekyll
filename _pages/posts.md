@@ -2,6 +2,7 @@
 layout: default
 title: Posts
 permalink: /posts/
+search_ignore: true
 _unlisted: true
 ---
 

@@ -3,7 +3,10 @@ layout: default
 class: blog-post
 ---
 
-<h1>{{ page.title }}</h1>
+<h1 data-pagefind-meta="title">{{ page.title }}</h1>
+<div data-pagefind-body style="display:none;">
+  {{ page.excerpt | strip_html }}
+</div>
 
 {{ content }}
 
@@ -20,7 +23,7 @@ class: blog-post
     </div>
 </div>
 
-<section class="post-navigation">
+<section class="post-navigation" data-pagefind-ignore>
   {%if page.previous.url %}
     <a class="prev-post" href="{{page.previous.url}}" title="Previous post: {{page.previous.title}}" alt="Previous post: {{page.previous.title}}">{{page.previous.title}}</a>
   {% endif %}
