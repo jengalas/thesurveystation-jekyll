@@ -10,6 +10,16 @@
   .default-template a.strong {
     font-weight: bold;
   }
+
+  .custom-pin-wrapper {
+    background: transparent;
+    border: none;
+  }
+
+  .custom-pin {
+    display: block;
+    filter: drop-shadow(0 1px 3px rgba(0,0,0,0.45));
+  }
 </style>
 
 <div class="fullscreen-map-wrapper">
@@ -99,13 +109,48 @@
       "Note Entered": "blue"
     };
 
+    const iconCache = {};
+
     function getMarkerIcon(status) {
-      return L.AwesomeMarkers.icon({
-        icon: "circle",
-        prefix: "fa",
-        markerColor: statusColors[status] || "gray",
-        iconColor: "white"
+      if (iconCache[status]) return iconCache[status];
+
+      const color = statusColors[status] || "#666";
+
+      iconCache[status] = L.divIcon({
+        className: "custom-pin-wrapper",
+        html: `
+      <svg
+        class="custom-pin"
+        width="30"
+        height="42"
+        viewBox="0 0 30 42"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <!-- Pin shape -->
+        <path
+          d="M15 1
+              C8 1 2 7 2 14
+              C2 24 15 40 15 40
+              C15 40 28 24 28 14
+              C28 7 22 1 15 1Z"
+          fill="${color}"
+        />
+
+        <!-- Inner dot -->
+        <circle
+          cx="15"
+          cy="14"
+          r="5"
+          fill="white"
+        />
+      </svg>
+    `,
+        iconSize: [30, 42],
+        iconAnchor: [15, 41],
+        popupAnchor: [0, -36]
       });
+
+      return iconCache[status];
     }
 
     L.geoJSON(geojson, {

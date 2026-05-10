@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "P 230",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-05-09T07:39:00-04:00",
+        "permalink": "/surveymarks/ly1478/",
+        "image": "https://images.planetzhanna.com/2026/05/09/thumbnails/ly1478csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.961255,
+          41.090465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "NPS (Unstamped, Acadia #23)",
         "status": "Recovered",
         "condition": "Good",
