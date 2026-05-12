@@ -117,7 +117,7 @@ A trip to the powdercoaters resulted in this sexy thing!  Gratings were fabricat
 
 The beacons’ elevation angles can be adjusted using this simple jack screw device between 0 degrees (on the horizon) to +20 degrees above the horizon.
 
-{% include post_gallery.html gallery_id="gallery7" class="justify" %}
+{% include post_gallery.html gallery_id="gallery7" class="2by2" %}
 
 We hoisted the “counterfeit” beacon to the top of the tower on 9 April 2016.
 
@@ -125,7 +125,7 @@ We hoisted the “counterfeit” beacon to the top of the tower on 9 April 2016.
 
 And IT WORKS!  
 
-{% include post_gallery.html gallery_id="gallery9" class="justify" %}
+{% include post_gallery.html gallery_id="gallery9" class="1by1" %}
 
 {% include youtube.html embed_code="cLLfjgM7fGU" %}
 

@@ -66,8 +66,9 @@
   {% endif %}
 
   {% if page.features contains "gallery" or layout.features contains "gallery" %}
-  <script src="/assets/js/jquery.justifiedGallery.min.js"></script>
-  <script>
+  <!-- <script src="/assets/js/jquery.justifiedGallery.min.js"></script> -->
+  <script src="/assets/js/justified-gallery-no-query.js"></script>
+  <!-- <script>
     $('.jg').justifiedGallery({
       rowHeight: 200,
       margins: 10,
@@ -109,7 +110,7 @@
       lastRow: 'justify'
     });
 
-  </script>
+  </script> -->
   {% endif %}
 
 

@@ -67,25 +67,25 @@ On 1 July 1924, postal authorities began regular around-the-clock operations (es
 
 Following WWII, the rapid advancement and availability of in-cockpit electronic navigation equipment made the old lighted beacon system obsolete and it was decommissioned and dismantled in the late 1950s and early 60s. The beacons and their towers were then donated to municipal airports for use as airport beacons—one apparently ending up at the La Porte Municipal Airport on the southeast side of Houston.
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include post_gallery.html gallery_id="gallery1" class="2by2" %}
 
 In 2004, the city of La Porte received a federal grant to modernize its airport lighting facilities and this included replacing its old rotating beacon and tower with a modern version. At that time, our own decrepit and failing beacon was already deep into borrowed time and wasn’t worth repairing any more. A deal was made and the La Porte tower and its beacon were dismantled and moved to our airport.
  
-{% include post_gallery.html gallery_id="gallery2" class="justify" %}
+{% include post_gallery.html gallery_id="gallery2" class="2by2" %}
 
 {% include post-image.html filename="ideco-plate.jpg" thumb="ideco-plate-300x130.jpg" caption="IDECO Builders Plate" className="alignright" %}
 
 La Porte’s steel beacon tower was built by IDECO (the International Derrick & Equipment Company, one of the major suppliers of towers for the Federal Lighted Airway Beacon System) during the late 1920s. For being 85+ years old, the old tower was still in very good condition, owing much of its long life to the six to eight coats of thick paint on top of a galvanized undercoat.  Nonetheless, the tower was thoroughly sandblasted, inspected, rebuilt piece by piece, and repainted in Aviation Orange and Aviation White colors. 
 
-{% include post_gallery.html gallery_id="gallery3" class="300h" %}
+{% include post_gallery.html gallery_id="gallery3" class="3by3" %}
 
 The beacon assembly that came with the tower was a 1938-40 Crouse-Hinds model DCB-36 (built specifically for the Civil Aeronautics Authority) with a 12rpm rotator mechanism. The beacon was still operational but due to the scarcity of replacement parts, that beacon has been retired and [a replacement (“counterfeit”) beacon has been fabricated](/2017/01/30/harveys-counterfeit-beacon/).  The La Porte beacon, as well as our original beacon, were controlled by simple photocell switches and they operated all night, every night. However, our new beacon will be pilot-controlled (via microphone “clicks”) in order to limit its operational time, thus reducing its maintenance and electricity costs.
 
-{% include post_gallery.html gallery_id="gallery4" class="justify" %}
+{% include post_gallery.html gallery_id="gallery4" class="2by2" %}
 
 Its fresh coat of paint belies our “new” beacon tower’s long history of guiding pilots through the night skies. The construction of the Federal Lighted Airway Beacon System in the 1920s and ‘30s enabled scheduled around-the-clock flying for the fledgling U.S. Airmail Service and is regarded as the birth of commercial aviation in the U.S.  Of the original 1550 towers, only a few dozen are known to exist and of those, only a small few have been restored.
 
-{% include post_gallery.html gallery_id="gallery5" class="justify" %}
+{% include post_gallery.html gallery_id="gallery5" %}
 
 **_Our tower is one of those few!_**
 

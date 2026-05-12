@@ -43,4 +43,4 @@ I was in Bristol late in November of 2012 and called her to arrange a visit. She
 
 Many airway beacons were located on airports and are still in use today. The beacon on the grounds of the Crossville Tennessee airport is an excellent example of airway beacon construction and photos of the Crossville beacon are included below to show construction details.
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include post_gallery.html gallery_id="gallery1" class="4by3" %}

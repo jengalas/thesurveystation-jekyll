@@ -29,4 +29,4 @@ features:
 
 These photos were submitted by Glen Smallwood in March 2015. They show the current status of Salt Lake City to Boise Beacon 26 (NGS PID [OZ1045](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OZ1045)).
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include post_gallery.html gallery_id="gallery1" class="4by3" %}
