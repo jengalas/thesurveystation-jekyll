@@ -33,7 +33,7 @@
 }(typeof window !== 'undefined' ? window : this, function () {
   'use strict';
 
-  /* ─── defaults ─────────────────────────────────────────────────────────── */
+  /* --- defaults --------------------------------------------------- */
   const DEFAULTS = {
     rowHeight:        230,
     maxRowHeight:     0,
@@ -43,11 +43,11 @@
     margins:          4,
     lastRow:          'justify',
     captions:         true,
-    lightbox:         false,
+    lightbox:         true,
     imgSelector:      'img',
   };
 
-  /* ─── helpers ───────────────────────────────────────────────────────────── */
+  /* --- helpers ---------------------------------------------------- */
   function mergeOptions(defaults, user, dataAttrs) {
     const o = Object.assign({}, defaults, user);
     if (dataAttrs.rowHeight)        o.rowHeight        = parseInt(dataAttrs.rowHeight,        10);
@@ -101,7 +101,7 @@
     return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), wait); };
   }
 
-  /* ─── layout engine ─────────────────────────────────────────────────────── */
+  /* --- layout engine ------------------------------------------------ */
   function computeRows(items, containerWidth, opts) {
     const { rowHeight, maxRowHeight, margins, maxCols } = opts;
     const rows = [];
@@ -209,7 +209,7 @@
     });
   }
 
-  /* ─── lightbox — one per gallery instance ───────────────────────────────── */
+  /* --- lightbox — one per gallery instance ---------------------------------------- */
   function buildLightbox(instanceId) {
     const lb = document.createElement('div');
     lb.className = 'jg-lightbox';
@@ -288,7 +288,7 @@
     return open;
   }
 
-  /* ─── main constructor ──────────────────────────────────────────────────── */
+  /* --- main constructor --------------------------------------------------------- */
   let instanceCounter = 0;
 
   function JustifiedGallery(selector, userOptions) {
@@ -380,7 +380,7 @@
       });
     }
 
-    /* ── layout ──────────────────────────────────────────────────────────── */
+    /* --- layout ----------------------------------------------------- */
     const layout = () => {
       const W = container.getBoundingClientRect().width || container.offsetWidth;
       if (!W) return;
@@ -456,15 +456,15 @@
     };
   }
 
-  /* ─── auto-init ──────────────────────────────────────────────────────────
-   * Finds every div.jg (and div.jg-gallery) on the page and initialises
+  /* --- auto-init -------------------------------------------------- */
+  /* Finds every div.jg (and div.jg-gallery) on the page and initialises
    * each one automatically — no per-gallery <script> tag required.
    *
    * Per-container options via data attributes:
    *   data-row-height="180"
    *   data-margins="6"
    *   data-last-row="center"
-   * ───────────────────────────────────────────────────────────────────────*/
+   * --------------------------------------------------------------*/
   function autoInit() {
     // Match both the legacy "jg" class and the new "jg-gallery" class
     document.querySelectorAll('div.jg, div.jg-gallery').forEach(container => {
