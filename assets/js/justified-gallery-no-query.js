@@ -43,7 +43,7 @@
     margins:          4,
     lastRow:          'justify',
     captions:         true,
-    lightbox:         true,
+    lightbox:         false,
     imgSelector:      'img',
   };
 
