@@ -1,22 +1,22 @@
 /******************************************************************************
 Main navigation 
-*******************************************************************************/ 
+*******************************************************************************/
 
 const toggle = document.querySelector(".toggle");
 const menu = document.querySelector(".menu");
 /* Toggle mobile menu */
 function toggleMenu() {
-    if (menu.classList.contains("active")) {
-        menu.classList.remove("active");
-        
-        // adds the menu (hamburger) icon 
-        toggle.querySelector("a").innerHTML = "<i class='fas fa-bars'></i>";
-    } else {
-        menu.classList.add("active");
-        
-        // adds the close (x) icon 
-        toggle.querySelector("a").innerHTML = "<i class='fas fa-times'’'></i>";
-    }
+  if (menu.classList.contains("active")) {
+    menu.classList.remove("active");
+
+    // adds the menu (hamburger) icon 
+    toggle.querySelector("a").innerHTML = "<i class='fas fa-bars'></i>";
+  } else {
+    menu.classList.add("active");
+
+    // adds the close (x) icon 
+    toggle.querySelector("a").innerHTML = "<i class='fas fa-times'’'></i>";
+  }
 }
 toggle.addEventListener("click", toggleMenu, false);
 
@@ -34,25 +34,25 @@ function toggleItem() {
 }
 /* Event Listeners */
 for (let item of items) {
-    if (item.querySelector(".submenu")) {
-      item.addEventListener("click", toggleItem, false);
-      item.addEventListener("keypress", toggleItem, false);
-    }   
+  if (item.querySelector(".submenu")) {
+    item.addEventListener("click", toggleItem, false);
+    item.addEventListener("keypress", toggleItem, false);
+  }
 }
 /* Close submenu from anywhere */
 function closeSubmenu(e) {
-    if (menu.querySelector(".submenu-active")) {
-      let isClickInside = menu
-        .querySelector(".submenu-active")
-        .contains(e.target);
-      if (!isClickInside && menu.querySelector(".submenu-active")) {
-        menu.querySelector(".submenu-active").classList.remove("submenu-active");
-      }
+  if (menu.querySelector(".submenu-active")) {
+    let isClickInside = menu
+      .querySelector(".submenu-active")
+      .contains(e.target);
+    if (!isClickInside && menu.querySelector(".submenu-active")) {
+      menu.querySelector(".submenu-active").classList.remove("submenu-active");
     }
   }
+}
 /* Event listener */
-  document.addEventListener("click", closeSubmenu, false);
-/* End navigation */  
+document.addEventListener("click", closeSubmenu, false);
+/* End navigation */
 
 
 /******************************************************************************
@@ -86,9 +86,9 @@ function togglePanel(event) {
 // Set initial state on page load based on sessionStorage
 window.addEventListener('load', () => {
   if (accordionButtons.length === 0) return;
-  
+
   const openPanel = sessionStorage.getItem('accordionOpen');
-  
+
   // If sessionStorage contains a previous state, open that panel
   if (openPanel) {
     const openButton = Array.from(accordionButtons).find(button => button.textContent === openPanel);
@@ -126,16 +126,16 @@ function scrollHeader() {
   let top = window.scrollY;
 
   if (top >= 80) {
-      header.classList.add('active');
+    header.classList.add('active');
   } else {
-      header.classList.remove('active');
+    header.classList.remove('active');
   }
 }
 
 // When the user scrolls down 20px from the top of the document, show the back-to-top button
 function scrollToTop() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    scrollTopBtn.style.display = "block";
+      scrollTopBtn.style.display = "block";
   } else {
     scrollTopBtn.style.display = "none";
   }
@@ -147,7 +147,8 @@ function topFunction() {
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
-window.onscroll = function() {
+window.onscroll = function () {
   scrollHeader();
   scrollToTop();
 }
+
