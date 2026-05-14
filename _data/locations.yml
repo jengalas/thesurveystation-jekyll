@@ -285,6 +285,7 @@
     - name: Chester County
       quad:
         - name: Malvern Quad
+        - name: Valley Forge Quad
     - name: Columbia County
       quad:
         - name: Berwick Quad
