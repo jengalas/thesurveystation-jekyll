@@ -13,7 +13,8 @@ features:
 {% capture date %}{{ page.date | date: "%B %e, %Y" }}{% endcapture %}
 {% capture richDate %}{{ page.rich_date | date: "%B %e, %Y" }}{% endcapture %}
 
-<h1 data-pagefind-meta="title">{{ page.designation }}{% if page.pid %} ({{ page.pid }}){% endif %}</h1>
+<h1 data-pagefind-meta="title" style="display:none;">{{ page.designation }}{% if page.pid %} ({{ page.pid }}){% endif %}</h1>
+<h1>{{ page.designation }}</h1>
 <div data-pagefind-body style="display:none;">
   {{ page.agency | strip_html }} {{ page.type | strip_html }}
 </div>
