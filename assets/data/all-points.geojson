@@ -1,6 +1,96 @@
 {
   "type": "FeatureCollection",
   "features": [
+       {
+      "type": "Feature",
+      "properties": {
+        "designation": "VALLEY FORGE AZ MK",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-05-11T10:13:00-04:00",
+        "permalink": "/surveymarks/kv6208/",
+        "image": "https://images.planetzhanna.com/2026/05/11/thumbnails/kv6208csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.443156,
+          40.072878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "VALLEY FORGE RM 2",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2026-05-11T10:23:00-04:00",
+        "permalink": "/reference-marks/kv6207-rm-2/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.446261,
+          40.076603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "VALLEY FORGE RM 1",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2026-05-11T10:22:00-04:00",
+        "permalink": "/reference-marks/kv6207-rm-1/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.446111,
+          40.076389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "VALLEY FORGE",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2026-05-11T10:21:00-04:00",
+        "permalink": "/surveymarks/kv6207/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.446007,
+          40.076637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "76 C",
+        "status": "Note Entered",
+        "condition": "Unknown (Not Found)",
+        "time": "2026-05-09T09:59:00-04:00",
+        "permalink": "/surveymarks/76-c/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690329,
+          41.026187
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
