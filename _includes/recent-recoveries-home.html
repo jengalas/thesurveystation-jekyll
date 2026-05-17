@@ -5,7 +5,7 @@
   </div>
 </div>
 <div class="grid-container two-col">
-  {% assign allMarks = site.surveymarks | where: "status", "Recovered" | sort: "date" | reverse %}
+  {% assign allMarks = site.surveymarks | concat: site.reference_marks | where: "status", "Recovered" | sort: "date" | reverse %}
 
   {% for post in allMarks limit:4 %}
 
