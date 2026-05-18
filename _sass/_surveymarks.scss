@@ -157,6 +157,8 @@
   }
 
   .referenceMarks {
+    width: 100%;
+
     img {
       height: 150px;
       object-fit: cover;
@@ -167,6 +169,13 @@
       font-weight: 600;
       margin: 1.5rem 0;
       text-align: left;
+    }
+    th {
+      text-align: left;
+    }
+
+    .tabulator-row .tabulator-cell {
+      border-right: 0;
     }
   }
 }

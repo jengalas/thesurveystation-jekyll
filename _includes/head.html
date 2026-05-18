@@ -19,6 +19,11 @@
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/3.0.3/css/responsive.dataTables.min.css" />
   {% endif %}
 
+  {% if page.features contains "tabulator" or layout.features contains "tabulator" %}
+  <link rel="stylesheet" href="/assets/vendor/tabulator/dist/css/tabulator.min.css">
+  <script src="/assets/vendor/tabulator/dist/js/tabulator.min.js"></script>
+  {% endif %}
+
   {% if page.features contains "leaflet" or layout.features contains "leaflet" %}
   <!-- Leaflet.js -->
   <link rel="stylesheet" href="/assets/vendor/leaflet/leaflet.css" />

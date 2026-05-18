@@ -1,32 +1,87 @@
-
 {% capture filename %}{{ page.url | remove: "/surveymarks/" | replace: "/", ""}}{% endcapture %}
 {% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
 {% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 
 {% assign referenceMarks = site.reference_marks | where: "parent", filename | sort: "designation" %}
-<table class="referenceMarks">
-    <caption>Reference Objects</caption>
-    <thead>
-        <tr>
-            <th>Designation</th>
-            <th>Status</th>
-            <th>Condition</th>
-            <th>Image</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for referenceMark in referenceMarks %}
-        <tr>
-            <td><a href="{{ referenceMark.url }}">{{ referenceMark.designation }}</a></td>
-            <td>{{ referenceMark.status }}</td>
-            <td>{{ referenceMark.condition }}</td>
-            <td>{% if referenceMark.featured_image %}
-                <img src="{{ thumb }}{{ referenceMark.featured_image }}">
-                {% else %}
-                <img src="/assets/img/default-bm-featured-image-150x150.jpg">
-                {% endif %}
-            </td>
-        </tr>
-        {% endfor %}
-    </tbody>
+<h3 class="table-caption">Reference Objects</h2>
+<table id="referenceMarks" class="referenceMarks">
+  <thead>
+    <tr>
+      <th>Designation</th>
+      <th>Status</th>
+      <th>Condition</th>
+      <th>Image</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for referenceMark in referenceMarks %}
+    <tr>
+      <td><a href="{{ referenceMark.url }}">{{ referenceMark.designation }}</a></td>
+      <td>{{ referenceMark.status }}</td>
+      <td>{{ referenceMark.condition }}</td>
+      <td>{% if referenceMark.featured_image %}
+        <img src="{{ thumb }}{{ referenceMark.featured_image }}">
+        {% else %}
+        <img src="/assets/img/default-bm-featured-image-150x150.jpg">
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+
+    new Tabulator("#referenceMarks", {
+      height: "auto",
+      layout:"fitDataStretch",
+      responsiveLayout: "collapse",
+      responsiveLayoutCollapseStartOpen: false,
+
+      columns: [
+        {
+          formatter: "responsiveCollapse",
+          width: 40,
+          hozAlign: "center",
+          headerSort: false
+        },
+
+        {
+          title: "Designation",
+          field: "Designation",
+          formatter: "html",
+          minWidth: 250,
+          widthGrow: 3,
+          responsive: 0
+        },
+
+        {
+          title: "Status",
+          field: "Status",
+          minWidth: 250,
+          widthGrow: 1,
+          responsive: 1
+        },
+
+        {
+          title: "Condition",
+          field: "Condition",
+          minWidth: 250,
+          widthGrow: 1,
+          responsive: 2
+        },
+
+        {
+          title: "Image",
+          field: "Image",
+          formatter: "html",
+          minWidth: 200,
+          width: 220,
+          responsive: 3
+        }
+      ]
+    });
+
+  });
+</script>
