@@ -12,7 +12,7 @@ use_jquery: true
   }
 
   .manual-of-triangulation td {
-    padding: 8px 10px;
+    padding: 10px;
   }
 
   @media (min-width: 701px) {
