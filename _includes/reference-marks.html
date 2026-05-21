@@ -2,11 +2,6 @@
 {% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{% endcapture %}
 {% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
 
-<style>
-
-
-</style>
-
 {% assign referenceMarks = site.reference_marks | where: "parent", filename | sort: "designation" %}
 <table class="referenceMarks responsive-table" id="referenceMarks">
   <caption>Reference Objects</caption>

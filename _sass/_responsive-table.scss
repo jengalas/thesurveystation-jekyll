@@ -32,14 +32,6 @@
     background: none;
   }
 
-  /* Highlighting primary/key cells */
-  .responsive-table .primary-cell {
-    font-weight: bold;
-    font-size: 1.2rem;
-    /* Using the size from the manual example */
-  }
-
-
   /* ============================================== */
   /* MOBILE STYLES (Max-width: 700px) */
   /* ============================================== */
@@ -80,7 +72,14 @@
       background: none;
     }
 
-    /* --- Expandable Logic (Common to both original sets) --- */
+    /* Highlighting primary/key cells */
+    .responsive-table .primary-cell {
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+
+    /* --- Expandable Logic --- */
 
     /* Collapsed state: hide non-expander/non-primary cells */
     .responsive-table tr:not(.expanded) td:not(.expander-cell):not(.primary-cell) {
@@ -98,7 +97,7 @@
     }
 
 
-    /* --- Labeling Logic (Data attributes vs. nth-child) --- */
+    /* --- Labeling logic using data attributes --- */
 
     /* Prioritize data-label (more flexible and recommended) */
     .responsive-table td[data-label]::before {
