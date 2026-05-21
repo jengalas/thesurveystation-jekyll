@@ -15,8 +15,7 @@ galleries:
     - filename: 020c
       alt: The beacon in its new location at the rail museum    
     - filename: 010c
-      alt: At the rail museum  
-use_jquery: true      
+      alt: At the rail museum       
 features:
   - gallery         
 ---

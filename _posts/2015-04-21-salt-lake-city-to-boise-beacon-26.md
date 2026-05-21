@@ -22,7 +22,6 @@ galleries:
       alt: What's left of the tower.
     - filename: 100_7571cm
       alt: Looking east from the end of Sea Breeze Road   
-use_jquery: true
 features:
   - gallery         
 ---

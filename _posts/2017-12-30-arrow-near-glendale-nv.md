@@ -15,7 +15,6 @@ galleries:
       alt: Looking northeast        
     - filename: old-spanish-trail-postc-768x1024
       alt: Old Spanish Trail marker     
-use_jquery: true
 features:
   - gallery                                
 ---

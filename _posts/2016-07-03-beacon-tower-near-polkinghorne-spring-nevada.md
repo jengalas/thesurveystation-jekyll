@@ -41,8 +41,7 @@ galleries:
     - filename: IMG_20160602_073013538-1066x600-1024x576
       alt: Peeking over the hill    
     - filename: IMG_20160602_063607599_HDR-1067x600-1024x576
-      alt: Fawcett brothers, minus 1. Polkinghorn spring is between red & green shirt... Going through the Geocache goodies      
-use_jquery: true   
+      alt: Fawcett brothers, minus 1. Polkinghorn spring is between red & green shirt... Going through the Geocache goodies       
 features:
   - leaflet    
   - gallery            

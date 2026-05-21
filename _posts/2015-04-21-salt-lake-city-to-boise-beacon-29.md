@@ -15,8 +15,7 @@ galleries:
     - filename: MAP-135_BCN-29-4acm
       alt: BCN 29 pointing to the airport at Boise (BOI). While the airport at the time the CAM5 contract was in operation is now the Boise State campus, the arrow is pointing to the current airport location. Apparently the general direction was good enough. 
     - filename: MAP-135_BCN-29-2cm
-      alt: Tower pad of BCN 29. Not much left except for the steel. This is the first location where I noticed that the ladder had been cast into the concrete. 
-use_jquery: true  
+      alt: Tower pad of BCN 29. Not much left except for the steel. This is the first location where I noticed that the ladder had been cast into the concrete.  
 features:
   - gallery       
 ---

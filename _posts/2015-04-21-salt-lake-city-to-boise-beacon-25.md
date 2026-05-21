@@ -15,8 +15,7 @@ galleries:
     - filename: MAP-135-BCN-25-3cm
       alt: The only marker on the tower we could find.
     - filename: MAP-135_BCN-25-4cm
-      alt: According to the NGS datasheet, this was located by sighting the light for the center of the tower.
-use_jquery: true      
+      alt: According to the NGS datasheet, this was located by sighting the light for the center of the tower.     
 features:
   - gallery   
 ---

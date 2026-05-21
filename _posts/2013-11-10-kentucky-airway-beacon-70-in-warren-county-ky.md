@@ -23,8 +23,7 @@ galleries:
     - filename: beacon70-06
       alt: Northwest tower stub.
     - filename: beacon70-07
-      alt: View along the southerly edge of slab, camera pointing in the direction of 120 degrees, the southeast and southwest stubs are marked with white cards. 
-use_jquery: true    
+      alt: View along the southerly edge of slab, camera pointing in the direction of 120 degrees, the southeast and southwest stubs are marked with white cards.   
 features:
   - leaflet  
   - gallery                 
@@ -46,6 +45,6 @@ Clump of trees in the left background may have been the location of a generator 
 
 I did not find any trace of the northeast tower stub, but it may have been covered by plant debris or it is possible the slab was poured after tower construction and the missing stub is not covered by the slab. I hope to return to this site soon and clean off the slab and try to find the northeast stub and study any other artifacts present.
 
-{% include post_gallery.html gallery_id="gallery2" class="justify" %}
+{% include post_gallery.html gallery_id="gallery2" class="3by2" %}
 
 {% include simple-map.html map_id="1" latitude="36.933834" longitude="-86.259134" zoom="16" marker_name="Beacon 70 site" %}

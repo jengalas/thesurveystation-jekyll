@@ -16,8 +16,7 @@ galleries:
     - filename: SLO42-3-e1550438326473
       alt: "SL-O #42 site"
     - filename: SLO42-4-e1550438334499
-      alt: "SL-O #42 site"  
-use_jquery: true   
+      alt: "SL-O #42 site"   
 features:
   - leaflet 
   - gallery    

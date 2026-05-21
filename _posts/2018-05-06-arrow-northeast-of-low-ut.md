@@ -16,8 +16,7 @@ galleries:
     - filename: IMG_0034cl-1024x768
       alt: Looking southeast toward I-80
     - filename: IMG_0035cl-1024x768
-      alt: You can drive to this one, just be prepared!   
-use_jquery: true   
+      alt: You can drive to this one, just be prepared!     
 features:
   - leaflet   
   - gallery                

@@ -27,8 +27,7 @@ galleries:
     - filename: P1070178cm
       alt: BAKER RM 2   
     - filename: P1070186cm
-      alt: The well referred to in the triangulation station description?   
-use_jquery: true   
+      alt: The well referred to in the triangulation station description?     
 features:
   - gallery                
 ---

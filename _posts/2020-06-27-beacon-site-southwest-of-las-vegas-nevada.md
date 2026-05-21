@@ -16,8 +16,7 @@ galleries:
     - filename: arrow-sw-las-vegas1-1024x768-1
       alt: 
     - filename: arrow-sw-las-vegas2-1024x768-1
-      alt:       
-use_jquery: true  
+      alt:      
 features:
   - leaflet 
   - gallery    
@@ -30,9 +29,5 @@ This site was discovered by Herbert Arnold, who also submitted the photos. It ap
  
 
 Coordinates for this beacon site are N 35.740218°, W 115.352291°.
-
-
-<br>
-{:.clearboth}
 
 {% include post_gallery.html gallery_id="gallery1" class="justify" %}

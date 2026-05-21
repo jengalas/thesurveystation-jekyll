@@ -14,7 +14,6 @@ galleries:
       alt: Maintenance writing       
     - filename: lamptubingcm
       alt: Tubing for the acetylene lamp
-use_jquery: true 
 features:
   - leaflet  
   - gallery          
@@ -26,6 +25,6 @@ He writes:
 
 > There is no road to the site. It is out in the flat sagebrush. There is no light or arrow but the tower is intact. There's maintenance writing inside from the '30s, and tubing for the acetylene lamp.
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include post_gallery.html gallery_id="gallery1" class="3by2" %}
 
 {% include simple-map.html map_id="1" latitude="40.435814" longitude="-117.163028" zoom="15" marker_name="Beacon tower" %}

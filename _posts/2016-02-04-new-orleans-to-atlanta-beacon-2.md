@@ -17,8 +17,7 @@ galleries:
     - filename: New-Orleans-Atlanta-Beacon-2-location-scan-2-2-16-A
       alt: Fort Pike State Park - former beacon location 
     - filename: New-Orleans-Atlanta-Beacon-2-location-scan-2-2-16-C
-      alt: Fort Pike State Park - former beacon location
-use_jquery: true  
+      alt: Fort Pike State Park - former beacon location 
 features:
   - gallery       
 ---

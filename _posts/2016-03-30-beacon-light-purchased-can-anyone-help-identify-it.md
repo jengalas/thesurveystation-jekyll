@@ -13,8 +13,7 @@ galleries:
     - filename: beacon-2
       alt: Unknown beacon light     
     - filename: beacon-1
-      alt: Unknown beacon light   
-use_jquery: true   
+      alt: Unknown beacon light     
 features:
   - gallery             
 ---

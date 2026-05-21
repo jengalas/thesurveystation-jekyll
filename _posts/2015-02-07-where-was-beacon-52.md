@@ -11,8 +11,7 @@ galleries:
     - filename: 4-aerial-single-2
       alt: USGS EarthExplorer, aerial single frame, 1952
     - filename: 3-aerial-single
-      alt: Closeup showing unidentified objects
-use_jquery: true    
+      alt: Closeup showing unidentified objects    
 features:
   - gallery     
 ---

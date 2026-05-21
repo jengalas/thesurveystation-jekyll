@@ -11,8 +11,7 @@ galleries:
     - filename: marici-arrow1
       alt: Arrow and remnants of beacon tower leg       
     - filename: marici-arrow2
-      alt: Intact arrow 
-use_jquery: true      
+      alt: Intact arrow      
 features:
   - leaflet
   - gallery 

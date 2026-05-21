@@ -24,7 +24,6 @@ galleries:
       alt: Beacon light, view 5   
     - filename: IMG2_584cmx
       alt: Beacon light, view 6       
-use_jquery: true 
 features:
   - gallery         
 ---

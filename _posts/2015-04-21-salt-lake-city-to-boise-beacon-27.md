@@ -27,8 +27,7 @@ galleries:
     - filename: 100_7562cm
       alt: Looking South to the intersection of Desert Wind Rd and Regina Rd. The name of the road is different from the name of the old town(?) shown on the topographic maps of the area, which call it out as Regena. Airway Map 135 also describes this as “Regena”.
     - filename: 100_7563cm
-      alt: Parking SE of BCN 27 at the base of the hill. The marker is on private ground, but is not signed.     
-use_jquery: true      
+      alt: Parking SE of BCN 27 at the base of the hill. The marker is on private ground, but is not signed.         
 features:
   - gallery   
 ---

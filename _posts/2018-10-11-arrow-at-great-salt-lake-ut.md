@@ -14,8 +14,7 @@ galleries:
     - filename: image2c
       alt: Looking SE
     - filename: image3c
-      alt: Looking NE
-use_jquery: true    
+      alt: Looking NE  
 features:
   - leaflet 
   - gallery  
@@ -32,5 +31,5 @@ Dave writes: "This arrow has also been recently painted with orange paint. I do 
 
 As always, thanks for your contribution!
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include post_gallery.html gallery_id="gallery1" class="3by2" %}
 

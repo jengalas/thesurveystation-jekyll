@@ -11,8 +11,7 @@ galleries:
     - filename: Delta_UTcm
       alt: Remains of beacon near Delta, UT    
     - filename: ko0428rm1cm
-      alt: BEAK RM 1 at beacon site near Delta, UT
-use_jquery: true      
+      alt: BEAK RM 1 at beacon site near Delta, UT    
 features:
   - leaflet 
   - gallery
@@ -22,7 +21,7 @@ The photographs of this beacon site were contributed by Dean Draper.  The site i
 
 Please leave a comment if you have more information about this beacon, perhaps its number or any details of its history.
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include post_gallery.html gallery_id="gallery1" class="2by2" %}
 
 A USGS topo map of the area shows the triangulation station, but no beacon.  Could the designation BEAK derive from the word "beacon"? 
 
