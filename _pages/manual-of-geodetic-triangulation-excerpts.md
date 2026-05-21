@@ -2,92 +2,120 @@
 title: Manual of Geodetic Triangulation (excerpts)
 layout: default
 permalink: /manual-of-geodetic-triangulation-excerpts/
-use_jquery: true
 ---
 
 <style>
+  /* ============================================== */
+  /* BASE STYLES (Desktop & Default) */
+  /* ============================================== */
 
-  .manual-of-triangulation {
+  .responsive-table {
+    width: 100%;
     border-collapse: collapse;
   }
 
-  .manual-of-triangulation td {
-    padding: 10px;
-  }
-
-  @media (min-width: 701px) {
-    .row-toggle {
-      display: none;
-    }
-    
-  .manual-of-triangulation thead tr {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
-  }
-
-  .manual-of-triangulation th {
-    padding: 10px;    
+  /* General cell padding (Using the more structured padding approach) */
+  .responsive-table th,
+  .responsive-table td {
+    padding: 0.75rem 1rem;
     text-align: left;
-    }
+    vertical-align: middle;
   }
 
-  .manual-of-triangulation tbody {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  /* Standard table structure borders */
+  .responsive-table thead tr,
+  .responsive-table tbody {
+    border-bottom: 1px solid #c5c5c5;
+    /* Using the primary color for default */
   }
+
+  /* The expand/toggle button */
+  .row-toggle {
+    display: none;
+    /* Hidden by default on desktop */
+    cursor: pointer;
+    font-size: 1rem;
+    border: none;
+    background: none;
+  }
+
+  /* Highlighting primary/key cells */
+  .responsive-table .primary-cell {
+    font-weight: bold;
+    font-size: 1.2rem;
+    /* Using the size from the manual example */
+  }
+
+
+  /* ============================================== */
+  /* MOBILE STYLES (Max-width: 700px) */
+  /* ============================================== */
 
   @media (max-width: 700px) {
 
-  .manual-of-triangulation thead {
-    display: none;
+    /* --- View Transformation --- */
+    .responsive-table thead {
+      display: none;
+      /* Hide headers on mobile */
+    }
+
+    /* Make the entire table block-level for vertical stacking */
+    .responsive-table,
+    .responsive-table tbody,
+    .responsive-table tr,
+    .responsive-table td {
+      display: block;
+      width: 100%;
+    }
+
+    /* Individual row styling for visual separation */
+    .responsive-table tr {
+      margin-bottom: 1rem;
+      border: 1px solid #ccc;
+    }
+
+    /* Cell border handling */
+    .responsive-table td {
+      border: none;
+      border-bottom: 1px solid #eee;
+    }
+
+    /* Show the toggle button */
+    .row-toggle {
+      display: inline;
+      /* Ensure visibility and default appearance */
+      background: none;
+    }
+
+    /* --- Expandable Logic (Common to both original sets) --- */
+
+    /* Collapsed state: hide non-expander/non-primary cells */
+    .responsive-table tr:not(.expanded) td:not(.expander-cell):not(.primary-cell) {
+      display: none;
+    }
+
+    /* Expanded state: show nested cells */
+    .responsive-table .expanded td {
+      display: block;
+    }
+
+    /* Rotate the arrow when expanded */
+    .responsive-table .expanded .row-toggle {
+      transform: rotate(90deg);
+    }
+
+
+    /* --- Labeling Logic (Data attributes vs. nth-child) --- */
+
+    /* Prioritize data-label (more flexible and recommended) */
+    .responsive-table td[data-label]::before {
+      content: attr(data-label);
+      display: block;
+      font-weight: bold;
+      margin-bottom: 0.25rem;
+    }
   }
 
-  .manual-of-triangulation,
-  .manual-of-triangulation tbody,
-  .manual-of-triangulation tr,
-  .manual-of-triangulation td {
-    display: block;
-    width: 100%;
-  }
-
-  .manual-of-triangulation tr {
-    margin-bottom: 1rem;
-    border: 1px solid #ccc;
-  }
-
-  .row-toggle {
-    display: inline;
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 1rem;
-  }
-
-  /* collapsed state */
-
-  .manual-of-triangulation tr:not(.expanded)
-    td:not(.expander-cell):not(.primary-cell) {
-    display: none;
-  }
-
-  .manual-of-triangulation .expanded td {
-    display: block;
-  }
-
-  .manual-of-triangulation td[data-label]::before {
-    content: attr(data-label);
-    display: block;
-    font-weight: bold;
-    margin-bottom: 0.25rem;
-  }
-
-  .manual-of-triangulation .primary-cell {
-    font-weight: bold;
-    font-size: 1.05rem;
-  }
-
-  .manual-of-triangulation .expanded .row-toggle {
-    transform: rotate(90deg);
-  }
-}
 </style>
 
 # Manual of Geodetic Triangulation (excerpts)
