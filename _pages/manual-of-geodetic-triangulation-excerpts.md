@@ -2,6 +2,8 @@
 title: Manual of Geodetic Triangulation (excerpts)
 layout: default
 permalink: /manual-of-geodetic-triangulation-excerpts/
+features:
+  - table
 ---
 
 # Manual of Geodetic Triangulation (excerpts)
@@ -478,25 +480,3 @@ To illustrate again by the measurement of a base, suppose that the error in mark
 In correcting for temperature there are three principal component sources of error-namely, the error in the calibration of the thermometer, error in reading the thermometer, and the undetermined difference between the true thermometric reading and the mean temperature of the tape. Suppose standardizations and tests show that the probable error of calibration is half a degree centigrade and that the probable error of reading is of the same magnitude. Also, that the average difference between the true thermometric readings and the mean temperature of the tape under the conditions of measurement would not exceed 2°C. but that this difference is always of one sign. The probable divergence in temperature between the tape and the thermometer readings would therefore be 2°±√((0.5)2 + (0.5)2) and would certainly not exceed 3°. If the tape to be used were made of invar, with a coefficient of expansion of 1 part in 1,000,000 per degree centigrade, the maximum error to be expected would be 3 parts in 1,000,000, or 1 part in 333,000.
 
 After the error to be expected from each source is evaluated an estimate can be made of the "total actual error," which is one of the criteria for base measures.
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-
-    document.querySelectorAll(".row-toggle").forEach(button => {
-
-      button.addEventListener("click", () => {
-
-        const row = button.closest("tr");
-
-        row.classList.toggle("expanded");
-
-        const expanded = row.classList.contains("expanded");
-
-        button.setAttribute("aria-expanded", expanded);
-
-      });
-
-    });
-
-  });
-</script>

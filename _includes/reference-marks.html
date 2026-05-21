@@ -37,25 +37,3 @@
     {% endfor %}
   </tbody>
 </table>
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-
-    document.querySelectorAll(".row-toggle").forEach(button => {
-
-      button.addEventListener("click", () => {
-
-        const row = button.closest("tr");
-
-        row.classList.toggle("expanded");
-
-        const expanded = row.classList.contains("expanded");
-
-        button.setAttribute("aria-expanded", expanded);
-
-      });
-
-    });
-
-  });
-</script>

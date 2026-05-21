@@ -5,6 +5,7 @@ permalink: /resurvey-of-the-heart-of-the-grand-canyon/
 use_jquery: true
 features:
   - datatables
+  - table
 ---
 
 # Resurvey of the Heart of the Grand Canyon
@@ -212,27 +213,120 @@ We owe a special debt of gratitude to Ray Byrne and Keith Adams of Lockwood, Joh
 
 Work at the Canyon by Dr. and Mrs. Washburn and Others
 
-{: .grandCanyonSurvey}
-| Year     | Time at the Canyon         | Workdays | Helicopter Landings |
-|----------|----------------------------|----------|---------------------|
-| 1971     | February 18-27             | 10       | 27                  |
-| 1971     | June 16-July 11            | 16       | 58                  |
-| 1972     | February 19-March 1        | 12       | 48                  |
-| 1972     | May 29-June 15             | 18       | 76                  |
-| 1972     | August 31-September 17     | 18       | 124                 |
-| 1973     | February 24 (R. Hinderlie) | 1        | 7                   |
-| 1973     | March 24-31                | 8        | 101                 |
-| 1973     | May 4 (Krahmer)            | 2        | 4                   |
-| 1973     | May 21 (Krahmer)           | 2        | 4                   |
-| 1973     | May 27 (Nicholson)         | 1        | 4                   |
-| 1973     | June 13-July 4             | 21       | 101                 |
-| 1973     | October 21-23              | 3        | 11                  |
-| 1974     | February 21-March 4        | 12       | 114                 |
-| 1974     | July 26-29                 | 4        | 7                   |
-| 1975     | February 22-March 1        | 8        | 13                  |
-| 1975     | June 28-July 6             | 8        | 13                  |
-| _Totals_ |                            | 144      | 712                 |
-
+<table class="responsive-table grandCanyonSurvey">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Time at the Canyon</th>
+      <th>Workdays</th>
+      <th>Helicopter Landings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1971</td>
+      <td>February 18-27</td>
+      <td>10</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td>1971</td>
+      <td>June 16-July 11</td>
+      <td>16</td>
+      <td>58</td>
+    </tr>
+    <tr>
+      <td>1972</td>
+      <td>February 19-March 1</td>
+      <td>12</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>1972</td>
+      <td>May 29-June 15</td>
+      <td>18</td>
+      <td>76</td>
+    </tr>
+    <tr>
+      <td>1972</td>
+      <td>August 31-September 17</td>
+      <td>18</td>
+      <td>124</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>February 24 (R. Hinderlie)</td>
+      <td>1</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>March 24-31</td>
+      <td>8</td>
+      <td>101</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>May 4 (Krahmer)</td>
+      <td>2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>May 21 (Krahmer)</td>
+      <td>2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>May 27 (Nicholson)</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>June 13-July 4</td>
+      <td>21</td>
+      <td>101</td>
+    </tr>
+    <tr>
+      <td>1973</td>
+      <td>October 21-23</td>
+      <td>3</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>1974</td>
+      <td>February 21-March 4</td>
+      <td>12</td>
+      <td>114</td>
+    </tr>
+    <tr>
+      <td>1974</td>
+      <td>July 26-29</td>
+      <td>4</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>1975</td>
+      <td>February 22-March 1</td>
+      <td>8</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>1975</td>
+      <td>June 28-July 6</td>
+      <td>8</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td><em>Totals</em></td>
+      <td> </td>
+      <td>144</td>
+      <td>712</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Growth of the Grand Canyon Map
 

@@ -5,6 +5,8 @@ date: '2016-07-20T11:30:28-05:00'
 tags: ["airway beacons"]
 excerpt: >-
   Jeff Johnson interpolates the positions of airway beacons along the Pueblo—Cheyenne route that don't appear in the NGS database!
+features:
+  - table
 ---
 
 {% include post-image.html filename="1930-Pueblo-Cheyenne.jpg" thumb="1930-Pueblo-Cheyenne-225x300.jpg" caption="1930 Pueblo—Cheyenne: Excerpt of a beautiful hand-drawn map" className="alignright" %}
@@ -426,24 +428,3 @@ Jeff writes:
 - **3** Army Navy or Marine Corps Field
 - **LF** Lighting Facilities
 
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-
-    document.querySelectorAll(".row-toggle").forEach(button => {
-
-      button.addEventListener("click", () => {
-
-        const row = button.closest("tr");
-
-        row.classList.toggle("expanded");
-
-        const expanded = row.classList.contains("expanded");
-
-        button.setAttribute("aria-expanded", expanded);
-
-      });
-
-    });
-
-  });
-</script>

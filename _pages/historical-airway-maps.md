@@ -2,6 +2,8 @@
 title: Historical Airway Maps
 layout: page
 permalink: /historical-airway-maps/
+features:
+  - table
 ---
 
 ## Maps of early aviation routes in the United States
@@ -870,32 +872,3 @@ _Note: These maps are for historical research purposes only. They are not intend
     </tr>
   </tbody>
 </table>
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    // Ensure the second <td> in each table row has data-label="Airway"
-    document.querySelectorAll("#historicalAirwayMaps tbody tr").forEach(tr => {
-      const tds = tr.querySelectorAll("td");
-      if (tds[1] && !tds[1].hasAttribute("data-label")) {
-        tds[1].setAttribute("data-label", "Airway");
-      }
-    });
-
-    document.querySelectorAll(".row-toggle").forEach(button => {
-
-      button.addEventListener("click", () => {
-
-        const row = button.closest("tr");
-
-        row.classList.toggle("expanded");
-
-        const expanded = row.classList.contains("expanded");
-
-        button.setAttribute("aria-expanded", expanded);
-
-      });
-
-    });
-
-  });
-</script>
