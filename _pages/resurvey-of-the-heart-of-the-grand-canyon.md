@@ -4,7 +4,6 @@ layout: default
 permalink: /resurvey-of-the-heart-of-the-grand-canyon/
 use_jquery: true
 features:
-  - datatables
   - table
 ---
 
@@ -223,107 +222,124 @@ Work at the Canyon by Dr. and Mrs. Washburn and Others
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>1971</td>
-      <td>February 18-27</td>
-      <td>10</td>
-      <td>27</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1971</td>
+      <td data-label="Time at the Canyon">February 18-27</td>
+      <td data-label="Workdays">10</td>
+      <td data-label="Helicopter Landings">27</td>
     </tr>
-    <tr>
-      <td>1971</td>
-      <td>June 16-July 11</td>
-      <td>16</td>
-      <td>58</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1971</td>
+      <td data-label="Time at the Canyon">June 16-July 11</td>
+      <td data-label="Workdays">16</td>
+      <td data-label="Helicopter Landings">58</td>
     </tr>
-    <tr>
-      <td>1972</td>
-      <td>February 19-March 1</td>
-      <td>12</td>
-      <td>48</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1972</td>
+      <td data-label="Time at the Canyon">February 19-March 1</td>
+      <td data-label="Workdays">12</td>
+      <td data-label="Helicopter Landings">48</td>
     </tr>
-    <tr>
-      <td>1972</td>
-      <td>May 29-June 15</td>
-      <td>18</td>
-      <td>76</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1972</td>
+      <td data-label="Time at the Canyon">May 29-June 15</td>
+      <td data-label="Workdays">18</td>
+      <td data-label="Helicopter Landings">76</td>
     </tr>
-    <tr>
-      <td>1972</td>
-      <td>August 31-September 17</td>
-      <td>18</td>
-      <td>124</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1972</td>
+      <td data-label="Time at the Canyon">August 31-September 17</td>
+      <td data-label="Workdays">18</td>
+      <td data-label="Helicopter Landings">124</td>
     </tr>
-    <tr>
-      <td>1973</td>
-      <td>February 24 (R. Hinderlie)</td>
-      <td>1</td>
-      <td>7</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1973</td>
+      <td data-label="Time at the Canyon">February 24 (R. Hinderlie)</td>
+      <td data-label="Workdays">1</td>
+      <td data-label="Helicopter Landings">7</td>
     </tr>
-    <tr>
-      <td>1973</td>
-      <td>March 24-31</td>
-      <td>8</td>
-      <td>101</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1973</td>
+      <td data-label="Time at the Canyon">March 24-31</td>
+      <td data-label="Workdays">8</td>
+      <td data-label="Helicopter Landings">101</td>
     </tr>
-    <tr>
-      <td>1973</td>
-      <td>May 4 (Krahmer)</td>
-      <td>2</td>
-      <td>4</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1973</td>
+      <td data-label="Time at the Canyon">May 4 (Krahmer)</td>
+      <td data-label="Workdays">2</td>
+      <td data-label="Helicopter Landings">4</td>
     </tr>
-    <tr>
-      <td>1973</td>
-      <td>May 21 (Krahmer)</td>
-      <td>2</td>
-      <td>4</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1973</td>
+      <td data-label="Time at the Canyon">May 21 (Krahmer)</td>
+      <td data-label="Workdays">2</td>
+      <td data-label="Helicopter Landings">4</td>
     </tr>
-    <tr>
-      <td>1973</td>
-      <td>May 27 (Nicholson)</td>
-      <td>1</td>
-      <td>4</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1973</td>
+      <td data-label="Time at the Canyon">May 27 (Nicholson)</td>
+      <td data-label="Workdays">1</td>
+      <td data-label="Helicopter Landings">4</td>
     </tr>
-    <tr>
-      <td>1973</td>
-      <td>June 13-July 4</td>
-      <td>21</td>
-      <td>101</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1973</td>
+      <td data-label="Time at the Canyon">June 13-July 4</td>
+      <td data-label="Workdays">21</td>
+      <td data-label="Helicopter Landings">101</td>
     </tr>
-    <tr>
-      <td>1973</td>
-      <td>October 21-23</td>
-      <td>3</td>
-      <td>11</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1973</td>
+      <td data-label="Time at the Canyon">October 21-23</td>
+      <td data-label="Workdays">3</td>
+      <td data-label="Helicopter Landings">11</td>
     </tr>
-    <tr>
-      <td>1974</td>
-      <td>February 21-March 4</td>
-      <td>12</td>
-      <td>114</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1974</td>
+      <td data-label="Time at the Canyon">February 21-March 4</td>
+      <td data-label="Workdays">12</td>
+      <td data-label="Helicopter Landings">114</td>
     </tr>
-    <tr>
-      <td>1974</td>
-      <td>July 26-29</td>
-      <td>4</td>
-      <td>7</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1974</td>
+      <td data-label="Time at the Canyon">July 26-29</td>
+      <td data-label="Workdays">4</td>
+      <td data-label="Helicopter Landings">7</td>
     </tr>
-    <tr>
-      <td>1975</td>
-      <td>February 22-March 1</td>
-      <td>8</td>
-      <td>13</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1975</td>
+      <td data-label="Time at the Canyon">February 22-March 1</td>
+      <td data-label="Workdays">8</td>
+      <td data-label="Helicopter Landings">13</td>
     </tr>
-    <tr>
-      <td>1975</td>
-      <td>June 28-July 6</td>
-      <td>8</td>
-      <td>13</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>1975</td>
+      <td data-label="Time at the Canyon">June 28-July 6</td>
+      <td data-label="Workdays">8</td>
+      <td data-label="Helicopter Landings">13</td>
     </tr>
-    <tr>
-      <td><em>Totals</em></td>
-      <td> </td>
-      <td>144</td>
-      <td>712</td>
+    <tr class="expanded">
+      <td class="primary-cell">
+        <button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button><em>Totals</em></td>
+      <td data-label="Time at the Canyon"> </td>
+      <td data-label="Workdays">144</td>
+      <td data-label="Helicopter Landings">712</td>
     </tr>
   </tbody>
 </table>
@@ -460,236 +476,1584 @@ Three USGS stations were occupied with both theodolite and laser:\
 \**Theodolite\
 \***prisms/target
 
-{: .grandCanyonSurvey}
-| Positions and altitudes of control: Name | NGVD29 Elevation | NAD 27 AZ C Grid Coordinates | Survey Station Marks Left in field at conclusion of project | Types of Control |
-|------------------------------------------|------------------|------------------------------|-------------------------------------------------------------|------------------|
-| Angel A                                  | 8145.51          | N18889707.98 E461254.60      | USGS bronze disc                                            | */**             |
-| Boulder                                  | 5683.7           | N1878200.58 E406359.21       | Drill-hole in rock                                          | —                |
-| Clear                                    | 4030.4           | N1855151.25 E464972.88       | Drill-hole with pipe and sphere                             | \**/***           |
-| Cheops                                   | 5386.6           | N1862418.82 E439687.26       | Concrete observing stand and bronze disc                    | */**             |
-| Colonnade                                | 6238.6           | N1875818.23 E438797.79       | Drill-hole with pipe                                        | —                |
-| Confucius                                | 7073.0           | N1884912.95 E410129.23       | Drill-hole with pipe                                        | */**             |
-| Cope                                     | 3522.0           | N1853206.42 E418127.89       | Drill-hole with pipe                                        | —                |
-| Corner                                   | 4967.2           | N1832044.23 E471583.41       | Drill-hole with pipe                                        | *                |
-| Cremation                                | 3894.2           | N1853533.79 E453051.54       | Drill-hole with pipe                                        | —                |
-| Crystal                                  | 3991.7           | N1873333.06 E404795.83       | Drill-hole with pipe                                        | */**             |
-| Dana                                     | 5033.6           | N1852652.10 E431163.00       | Drill-hole with pipe                                        | —                |
-| Dragon                                   | 4450.8           | N1888276.70 E426637.95       | Drill-hole with pipe                                        | */**             |
-| Dragon (North)                           | 7661.1           | N1898037.84 E424626.74       | Drill-hole with pipe                                        | */**             |
-| Gorge                                    | 3820.3           | N1847006.32 E469075.33       | Drill hole with pipe and sphere                             | ***              |
-| Grama                                    | 7733.4           | N1895867.32 E411753.34       | Drill-hole with pipe and sphere                             |                  |
-| Grandeur                                 | 7032.4           | N1842898.79 E439381.14       | Drill-hole                                                  | ***              |
-| Greenland                                | 8315.0           | N1897209.67 E475233.95       | Drill-hole with pipe                                        | \**/***           |
-| Hattan                                   | 5967.2           | N1868638.30 E460207.55       | Drill-hole with pipe                                        | */**             |
-| Hermit                                   | 6650.4           | N1841946.69 E413139.78       | Bronze disc                                                 | */**             |
-| Hopi                                     | 7042.730(L)      | N1846394.62 E429774.70       | Bronze disc                                                 | */**             |
-| Horsethief                               | 6346.3           | N1836184.03 E409380.76       | Drill-hole with pipe                                        | ***              |
-| Horus                                    | 6130.2           | N1870417.15 E423315.40       | Drill-hole with pipe and sphere                             | —                |
-| Howlands                                 | 5571.4           | N1854099.78 E472703.87       | Drill-hole with pipe                                        | */**             |
-| Indian Gardens                           | 3849.56(L)       | N1847577.94 E438117.70       | Bronze disc                                                 | */**             |
-| Indian Gardens A                         | 3939.9           | N1846661.08 E437138.79       | Drill-hole                                                  | ***              |
-| Indian Gardens B                         | 3924.2           | N1847540.78 E437023.19       | Drill-hole                                                  | ***              |
-| Indian Gardens C                         | 3871.8           | N1848012.20 E437681.45       | Drill-hole                                                  | ***              |
-| Indian Gardens D                         | 3815.8           | N1848401.72 E437954.53       | Drill-hole                                                  | ***              |
-| Indian Gardens E                         | 3734.4           | N1849276.63 E438361.92       | Drill-hole                                                  | ***              |
-| Indian Gardens F                         | 3799.3           | N1848258.57 E438740.16       | Drill-hole                                                  | ***              |
-| Indian Gardens G                         | 3913.8           | N1849759.46 E438142.65       | Drill-hole                                                  | ***              |
-| Isis                                     | 7013.9           | N1870665.40 E435072.80       | Nothing left                                                | —                |
-| Johnson                                  | 5298.2           | N1866916.30 E449923.20       | Drill-hole with pipe and sphere                             | —                |
-| Knee                                     | 5401.2           | N1860262.85 E469883.62       | Drill-hole with pipe and sphere                             | **               |
-| Komo                                     | 7987.4           | N1882943.45 E469551.71       | Drill-hole with pipe                                        | \**/***           |
-| Laser                                    | 4038.9           | N1880209.02 E416491.93       | Drill-hole with pipe                                        | \**/***           |
-| Ledge                                    | 6534.8           | N1878406.28 E448988.11       | Drill-hole with pipe                                        | ***              |
-| Lookout                                  | 4499.9           | N1846127.66 E412950.68       | Drill-hole with short pipe                                  | ***              |
-| Lyell                                    | 5348.1           | N1836531.15 E467180.17       | Drill-hole with pipe                                        | \**/***           |
-| Manzanita                                | 8108.8           | N1887512.32 E475296.34       | Drill-hole with pipe                                        | ***              |
-| Maricopa                                 | 6988.06(L)       | N1841574.19 E432137.51       | Drill-hole                                                  | */**             |
-| Maricopa A                               | 6994.93(L)       | N1841903.13 E432213.88       | Drill-hole                                                  | */**             |
-| Mesa                                     | 4836.7           | N1862394.43 E414839.81       | Drill-hole with pipe                                        | */**             |
-| Middle (USC&GS)                          | 7259.908(L)      | N1840705.52 E450811.59       | USC&GS bronze disc                                          | */**             |
-| Newton                                   | 5918.8           | N1841545.53 E459955.73       | Drill-hole with pipe                                        | —                |
-| Obi (USGS)                               | 7928.6           | N1876730.86 E471902.45       | USGS bronze disc                                            | */***            |
-| O’Neill                                  | 5308.8           | N1844968.00 E448830.00       | Cairn with pipe in it                                       | —                |
-| Osiris                                   | 6637.2           | N1872253.77 E420375.84       | Nothing left                                                | —                |
-| Ottoman                                  | 4382.9           | N1864992.68 E473354.87       | Drill-hole with pipe                                        | \**/***           |
-| Parapet                                  | 6923.868         | N1840470.37 E435259.15       | Bronze disc                                                 | */**             |
-| Pattie                                   | 5308.8           | N1845240.01 E459107.22       | Drill-hole with pipe                                        | —                |
-| Perch                                    | 6269.1           | N1875618.37 E426727.80       | Drill-hole with pipe and sphere                             | —                |
-| Pima                                     | 6765.0           | N1845459.90 E416473.41       | Bronze disc                                                 | */**             |
-| Phantom Ranch                            | 2546.21(L)       | N1857788.53 E447705.03       | Bronze disc                                                 | \**/***           |
-| Phantom (USGS)                           | 2518.2(L)        | N1857099.48 E447415.02       | Nothing left (corner of house)                              | **               |
-| Phantom A                                | 3724.9           | N1858246.21 E450012.58       | Drill-hole with pipe                                        | */**             |
-| Phantom B                                | 3874.6           | N1854086.88 E450221.32       | Drill-hole with pipe                                        | */**             |
-| Phantom C                                | 3885.7           | N1853850.03 E445335.45       | Drill-hole with pipe                                        | */**             |
-| Phantom D                                | 4117.2           | N1857588.51 E443995.55       | Drill-hole with pipe                                        | */**             |
-| Phantom E                                | 4091.1           | N1861121.06 E447281.91       | Drill-hole with pipe                                        | ***              |
-| Phantom F                                | 4123.8           | N1861328.90 E441893.03       | Drill-hole with pipe                                        | ***              |
-| Phantom H                                | 4104.8           | N1860932.54 E446587.22       | Drill-hole with pipe                                        | ***              |
-| Phantom J                                | 4058.7           | N1861749.80 E444199.65       | Drill-hole with pipe                                        | ***              |
-| Phantom K                                | 3760.1           | N1857369.96 E453317.25       | Drill-hole with pipe                                        | */***            |
-| Plateau Point                            | 3781.66          | N1853215.59 E441312.68       | Bronze disc                                                 | */***            |
-| Powell                                   | 5427.3           | N1872091.30 E453071.20       | Drill-hole with pipe                                        | ***              |
-| Powell Point (USGS/BM)                   | 7043.883(L)      | N1846054.90 E430964.40       | USGS Bench mark (bronze disc)                               | ***              |
-| Ra                                       | 6077.9           | N1870649.10 E415445.26       | Drill-hole with pipe                                        | */**             |
-| Ribbon                                   | 3715.7           | N1877119.37 E460043.11       | Bronze disc                                                 | \**/***           |
-| Rowe (USGS)                              | 7066.857(L)      | N1846085.30 E430055.65       | Buried disc marked with iron pipe                           | */**             |
-| Set                                      | 6016.4           | N1863435.00 E423147.40       | Drill-hole with pipe                                        | */**             |
-| Set A                                    | 5290.3           | N1862232.55 E425895.71       | Drill-hole with pipe                                        | —                |
-| Shiva                                    | 5254.3           | N1871940.07 E429024.87       | Drill-hole with pipe                                        | ***              |
-| Shoshone                                 | 7278.5           | N1835770.07 E458113.13       | Bronze disc                                                 | */**             |
-| South Rim Hqs. No. 1                     | 6978.7           | N1837418.08 E436323.18       | No permanent mark left                                      | ***              |
-| South Rim Hqs. No. 2                     | 6856.8           | N1837625.66 E432928.44       | No permanent mark left                                      | ***              |
-| South Rim Hqs. No. 3                     | 6833.0           | N1839738.03 E432882.87       | No permanent mark left                                      | ***              |
-| South Rim Hqs. No. 4                     | 7162.4           | N1840369.34 E444804.75       | No permanent mark left                                      | ***              |
-| South Rim Hqs. No. 6                     | 7075.3           | N1839557.93 E442214.17       | No permanent mark left                                      | ***              |
-| South Rim Hqs. No. 8                     | 6912.3           | N1840450.57 E434909.86       | No permanent mark left                                      | ***              |
-| Sublime (USC&GS)                         | 7457.5           | N1981602.88 E401712.28       | USC&GS bronze disc                                          | */**             |
-| Sumner                                   | 5156.1           | N1860474.73 E453179.96       | Drill-hole with pipe                                        | */**             |
-| Tiyo                                     | 7762.8           | N1884934.72 E437701.55       | Drill-hole with pipe and sphere                             | ***              |
-| Tiyo (NW)                                | 7944.8           | N1895514.10 E433181.03       | Drill-hole with pipe and sphere                             | ***              |
-| Tonto                                    | 3702.4           | N1853088.15 E438351.55       | USGS bronze BM disc                                         | —                |
-| Transept                                 | 8101.8           | N1896059.49 E450350.11       | Drill-hole with pipe and sphere                             | ***              |
-| Transept (Lower)                         | 4774.3           | N1883795.10 E463452.18       | Drill-hole with pipe and sphere                             | \**/***           |
-| Uncle Jim                                | 8244.1           | N1896252.12 E465135.42       | Drill-hole with pipe and sphere                             | ***              |
-| Valhalla                                 | 8202.6           | N1893980.55 E473083.76       | Drill-hole with pipe                                        | ***              |
-| Yaki                                     | 7262.235(L)      | N1840710.69 E450855.25       | Bronze disc                                                 | */**             |
-| Yavapai                                  | 7082.225         | N1843324.42 E440864.64       | Bronze disc on top of concrete column                       | */**             |
-| Zoroaster                                | 7121.7           | N1862447.60 E462151.65       | Bronze disc                                                 | */**             |
+### Positions and altitudes of control
+
+<table class="responsive-table grandCanyonSurvey">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>NGVD29 Elevation</th>
+      <th>NAD 27 AZ C Grid Coordinates</th>
+      <th>Survey Station Marks Left in field at conclusion of project</th>
+      <th>Types of Control</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="NGVD29 Elevation">8145.51</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N18889707.98 E461254.60</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">USGS bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Boulder</td>
+      <td data-label="NGVD29 Elevation">5683.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1878200.58 E406359.21</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole in rock</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Clear</td>
+      <td data-label="NGVD29 Elevation">4030.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1855151.25 E464972.88</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Cheops</td>
+      <td data-label="NGVD29 Elevation">5386.6</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1862418.82 E439687.26</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Concrete observing stand and bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Colonnade</td>
+      <td data-label="NGVD29 Elevation">6238.6</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1875818.23 E438797.79</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Confucius</td>
+      <td data-label="NGVD29 Elevation">7073.0</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1884912.95 E410129.23</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Cope</td>
+      <td data-label="NGVD29 Elevation">3522.0</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1853206.42 E418127.89</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Corner</td>
+      <td data-label="NGVD29 Elevation">4967.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1832044.23 E471583.41</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Cremation</td>
+      <td data-label="NGVD29 Elevation">3894.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1853533.79 E453051.54</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Crystal</td>
+      <td data-label="NGVD29 Elevation">3991.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1873333.06 E404795.83</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Dana</td>
+      <td data-label="NGVD29 Elevation">5033.6</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1852652.10 E431163.00</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Dragon</td>
+      <td data-label="NGVD29 Elevation">4450.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1888276.70 E426637.95</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Dragon (North)</td>
+      <td data-label="NGVD29 Elevation">7661.1</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1898037.84 E424626.74</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Gorge</td>
+      <td data-label="NGVD29 Elevation">3820.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1847006.32 E469075.33</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill hole with pipe and sphere</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Grama</td>
+      <td data-label="NGVD29 Elevation">7733.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1895867.32 E411753.34</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control"> </td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Grandeur</td>
+      <td data-label="NGVD29 Elevation">7032.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1842898.79 E439381.14</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Greenland</td>
+      <td data-label="NGVD29 Elevation">8315.0</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1897209.67 E475233.95</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hattan</td>
+      <td data-label="NGVD29 Elevation">5967.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1868638.30 E460207.55</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hermit</td>
+      <td data-label="NGVD29 Elevation">6650.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1841946.69 E413139.78</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="NGVD29 Elevation">7042.730(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1846394.62 E429774.70</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Horsethief</td>
+      <td data-label="NGVD29 Elevation">6346.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1836184.03 E409380.76</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Horus</td>
+      <td data-label="NGVD29 Elevation">6130.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1870417.15 E423315.40</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="NGVD29 Elevation">5571.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1854099.78 E472703.87</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens</td>
+      <td data-label="NGVD29 Elevation">3849.56(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1847577.94 E438117.70</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens A</td>
+      <td data-label="NGVD29 Elevation">3939.9</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1846661.08 E437138.79</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens B</td>
+      <td data-label="NGVD29 Elevation">3924.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1847540.78 E437023.19</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens C</td>
+      <td data-label="NGVD29 Elevation">3871.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1848012.20 E437681.45</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens D</td>
+      <td data-label="NGVD29 Elevation">3815.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1848401.72 E437954.53</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens E</td>
+      <td data-label="NGVD29 Elevation">3734.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1849276.63 E438361.92</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens F</td>
+      <td data-label="NGVD29 Elevation">3799.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1848258.57 E438740.16</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens G</td>
+      <td data-label="NGVD29 Elevation">3913.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1849759.46 E438142.65</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Isis</td>
+      <td data-label="NGVD29 Elevation">7013.9</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1870665.40 E435072.80</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Nothing left</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Johnson</td>
+      <td data-label="NGVD29 Elevation">5298.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1866916.30 E449923.20</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Knee</td>
+      <td data-label="NGVD29 Elevation">5401.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1860262.85 E469883.62</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Komo</td>
+      <td data-label="NGVD29 Elevation">7987.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1882943.45 E469551.71</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Laser</td>
+      <td data-label="NGVD29 Elevation">4038.9</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1880209.02 E416491.93</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Ledge</td>
+      <td data-label="NGVD29 Elevation">6534.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1878406.28 E448988.11</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Lookout</td>
+      <td data-label="NGVD29 Elevation">4499.9</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1846127.66 E412950.68</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with short pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Lyell</td>
+      <td data-label="NGVD29 Elevation">5348.1</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1836531.15 E467180.17</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Manzanita</td>
+      <td data-label="NGVD29 Elevation">8108.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1887512.32 E475296.34</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="NGVD29 Elevation">6988.06(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1841574.19 E432137.51</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa A</td>
+      <td data-label="NGVD29 Elevation">6994.93(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1841903.13 E432213.88</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Mesa</td>
+      <td data-label="NGVD29 Elevation">4836.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1862394.43 E414839.81</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Middle (USC&amp;GS)</td>
+      <td data-label="NGVD29 Elevation">7259.908(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1840705.52 E450811.59</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">USC&amp;GS bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Newton</td>
+      <td data-label="NGVD29 Elevation">5918.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1841545.53 E459955.73</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Obi (USGS)</td>
+      <td data-label="NGVD29 Elevation">7928.6</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1876730.86 E471902.45</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">USGS bronze disc</td>
+      <td data-label="Types of Control"><em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>O'Neill</td>
+      <td data-label="NGVD29 Elevation">5308.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1844968.00 E448830.00</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Cairn with pipe in it</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Osiris</td>
+      <td data-label="NGVD29 Elevation">6637.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1872253.77 E420375.84</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Nothing left</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Ottoman</td>
+      <td data-label="NGVD29 Elevation">4382.9</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1864992.68 E473354.87</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Parapet</td>
+      <td data-label="NGVD29 Elevation">6923.868</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1840470.37 E435259.15</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pattie</td>
+      <td data-label="NGVD29 Elevation">5308.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1845240.01 E459107.22</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Perch</td>
+      <td data-label="NGVD29 Elevation">6269.1</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1875618.37 E426727.80</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="NGVD29 Elevation">6765.0</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1845459.90 E416473.41</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom Ranch</td>
+      <td data-label="NGVD29 Elevation">2546.21(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1857788.53 E447705.03</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom (USGS)</td>
+      <td data-label="NGVD29 Elevation">2518.2(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1857099.48 E447415.02</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Nothing left (corner of house)</td>
+      <td data-label="Types of Control">**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom A</td>
+      <td data-label="NGVD29 Elevation">3724.9</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1858246.21 E450012.58</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom B</td>
+      <td data-label="NGVD29 Elevation">3874.6</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1854086.88 E450221.32</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom C</td>
+      <td data-label="NGVD29 Elevation">3885.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1853850.03 E445335.45</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="NGVD29 Elevation">4117.2</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1857588.51 E443995.55</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom E</td>
+      <td data-label="NGVD29 Elevation">4091.1</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1861121.06 E447281.91</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom F</td>
+      <td data-label="NGVD29 Elevation">4123.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1861328.90 E441893.03</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom H</td>
+      <td data-label="NGVD29 Elevation">4104.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1860932.54 E446587.22</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom J</td>
+      <td data-label="NGVD29 Elevation">4058.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1861749.80 E444199.65</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom K</td>
+      <td data-label="NGVD29 Elevation">3760.1</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1857369.96 E453317.25</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control"><em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="NGVD29 Elevation">3781.66</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1853215.59 E441312.68</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control"><em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Powell</td>
+      <td data-label="NGVD29 Elevation">5427.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1872091.30 E453071.20</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Powell Point (USGS/BM)</td>
+      <td data-label="NGVD29 Elevation">7043.883(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1846054.90 E430964.40</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">USGS Bench mark (bronze disc)</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Ra</td>
+      <td data-label="NGVD29 Elevation">6077.9</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1870649.10 E415445.26</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Ribbon</td>
+      <td data-label="NGVD29 Elevation">3715.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1877119.37 E460043.11</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Rowe (USGS)</td>
+      <td data-label="NGVD29 Elevation">7066.857(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1846085.30 E430055.65</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Buried disc marked with iron pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Set</td>
+      <td data-label="NGVD29 Elevation">6016.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1863435.00 E423147.40</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Set A</td>
+      <td data-label="NGVD29 Elevation">5290.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1862232.55 E425895.71</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Shiva</td>
+      <td data-label="NGVD29 Elevation">5254.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1871940.07 E429024.87</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Shoshone</td>
+      <td data-label="NGVD29 Elevation">7278.5</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1835770.07 E458113.13</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>South Rim Hqs. No. 1</td>
+      <td data-label="NGVD29 Elevation">6978.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1837418.08 E436323.18</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">No permanent mark left</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>South Rim Hqs. No. 2</td>
+      <td data-label="NGVD29 Elevation">6856.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1837625.66 E432928.44</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">No permanent mark left</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>South Rim Hqs. No. 3</td>
+      <td data-label="NGVD29 Elevation">6833.0</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1839738.03 E432882.87</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">No permanent mark left</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>South Rim Hqs. No. 4</td>
+      <td data-label="NGVD29 Elevation">7162.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1840369.34 E444804.75</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">No permanent mark left</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>South Rim Hqs. No. 6</td>
+      <td data-label="NGVD29 Elevation">7075.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1839557.93 E442214.17</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">No permanent mark left</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>South Rim Hqs. No. 8</td>
+      <td data-label="NGVD29 Elevation">6912.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1840450.57 E434909.86</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">No permanent mark left</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Sublime (USC&amp;GS)</td>
+      <td data-label="NGVD29 Elevation">7457.5</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1981602.88 E401712.28</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">USC&amp;GS bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Sumner</td>
+      <td data-label="NGVD29 Elevation">5156.1</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1860474.73 E453179.96</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Tiyo</td>
+      <td data-label="NGVD29 Elevation">7762.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1884934.72 E437701.55</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Tiyo (NW)</td>
+      <td data-label="NGVD29 Elevation">7944.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1895514.10 E433181.03</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Tonto</td>
+      <td data-label="NGVD29 Elevation">3702.4</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1853088.15 E438351.55</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">USGS bronze BM disc</td>
+      <td data-label="Types of Control">—</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Transept</td>
+      <td data-label="NGVD29 Elevation">8101.8</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1896059.49 E450350.11</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Transept (Lower)</td>
+      <td data-label="NGVD29 Elevation">4774.3</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1883795.10 E463452.18</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">*<em>/</em>**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Uncle Jim</td>
+      <td data-label="NGVD29 Elevation">8244.1</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1896252.12 E465135.42</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe and sphere</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Valhalla</td>
+      <td data-label="NGVD29 Elevation">8202.6</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1893980.55 E473083.76</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Drill-hole with pipe</td>
+      <td data-label="Types of Control">***</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="NGVD29 Elevation">7262.235(L)</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1840710.69 E450855.25</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yavapai</td>
+      <td data-label="NGVD29 Elevation">7082.225</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1843324.42 E440864.64</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc on top of concrete column</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Zoroaster</td>
+      <td data-label="NGVD29 Elevation">7121.7</td>
+      <td data-label="NAD 27 AZ C Grid Coordinates">N1862447.60 E462151.65</td>
+      <td data-label="Survey Station Marks Left in field at conclusion of project">Bronze disc</td>
+      <td data-label="Types of Control">*/**</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Laser Observation Data
 
-{: .grandCanyonSurvey}
-| Station          | Altitude    | To              | Slope Distance | Grid Distance |
-|------------------|-------------|-----------------|----------------|---------------|
-| Angel A          | 8145.51     | Greenland       | 15,873.67      | 15,864.98     |
-| "                | "           | Hattan          | 21,217.09      | 21,095.68     |
-| "                | "           | Komo            | 10,711.73      | 10,705.18     |
-| "                | "           | Manzanita       | 14,219.41      | 14,212.37     |
-| "                | "           | Obi             | 16,796.04      | 16,786.37     |
-| "                | "           | Transept        | 12,625.63      | 12,619.41     |
-| "                | "           | Uncle Jim       | 7,612.65       | 7,608.32      |
-| "                | "           | Valhalla        | 12,583.41      | 12,577.12     |
-| Cheops           | 5386.60     | Zoroaster       | 22,539.52      | 22,464.40     |
-| Confucius        | 7073.00     | Laser           | 8,478.20       | 7,912.70      |
-| "                | "           | Ra – A          | 15,261.03      | 15,222.27     |
-| "                | "           | Sublime         | 10,763.35      | 10,751.75     |
-| Cremation        |             | Phantom F       | 13,617.18      | 13,611.40     |
-| "                |             | Phantom K       | 3,849.27       | 3,845.80      |
-| Crystal          | 3991.70     | Dragon          | 26,476.62      | 26,464.89     |
-| "                | "           | Laser           | 13,571.53      | 13,567.52     |
-| "                | "           | Sublime         | 18,856.52      | 18,528.21     |
-| "                | "           | Ra – A          | 11,182.24      | 10,982.44     |
-| Dragon (North)   | 7661.10     | Confucius       | 19,573.54      | 19,556.08     |
-| "                | "           | Sublime         | 23,812.35      | 23,800.86     |
-| "                | "           | Tiyo (NW)       | 8,927.41       | 8,918.81      |
-| Hattan           | 5967.20     | Cheops          | 21,457.37      | 21,442.11     |
-| "                | "           | Ledge           | 14,892.35      | 14,875.79     |
-| Hermit           | 6650.40     | Crystal         | 32,596.80      | 32,476.54     |
-| "                | "           | Sublime         | 50,982.09      | 50,954.14     |
-| "                | "           | Tiyo            | 49,543.95      | 49,510.11     |
-| Hopi             | 7042.953L   | Cheops          | 18,922.83      | 18,842.34     |
-| "                | "           | Crystal         | 36,877.28      | 36,737.22     |
-| "                | "           | Pima            | 13,342.73      | 13,334.09     |
-| "                | "           | Ra              | 28,198.55      | 28,170.62     |
-| "                | "           | Ra – A          | 28,199.07      | 28,171.13     |
-| "                | "           | Set             | 18,320.25      | 18,283.75     |
-| "                | "           | Shiva           | 25,628.98      | 25,556.45     |
-| "                | "           | Sublime         | 53,234.55      | 53,209.83     |
-| "                | "           | Tiyo            | 39,371.32      | 39,346.84     |
-| "                | "           | Middle          | 21,803.29      | 21,792.58     |
-| "                | "           | Yaki            | 21,844.07      | 21,833.38     |
-| "                | "           | Yavapai         | 11,512.09      | 11,507.08     |
-| "                | "           | Powell Point/BM | 1,237.70       | 1,237.75      |
-| Horsethief       | 6346.30     | Mesa            | 26,824.89      | 26,772.86     |
-| Howlands         | 5571.00     | Lyell           | 18,424.47      | 18,416.51     |
-| "                | "           | Knee            | 6,782.31       | 6,777.70      |
-| "                | "           | Ottoman         | 10,980.49      | 10,912.37     |
-| "                | "           | Clear           | 7,954.87       | 7,802.17      |
-| "                | "           | Corner          | 22,099.99      | 22,083.99     |
-| "                | "           | Gorge           | 8,160.60       | 7,967.65      |
-| "                | "           | Obi             | 22,777.29      | 22,645.26     |
-| Indian Gardens   | 3849.56L    | Point A         | 1,344.36       | 1,341.23      |
-| "                | "           | Point B         | 1,097.71       | 1,095.14      |
-| "                | "           | Point C         | 615.98         | 615.55        |
-| "                | "           | Point D         | 840.89         | 839.79        |
-| "                | "           | Point E         | 1,720.80       | 1,716.16      |
-| "                | "           | Point F         | 924.22         | 922.34        |
-| Maricopa A       | 6994.93(L)  | Indian Gardens  | 8,776.94       | 8,188.93      |
-| Maricopa         | 6988.06 (L) | Hq – 1          | 5,901.11       | 5,898.56      |
-| "                | "           | Hq – 2          | 4,030.96       | 4,026.97      |
-| "                | "           | Hq – 3          | 1,988.92       | 1,981.68      |
-| "                | "           | Hq – 4          | 12,731.07      | 12,724.41     |
-| "                | "           | Yavapai         | 8,905.12       | 8,900.79      |
-| "                | "           | Hq – 6          | 10,281.16      | 10,276.40     |
-| "                | "           | Parapet         | 3,313.33       | 3,365.48      |
-| "                | "           | Hq – 8          | 2,993.75       | 2,991.40      |
-| "                | "           | Grandeur        | 7,239.28       | 7,236.08      |
-| Mesa             | 4836.70     | Lookout         | 16,385.31      | 16,376.10     |
-| Middle           | 7259.908L   | Hopi            | 21,803.29      | 21,792.58     |
-| "                | "           | Rowe            | 21,452.06      | 21,441.80     |
-| "                | "           | Sublime         | 70,751.20      | 70,719.75     |
-| "                | "           | Tiyo            | 46,154.87      | 46,131.28     |
-| Parapet          | 6923.868L   | Cheops          | 22,452.50      | 22,390.95     |
-| "                |             | Maricopa A      | 3,367.90       | 3,365.48      |
-| "                |             | Phantom F       | 22,074.61      | 21,888.37     |
-| Phantom A        |             | Phantom B       | 4,148.42       | 4,164.56      |
-| "                |             | Phantom C       | 6,422.85       | 6,418.87      |
-| "                |             | Phantom E       | 3,982.81       | 3,965.01      |
-| Phantom C        |             | Phantom Ranch   | 4,788.43       | 4,596.70      |
-| Phantom D        |             | Plateau Point   | 5,143.03       | 5,130.32      |
-| "                |             | Phantom E       | 4,825.36       | 4,824.84      |
-| "                |             | Phantom A       | 6,067.79       | 6,052.87      |
-| "                |             | Phantom C       | 3,979.18       | 3,971.34      |
-| "                |             | Phantom B       | 7,149.30       | 7,142.94      |
-| "                |             | Phantom J       | 4,167.96       | 4,166.29      |
-| "                |             | Phantom H       | 4,232.02       | 4,230.76      |
-| "                |             | Phantom F       | 4,292.38       | 4,291.14      |
-| Phantom K        |             | Phantom B       | 4,516.47       | 4,512.58      |
-| "                |             | Phantom F       | 12,100.45      | 12,091.65     |
-| "                |             | Phantom A       | 3,421.34       | 3,418.87      |
-| Pima             | 6765.00     | Crystal         | 30,358.83      | 30,220.50     |
-| "                | "           | Ra              | 25,242.73      | 25,223.20     |
-| "                | "           | Ra – A          | 25,229.73      | 25,210.17     |
-| "                | "           | Sublime         | 48,472.09      | 48,446.52     |
-| "                | "           | Tiyo            | 44.851.37      | 44,820.70     |
-| "                | "           | Mesa            | 17,128.40      | 17,013.14     |
-| "                | "           | Hopi            | 13,342.73      | 13,334.09     |
-| Plateau Point    | 3780.53L    | Sumner          | 13,983.61      | 13,911.41     |
-| "                | "           | Parapet         | 14,460.23      | 14,109.61     |
-| "                | "           | Yaki            | 16,115.57      | 15,730.01     |
-| "                | "           | Phantom C       | 4,074.90       | 4,072.49      |
-| "                | "           | Phantom A       | 10,052.91      | 10,049.65     |
-| "                | "           | Phantom K       | 12,707.87      | 12,703.09     |
-| "                | "           | Phantom F       | 8,143.51       | 8,134.12      |
-| Rowe             | 7066.857    | Middle          | 21,452.06      | 21,441.80     |
-| "                | "           | Yavapai         | 11,160.76      | 11,156.02     |
-| Set              | 6016.40     | Cheops          | 16,589.49      | 16,571.05     |
-| "                | "           | Ra – A          | 10,557.08      | 10,553.02     |
-| Shoshone         | 7278.50     | Cheops          | 32,466.89      | 32,398.59     |
-| "                | "           | Sumner          | 25,291.66      | 25,192.39     |
-| "                | "           | Corner          | 14,172.52      | 13,976.06     |
-| "                | "           | Lyell           | 9,305.71       | 9,098.92      |
-| "                | "           | Howlands        | 23,499.73      | 23,427.93     |
-| Sublime          | 7457.50     | Crystal         | 18,856.52      | 18,528.21     |
-| "                | "           | Ra – A          | 25,101.03      | 25,053.06     |
-| Sumner           | 5156.10     | Lyell           | 27,746.50      | 27,736.27     |
-| "                | "           | Howlands        | 20,549.81      | 20,538.33     |
-| "                | "           | Phantom F       | 11,370.52      | 11,319.63     |
-| Transept (Lower) | 4774.30     | Hattan          | 15,551.60      | 15,500.20     |
-| Yaki             | 7262.235L   | Angel A         | 50,119.67      | 50,088.72     |
-| "                | "           | Hopi            | 21,844.07      | 21,833.38     |
-| "                | "           | Rowe            | 21,493.06      | 21,482.78     |
-| "                | "           | Sumner          | 20,018.98      | 19,900.29     |
-| "                | "           | Zoroaster       | 24,508.24      | 24,496.97     |
-| "                | "           | Phantom A       | 17,915.33      | 17,555.76     |
-| "                | "           | Howlands        | 25,691.01      | 25,624.79     |
-| "                | "           | Phantom F       | 22,707.76      | 22,481.53     |
-| Yavapai          | 7082.225L   | Hopi            | 11,512.09      | 11,507.08     |
-| "                | "           | Phantom Ranch   | 16,635.61      | 16,000.17     |
-| "                | "           | Ribbon          | 39,016.76      | 38,857.59     |
-| "                | "           | Rowe            | 11,160.76      | 11,156.02     |
-| "                | "           | Middle          | 10,292.05      | 10,285.93     |
-| Zoroaster        | 7121.70     | Obi             | 17,321.00      | 17,294.21     |
+<table class="responsive-table grandCanyonSurvey">
+  <thead>
+    <tr>
+      <th>Station</th>
+      <th>Altitude</th>
+      <th>To</th>
+      <th>Slope Distance</th>
+      <th>Grid Distance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Greenland</td>
+      <td data-label="Slope Distance">15,873.67</td>
+      <td data-label="Grid Distance">15,864.98</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Hattan</td>
+      <td data-label="Slope Distance">21,217.09</td>
+      <td data-label="Grid Distance">21,095.68</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Komo</td>
+      <td data-label="Slope Distance">10,711.73</td>
+      <td data-label="Grid Distance">10,705.18</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Manzanita</td>
+      <td data-label="Slope Distance">14,219.41</td>
+      <td data-label="Grid Distance">14,212.37</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Obi</td>
+      <td data-label="Slope Distance">16,796.04</td>
+      <td data-label="Grid Distance">16,786.37</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Transept</td>
+      <td data-label="Slope Distance">12,625.63</td>
+      <td data-label="Grid Distance">12,619.41</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Uncle Jim</td>
+      <td data-label="Slope Distance">7,612.65</td>
+      <td data-label="Grid Distance">7,608.32</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Angel A</td>
+      <td data-label="Altitude">8145.51</td>
+      <td data-label="To">Valhalla</td>
+      <td data-label="Slope Distance">12,583.41</td>
+      <td data-label="Grid Distance">12,577.12</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Cheops</td>
+      <td data-label="Altitude">5386.60</td>
+      <td data-label="To">Zoroaster</td>
+      <td data-label="Slope Distance">22,539.52</td>
+      <td data-label="Grid Distance">22,464.40</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Confucius</td>
+      <td data-label="Altitude">7073.00</td>
+      <td data-label="To">Laser</td>
+      <td data-label="Slope Distance">8,478.20</td>
+      <td data-label="Grid Distance">7,912.70</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Confucius</td>
+      <td data-label="Altitude">7073.00</td>
+      <td data-label="To">Ra – A</td>
+      <td data-label="Slope Distance">15,261.03</td>
+      <td data-label="Grid Distance">15,222.27</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Confucius</td>
+      <td data-label="Altitude">7073.00</td>
+      <td data-label="To">Sublime</td>
+      <td data-label="Slope Distance">10,763.35</td>
+      <td data-label="Grid Distance">10,751.75</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Cremation</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom F</td>
+      <td data-label="Slope Distance">13,617.18</td>
+      <td data-label="Grid Distance">13,611.40</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Cremation</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom K</td>
+      <td data-label="Slope Distance">3,849.27</td>
+      <td data-label="Grid Distance">3,845.80</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Crystal</td>
+      <td data-label="Altitude">3991.70</td>
+      <td data-label="To">Dragon</td>
+      <td data-label="Slope Distance">26,476.62</td>
+      <td data-label="Grid Distance">26,464.89</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Crystal</td>
+      <td data-label="Altitude">3991.70</td>
+      <td data-label="To">Laser</td>
+      <td data-label="Slope Distance">13,571.53</td>
+      <td data-label="Grid Distance">13,567.52</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Crystal</td>
+      <td data-label="Altitude">3991.70</td>
+      <td data-label="To">Sublime</td>
+      <td data-label="Slope Distance">18,856.52</td>
+      <td data-label="Grid Distance">18,528.21</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Crystal</td>
+      <td data-label="Altitude">3991.70</td>
+      <td data-label="To">Ra – A</td>
+      <td data-label="Slope Distance">11,182.24</td>
+      <td data-label="Grid Distance">10,982.44</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Dragon (North)</td>
+      <td data-label="Altitude">7661.10</td>
+      <td data-label="To">Confucius</td>
+      <td data-label="Slope Distance">19,573.54</td>
+      <td data-label="Grid Distance">19,556.08</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Dragon (North)</td>
+      <td data-label="Altitude">7661.10</td>
+      <td data-label="To">Sublime</td>
+      <td data-label="Slope Distance">23,812.35</td>
+      <td data-label="Grid Distance">23,800.86</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Dragon (North)</td>
+      <td data-label="Altitude">7661.10</td>
+      <td data-label="To">Tiyo (NW)</td>
+      <td data-label="Slope Distance">8,927.41</td>
+      <td data-label="Grid Distance">8,918.81</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hattan</td>
+      <td data-label="Altitude">5967.20</td>
+      <td data-label="To">Cheops</td>
+      <td data-label="Slope Distance">21,457.37</td>
+      <td data-label="Grid Distance">21,442.11</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hattan</td>
+      <td data-label="Altitude">5967.20</td>
+      <td data-label="To">Ledge</td>
+      <td data-label="Slope Distance">14,892.35</td>
+      <td data-label="Grid Distance">14,875.79</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hermit</td>
+      <td data-label="Altitude">6650.40</td>
+      <td data-label="To">Crystal</td>
+      <td data-label="Slope Distance">32,596.80</td>
+      <td data-label="Grid Distance">32,476.54</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hermit</td>
+      <td data-label="Altitude">6650.40</td>
+      <td data-label="To">Sublime</td>
+      <td data-label="Slope Distance">50,982.09</td>
+      <td data-label="Grid Distance">50,954.14</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hermit</td>
+      <td data-label="Altitude">6650.40</td>
+      <td data-label="To">Tiyo</td>
+      <td data-label="Slope Distance">49,543.95</td>
+      <td data-label="Grid Distance">49,510.11</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Cheops</td>
+      <td data-label="Slope Distance">18,922.83</td>
+      <td data-label="Grid Distance">18,842.34</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Crystal</td>
+      <td data-label="Slope Distance">36,877.28</td>
+      <td data-label="Grid Distance">36,737.22</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Pima</td>
+      <td data-label="Slope Distance">13,342.73</td>
+      <td data-label="Grid Distance">13,334.09</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Ra</td>
+      <td data-label="Slope Distance">28,198.55</td>
+      <td data-label="Grid Distance">28,170.62</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Ra – A</td>
+      <td data-label="Slope Distance">28,199.07</td>
+      <td data-label="Grid Distance">28,171.13</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Set</td>
+      <td data-label="Slope Distance">18,320.25</td>
+      <td data-label="Grid Distance">18,283.75</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Shiva</td>
+      <td data-label="Slope Distance">25,628.98</td>
+      <td data-label="Grid Distance">25,556.45</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Sublime</td>
+      <td data-label="Slope Distance">53,234.55</td>
+      <td data-label="Grid Distance">53,209.83</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Tiyo</td>
+      <td data-label="Slope Distance">39,371.32</td>
+      <td data-label="Grid Distance">39,346.84</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Middle</td>
+      <td data-label="Slope Distance">21,803.29</td>
+      <td data-label="Grid Distance">21,792.58</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Yaki</td>
+      <td data-label="Slope Distance">21,844.07</td>
+      <td data-label="Grid Distance">21,833.38</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Yavapai</td>
+      <td data-label="Slope Distance">11,512.09</td>
+      <td data-label="Grid Distance">11,507.08</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Hopi</td>
+      <td data-label="Altitude">7042.953L</td>
+      <td data-label="To">Powell Point/BM</td>
+      <td data-label="Slope Distance">1,237.70</td>
+      <td data-label="Grid Distance">1,237.75</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Horsethief</td>
+      <td data-label="Altitude">6346.30</td>
+      <td data-label="To">Mesa</td>
+      <td data-label="Slope Distance">26,824.89</td>
+      <td data-label="Grid Distance">26,772.86</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="Altitude">5571.00</td>
+      <td data-label="To">Lyell</td>
+      <td data-label="Slope Distance">18,424.47</td>
+      <td data-label="Grid Distance">18,416.51</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="Altitude">5571.00</td>
+      <td data-label="To">Knee</td>
+      <td data-label="Slope Distance">6,782.31</td>
+      <td data-label="Grid Distance">6,777.70</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="Altitude">5571.00</td>
+      <td data-label="To">Ottoman</td>
+      <td data-label="Slope Distance">10,980.49</td>
+      <td data-label="Grid Distance">10,912.37</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="Altitude">5571.00</td>
+      <td data-label="To">Clear</td>
+      <td data-label="Slope Distance">7,954.87</td>
+      <td data-label="Grid Distance">7,802.17</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="Altitude">5571.00</td>
+      <td data-label="To">Corner</td>
+      <td data-label="Slope Distance">22,099.99</td>
+      <td data-label="Grid Distance">22,083.99</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="Altitude">5571.00</td>
+      <td data-label="To">Gorge</td>
+      <td data-label="Slope Distance">8,160.60</td>
+      <td data-label="Grid Distance">7,967.65</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Howlands</td>
+      <td data-label="Altitude">5571.00</td>
+      <td data-label="To">Obi</td>
+      <td data-label="Slope Distance">22,777.29</td>
+      <td data-label="Grid Distance">22,645.26</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens</td>
+      <td data-label="Altitude">3849.56L</td>
+      <td data-label="To">Point A</td>
+      <td data-label="Slope Distance">1,344.36</td>
+      <td data-label="Grid Distance">1,341.23</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens</td>
+      <td data-label="Altitude">3849.56L</td>
+      <td data-label="To">Point B</td>
+      <td data-label="Slope Distance">1,097.71</td>
+      <td data-label="Grid Distance">1,095.14</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens</td>
+      <td data-label="Altitude">3849.56L</td>
+      <td data-label="To">Point C</td>
+      <td data-label="Slope Distance">615.98</td>
+      <td data-label="Grid Distance">615.55</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens</td>
+      <td data-label="Altitude">3849.56L</td>
+      <td data-label="To">Point D</td>
+      <td data-label="Slope Distance">840.89</td>
+      <td data-label="Grid Distance">839.79</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens</td>
+      <td data-label="Altitude">3849.56L</td>
+      <td data-label="To">Point E</td>
+      <td data-label="Slope Distance">1,720.80</td>
+      <td data-label="Grid Distance">1,716.16</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Indian Gardens</td>
+      <td data-label="Altitude">3849.56L</td>
+      <td data-label="To">Point F</td>
+      <td data-label="Slope Distance">924.22</td>
+      <td data-label="Grid Distance">922.34</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa A</td>
+      <td data-label="Altitude">6994.93(L)</td>
+      <td data-label="To">Indian Gardens</td>
+      <td data-label="Slope Distance">8,776.94</td>
+      <td data-label="Grid Distance">8,188.93</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Hq – 1</td>
+      <td data-label="Slope Distance">5,901.11</td>
+      <td data-label="Grid Distance">5,898.56</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Hq – 2</td>
+      <td data-label="Slope Distance">4,030.96</td>
+      <td data-label="Grid Distance">4,026.97</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Hq – 3</td>
+      <td data-label="Slope Distance">1,988.92</td>
+      <td data-label="Grid Distance">1,981.68</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Hq – 4</td>
+      <td data-label="Slope Distance">12,731.07</td>
+      <td data-label="Grid Distance">12,724.41</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Yavapai</td>
+      <td data-label="Slope Distance">8,905.12</td>
+      <td data-label="Grid Distance">8,900.79</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Hq – 6</td>
+      <td data-label="Slope Distance">10,281.16</td>
+      <td data-label="Grid Distance">10,276.40</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Parapet</td>
+      <td data-label="Slope Distance">3,313.33</td>
+      <td data-label="Grid Distance">3,365.48</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Hq – 8</td>
+      <td data-label="Slope Distance">2,993.75</td>
+      <td data-label="Grid Distance">2,991.40</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Maricopa</td>
+      <td data-label="Altitude">6988.06 (L)</td>
+      <td data-label="To">Grandeur</td>
+      <td data-label="Slope Distance">7,239.28</td>
+      <td data-label="Grid Distance">7,236.08</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Mesa</td>
+      <td data-label="Altitude">4836.70</td>
+      <td data-label="To">Lookout</td>
+      <td data-label="Slope Distance">16,385.31</td>
+      <td data-label="Grid Distance">16,376.10</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Middle</td>
+      <td data-label="Altitude">7259.908L</td>
+      <td data-label="To">Hopi</td>
+      <td data-label="Slope Distance">21,803.29</td>
+      <td data-label="Grid Distance">21,792.58</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Middle</td>
+      <td data-label="Altitude">7259.908L</td>
+      <td data-label="To">Rowe</td>
+      <td data-label="Slope Distance">21,452.06</td>
+      <td data-label="Grid Distance">21,441.80</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Middle</td>
+      <td data-label="Altitude">7259.908L</td>
+      <td data-label="To">Sublime</td>
+      <td data-label="Slope Distance">70,751.20</td>
+      <td data-label="Grid Distance">70,719.75</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Middle</td>
+      <td data-label="Altitude">7259.908L</td>
+      <td data-label="To">Tiyo</td>
+      <td data-label="Slope Distance">46,154.87</td>
+      <td data-label="Grid Distance">46,131.28</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Parapet</td>
+      <td data-label="Altitude">6923.868L</td>
+      <td data-label="To">Cheops</td>
+      <td data-label="Slope Distance">22,452.50</td>
+      <td data-label="Grid Distance">22,390.95</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Parapet</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Maricopa A</td>
+      <td data-label="Slope Distance">3,367.90</td>
+      <td data-label="Grid Distance">3,365.48</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Parapet</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom F</td>
+      <td data-label="Slope Distance">22,074.61</td>
+      <td data-label="Grid Distance">21,888.37</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom A</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom B</td>
+      <td data-label="Slope Distance">4,148.42</td>
+      <td data-label="Grid Distance">4,164.56</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom A</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom C</td>
+      <td data-label="Slope Distance">6,422.85</td>
+      <td data-label="Grid Distance">6,418.87</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom A</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom E</td>
+      <td data-label="Slope Distance">3,982.81</td>
+      <td data-label="Grid Distance">3,965.01</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom C</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom Ranch</td>
+      <td data-label="Slope Distance">4,788.43</td>
+      <td data-label="Grid Distance">4,596.70</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Plateau Point</td>
+      <td data-label="Slope Distance">5,143.03</td>
+      <td data-label="Grid Distance">5,130.32</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom E</td>
+      <td data-label="Slope Distance">4,825.36</td>
+      <td data-label="Grid Distance">4,824.84</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom A</td>
+      <td data-label="Slope Distance">6,067.79</td>
+      <td data-label="Grid Distance">6,052.87</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom C</td>
+      <td data-label="Slope Distance">3,979.18</td>
+      <td data-label="Grid Distance">3,971.34</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom B</td>
+      <td data-label="Slope Distance">7,149.30</td>
+      <td data-label="Grid Distance">7,142.94</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom J</td>
+      <td data-label="Slope Distance">4,167.96</td>
+      <td data-label="Grid Distance">4,166.29</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom H</td>
+      <td data-label="Slope Distance">4,232.02</td>
+      <td data-label="Grid Distance">4,230.76</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom D</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom F</td>
+      <td data-label="Slope Distance">4,292.38</td>
+      <td data-label="Grid Distance">4,291.14</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom K</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom B</td>
+      <td data-label="Slope Distance">4,516.47</td>
+      <td data-label="Grid Distance">4,512.58</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom K</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom F</td>
+      <td data-label="Slope Distance">12,100.45</td>
+      <td data-label="Grid Distance">12,091.65</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Phantom K</td>
+      <td data-label="Altitude"> </td>
+      <td data-label="To">Phantom A</td>
+      <td data-label="Slope Distance">3,421.34</td>
+      <td data-label="Grid Distance">3,418.87</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="Altitude">6765.00</td>
+      <td data-label="To">Crystal</td>
+      <td data-label="Slope Distance">30,358.83</td>
+      <td data-label="Grid Distance">30,220.50</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="Altitude">6765.00</td>
+      <td data-label="To">Ra</td>
+      <td data-label="Slope Distance">25,242.73</td>
+      <td data-label="Grid Distance">25,223.20</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="Altitude">6765.00</td>
+      <td data-label="To">Ra – A</td>
+      <td data-label="Slope Distance">25,229.73</td>
+      <td data-label="Grid Distance">25,210.17</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="Altitude">6765.00</td>
+      <td data-label="To">Sublime</td>
+      <td data-label="Slope Distance">48,472.09</td>
+      <td data-label="Grid Distance">48,446.52</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="Altitude">6765.00</td>
+      <td data-label="To">Tiyo</td>
+      <td data-label="Slope Distance">44.851.37</td>
+      <td data-label="Grid Distance">44,820.70</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="Altitude">6765.00</td>
+      <td data-label="To">Mesa</td>
+      <td data-label="Slope Distance">17,128.40</td>
+      <td data-label="Grid Distance">17,013.14</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Pima</td>
+      <td data-label="Altitude">6765.00</td>
+      <td data-label="To">Hopi</td>
+      <td data-label="Slope Distance">13,342.73</td>
+      <td data-label="Grid Distance">13,334.09</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="Altitude">3780.53L</td>
+      <td data-label="To">Sumner</td>
+      <td data-label="Slope Distance">13,983.61</td>
+      <td data-label="Grid Distance">13,911.41</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="Altitude">3780.53L</td>
+      <td data-label="To">Parapet</td>
+      <td data-label="Slope Distance">14,460.23</td>
+      <td data-label="Grid Distance">14,109.61</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="Altitude">3780.53L</td>
+      <td data-label="To">Yaki</td>
+      <td data-label="Slope Distance">16,115.57</td>
+      <td data-label="Grid Distance">15,730.01</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="Altitude">3780.53L</td>
+      <td data-label="To">Phantom C</td>
+      <td data-label="Slope Distance">4,074.90</td>
+      <td data-label="Grid Distance">4,072.49</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="Altitude">3780.53L</td>
+      <td data-label="To">Phantom A</td>
+      <td data-label="Slope Distance">10,052.91</td>
+      <td data-label="Grid Distance">10,049.65</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="Altitude">3780.53L</td>
+      <td data-label="To">Phantom K</td>
+      <td data-label="Slope Distance">12,707.87</td>
+      <td data-label="Grid Distance">12,703.09</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Plateau Point</td>
+      <td data-label="Altitude">3780.53L</td>
+      <td data-label="To">Phantom F</td>
+      <td data-label="Slope Distance">8,143.51</td>
+      <td data-label="Grid Distance">8,134.12</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Rowe</td>
+      <td data-label="Altitude">7066.857</td>
+      <td data-label="To">Middle</td>
+      <td data-label="Slope Distance">21,452.06</td>
+      <td data-label="Grid Distance">21,441.80</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Rowe</td>
+      <td data-label="Altitude">7066.857</td>
+      <td data-label="To">Yavapai</td>
+      <td data-label="Slope Distance">11,160.76</td>
+      <td data-label="Grid Distance">11,156.02</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Set</td>
+      <td data-label="Altitude">6016.40</td>
+      <td data-label="To">Cheops</td>
+      <td data-label="Slope Distance">16,589.49</td>
+      <td data-label="Grid Distance">16,571.05</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Set</td>
+      <td data-label="Altitude">6016.40</td>
+      <td data-label="To">Ra – A</td>
+      <td data-label="Slope Distance">10,557.08</td>
+      <td data-label="Grid Distance">10,553.02</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Shoshone</td>
+      <td data-label="Altitude">7278.50</td>
+      <td data-label="To">Cheops</td>
+      <td data-label="Slope Distance">32,466.89</td>
+      <td data-label="Grid Distance">32,398.59</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Shoshone</td>
+      <td data-label="Altitude">7278.50</td>
+      <td data-label="To">Sumner</td>
+      <td data-label="Slope Distance">25,291.66</td>
+      <td data-label="Grid Distance">25,192.39</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Shoshone</td>
+      <td data-label="Altitude">7278.50</td>
+      <td data-label="To">Corner</td>
+      <td data-label="Slope Distance">14,172.52</td>
+      <td data-label="Grid Distance">13,976.06</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Shoshone</td>
+      <td data-label="Altitude">7278.50</td>
+      <td data-label="To">Lyell</td>
+      <td data-label="Slope Distance">9,305.71</td>
+      <td data-label="Grid Distance">9,098.92</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Shoshone</td>
+      <td data-label="Altitude">7278.50</td>
+      <td data-label="To">Howlands</td>
+      <td data-label="Slope Distance">23,499.73</td>
+      <td data-label="Grid Distance">23,427.93</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Sublime</td>
+      <td data-label="Altitude">7457.50</td>
+      <td data-label="To">Crystal</td>
+      <td data-label="Slope Distance">18,856.52</td>
+      <td data-label="Grid Distance">18,528.21</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Sublime</td>
+      <td data-label="Altitude">7457.50</td>
+      <td data-label="To">Ra – A</td>
+      <td data-label="Slope Distance">25,101.03</td>
+      <td data-label="Grid Distance">25,053.06</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Sumner</td>
+      <td data-label="Altitude">5156.10</td>
+      <td data-label="To">Lyell</td>
+      <td data-label="Slope Distance">27,746.50</td>
+      <td data-label="Grid Distance">27,736.27</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Sumner</td>
+      <td data-label="Altitude">5156.10</td>
+      <td data-label="To">Howlands</td>
+      <td data-label="Slope Distance">20,549.81</td>
+      <td data-label="Grid Distance">20,538.33</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Sumner</td>
+      <td data-label="Altitude">5156.10</td>
+      <td data-label="To">Phantom F</td>
+      <td data-label="Slope Distance">11,370.52</td>
+      <td data-label="Grid Distance">11,319.63</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Transept (Lower)</td>
+      <td data-label="Altitude">4774.30</td>
+      <td data-label="To">Hattan</td>
+      <td data-label="Slope Distance">15,551.60</td>
+      <td data-label="Grid Distance">15,500.20</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Angel A</td>
+      <td data-label="Slope Distance">50,119.67</td>
+      <td data-label="Grid Distance">50,088.72</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Hopi</td>
+      <td data-label="Slope Distance">21,844.07</td>
+      <td data-label="Grid Distance">21,833.38</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Rowe</td>
+      <td data-label="Slope Distance">21,493.06</td>
+      <td data-label="Grid Distance">21,482.78</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Sumner</td>
+      <td data-label="Slope Distance">20,018.98</td>
+      <td data-label="Grid Distance">19,900.29</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Zoroaster</td>
+      <td data-label="Slope Distance">24,508.24</td>
+      <td data-label="Grid Distance">24,496.97</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Phantom A</td>
+      <td data-label="Slope Distance">17,915.33</td>
+      <td data-label="Grid Distance">17,555.76</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Howlands</td>
+      <td data-label="Slope Distance">25,691.01</td>
+      <td data-label="Grid Distance">25,624.79</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yaki</td>
+      <td data-label="Altitude">7262.235L</td>
+      <td data-label="To">Phantom F</td>
+      <td data-label="Slope Distance">22,707.76</td>
+      <td data-label="Grid Distance">22,481.53</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yavapai</td>
+      <td data-label="Altitude">7082.225L</td>
+      <td data-label="To">Hopi</td>
+      <td data-label="Slope Distance">11,512.09</td>
+      <td data-label="Grid Distance">11,507.08</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yavapai</td>
+      <td data-label="Altitude">7082.225L</td>
+      <td data-label="To">Phantom Ranch</td>
+      <td data-label="Slope Distance">16,635.61</td>
+      <td data-label="Grid Distance">16,000.17</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yavapai</td>
+      <td data-label="Altitude">7082.225L</td>
+      <td data-label="To">Ribbon</td>
+      <td data-label="Slope Distance">39,016.76</td>
+      <td data-label="Grid Distance">38,857.59</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yavapai</td>
+      <td data-label="Altitude">7082.225L</td>
+      <td data-label="To">Rowe</td>
+      <td data-label="Slope Distance">11,160.76</td>
+      <td data-label="Grid Distance">11,156.02</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Yavapai</td>
+      <td data-label="Altitude">7082.225L</td>
+      <td data-label="To">Middle</td>
+      <td data-label="Slope Distance">10,292.05</td>
+      <td data-label="Grid Distance">10,285.93</td>
+    </tr>
+    <tr>
+      <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>Zoroaster</td>
+      <td data-label="Altitude">7121.70</td>
+      <td data-label="To">Obi</td>
+      <td data-label="Slope Distance">17,321.00</td>
+      <td data-label="Grid Distance">17,294.21</td>
+    </tr>
+  </tbody>
+</table>
 
 ## View Original Report
 
