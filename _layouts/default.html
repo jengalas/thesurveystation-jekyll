@@ -89,6 +89,28 @@
 
       });
 
+      /* Filtering */
+      if (document.querySelector('#table-search') !== null) {
+        const searchInput = document.querySelector("#table-search");
+
+        const rows = document.querySelectorAll(".responsive-table tbody tr");
+
+        searchInput.addEventListener("input", () => {
+
+          const query = searchInput.value.toLowerCase().trim();
+
+          rows.forEach(row => {
+
+            const text = row.textContent.toLowerCase();
+
+            const match = text.includes(query);
+
+            row.style.display = match ? "" : "none";
+
+          });
+
+        });
+      }
     });
   </script>
   {% endif %}
@@ -98,11 +120,6 @@
   <script src="https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js"></script>
   <script>
     $(document).ready(function () {
-      $('.grandCanyonSurvey').DataTable({
-        paging: false,
-        order: [],
-        responsive: true
-      });
       $('.airway-beacons-table').DataTable({
         paging: false,
         responsive: true,
