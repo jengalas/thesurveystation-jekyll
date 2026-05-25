@@ -1,8 +1,8 @@
 ---
 designation: TT 1 J
 date: '2014-05-26T13:04:47-04:00'
-latitude: 41.27615
-longitude: 75.507003
+latitude: 41.276235
+longitude: 75.506632
 estimate: true
 state: Pennsylvania
 county: Lackawanna County
@@ -41,8 +41,7 @@ zhanna_text: >-
     outcrops on Google Street View, but when we arrived on the site, I wasn't
     able to find the disk on any of those outcrops or anywhere else nearby.
     There isn't much to go on (the coordinates from the USGS datasheets are
-    sketchy, often quite far off—in this case, they put the mark on the wrong
-    side of the highway) and the utility poles now sport new numbers, so I'm not
+    sketchy, often quite far off—in this case, I don't think the nearby BM on the map refers to this mark but instead 36 JPN) and the utility poles now sport new numbers, so I'm not
     even certain we were looking in the correct spot.  Perhaps a late fall or
     winter day when the vegetation is down would allow for a more thorough
     search of the area. At that time we also might want to expand the search a
