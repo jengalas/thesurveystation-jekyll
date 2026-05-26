@@ -66,11 +66,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BT2172
       </td>
@@ -88,11 +83,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Blue 3</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2498
@@ -112,11 +102,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2502
       </td>
@@ -134,11 +119,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BU1878
@@ -158,11 +138,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BU1892
       </td>
@@ -180,11 +155,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Green 6</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CM2197
@@ -204,11 +174,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CM2264
       </td>
@@ -226,11 +191,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Green 6</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CN2944
@@ -250,11 +210,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3461
       </td>
@@ -272,11 +227,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3612
@@ -296,11 +246,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BU1894
       </td>
@@ -318,11 +263,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Green 6</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BU1915
@@ -342,11 +282,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BU1919
       </td>
@@ -364,11 +299,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Green 6</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CN2983
@@ -388,11 +318,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CN3042
       </td>
@@ -410,11 +335,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CN2945
@@ -434,11 +354,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BU1939
       </td>
@@ -456,11 +371,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CO1141
@@ -480,11 +390,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2628
       </td>
@@ -502,11 +407,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BT2097
@@ -526,11 +426,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2490
       </td>
@@ -548,11 +443,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2499
@@ -572,11 +462,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2507
       </td>
@@ -594,11 +479,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CM2251
@@ -618,11 +498,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BU1875
       </td>
@@ -640,11 +515,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Green 6</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CN2950
@@ -664,11 +534,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CM2310
       </td>
@@ -686,11 +551,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Green 6</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BH2032
@@ -710,11 +570,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BH2039
       </td>
@@ -732,11 +587,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CN2946
@@ -756,11 +606,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BT2183
       </td>
@@ -778,11 +623,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Blue 3</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2457
@@ -802,11 +642,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CO1164
       </td>
@@ -824,11 +659,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3626
@@ -848,11 +678,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2430
       </td>
@@ -870,11 +695,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CM2320
@@ -894,11 +714,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2563
       </td>
@@ -916,11 +731,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2567
@@ -940,11 +750,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DH2620
       </td>
@@ -963,11 +768,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
       <td data-label="Designation" class="priority-1">Arrow at former Bethany Airport in Bethany, CT</td>
@@ -985,10 +785,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Updated non-NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Arrow intact, as of 4/10/2015. This arrow was only recently unearthed.
         It is supposedly going through restoration. Reported by Zack Dabsky.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LX3641
@@ -1008,11 +804,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LX3813
       </td>
@@ -1031,11 +822,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LX4840
       </td>
@@ -1053,11 +839,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LX4898
@@ -1080,10 +861,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         locate due to overgrowth. There also is what appears to be well or storm drain (covered) next to the pad but
         whether this was part of the beacon is unknown to me. Concrete pad intact, as of 5/9/2016. Reported by Michael.
       </td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LX5194
@@ -1103,11 +880,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LX6298
       </td>
@@ -1126,11 +898,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LX6975
       </td>
@@ -1148,10 +915,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Beacon destroyed, as of 11/16/2013. Reported by Kat Stevens.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JU3678
@@ -1171,11 +934,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JU3720
       </td>
@@ -1193,11 +951,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JU3837
@@ -1217,11 +970,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AC3516
       </td>
@@ -1239,11 +987,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AC4462
@@ -1264,10 +1007,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Report" class="priority-14">Concrete slab still remains, as does the fence surrounding the area.
         The beacon itself is missing. Area is virtually inaccessible; it's only 200 feet from the highway but is in
         dense swampland. Reported by Patrick Mathis.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AD6588
@@ -1287,11 +1026,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AD7061
       </td>
@@ -1309,11 +1043,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AD7512
@@ -1333,11 +1062,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AD7631
       </td>
@@ -1355,11 +1079,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AF0082
@@ -1379,11 +1098,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AF0149
       </td>
@@ -1401,11 +1115,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AF0185
@@ -1425,11 +1134,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AF0187
       </td>
@@ -1447,11 +1151,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AF0229
@@ -1471,11 +1170,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AF0289
       </td>
@@ -1493,11 +1187,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AF0327
@@ -1517,11 +1206,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AG1106
       </td>
@@ -1539,11 +1223,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AG1467
@@ -1563,11 +1242,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AG2081
       </td>
@@ -1585,11 +1259,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AK5765
@@ -1609,11 +1278,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AK5814
       </td>
@@ -1631,11 +1295,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AK5965
@@ -1655,11 +1314,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AK6009
       </td>
@@ -1677,11 +1331,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AK6065
@@ -1701,11 +1350,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AK6375
       </td>
@@ -1723,11 +1367,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AK6442
@@ -1747,11 +1386,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AQ2005
       </td>
@@ -1769,11 +1403,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AQ2101
@@ -1793,11 +1422,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>AQ2117
       </td>
@@ -1815,11 +1439,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BC2333
@@ -1839,11 +1458,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BG3862
       </td>
@@ -1861,11 +1475,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BG4823
@@ -1885,11 +1494,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
       <td data-label="Designation" class="priority-1">Arrow at site of Atlanta-New York Airway Beacon #9</td>
@@ -1906,10 +1510,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated non-NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Arrow intact as of 6/11/2019. Reported by Catharine Graham.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BC2261
@@ -1929,11 +1529,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BC2303
       </td>
@@ -1951,11 +1546,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BR1073
@@ -1975,11 +1565,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BR1092
       </td>
@@ -1997,11 +1582,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BR1182
@@ -2021,11 +1601,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BR1323
       </td>
@@ -2043,11 +1618,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BR1375
@@ -2067,11 +1637,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BR1419
       </td>
@@ -2089,11 +1654,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>BS1645
@@ -2113,11 +1673,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CL2139
       </td>
@@ -2135,11 +1690,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>CL2458
@@ -2159,11 +1709,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DF1296
       </td>
@@ -2181,11 +1726,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DF2493
@@ -2205,11 +1745,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG2532
       </td>
@@ -2227,11 +1762,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG2627
@@ -2251,11 +1781,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG2776
       </td>
@@ -2273,11 +1798,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3039
@@ -2297,11 +1817,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3089
       </td>
@@ -2319,11 +1834,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3130
@@ -2343,11 +1853,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3171
       </td>
@@ -2365,11 +1870,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3237
@@ -2389,11 +1889,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3248
       </td>
@@ -2411,11 +1906,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3279
@@ -2435,11 +1925,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3378
       </td>
@@ -2457,10 +1942,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Destroyed as of 11/19/2013. Reported by Noell Wilson.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>DG3379
@@ -2480,11 +1961,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>ED1479
       </td>
@@ -2502,11 +1978,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>ED1566
@@ -2526,11 +1997,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>EE1781
       </td>
@@ -2548,11 +2014,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
@@ -2574,10 +2035,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Plainfield Historical Society to the Railroad Museum located on Illinois Route 126 near the Du Page River and
         the CN rail line (formally the E,J, &amp; E). It was located on Book Rd, between 119th street and 127th Street.
         Reported by Roger Helm.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JB1999
@@ -2597,11 +2054,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KA1890
       </td>
@@ -2619,11 +2071,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KB1210
@@ -2643,11 +2090,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KB1466
       </td>
@@ -2665,11 +2107,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KB1495
@@ -2689,11 +2126,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KB1516
       </td>
@@ -2711,11 +2143,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KC0581
@@ -2735,11 +2162,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KC0589
       </td>
@@ -2757,11 +2179,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LC1933
@@ -2781,11 +2198,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LC1944
       </td>
@@ -2803,11 +2215,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LC1964
@@ -2827,11 +2234,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LC2032
       </td>
@@ -2849,11 +2251,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LD0722
@@ -2873,11 +2270,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LD0726
       </td>
@@ -2895,11 +2287,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LD0761
@@ -2919,11 +2306,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LD0766
       </td>
@@ -2941,11 +2323,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LD0769
@@ -2965,11 +2342,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>ME3011
       </td>
@@ -2987,11 +2359,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1330
@@ -3011,11 +2378,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1439
       </td>
@@ -3033,11 +2395,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12">Amber 5</td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1466
@@ -3057,11 +2414,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1502
       </td>
@@ -3079,11 +2431,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1686
@@ -3103,11 +2450,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1687
       </td>
@@ -3125,11 +2467,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1691
@@ -3149,11 +2486,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1702
       </td>
@@ -3171,11 +2503,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1728
@@ -3195,11 +2522,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1738
       </td>
@@ -3217,11 +2539,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MF1748
@@ -3241,11 +2558,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MG0669
       </td>
@@ -3263,11 +2575,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MG0699
@@ -3287,11 +2594,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MG0705
       </td>
@@ -3309,11 +2611,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>NG0596
@@ -3333,11 +2630,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>NG0618
       </td>
@@ -3355,11 +2647,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>NH1171
@@ -3379,11 +2666,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>NH1194
       </td>
@@ -3401,11 +2683,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>NH1467
@@ -3425,11 +2702,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
       <td data-label="Designation" class="priority-1">Arrow at Shelbyville, IN Municipal Airport (KGEZ)</td>
@@ -3447,10 +2719,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Updated non-NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Arrow intact, as of 6/24/2016. Reported by Dominic Nicolai and Brian
         Crane.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
@@ -3468,10 +2736,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated non-NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Arrow intact, as of 1/2/2015. Reported by Paul Smith.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
@@ -3489,10 +2753,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated non-NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Arrow intact, as of 1/2/2015. Reported by Paul Smith.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
@@ -3510,10 +2770,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated non-NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Beacon and arrow intact, as of 1/2/2015. Reported by Paul Smith.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button></td>
@@ -3531,10 +2787,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated non-NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Tower intact, as of 5/1/2017. Reported by Patrick Koch.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HZ2355
@@ -3554,11 +2806,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3266
       </td>
@@ -3576,11 +2823,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3291
@@ -3600,11 +2842,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3314
       </td>
@@ -3622,11 +2859,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3326
@@ -3646,11 +2878,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3342
       </td>
@@ -3668,11 +2895,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3381
@@ -3692,11 +2914,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3384
       </td>
@@ -3714,11 +2931,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KA1936
@@ -3738,10 +2950,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Updated NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Destroyed, as of 1/2/2015. 1937 aerial photograph from MapIndy shows
         remnants of arrow; area is now residential with no sign of beacon or arrow. Reported by Paul Smith.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KA1950
@@ -3761,11 +2969,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KA1960
       </td>
@@ -3783,11 +2986,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KA2004
@@ -3807,11 +3005,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>KA2015
       </td>
@@ -3829,11 +3022,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LA2002
@@ -3853,11 +3041,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LA2087
       </td>
@@ -3875,11 +3058,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LA2411
@@ -3899,11 +3077,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LB2151
       </td>
@@ -3921,11 +3094,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LB2556
@@ -3945,11 +3113,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LB2562
       </td>
@@ -3967,11 +3130,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LB2569
@@ -3991,11 +3149,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>LB2613
       </td>
@@ -4013,11 +3166,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MD1567
@@ -4037,11 +3185,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MD1615
       </td>
@@ -4059,11 +3202,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MD1697
@@ -4083,11 +3221,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MD1847
       </td>
@@ -4105,11 +3238,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>ME2413
@@ -4129,11 +3257,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>ME2452
       </td>
@@ -4151,11 +3274,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GC2101
@@ -4176,10 +3294,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Report" class="priority-14">Site is overgrown with grass. Personal inspection on foot by a local
         resident confirms the existence of an arrow. Additionally, the foundations from the caretakers house remain in
         the tree area NE of the arrow. Reported 8/7/2019 by Ray.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GC2106
@@ -4198,10 +3312,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Updated NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14">Destroyed, as of 10/26/2013. Reported by Dick Merrill.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GC2110
@@ -4221,11 +3331,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GZ2799
       </td>
@@ -4243,11 +3348,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GZ2815
@@ -4267,11 +3367,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GZ2816
       </td>
@@ -4289,11 +3384,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GZ2822
@@ -4313,11 +3403,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GZ2825
       </td>
@@ -4335,11 +3420,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>GZ2838
@@ -4359,11 +3439,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HA1352
       </td>
@@ -4381,11 +3456,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HA1356
@@ -4405,11 +3475,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HA1370
       </td>
@@ -4427,11 +3492,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HA1379
@@ -4451,11 +3511,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HZ1998
       </td>
@@ -4473,11 +3528,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HZ2013
@@ -4497,11 +3547,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HZ2181
       </td>
@@ -4519,11 +3564,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HZ2183
@@ -4543,11 +3583,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HZ2475
       </td>
@@ -4565,11 +3600,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HZ2546
@@ -4589,11 +3619,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JZ3215
       </td>
@@ -4611,11 +3636,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ1546
@@ -4635,11 +3655,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ1601
       </td>
@@ -4657,11 +3672,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ1809
@@ -4681,11 +3691,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ1811
       </td>
@@ -4703,11 +3708,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ1874
@@ -4727,11 +3727,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ1998
       </td>
@@ -4749,11 +3744,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ2058
@@ -4773,11 +3763,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>MZ2064
       </td>
@@ -4795,11 +3780,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HV5014
@@ -4819,11 +3799,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HV6995
       </td>
@@ -4841,11 +3816,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HV7038
@@ -4865,11 +3835,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HV7434
       </td>
@@ -4887,11 +3852,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>HV7756
@@ -4911,11 +3871,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JU3935
       </td>
@@ -4933,11 +3888,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JV4361
@@ -4957,11 +3907,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JV4825
       </td>
@@ -4979,11 +3924,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JV4861
@@ -5003,11 +3943,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell"><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>JV4870
       </td>
@@ -5025,11 +3960,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td data-label="Airway" class="priority-12"></td>
       <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
       <td data-label="Report" class="priority-14"></td>
-    </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5049,10 +3979,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5072,10 +3998,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5095,10 +4017,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5118,10 +4036,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5141,10 +4055,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5164,10 +4074,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Amber 7</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5187,10 +4093,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5210,10 +4112,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Amber 7</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5233,10 +4131,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5256,10 +4150,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5279,10 +4169,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5302,10 +4188,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5325,10 +4207,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5348,10 +4226,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5371,10 +4245,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5394,10 +4264,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5417,10 +4283,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5440,10 +4302,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5463,10 +4321,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5488,10 +4342,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-14" data-label="Report">Only arrow remains. The arrow appears to have been restored (painted).
         Easily visible via Google Earth.
         Reported 11/6/2019 by Ray Hawkins.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5511,10 +4361,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Amber 5</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5534,10 +4380,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5557,10 +4399,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5580,10 +4418,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5603,10 +4437,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5626,10 +4456,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Red 10</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5649,10 +4475,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Red 10</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5672,10 +4494,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Amber 5</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5695,10 +4513,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5718,10 +4532,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5742,10 +4552,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-13" data-label="Status">Updated non-NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Beacon and platform destroyed, as of 12/17/2014. Reported by Bruce
         Guy.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5765,10 +4571,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5788,10 +4590,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5811,10 +4609,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5834,10 +4628,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5857,10 +4647,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5880,10 +4666,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5903,10 +4685,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5926,10 +4704,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5949,10 +4723,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5972,10 +4742,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -5995,10 +4761,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6018,10 +4780,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6041,10 +4799,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated non-NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Beacon destroyed, as of 4/14/2014. Reported by Eileen Stokes.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6064,10 +4818,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6087,10 +4837,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6110,10 +4856,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6133,10 +4875,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6156,10 +4894,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Green 3</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6179,10 +4913,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6202,10 +4932,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6225,10 +4951,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6248,10 +4970,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6271,10 +4989,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6294,10 +5008,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6317,10 +5027,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6340,10 +5046,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6363,10 +5065,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6386,10 +5084,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6409,10 +5103,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6432,10 +5122,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Green 3</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6458,10 +5144,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Original orange painted electrical boxes
         and components on the ground nearby. Easily accessible, as of 10/9/2016. Reported by Michael LaRose.
       </td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6481,10 +5163,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6504,10 +5182,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6527,10 +5201,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6550,10 +5220,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6573,10 +5239,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6596,10 +5258,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Destroyed, as of 2/15/2013. Reported by Gary Holden.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6619,10 +5277,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6642,10 +5296,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6665,10 +5315,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6688,10 +5334,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6711,10 +5353,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6734,10 +5372,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6757,10 +5391,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6780,10 +5410,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6803,10 +5429,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6826,10 +5448,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6849,10 +5467,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6872,10 +5486,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6895,10 +5505,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6918,10 +5524,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6941,10 +5543,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Blue 18</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6964,10 +5562,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -6987,10 +5581,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7010,10 +5600,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7033,10 +5619,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7056,10 +5638,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7079,10 +5657,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7102,10 +5676,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7125,10 +5695,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7148,10 +5714,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7171,10 +5733,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7194,10 +5752,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7217,10 +5771,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7240,10 +5790,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7263,10 +5809,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7286,10 +5828,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7309,10 +5847,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7332,10 +5866,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7355,10 +5885,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7378,10 +5904,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7401,10 +5923,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7424,10 +5942,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7447,10 +5961,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7470,10 +5980,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7493,10 +5999,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7516,10 +6018,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7539,10 +6037,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7562,10 +6056,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7585,10 +6075,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7608,10 +6094,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7631,10 +6113,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7654,10 +6132,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7677,10 +6151,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7700,10 +6170,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7723,10 +6189,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7748,10 +6210,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-14" data-label="Report">Beacon, arrow and generator shed intact at Newark-Heath Airport, as of
         1/15/2015. Reported by Chris.
       </td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7771,10 +6229,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7794,10 +6248,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7817,10 +6267,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7840,10 +6286,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7863,10 +6305,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7886,10 +6324,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7909,10 +6343,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7932,10 +6362,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7955,10 +6381,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -7978,10 +6400,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8001,10 +6419,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8024,10 +6438,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8047,10 +6457,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8070,10 +6476,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated non-NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Concrete pad remains, as of 6/1/2016. Reported by Bob Pastore.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8097,10 +6499,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         feet by 6 feet. Middle of arrow shaft has shifted on the ground by about 3 feet. Coordinates are very
         accurate and mark the center of the arrow: N39 54.41677 W077 26.17902. Visited on 12/29/2018. Video of
         visit: https://youtu.be/HvkQ5VfwvWw Reported by Robert Zinn.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8123,10 +6521,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         away, and my grandfather pulled
         it over. The scrap angle iron is still in the barn. The road next to the location is called beacon light
         road. Reported by David Lash, 11/12/2017.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8147,10 +6541,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-13" data-label="Status">Updated non-NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Replica beacon tower and caretaker's shack. Reported on 8/23/2015 by
         George Beaver, Sr. </td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8170,10 +6560,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8193,10 +6579,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8216,10 +6598,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8245,10 +6623,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         arrow points to the Stoystown Beacon located at N40 06.45337, W078 57.61000. Zinnware's 360 Photos:
         https://tinyurl.com/Arrow-Beacon-McConnellsburg-1, https://tinyurl.com/Arrow-Beacon-McConnellsburg-2
         Video of the Concrete Arrow Beacon: https://youtu.be/uXfixjGmTNA Reported 9/1/2019 by Zinnware.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8268,10 +6642,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8291,10 +6661,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8314,10 +6680,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8337,10 +6699,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8360,10 +6718,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8383,10 +6737,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway">Green 3</td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8406,10 +6756,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8429,10 +6775,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8452,10 +6794,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8475,10 +6813,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8498,10 +6832,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8521,10 +6851,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8544,10 +6870,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8567,10 +6889,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8590,10 +6908,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8613,10 +6927,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8636,10 +6946,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8659,10 +6965,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8682,10 +6984,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8705,10 +7003,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8728,10 +7022,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8751,10 +7041,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8774,10 +7060,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8797,10 +7079,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8820,10 +7098,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8843,10 +7117,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8866,10 +7136,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8889,10 +7155,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8912,10 +7174,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8935,10 +7193,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8958,10 +7212,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -8981,10 +7231,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9004,10 +7250,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9027,10 +7269,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9050,10 +7288,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9073,10 +7307,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9096,10 +7326,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9119,10 +7345,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9142,10 +7364,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9165,10 +7383,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9188,10 +7402,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9211,10 +7421,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9234,10 +7440,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9257,10 +7459,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9280,10 +7478,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9303,10 +7497,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9326,10 +7516,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9349,10 +7535,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9372,10 +7554,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9395,10 +7573,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9418,10 +7592,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9441,10 +7611,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Destroyed, as of 10/24/2003. Reported by Rich in NEPA.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9464,10 +7630,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9487,10 +7649,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Destroyed, as of 11/21/2013. Reported by Zhanna and Jack Place.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9510,10 +7668,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9533,10 +7687,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9556,10 +7706,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9579,10 +7725,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9602,10 +7744,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9625,10 +7763,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9648,10 +7782,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9671,10 +7801,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9694,10 +7820,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9717,10 +7839,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9740,10 +7858,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9763,10 +7877,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9786,10 +7896,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9809,10 +7915,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9832,10 +7934,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9855,10 +7953,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9878,10 +7972,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9901,10 +7991,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9924,10 +8010,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9947,10 +8029,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9970,10 +8048,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -9993,10 +8067,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Destroyed, as of 11/21/2013. Reported by hrdwrkr.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10016,10 +8086,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10039,10 +8105,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10062,10 +8124,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10085,10 +8143,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10108,10 +8162,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10131,10 +8181,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10154,10 +8200,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10177,10 +8219,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10200,10 +8238,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10223,10 +8257,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Arrow intact, as of 1/15/2015. Reported by Chris.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10246,10 +8276,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10269,10 +8295,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10292,10 +8314,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10315,10 +8333,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10338,10 +8352,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10361,10 +8371,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10384,10 +8390,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10407,10 +8409,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10432,10 +8430,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-14" data-label="Report">Tower destroyed, generator shed remains. On the grounds of the Oak
         Ridge National Laboratory. Search for
         document ORNL/TM-2008/010. Reported 9/5/2019 by Ray Hawkins.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10455,10 +8449,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10478,10 +8468,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10501,10 +8487,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10524,10 +8506,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10547,10 +8525,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10570,10 +8544,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Beacon intact, as of 11/21/2013. Reported by Dick Merrill.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10593,10 +8563,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10616,10 +8582,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10639,10 +8601,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10662,10 +8620,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10685,10 +8639,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10708,10 +8658,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10731,10 +8677,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10754,10 +8696,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10777,10 +8715,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10800,10 +8734,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10823,10 +8753,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10846,10 +8772,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10872,10 +8794,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         arrow reads "Tri-Cities 14" and if
         followed for 14 miles brings you to the still operational TRI Cities regional. Arrow and lettering
         intact. Reported 4/30/2020 by Zach Smith.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10895,10 +8813,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10918,10 +8832,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10941,10 +8851,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10964,10 +8870,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -10987,10 +8889,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11010,10 +8908,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11033,10 +8927,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11056,10 +8946,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11079,10 +8965,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11102,10 +8984,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11125,10 +9003,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11148,10 +9022,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11171,10 +9041,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11194,10 +9060,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11217,10 +9079,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11240,10 +9098,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11263,10 +9117,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11286,10 +9136,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11309,10 +9155,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11332,10 +9174,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11355,10 +9193,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11378,10 +9212,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11401,10 +9231,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11424,10 +9250,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11447,10 +9269,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11470,10 +9288,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11493,10 +9307,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11516,10 +9326,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11539,10 +9345,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11562,10 +9364,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11585,10 +9383,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11608,10 +9402,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11631,10 +9421,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11654,10 +9440,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Destroyed, as of 11/18/2013. Reported by Drew T.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11677,10 +9459,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11700,10 +9478,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11723,10 +9497,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11746,10 +9516,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11769,10 +9535,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11792,10 +9554,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11815,10 +9573,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11838,10 +9592,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11863,10 +9613,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-14" data-label="Report">Concrete foundation of tower intact, nothing else is visible, as of
         3/22/2020. Reported by Gregg Kniepp.
       </td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11886,10 +9632,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11909,10 +9651,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11932,10 +9670,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11955,10 +9689,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -11978,10 +9708,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12001,10 +9727,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12024,10 +9746,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12047,10 +9765,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12070,10 +9784,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12093,10 +9803,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12116,10 +9822,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12139,10 +9841,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12162,10 +9860,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12185,10 +9879,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12208,10 +9898,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12231,10 +9917,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12254,10 +9936,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12277,10 +9955,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12300,10 +9974,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12323,10 +9993,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12346,10 +10012,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12373,10 +10035,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         four angle-iron "ell-shaped" cut-offs in the corners. It sits at the base of a large flagpole on a bluff
         in Mazomanie, WI. About 25 ft to the NNW is a survey marker in the ground. Reported 6/23/2020 by David
         Nelson.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12396,10 +10054,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12419,10 +10073,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12442,10 +10092,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12465,10 +10111,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12488,10 +10130,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12511,10 +10149,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12534,10 +10168,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12557,10 +10187,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12580,10 +10206,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12603,10 +10225,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12626,10 +10244,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12649,10 +10263,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12672,10 +10282,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12695,10 +10301,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12718,10 +10320,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12741,10 +10339,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12765,10 +10359,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-13" data-label="Status">Updated NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report">Beacon intact although not currently operational, as of 3/31/2016.
         Reported by Zhanna.</td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12788,10 +10378,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12811,10 +10397,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12834,10 +10416,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12857,10 +10435,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12880,10 +10454,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12903,10 +10473,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12926,10 +10492,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12949,10 +10511,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
     </tr>
     <tr>
       <td class="primary-cell">
@@ -12973,11 +10531,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
     </tr>
-    <tr class="details-row">
-      <td colspan="15">
-        <div class="details-content"></div>
-      </td>
-    </tr>
     <tr>
       <td class="primary-cell">
         <button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button>KY3202
@@ -12996,11 +10549,6 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td class="priority-12" data-label="Airway"></td>
       <td class="priority-13" data-label="Status">Undetermined NGS beacon/arrow</td>
       <td class="priority-14" data-label="Report"></td>
-    </tr>
-    <tr class="details-row">
-      <td>
-        <div class="details-content"></div>
-      </td>
     </tr>
   </tbody>
 </table>
