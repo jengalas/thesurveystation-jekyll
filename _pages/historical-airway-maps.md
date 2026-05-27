@@ -14,6 +14,12 @@ individual metadata and is therefore difficult to search.
 
 _Note: These maps are for historical research purposes only. They are not intended for use in navigation._
 
+<div style="display: flex;">
+  <label for="table-search" style="margin-left: auto;">
+    Search: 
+  </label>
+  <input type="search" id="table-search" class="table-search" placeholder="Search airway maps ...">
+</div>
 <table class="responsive-table" id="historicalAirwayMaps">
   <thead>
     <tr>
