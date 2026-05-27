@@ -11368,7 +11368,7 @@ Any item that does not have a PID is not in the NGS database but was discovered 
           });
       });
   }
-
+<!--
   function updateResponsiveToggles() {
       document.querySelectorAll(".main-row").forEach(row => {
           const button = row.querySelector(".row-toggle");
@@ -11389,5 +11389,5 @@ Any item that does not have a PID is not in the NGS database but was discovered 
   }
   updateResponsiveToggles();
   window.addEventListener("resize", updateResponsiveToggles);
-  }); 
-</script> -->
+  ); 
+</script>
