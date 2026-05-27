@@ -2,7 +2,6 @@
 title: Resurvey of the Heart of the Grand Canyon
 layout: default
 permalink: /resurvey-of-the-heart-of-the-grand-canyon/
-use_jquery: true
 features:
   - table
 ---
