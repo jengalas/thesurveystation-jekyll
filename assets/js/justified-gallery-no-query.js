@@ -18,7 +18,7 @@
  *   imgSelector    {string}  Selector for <img> inside items.          Default: 'img'
  *   waitThumbnails {boolean} Wait for images before final layout.      Default: true
  *
- * Expected item structure (produced by gallery.html include):
+ * Expected item structure (produced by media/gallery.html include):
  *   <figure class="jg-item" data-src="full.jpg" data-caption="My caption">
  *     <img src="thumb.jpg" alt="..." width="800" height="600" loading="lazy">
  *   </figure>
