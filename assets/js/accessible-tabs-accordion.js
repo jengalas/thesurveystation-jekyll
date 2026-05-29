@@ -128,7 +128,7 @@ function handleClickOnBtns(evt) {
 
 widgetWrapper.addEventListener('click', handleClickOnBtns);
 
-setActiveTab = (activeTab) => {
+const setActiveTab = (activeTab) => {
   widgetBtns.forEach(tab => {
     if (tab === activeTab) {
       tab.setAttribute('aria-selected', 'true');
@@ -141,8 +141,8 @@ setActiveTab = (activeTab) => {
       document.getElementById(tab.getAttribute('aria-controls')).removeAttribute('tabindex');
       document.getElementById(tab.getAttribute('aria-controls')).setAttribute('hidden', '');
     }
-  }
-)};
+  });
+};
 
 function handleKeyboardInteraction(evt) {
   if (
