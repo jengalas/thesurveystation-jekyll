@@ -9,7 +9,7 @@ features:
   - table
 ---
 
-{% include post-image.html filename="1930-Pueblo-Cheyenne.jpg" thumb="1930-Pueblo-Cheyenne-225x300.jpg" caption="1930 Pueblo—Cheyenne: Excerpt of a beautiful hand-drawn map" className="alignright" %}
+{% include media/post-image.html filename="1930-Pueblo-Cheyenne.jpg" thumb="1930-Pueblo-Cheyenne-225x300.jpg" caption="1930 Pueblo—Cheyenne: Excerpt of a beautiful hand-drawn map" className="alignright" %}
 
 I received the following fascinating information from website contributor Jeff Johnson. He has used two airway maps to estimate the positions of beacons that don't appear in the NGS database, and therefore for which we have no location data.
 

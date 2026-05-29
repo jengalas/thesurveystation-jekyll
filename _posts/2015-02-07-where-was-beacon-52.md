@@ -21,13 +21,13 @@ features:
 
 #### The problem
 
-{% include post-image.html filename="1-topo-map.jpg" thumb="1-topo-map.jpg" caption="A portion of a 1948 USGS topgraphic map of Nanjemoy, MD quad" className="alignright clearboth" %}
+{% include media/post-image.html filename="1-topo-map.jpg" thumb="1-topo-map.jpg" caption="A portion of a 1948 USGS topgraphic map of Nanjemoy, MD quad" className="alignright clearboth" %}
 
 The lat/lon position given by the NGS data sheet<sup>[1]</sup> for Richmond—Washington Airway Beacon 52 does not match the description given. Why? I did some research and these are my findings. So where was it actually located?
 
 #### First possible answer
 
-{% include post-image.html filename="2-airway-map.jpg" thumb="2-airway-map.jpg" caption="Air Navigation Map No. 59, Washington, D.C. to Savannah, Ga., 1936" className="alignright clearboth" %}
+{% include media/post-image.html filename="2-airway-map.jpg" thumb="2-airway-map.jpg" caption="Air Navigation Map No. 59, Washington, D.C. to Savannah, Ga., 1936" className="alignright clearboth" %}
 
 The NGS data sheet<sup>[1]</sup> says Richmond—Washington Beacon 52 was located at `POSITION - 38 19 33.47086(N) 077 10 38.12877(W)`. This is the present day location of Caledon State Park in King George County, Virginia.
 
@@ -47,7 +47,7 @@ This location for beacon 52 is also corroborated by an air navigation map of the
 
 #### Interesting 1952 imagery
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/gallery.html gallery_id="gallery1" class="justify" %}
 
 I attempted to use aerial imagery to prove or disprove one location vs. the other. The only imagery-related evidence I found that may cause me to lean one way or the other was this 1952 aerial photo of Brent Point. It’s not a smoking gun by any means—more like a grainy Bigfoot photo. What do you think? Could this be it? The area appears to have been fenced off. Could a tax map of Stafford County shed some light on past ownership of the small parcel?
 
@@ -55,7 +55,7 @@ The red lines in the second image are Google Earth’s measuring tool which indi
 
 #### Summary
 
-{% include post-image.html filename="5-beacon-path.jpg" thumb="5-beacon-path.jpg" caption="Beacons along airway" className="alignright clearboth" %}
+{% include media/post-image.html filename="5-beacon-path.jpg" thumb="5-beacon-path.jpg" caption="Beacons along airway" className="alignright clearboth" %}
 
 Which was correct? The NGS coordinates or the NGS description? In this writer’s opinion there is strong evidence (though not conclusive) to suggest that beacon 52 was located at Brent Point (the location shown in the air charts<sup>[3,4]</sup> and **as described** in the NGS data sheet<sup>[1]</sup>) and **not at the coordinates given** in the NGS data sheet. I come to this conclusion for the following reasons:
 

@@ -81,7 +81,7 @@ When I first started erecting my vintage airway beacon tower, I was unaware of i
 
 ## The Original Vintage Beacon
 
-{% include post-image.html filename="DCB-36-600x600.jpg" thumb="DCB-36-600x600-300x300.jpg" caption="Crouse-Hinds model DCB-36" className="alignright" %}
+{% include media/post-image.html filename="DCB-36-600x600.jpg" thumb="DCB-36-600x600-300x300.jpg" caption="Crouse-Hinds model DCB-36" className="alignright" %}
 
 The beacon that came with my tower was a 36″ diameter Crouse-Hinds model DCB-36, was double-sided with two **very-expensive** Fresnel glass lens sets, and was equipped with two 1,200,000cp (that’s 1.2 MILLION candlepower!) bulbs. (One was the in-service bulb and the other bulb was a backup mounted in an automatic bulb-changing mechanism.)  Introduced in 1932, this model quickly became the standard beacon for the Federal Transcontinental Lighted Airway System.  It also eventually replaced most, if not all, of the earlier beacons as normal wear and tear, as well as storms and vandals, took their toll.  (The big DCB-36 is also noteworthy in that it was chosen by the Lighthouse Division of the Department of Commerce in 1936 to upgrade its coastal lighthouses from carbon arc, and acetylene-powered beacons.)  However, the venerable DCB-36 design is now 85+ years old and replacement parts are getting hard to find.  And those parts that ARE still available are getting very expensive.  Therefore, I made the disappointing decision to not reinstall the historic original beacon. Instead, I built a stand-in (a stinkin’ counterfeit, if you will) beacon to put on the tower and the original beacon will be restored and displayed inside my hangar where it’ll be safe.
 
@@ -91,54 +91,54 @@ Due to my decision to not reinstall the original beacon, I set out to find a rep
 
 With the tower being a late-1920s model, I decided to model my homemade beacon after the earlier “double-drummed” beacons. (“Double-drum” is slang for beacons that use individual housings, or “drums”, mounted back-to-back to produce the alternating white and green flashes signifying the location of a civilian flying field. The later “Single-drum” beacons such as the DCB-36 used one housing that contained a single bulb in the center with a green lens on one side of the housing and a clear lens on the opposite side to produce the two flashes.  
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/gallery.html gallery_id="gallery1" class="justify" %}
 
 I decided to model my “counterfeit” beacon after the 24″ double-drummed design.  However, my fondness for old steam locomotive headlights and America’s glorious 1920-30s Art Deco period may have also influenced my new beacon’s design.
 
-{% include post_gallery.html gallery_id="gallery2" class="justify" %}
+{% include media/gallery.html gallery_id="gallery2" class="justify" %}
 
 And while it will be virtually impossible to stop the storms and vandals, at least I can make their damage less expensive. Therefore, my stand-in beacon uses common yard floodlights instead of the exorbitantly-expensive high-powered metal-halide bulbs and Fresnel lenses, and its housing is constructed of thick steel instead of cast aluminum like the original. Unfortunately, it was beyond my capabilities to construct a replacement for the original rotator base so I’m reusing it for the time being, but with a steel shield added around it for increased protection.
 
 My new beacon had a humble beginning as an old propane tank which donated its heavy steel end domes to become my new beacon’s backshells.  
 
-{% include post_gallery.html gallery_id="gallery3" class="justify" %}
+{% include media/gallery.html gallery_id="gallery3" class="justify" %}
 
 I then built their mounting yokes and an adapter box that would mate the beacon to the rotator’s output turntable.  This completed the basic beacon and its mount. 
 
-{% include post_gallery.html gallery_id="gallery4" class="justify" %}
+{% include media/gallery.html gallery_id="gallery4" class="justify" %}
 
 The Ring Shields were fabricated next and the visors followed.  And this was the end result.  
 
-{% include post_gallery.html gallery_id="gallery5" class="justify" %}
+{% include media/gallery.html gallery_id="gallery5" class="justify" %}
 
 A trip to the powdercoaters resulted in this sexy thing!  Gratings were fabricated and were added in front of the bulbs to prevent birds from attempting to build nests during the day when the beacon is stationary.  From  ground level, these “platinum silver” grates look like fluted glass lenses.  
 
-{% include post_gallery.html gallery_id="gallery6" class="justify" %}
+{% include media/gallery.html gallery_id="gallery6" class="justify" %}
 
 The beacons’ elevation angles can be adjusted using this simple jack screw device between 0 degrees (on the horizon) to +20 degrees above the horizon.
 
-{% include post_gallery.html gallery_id="gallery7" class="2by2" %}
+{% include media/gallery.html gallery_id="gallery7" class="2by2" %}
 
 We hoisted the “counterfeit” beacon to the top of the tower on 9 April 2016.
 
-{% include post_gallery.html gallery_id="gallery8" class="justify" %}
+{% include media/gallery.html gallery_id="gallery8" class="justify" %}
 
 And IT WORKS!  
 
-{% include post_gallery.html gallery_id="gallery9" class="1by1" %}
+{% include media/gallery.html gallery_id="gallery9" class="1by1" %}
 
-{% include youtube.html embed_code="cLLfjgM7fGU" %}
+{% include media/youtube.html embed_code="cLLfjgM7fGU" %}
 
 Note: The bright white “dot” centered under the beacon in the video is a floodlight that illuminates the windsock when the beacon is operating.
 
-{% include post-image.html filename="harvey-800x600.jpg" thumb="harvey-400x300.jpg" caption="That's Harvey in the white hardhat" className="alignright" %} 
+{% include media/post-image.html filename="harvey-800x600.jpg" thumb="harvey-400x300.jpg" caption="That's Harvey in the white hardhat" className="alignright" %} 
 
 That’s where my “counterfeit” beacon and its tower are as of January 2017.  I still have to design and build the PCL system but as the video showed, the beacon can be operated manually for demo purposes.
 
 ## October 2017 Update
 {:.clearboth}
 
-{% include post-image.html filename="newbeacon-1024x769.jpg" thumb="newbeacon-399x300.jpg" caption="2 x DCB-24 = DCB-224" className="alignright" %}
+{% include media/post-image.html filename="newbeacon-1024x769.jpg" thumb="newbeacon-399x300.jpg" caption="2 x DCB-24 = DCB-224" className="alignright" %}
 
 I have recently located and purchased an original late-1920s “double-drummed” Crouse-Hinds DCB-224 airway beacon to replace my “counterfeit” beacon.  
 
@@ -153,4 +153,4 @@ So what's going to happen to my homemade beacon?  Of course, it'll still serve d
 
 ## July 2019 Update
 
-{% include post-image.html filename="Harveys-Luscombe.jpg" thumb="Harveys-Luscombe-1024x768.jpg" caption="Harvey's 1947 Luscombe Model 8A “Silvaire” provides perspective as to the size and scope of his tower's restoration project.<br>The 2-seat sportplane has a 35ft wingspan and a 6ft height." %}
+{% include media/post-image.html filename="Harveys-Luscombe.jpg" thumb="Harveys-Luscombe-1024x768.jpg" caption="Harvey's 1947 Luscombe Model 8A “Silvaire” provides perspective as to the size and scope of his tower's restoration project.<br>The 2-seat sportplane has a 35ft wingspan and a 6ft height." %}

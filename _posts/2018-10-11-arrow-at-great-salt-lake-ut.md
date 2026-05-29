@@ -22,7 +22,7 @@ features:
 
 
 
-{% include simple-map.html map_id="1" latitude="40.7500160" longitude="-112.6482090" zoom="15" marker_name="SAN FRANCISCO—SALT LAKE AIRWAY BEACON 59" align="right" %}
+{% include maps/simple-map.html map_id="1" latitude="40.7500160" longitude="-112.6482090" zoom="15" marker_name="SAN FRANCISCO—SALT LAKE AIRWAY BEACON 59" align="right" %}
 
 David Izatt has submitted the following photos of an arrow at the site of [SAN FRANCISCO—SALT LAKE AIRWAY BEACON 59](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0482) (the beacon is now destroyed).
 
@@ -31,5 +31,5 @@ Dave writes: "This arrow has also been recently painted with orange paint. I do 
 
 As always, thanks for your contribution!
 
-{% include post_gallery.html gallery_id="gallery1" class="3by2" %}
+{% include media/gallery.html gallery_id="gallery1" class="3by2" %}
 

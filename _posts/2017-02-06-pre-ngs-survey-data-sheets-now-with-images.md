@@ -15,8 +15,8 @@ These sheets are reminiscent of the USGS datasheets, which still exist only in a
 
 As an example, see the sheet for [POR](/surveymarks/pe1793/), on Sheep Porcupine Island:
 
-{% include post-image.html filename="essa-por.jpg" thumb="essa-por-1024x491.jpg" caption="" %}
+{% include media/post-image.html filename="essa-por.jpg" thumb="essa-por-1024x491.jpg" caption="" %}
 
 And for [LOP](/surveymarks/pe1825/), at Lopaus Point:
 
-{% include post-image.html filename="essa-lop.jpg" thumb="essa-lop-1024x541.jpg" caption="" %}
+{% include media/post-image.html filename="essa-lop.jpg" thumb="essa-lop-1024x541.jpg" caption="" %}

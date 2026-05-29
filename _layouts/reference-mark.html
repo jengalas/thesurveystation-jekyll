@@ -105,7 +105,7 @@ features:
     </table>
   </div>
   <div class="map-wrapper">
-    {% include map.html %}
+    {% include maps/map.html %}
   </div>
 </div>
 
@@ -183,7 +183,7 @@ features:
     <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
       {{ page.zhanna_text | markdownify }}
       {% assign gal_zh_class = page.image_gallery_zh_class %}
-      {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+      {% include media/gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
     </div>
     {% endif %}
     {% if page.rich_text %}
@@ -194,9 +194,9 @@ features:
       {{ page.rich_text | markdownify }}
       {% assign gal_r_class = page.image_gallery_r_class %}
       {% if page.rich_date %}
-      {% include rich-gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      {% include media/rich-gallery.html gallery_id="gallery_r" class=gal_r_class %}
       {% else %}
-      {% include gallery.html gallery_id="gallery_r" class=gal_r_class %}
+      {% include media/gallery.html gallery_id="gallery_r" class=gal_r_class %}
       {% endif %}
     </div>
     {% endif %}
@@ -204,7 +204,7 @@ features:
   {% else %}
   {{ page.zhanna_text | markdownify }}
   {% assign gal_zh_class = page.image_gallery_zh_class %}
-  {% include gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
+  {% include media/gallery.html gallery_id="gallery_zh" class=gal_zh_class %}
   {% endif %}
 </div>
 <div class="recovery-date">

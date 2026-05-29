@@ -13,8 +13,8 @@ Ken Nussear has submitted the following photographs of an intact beacon tower ne
 
 Coordinates of the tower are **N 39.608274° W 119.289933°**.
 
-{% include post-image.html filename="fernley-1-800x600.jpg" thumb="fernley-1-800x600.jpg" caption="The intact tower" %}
+{% include media/post-image.html filename="fernley-1-800x600.jpg" thumb="fernley-1-800x600.jpg" caption="The intact tower" %}
 
-{% include post-image.html filename="fernley-2-800x600.jpg" thumb="fernley-2-800x600.jpg" caption="Inside the tower base" %}
+{% include media/post-image.html filename="fernley-2-800x600.jpg" thumb="fernley-2-800x600.jpg" caption="Inside the tower base" %}
 
-{% include simple-map.html map_id="1" latitude="39.608274" longitude="-119.289933" zoom="15" marker_name="Beacon tower" %}
+{% include maps/simple-map.html map_id="1" latitude="39.608274" longitude="-119.289933" zoom="15" marker_name="Beacon tower" %}

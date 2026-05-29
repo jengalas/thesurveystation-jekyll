@@ -7,7 +7,7 @@ excerpt: >-
   Learn about the characteristics, operation and maintenance of airway beacon facilities, from the early acetylene-powered beacons to the familiar Crouse-Hinds DCB-36 beacons!
 ---
 
-{% include post-image.html filename="beacon-lightning-rod-diagram.jpg" thumb="beacon-lightning-rod-diagram-500x369.jpg" caption="An excerpt from the manual" className="alignright" %}
+{% include media/post-image.html filename="beacon-lightning-rod-diagram.jpg" thumb="beacon-lightning-rod-diagram-500x369.jpg" caption="An excerpt from the manual" className="alignright" %}
 
 Harvey Hartman has shared the following manual concerning the maintenance of airway beacon facilities. It covers the beacons' technical characteristics and details maintenance and troubleshooting procedures. Includes great diagrams for beacon geeks!
 

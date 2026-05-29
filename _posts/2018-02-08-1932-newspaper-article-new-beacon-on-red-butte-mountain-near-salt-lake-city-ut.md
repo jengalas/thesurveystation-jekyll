@@ -10,8 +10,8 @@ featured_image: Salt-Lake-tower.jpg
 
 Website contributor Dave DuPree has found the following image and article in _The Salt Lake Tribune_ from Saturday, November 26, 1932 (page 33). This is the article to which Dave referred in his comment on the [Needle Peak video](/2018/02/03/video-showing-the-remains-of-beacon-32-needle-peak-nv/). Thanks, Dave!
 
-{% include post-image.html filename="Salt-Lake-image.jpg" thumb="Salt-Lake-image.jpg" caption="" className="alignleft" %}
-{% include post-image.html filename="Salt-Lake-article.jpg" thumb="Salt-Lake-article.jpg" caption="" %}
+{% include media/post-image.html filename="Salt-Lake-image.jpg" thumb="Salt-Lake-image.jpg" caption="" className="alignleft" %}
+{% include media/post-image.html filename="Salt-Lake-article.jpg" thumb="Salt-Lake-article.jpg" caption="" %}
 
 **Image caption**: 
 

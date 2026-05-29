@@ -41,8 +41,8 @@ I think the well is the one referred to in the datasheet description for [BAKER]
 
 ## Anchor points for the beacon tower legs
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/gallery.html gallery_id="gallery1" class="justify" %}
 
 ## More scenes from the site
 
-{% include post_gallery.html gallery_id="gallery2" class="justify" %}
+{% include media/gallery.html gallery_id="gallery2" class="justify" %}

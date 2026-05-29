@@ -36,4 +36,4 @@ These photos were submitted by Glen Smallwood in March 2015. They show the curre
 
 This beacon does not have an NGS PID. [Airway Map No. 135](https://www.loc.gov/resource/g3701pm.gct00064/?sp=167) (Salt Lake City Utah to Boise Idaho, 1936) was used to identify it. 
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/gallery.html gallery_id="gallery1" class="justify" %}

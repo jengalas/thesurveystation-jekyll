@@ -11,7 +11,7 @@ Ray Hays has submitted the following photo of his uncle, Victor Hays (born 1909)
 
 This beacon sat atop Beacon Rock in what is now Beacon Rock State Park, along the Columbia River. Beacon Rock is a prominent basalt plug rising to an elevation of nearly 850 feet. A trail of boardwalks and switchbacks provides hikers a path to the summit.
 
-{% include post-image.html filename="Uncle-Vic-on-Beacon-Rock.jpg" thumb="Uncle-Vic-on-Beacon-Rock.jpg" caption="Victor Hays on Beacon Rock" className="alignleft" %}
+{% include media/post-image.html filename="Uncle-Vic-on-Beacon-Rock.jpg" thumb="Uncle-Vic-on-Beacon-Rock.jpg" caption="Victor Hays on Beacon Rock" className="alignleft" %}
 
 Not much is known about the photo, but Ray suspects that it was taken before World War II. It is the only photo of the beacon that exists in the state park's archives. I was unable to find any other images of the beacon online.
 

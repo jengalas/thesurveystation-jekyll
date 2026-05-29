@@ -37,4 +37,4 @@ The beacon may have been No. 37 as shown on this map: [Air Navigation Map No. 9;
 
 ... or something else entirely. Please comment if you have any thoughts!
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/gallery.html gallery_id="gallery1" class="justify" %}

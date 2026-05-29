@@ -9,4 +9,4 @@ features:
   - leaflet-enhanced
 ---
 
-{% include beacon-map.html %}  
+{% include maps/beacon-map.html %}  

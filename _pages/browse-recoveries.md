@@ -27,7 +27,7 @@ features:
   <button class="accordion-button" aria-expanded="false" aria-controls="panel-map">Browse by Location<span
       class="accordion-icon">&plus;</span></button>
   <div class="panel" id="panel-map">
-    {% include recoveries-map.html %} 
+    {% include maps/recoveries-map.html %} 
       <div class="widget__panel archive-grid cards">
       {% for state in site.data.locations %}
           <div class="card">

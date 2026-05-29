@@ -11,4 +11,4 @@ features:
 
 # Map of Recoveries
 
-{% include recoveries-map.html %}  
+{% include maps/recoveries-map.html %}  

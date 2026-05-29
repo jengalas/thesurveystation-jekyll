@@ -34,4 +34,4 @@ The following photos were submitted by Bill Huber. He has obtained the beacon li
 
 Photos of the beacon light in its current condition are below (click thumbnails for full-resolution images).  Can anyone offer more information?
 
-{% include post_gallery.html gallery_id="gallery1" class="320h" %}
+{% include media/gallery.html gallery_id="gallery1" class="320h" %}

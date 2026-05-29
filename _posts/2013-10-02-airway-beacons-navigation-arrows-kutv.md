@@ -7,7 +7,7 @@ excerpt: >-
   KUTV reported on airway beacons and navigation arrows in the Utah desert.  I've compiled some resources for background information on airway beacons and arrows and how you can search for them. 
 ---
 
-{% include youtube.html embed_code="_phcaAMPZaE" %}
+{% include media/youtube.html embed_code="_phcaAMPZaE" %}
 
 Today Salt Lake City's KUTV ran a [report on airway beacons and navigation arrows](https://www.youtube.com/watch?v=_phcaAMPZaE). Check it out!
 

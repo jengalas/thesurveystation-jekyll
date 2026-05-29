@@ -9,5 +9,5 @@ excerpt: >-
 
 Thanks to Harry Nelson of MaineDOT for reminding me of this funny video when I asked about tracing an old deed!
 
-{% include youtube.html embed_code="UlSO0BReXBE" %}
+{% include media/youtube.html embed_code="UlSO0BReXBE" %}
 

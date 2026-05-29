@@ -28,4 +28,4 @@ Interestingly, the beacon's foundation also serves as the setting for a referenc
 
 The final three images in the gallery were taken after the beacon's removal, but they show the area in fine detail.
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/gallery.html gallery_id="gallery1" class="justify" %}

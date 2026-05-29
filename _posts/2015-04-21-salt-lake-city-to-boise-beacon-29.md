@@ -22,4 +22,4 @@ features:
 
 These photos were submitted by Glen Smallwood in March 2015. They show the current status of Salt Lake City to Boise Beacon 29 (NGS PID [OH1234](https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=oh1234)).
 
-{% include post_gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/gallery.html gallery_id="gallery1" class="justify" %}
