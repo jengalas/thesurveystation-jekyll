@@ -1,7 +1,43 @@
 {
   "type": "FeatureCollection",
   "features": [
-       {
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "18-35-6011-1",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-05-27T17:26:00-04:00",
+        "permalink": "/surveymarks/18-35-6011-1/",
+        "image": "https://images.planetzhanna.com/2026/05/27/thumbnails/18-35-6011-1csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65227,
+          41.399581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "04-35-3020-5",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-05-26T17:43:00-04:00",
+        "permalink": "/surveymarks/04-35-3020-5/",
+        "image": "https://images.planetzhanna.com/2026/05/26/thumbnails/04-35-3020-5csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.669699,
+          41.413244
+        ]
+      }
+    },  
+    {
       "type": "Feature",
       "properties": {
         "designation": "VALLEY FORGE AZ MK",
