@@ -21,6 +21,7 @@
 - type: GPS Survey Monument
 - type: Gravity Station Disk
 - type: Horizontal Control Disk
+- type: Horizontal Control Mark
 - type: Hydrographic Station Disk
 - type: Iron Bolt
 - type: Landmark/Intersection Station

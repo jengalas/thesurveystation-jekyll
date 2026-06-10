@@ -13,7 +13,7 @@ setting: Boulder
 year_established: '1932'
 agency: USGS
 official_description: >-    
-    Moscow, 3.2 mi W. of, along State Highway 690; 0.3 mi E. of Maple Lake School; 160 ft NE. of Maple Lake Church; 80 ft N. of hwy.; on property of Joseph Papiernick; in boulder; standard tablet stamped "TT 54 T 1932 1730""
+    Moscow, 3.2 mi W. of, along State Highway 690; 0.3 mi E. of Maple Lake School; 160 ft NE. of Maple Lake Church; 80 ft N. of hwy.; on property of Joseph Papiernick; in boulder; standard tablet stamped "TT 54 T 1932 1730"
 status: Recovered
 condition: Good
 zhanna_text: >-
