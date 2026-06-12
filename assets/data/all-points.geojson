@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "Z 229",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-06-09T18:17:00-04:00",
+        "permalink": "/surveymarks/ly1377/",
+        "image": "https://images.planetzhanna.com/2026/06/09/thumbnails/ly1377csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.663329,
+          41.392535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "18-35-6011-1",
         "status": "Recovered",
         "condition": "Good",
@@ -36,7 +54,7 @@
           41.413244
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
