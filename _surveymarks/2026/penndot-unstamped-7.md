@@ -24,5 +24,9 @@ galleries:
       alt: PennDOT Survey Control Mark           
     - filename: penndot-unstamped-7g1
       alt: Eyelevel view of the mark on the bridge parapet wall       
+    - filename: penndot-unstamped-7g2
+      alt: Looking SW along Waverly Road   
+    - filename: penndot-unstamped-7g3
+      alt: Union Pacific steam locomotive 4014, “Big Boy,” passing beneath the benchmark       
 featured_image: penndot-unstamped-7csm.jpg                                  
 ---
