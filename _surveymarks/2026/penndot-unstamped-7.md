@@ -20,6 +20,9 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-    - filename:  
-      alt:                                        
+    - filename: penndot-unstamped-7
+      alt: PennDOT Survey Control Mark           
+    - filename: penndot-unstamped-7g1
+      alt: Eyelevel view of the mark on the bridge parapet wall       
+featured_image: penndot-unstamped-7csm.jpg                                  
 ---
