@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "PennDOT (Unstamped, #7)",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-06-13T08:17:00-04:00",
+        "permalink": "/surveymarks/penndot-unstamped-7/",
+        "image": "https://images.planetzhanna.com/2026/06/13/thumbnails/penndot-unstamped-7csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.720698,
+          41.521068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "Z 229",
         "status": "Recovered",
         "condition": "Good",
