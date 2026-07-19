@@ -34,7 +34,7 @@ zhanna_text: >-
   People began to accumulate, and we were seeing license plates on vehicles from New England states and Florida. Yes, people drove that far to see the locomotive! Before long the bridge was a busy place. It was a sunny day, but not too hot, so we were mostly comfortable as we waited.
 
 
-  Union Pacific provided a real-time "steam tracker" on their website, so we were easily able to watch the locomotive as it traveled south from Binghamton. When it arrived at the Nicholson Viaduct, everyone was getting noticeably excited. We knew that, once it began to move again after its 20 minute stop on the viaduct for photo opportunities, it wouldn't be long before it reached us.
+  Union Pacific provided a real-time ["steam tracker"](https://www.up.com/about-us/history/steam/track) on their website, so we were easily able to watch the locomotive as it traveled south from Binghamton. When it arrived at the Nicholson Viaduct, everyone was getting noticeably excited. We knew that, once it began to move again after its 20 minute stop on the viaduct for photo opportunities, it wouldn't be long before it reached us.
 
 
   It was thunderous when the locomotive passed beneath us, and we were lucky to be on the right side of the bridge to have it lit perfectly from the side by the sun. It would have been so great to have a photo of the benchmark with the train in the background, but getting to experience the juxtaposition of two of my favorite things was really more than enough. What a thrilling morning! The crowd dispersed quickly, and we headed back down the hill to our car, enjoying the summer sunshine and warmth.
