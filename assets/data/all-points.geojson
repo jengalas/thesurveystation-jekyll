@@ -24958,6 +24958,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "SOUTHSIDE",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2002-08-25T10:00:00-05:00",
+        "permalink": "/surveymarks/ly2732/",
+        "image": "https://images.planetzhanna.com/2002/08/25/thumbnails/ly2732csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.653299,
+          41.394338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "BROAD MOUNTAIN LOOKOUT TOWER",
         "status": "Recovered",
         "condition": "Good",
