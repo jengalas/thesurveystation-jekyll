@@ -23715,6 +23715,59 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "SPRINGER RM 2",
+        "status": "Note Entered",
+        "condition": "Unknown (Not Found)",
+        "time": "2003-04-14T22:00:02-04:00",
+        "permalink": "/reference-marks/ly2725-rm-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.703056,
+          41.364167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "SPRINGER RM 1",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2003-04-14T22:00:01-04:00",
+        "permalink": "/reference-marks/ly2725-rm-1/",
+        "image": "https://images.planetzhanna.com/2003/04/14/thumbnails/ly2725rm1csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.703333,
+          41.364167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "SPRINGER",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2003-04-14T22:00:00-04:00",
+        "permalink": "/surveymarks/ly2725/",
+        "image": "https://images.planetzhanna.com/2003/04/14/thumbnails/ly2725csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.703232,
+          41.364093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "GEORGE",
         "status": "Recovered",
         "condition": "Good",
