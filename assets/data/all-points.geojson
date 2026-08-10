@@ -4,6 +4,42 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "TT 7 K RM",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2026-06-13T08:17:00-04:00",
+        "permalink": "/reference-marks/tt-7-k-rm/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.810099,
+          41.753923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "TT 7 K",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-08-09T09:03:00-04:00",
+        "permalink": "/surveymarks/tt-7-k/",
+        "image": "https://images.planetzhanna.com/2026/08/09/thumbnails/tt7kcsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.80743,
+          41.754027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "PennDOT (Unstamped, #7)",
         "status": "Recovered",
         "condition": "Good",
