@@ -7,7 +7,7 @@
         "designation": "TT 7 K RM",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
-        "time": "2026-06-13T08:17:00-04:00",
+        "time": "2026-08-08T09:08:00-04:00",
         "permalink": "/reference-marks/tt-7-k-rm/",
         "image": ""
       },
@@ -25,9 +25,9 @@
         "designation": "TT 7 K",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2026-08-09T09:03:00-04:00",
+        "time": "2026-08-08T09:03:00-04:00",
         "permalink": "/surveymarks/tt-7-k/",
-        "image": "https://images.planetzhanna.com/2026/08/09/thumbnails/tt7kcsm.jpg"
+        "image": "https://images.planetzhanna.com/2026/08/08/thumbnails/tt7kcsm.jpg"
       },
       "geometry": {
         "type": "Point",

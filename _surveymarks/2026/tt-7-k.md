@@ -1,7 +1,7 @@
 ---
 designation: TT 7 K
 is_parent: true
-date: '2026-08-09T09:03:00'
+date: '2026-08-08T09:03:00'
 latitude: 41.754027
 longitude: 75.80743
 state: Pennsylvania
@@ -22,5 +22,6 @@ galleries:
   gallery_zh:
     images:
       - filename: tt7k
-        alt: USGS Bench Mark Disk TT 7 K                                       
+        alt: USGS Bench Mark Disk TT 7 K     
+featured_image: tt7kcsm.jpg                                          
 ---

@@ -2,7 +2,7 @@
 parent: tt-7-k
 parent_name: TT 7 K
 designation: TT 7 K RM
-date: '2026-08-09T09:08:00'
+date: '2026-08-08T09:08:00'
 latitude: 41.753923
 longitude: 75.810099
 estimate: true
