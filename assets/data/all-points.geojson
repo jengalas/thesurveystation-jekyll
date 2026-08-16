@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "32 JPN",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2026-08-16T09:03:00-04:00",
+        "permalink": "/surveymarks/32-jpn/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69892416,
+          41.49363520
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "TT 7 K RM",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",
