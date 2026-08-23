@@ -25,9 +25,14 @@ zhanna_text: >-
 
   There aren't many detailed maps available covering Clarks Summit in the appropriate time period, but I was able to find a Sanborn map from 1933. I was intrigued to see that the map does not show Linden Street. I have to wonder if it was put in at a later time? It is visible on the earliest aerial imagery I have access to, from 1939. Also interesting was the Scranton Lace Company building north of the school. According to _Early History of Clarks Summit Pennsylvania_ by David M. Singer, this branch of the Scranton Lace Works was opened by Charles Belin in 1925, but closed shortly afterward. The building is still standing. When I was a student, it was called "the annex," and we had music classes in there. At some point in later years, it was an administration building for the school district. Now, I can't tell what, if anything, it is being used for.
 
+
+  I'm certain that the reference mark is also long gone. The stone curbing was replaced long ago, and the roads have been widened in the decades since the mark was set.
+
 galleries:
   gallery_zh:
     images:
       - filename: 32-jpn-1933-sanborn
-        alt: Excerpt of 1933 Sanborn Map of Clarks Summit, showing the approximate location of the mark                                        
+        alt: Excerpt of 1933 Sanborn Map of Clarks Summit, showing the approximate location of the mark       
+      - filename: street-view-concrete-curb
+        alt: This screenshot from Google Street View shows one of the concrete curbs. I suspect the mark was either on the broken-off part of this curb, or that there was another similar curb surrounding one of the other trees in the schoolyard.                                            
 ---
