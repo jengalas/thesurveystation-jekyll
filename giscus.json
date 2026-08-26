@@ -1,5 +1,5 @@
 {
-    "origins": ["https://thesurveystation.netlify.app","https://thesurveystation.com"],
+    "origins": ["https://thesurveystation.netlify.app","https://thesurveystation.com","https://thesurveystation.net"],
     "originsRegex": [
       "http://localhost:[0-9]+",
       "http://127.0.0.1:[0-9]+"
