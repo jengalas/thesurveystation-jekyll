@@ -4,6 +4,42 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "TT 54 T RM",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2025-05-07T18:08:00-04:00",
+        "permalink": "/reference-marks/tt-54-t-rm/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5677799,
+          41.3265581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "TT 54 T",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-05-07T18:03:00-04:00",
+        "permalink": "/surveymarks/tt-54-t/",
+        "image": "https://images.planetzhanna.com/2025/05/07/thumbnails/tt54tcsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56783,
+          41.3266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "32 JPN",
         "status": "Not Found",
         "condition": "Unknown (Not Found)",

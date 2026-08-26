@@ -2,7 +2,7 @@
 parent: tt-54-t
 parent_name: TT 54 T
 designation: TT 54 T RM
-date: '2025-05-07T09:08:00'
+date: '2025-05-07T18:08:00'
 latitude: 41.3265581
 longitude: 75.5677799
 estimate: true
@@ -19,10 +19,5 @@ official_description: >-
 status: Not Found
 condition: Unknown (Not Found)
 zhanna_text: >-
-  
-galleries:
-  gallery_zh:
-    images:
-    - filename: 
-      alt:  
+
 ---
