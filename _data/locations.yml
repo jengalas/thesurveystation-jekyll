@@ -142,7 +142,8 @@
         - name: Isle au Haut West Quad    
     - name: Lincoln County
       quad:
-        - name: Wiscasset Quad           
+        - name: Wiscasset Quad   
+        - name: Westport Quad        
     - name: Waldo County
       quad:
         - name: Belfast Quad
