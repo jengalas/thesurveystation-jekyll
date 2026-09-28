@@ -21,11 +21,10 @@ page-type: year-index
       <div class="card">
         {% capture thumb %}https://images.planetzhanna.com/{{ rec.date | date: "%Y/%m/%d" }}/thumbnails/{% endcapture %}
         {% if rec.featured_image %}
-        <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}" style="width: 150px;"><br>{{
+        <a href="{{ rec.url }}"><img src="{{ thumb }}{{ rec.featured_image }}"><br>{{
           rec.designation }}</a>
         {% else %}
-        <a href="{{ rec.url }}"><img src="/assets/img/default-bm-featured-image-150x150.jpg"
-            style="width: 150px;"><br>{{ rec.designation }}</a>
+        <a href="{{ rec.url }}"><img src="/assets/img/default-bm-featured-image-150x150.jpg"><br>{{ rec.designation }}</a>
         {% endif %}
       </div>
       {% endfor %}
