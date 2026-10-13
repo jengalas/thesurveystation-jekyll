@@ -4,36 +4,270 @@
     {
       "type": "Feature",
       "properties": {
-        "designation": "TT 54 T RM",
-        "status": "Not Found",
-        "condition": "Unknown (Not Found)",
-        "time": "2025-05-07T18:08:00-04:00",
-        "permalink": "/reference-marks/tt-54-t-rm/",
-        "image": ""
+        "designation": "NPS (Unstamped, Acadia #24)",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-20T09:42:56-04:00",
+        "permalink": "/surveymarks/nps-unstamped-acadia-24/",
+        "image": "https://images.planetzhanna.com/2026/09/20/thumbnails/nps-unstamped-acadia-24csm.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5677799,
-          41.3265581
+          -68.274416,
+          44.4116
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "designation": "TT 54 T",
+        "designation": "W 144",
         "status": "Recovered",
         "condition": "Good",
-        "time": "2025-05-07T18:03:00-04:00",
-        "permalink": "/surveymarks/tt-54-t/",
-        "image": "https://images.planetzhanna.com/2025/05/07/thumbnails/tt54tcsm.jpg"
+        "time": "2026-09-19T12:44:00-04:00",
+        "permalink": "/surveymarks/pe0276-2/",
+        "image": "https://images.planetzhanna.com/2026/09/19/thumbnails/pe0276csm.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.56783,
-          41.3266
+          -68.276528,
+          44.378583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "JDR/USA",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-19T11:37:49-04:00",
+        "permalink": "/surveymarks/jdrusa-2/",
+        "image": "https://images.planetzhanna.com/2026/09/19/thumbnails/jdrusa2csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.255308,
+          44.399878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "K 6",
+        "status": "Note Entered",
+        "condition": "Unknown (Not Found)",
+        "time": "2026-09-18T10:35:00-04:00",
+        "permalink": "/surveymarks/k-6-2/",
+        "image": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.361975,
+          44.383142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "K 4",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-18T10:02:00-04:00",
+        "permalink": "/surveymarks/k-4/",
+        "image": "https://images.planetzhanna.com/2026/09/18/thumbnails/k4csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.425448,
+          44.451664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "S 7",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-14T11:35:54-04:00",
+        "permalink": "/surveymarks/s-7-2/",
+        "image": "https://images.planetzhanna.com/2026/09/14/thumbnails/s7csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.180046,
+          44.346309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "TT 75 HO 1940 RESET 1958",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T10:58:00-04:00",
+        "permalink": "/surveymarks/tt-75-ho/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/tt75hocsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.631841,
+          44.00085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "841 6921 B",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T10:40:00-04:00",
+        "permalink": "/surveymarks/841-6921-b/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/8416921bcsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66525,
+          43.99944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "2262 E",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T09:55:00-04:00",
+        "permalink": "/surveymarks/2262-e/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/2262ecsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.652427,
+          43.999849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "2262 W",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T09:40:00-04:00",
+        "permalink": "/surveymarks/2262-w/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/2262wcsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.662491,
+          44.001861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "WISCASSET RM 2",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T09:18:00-04:00",
+        "permalink": "/reference-marks/pe2414-rm-2/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/pe2414rm2csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.670554,
+          44.0088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "WISCASSET RM 1",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T09:17:00-04:00",
+        "permalink": "/reference-marks/pe2414-rm-1/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/pe2414rm1csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.670375,
+          44.008884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "WISCASSET",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T09:16:00-04:00",
+        "permalink": "/surveymarks/pe2414/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/pe2414csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.670481,
+          44.0088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "WISCASSET POWDER MAGAZINE",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-10T09:15:00-04:00",
+        "permalink": "/surveymarks/pe2413/",
+        "image": "https://images.planetzhanna.com/2026/09/10/thumbnails/pe2413csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67051,
+          44.008837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "07-35-1024-4",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-09-02T09:11:00-04:00",
+        "permalink": "/surveymarks/07-35-1029-4/",
+        "image": "https://images.planetzhanna.com/2026/09/02/thumbnails/07-35-1024-4csm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6247828,
+          41.500783
         ]
       }
     },
@@ -646,6 +880,42 @@
         "coordinates": [
           -75.650289,
           41.453662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "TT 54 T RM",
+        "status": "Not Found",
+        "condition": "Unknown (Not Found)",
+        "time": "2025-05-07T18:08:00-04:00",
+        "permalink": "/reference-marks/tt-54-t-rm/",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5677799,
+          41.3265581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "designation": "TT 54 T",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2025-05-07T18:03:00-04:00",
+        "permalink": "/surveymarks/tt-54-t/",
+        "image": "https://images.planetzhanna.com/2025/05/07/thumbnails/tt54tcsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56783,
+          41.3266
         ]
       }
     },
