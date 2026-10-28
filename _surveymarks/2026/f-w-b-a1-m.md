@@ -20,6 +20,7 @@ zhanna_text: >-
 galleries:
   gallery_zh:
     images:
-    - filename:  
-      alt:                                        
+    - filename: f-w-b-a1-m 
+      alt: PA Dept. of Highways Elevation Mark F&W B A1 M 
+featured_image: f-w-b-a1-mcsm.jpg                                     
 ---
