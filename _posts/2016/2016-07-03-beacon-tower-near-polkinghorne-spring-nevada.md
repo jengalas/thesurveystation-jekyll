@@ -55,4 +55,4 @@ Approximate coordinates of the tower are N40.228794°, W117.741353°.
 
 {% include maps/simple-map.html map_id="1" latitude="40.228794" longitude="-117.741353" zoom="15" marker_name="Beacon tower" %}
 
-{% include media/gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="justify" %}

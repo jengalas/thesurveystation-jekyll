@@ -40,4 +40,4 @@ The beacon tower's description is difficult to find now, because it has been mar
 
 Thanks, Dave, for your contribution!
 
-{% include media/gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="justify" %}

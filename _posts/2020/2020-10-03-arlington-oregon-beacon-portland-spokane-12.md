@@ -48,4 +48,4 @@ With the above from a 1931 source, I found the discrepancies of the ‘beacon to
 
 Image captions in the gallery below give more details about the various parts of the installation.
 
-{% include media/gallery.html gallery_id="gallery1" class="3by3" lastRow="justify" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="3by3" lastRow="justify" %}

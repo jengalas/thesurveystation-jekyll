@@ -47,7 +47,7 @@ This location for beacon 52 is also corroborated by an air navigation map of the
 
 #### Interesting 1952 imagery
 
-{% include media/gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="justify" %}
 
 I attempted to use aerial imagery to prove or disprove one location vs. the other. The only imagery-related evidence I found that may cause me to lean one way or the other was this 1952 aerial photo of Brent Point. It’s not a smoking gun by any means—more like a grainy Bigfoot photo. What do you think? Could this be it? The area appears to have been fenced off. Could a tax map of Stafford County shed some light on past ownership of the small parcel?
 

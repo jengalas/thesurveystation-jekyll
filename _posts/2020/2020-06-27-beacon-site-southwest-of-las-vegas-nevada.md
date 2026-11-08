@@ -30,4 +30,4 @@ This site was discovered by Herbert Arnold, who also submitted the photos. It ap
 
 Coordinates for this beacon site are N 35.740218°, W 115.352291°.
 
-{% include media/gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="justify" %}

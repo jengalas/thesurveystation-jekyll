@@ -31,5 +31,5 @@ Dave writes: "This arrow has also been recently painted with orange paint. I do 
 
 As always, thanks for your contribution!
 
-{% include media/gallery.html gallery_id="gallery1" class="3by2" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="3by2" %}
 

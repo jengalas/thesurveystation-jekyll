@@ -91,41 +91,41 @@ Due to my decision to not reinstall the original beacon, I set out to find a rep
 
 With the tower being a late-1920s model, I decided to model my homemade beacon after the earlier “double-drummed” beacons. (“Double-drum” is slang for beacons that use individual housings, or “drums”, mounted back-to-back to produce the alternating white and green flashes signifying the location of a civilian flying field. The later “Single-drum” beacons such as the DCB-36 used one housing that contained a single bulb in the center with a green lens on one side of the housing and a clear lens on the opposite side to produce the two flashes.  
 
-{% include media/gallery.html gallery_id="gallery1" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="justify" %}
 
 I decided to model my “counterfeit” beacon after the 24″ double-drummed design.  However, my fondness for old steam locomotive headlights and America’s glorious 1920-30s Art Deco period may have also influenced my new beacon’s design.
 
-{% include media/gallery.html gallery_id="gallery2" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery2" class="justify" %}
 
 And while it will be virtually impossible to stop the storms and vandals, at least I can make their damage less expensive. Therefore, my stand-in beacon uses common yard floodlights instead of the exorbitantly-expensive high-powered metal-halide bulbs and Fresnel lenses, and its housing is constructed of thick steel instead of cast aluminum like the original. Unfortunately, it was beyond my capabilities to construct a replacement for the original rotator base so I’m reusing it for the time being, but with a steel shield added around it for increased protection.
 
 My new beacon had a humble beginning as an old propane tank which donated its heavy steel end domes to become my new beacon’s backshells.  
 
-{% include media/gallery.html gallery_id="gallery3" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery3" class="3by1" %}
 
 I then built their mounting yokes and an adapter box that would mate the beacon to the rotator’s output turntable.  This completed the basic beacon and its mount. 
 
-{% include media/gallery.html gallery_id="gallery4" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery4" class="3by1" %}
 
 The Ring Shields were fabricated next and the visors followed.  And this was the end result.  
 
-{% include media/gallery.html gallery_id="gallery5" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery5" class="3by1" %}
 
 A trip to the powdercoaters resulted in this sexy thing!  Gratings were fabricated and were added in front of the bulbs to prevent birds from attempting to build nests during the day when the beacon is stationary.  From  ground level, these “platinum silver” grates look like fluted glass lenses.  
 
-{% include media/gallery.html gallery_id="gallery6" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery6" class="3by1" %}
 
 The beacons’ elevation angles can be adjusted using this simple jack screw device between 0 degrees (on the horizon) to +20 degrees above the horizon.
 
-{% include media/gallery.html gallery_id="gallery7" class="2by2" %}
+{% include media/post-gallery.html gallery_id="gallery7" class="2by2" %}
 
 We hoisted the “counterfeit” beacon to the top of the tower on 9 April 2016.
 
-{% include media/gallery.html gallery_id="gallery8" class="justify" %}
+{% include media/post-gallery.html gallery_id="gallery8" class="3by1" %}
 
 And IT WORKS!  
 
-{% include media/gallery.html gallery_id="gallery9" class="1by1" %}
+{% include media/post-gallery.html gallery_id="gallery9" class="1by1" %}
 
 {% include media/youtube.html embed_code="cLLfjgM7fGU" %}
 

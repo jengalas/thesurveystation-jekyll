@@ -26,7 +26,7 @@ Art also noted that the Old Spanish Trail passes just a few hundred yards to the
 Thanks for your contribution, Art!
 
 
-{% include media/gallery.html gallery_id="gallery1" class="3by3" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="3by3" %}
 
 
 

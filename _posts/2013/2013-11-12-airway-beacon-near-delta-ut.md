@@ -21,7 +21,7 @@ The photographs of this beacon site were contributed by Dean Draper.  The site i
 
 Please leave a comment if you have more information about this beacon, perhaps its number or any details of its history.
 
-{% include media/gallery.html gallery_id="gallery1" class="2by2" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="2by2" %}
 
 A USGS topo map of the area shows the triangulation station, but no beacon.  Could the designation BEAK derive from the word "beacon"? 
 

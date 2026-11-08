@@ -25,4 +25,4 @@ Coordinates are 35.953293°N, 115.179393°W.
 
 {% include maps/simple-map.html map_id="1" latitude="35.953293" longitude="-115.179393" zoom="15" marker_name="Arrow" %}
 
-{% include media/gallery.html gallery_id="gallery1" class="2by2" %}       
+{% include media/post-gallery.html gallery_id="gallery1" class="2by2" %}       

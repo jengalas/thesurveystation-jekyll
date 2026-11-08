@@ -45,7 +45,7 @@ ___
 
 Jack has also submitted some photos of the site of beacon #42 from different vantage points.  He writes: "The arrow points east (towards Omaha, of course). Easily seen once you walk a dozen yards off the road. Tail, square tower pad and arrow head are all present and complete."
 
-{% include media/gallery.html gallery_id="gallery1" class="4by2" %}
+{% include media/post-gallery.html gallery_id="gallery1" class="4by2" %}
 
 Thank you for your contributions, Jack!
 
