@@ -44,7 +44,7 @@ Roger’s lists have generated a lot of discussion among aviation enthusiasts an
 [Airport Lighting Brochures](https://archive.org/details/buildingtechnologyheritagelibrary?tab=collection&query=airport+lighting)
 : These brochures from the 1920s and 1930s are provided by the Building Technology Heritage Library.
 
-[Arrows Across America](http://www.dreamsmithphotos.com/arrow/)
+[Arrows Across America](https://web.archive.org/web/20260216033726/http://www.dreamsmithphotos.com/arrow/)
 : More about the beacon and arrow system that guided our pioneer aviators.
 
 [Western New Mexico Airways Heritage Museum](https://www.westernnmaviationmuseum.org/home)

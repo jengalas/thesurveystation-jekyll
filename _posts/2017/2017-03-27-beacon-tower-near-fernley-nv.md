@@ -9,7 +9,7 @@ features:
   - leaflet   
 ---
 
-Ken Nussear has submitted the following photographs of an intact beacon tower near Fernley, Nevada. He also discovered at [Arrows Across America](http://www.dreamsmithphotos.com/arrow/airmail_routes/route_11_20/18/cam_18sf_sl.html) that the beacon was designated "216 SF-SL" on the Reno-Elko section of the San Francisco—Salt Lake route. 
+Ken Nussear has submitted the following photographs of an intact beacon tower near Fernley, Nevada. He also discovered at [Arrows Across America](https://web.archive.org/web/20260216033726/http://www.dreamsmithphotos.com/arrow/airmail_routes/route_11_20/18/cam_18sf_sl.html) that the beacon was designated "216 SF-SL" on the Reno-Elko section of the San Francisco—Salt Lake route. 
 
 Coordinates of the tower are **N 39.608274° W 119.289933°**.
 
