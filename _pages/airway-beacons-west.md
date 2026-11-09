@@ -11,8 +11,10 @@ features:
 
 **Last updated {{ 'now' | date: "%B %e, %Y" }}**
 
-<div class="box alignright max-30-pct">
+<div class="box alignright max-30-pct" style="margin-bottom: 1rem;">
 For airway beacons in the eastern U.S., see: <a href="/airway-beacons-list-eastern-u-s/">Airway Beacons List—Eastern U.S.</a>
+<br><br>
+    <img src="/assets/img/marker-icon-blue.png" alt="Map icon" style="vertical-align: center; margin-right: .5rem; width: 20px;"><a href="/map-of-ngs-airway-beacons/" style="vertical-align: center;">View map of beacons</a>
 </div>
 
 The following is an incomplete list of airway beacons and arrows. The original list, compiled by Roger Barnes in 2003, was drawn from the NGS database of survey marks. In recent years, many other contributors have shared their knowledge and added other beacon and arrow sites to the list. Many of these beacons no longer exist, but their locations and remains are of historical interest.
@@ -22,8 +24,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
 <table class="airway-beacons-table display">
   <thead>
     <tr>
-      <th>PID</th>
       <th>Designation</th>
+      <th>PID</th>
       <th>State</th>
       <th>County</th>
       <th>Latitude</th>
@@ -41,8 +43,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
   </thead>
   <tbody>
     <tr>
-      <td>TT6703</td>
       <td>LADD FIELD AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=TT6703">TT6703</a></td>
       <td>AK</td>
       <td> </td>
       <td>64.8393467</td>
@@ -58,8 +60,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>UV1481</td>
       <td>MENDENHALL PENPOLE OBS LT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=UV1481">UV1481</a></td>
       <td>AK</td>
       <td> </td>
       <td>58.36027612</td>
@@ -75,26 +77,26 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button class="row-toggle" aria-expanded="true" aria-label="Expand row">▶</button>UV1482
+      <td>MENDENHALL PEN TWR OBS LT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=UV1482">UV1482</a>
       </td>
-      <td data-label="Designation" class="priority-1">MENDENHALL PEN TWR OBS LT</td>
-      <td data-label="State" class="priority-2">AK</td>
-      <td data-label="County" class="priority-3"> </td>
-      <td data-label="Latitude" class="priority-4">58.36558586</td>
-      <td data-label="Longitude" class="priority-5">-134.6345829</td>
-      <td data-label="USGS Quad" class="priority-6">JUNEAU B-2</td>
-      <td data-label="First City" class="priority-7"> </td>
-      <td data-label="Second City" class="priority-8"> </td>
-      <td data-label="Beacon #" class="priority-9"> </td>
-      <td data-label="Airport?" class="priority-10"> </td>
-      <td data-label="Arrow?" class="priority-11"> </td>
-      <td data-label="Airway" class="priority-12"> </td>
-      <td data-label="Status" class="priority-13">Undetermined NGS beacon/arrow</td>
-      <td data-label="Report" class="priority-14"></td>
+      <td>AK</td>
+      <td> </td>
+      <td>58.36558586</td>
+      <td>-134.6345829</td>
+      <td>JUNEAU B-2</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Undetermined NGS beacon/arrow</td>
+      <td></td>
     </tr>
     <tr>
-      <td>UV1489</td>
       <td>MENDENHALL PENINSULA AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=UV1489">UV1489</a></td>
       <td>AK</td>
       <td> </td>
       <td>58.35891469</td>
@@ -110,8 +112,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>UV8118</td>
       <td>BETHEL CAA AIRFIELD AIRWAY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=UV8118">UV8118</a></td>
       <td>AK</td>
       <td> </td>
       <td>60.77455235</td>
@@ -127,8 +129,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>UV8494</td>
       <td>ANIAK AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=UV8494">UV8494</a></td>
       <td>AK</td>
       <td> </td>
       <td>61.5781849</td>
@@ -144,8 +146,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>UW5259</td>
       <td>AIR BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=UW5259">UW5259</a></td>
       <td>AK</td>
       <td> </td>
       <td>71.32724161</td>
@@ -161,8 +163,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DL1455</td>
       <td>DALLAS LITTLE ROCK AWY BCN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DL1455">DL1455</a></td>
       <td>AR</td>
       <td>NEVADA</td>
       <td>33.81966924</td>
@@ -178,8 +180,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DL1546</td>
       <td>AIRWAY BEACON 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DL1546">DL1546</a></td>
       <td>AR</td>
       <td>MILLER</td>
       <td>33.80467738</td>
@@ -195,8 +197,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DL1565</td>
       <td>TEXARKANA MEMPHIS AWY BCN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DL1565">DL1565</a></td>
       <td>AR</td>
       <td>HEMPSTEAD</td>
       <td>33.60910426</td>
@@ -212,8 +214,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DL1568</td>
       <td>DALLAS LITTLE ROCK AWY BCN 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DL1568">DL1568</a></td>
       <td>AR</td>
       <td>HEMPSTEAD</td>
       <td>33.72280169</td>
@@ -229,8 +231,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DL1575</td>
       <td>DALLAS LITTLE ROCK AWY BCN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DL1575">DL1575</a></td>
       <td>AR</td>
       <td>MILLER</td>
       <td>33.58623922</td>
@@ -246,8 +248,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EH2884</td>
       <td>AIRWAY BN 39 S OF FORREST CITY</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EH2884">EH2884</a></td>
       <td>AR</td>
       <td>ST FRANCIS</td>
       <td>34.94580803</td>
@@ -263,8 +265,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EH3052</td>
       <td>DALLAS LOUISVILLE AWY BCN 35</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EH3052">EH3052</a></td>
       <td>AR</td>
       <td>LONOKE</td>
       <td>34.86680995</td>
@@ -280,8 +282,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EH3077</td>
       <td>DALLAS LOUISVILLE AWY BCN 33</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EH3077">EH3077</a></td>
       <td>AR</td>
       <td>LONOKE</td>
       <td>34.80508021</td>
@@ -297,8 +299,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EH3083</td>
       <td>DALLAS LOUISVILLE AWY BCN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EH3083">EH3083</a></td>
       <td>AR</td>
       <td>LONOKE</td>
       <td>34.77579603</td>
@@ -314,8 +316,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EJ1725</td>
       <td>DALLAS LITTLE ROCK AWY BCN 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EJ1725">EJ1725</a></td>
       <td>AR</td>
       <td>SALINE</td>
       <td>34.57956366</td>
@@ -331,8 +333,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EJ1855</td>
       <td>DALLAS LITTLE ROCK AWY BCN 26</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EJ1855">EJ1855</a></td>
       <td>AR</td>
       <td>HOT SPRING</td>
       <td>34.29263959</td>
@@ -348,8 +350,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EJ1976</td>
       <td>AIRWAY BCN ARKADELPHIA MUN APT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EJ1976">EJ1976</a></td>
       <td>AR</td>
       <td>CLARK</td>
       <td>34.1215789</td>
@@ -365,8 +367,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EJ1981</td>
       <td>DALLAS LITTLE ROCK AWY BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EJ1981">EJ1981</a></td>
       <td>AR</td>
       <td>CLARK</td>
       <td>34.01053074</td>
@@ -382,8 +384,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Tower at Cottonwood Municipal Airport</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>AZ</td>
       <td>YAVAPAI</td>
       <td>34.735197</td>
@@ -401,8 +403,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Jerome. Tower and beacon light intact. Reported by Dale Whelan.</td>
     </tr>
     <tr>
-      <td>CF0322</td>
       <td>PHOENIX EL PASO AWY BCN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0322">CF0322</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.67322835</td>
@@ -418,8 +420,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CF0325</td>
       <td>PHOENIX EL PASO AWY BCN T 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0325">CF0325</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.99128966</td>
@@ -442,8 +444,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         coordinates. No evidence of beacon foundation or arrow. Reported by Dave Tenney.</td>
     </tr>
     <tr>
-      <td>CF0338</td>
       <td>PHOENIX EL PASO AWY BCN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0338">CF0338</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.35478806</td>
@@ -459,8 +461,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CF0350</td>
       <td>PHOENIX EL PASO AWY BCN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0350">CF0350</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.48908933</td>
@@ -476,8 +478,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CF0362</td>
       <td>PHOENIX EL PASO AWY BCN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0362">CF0362</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.65374446</td>
@@ -493,8 +495,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CG0952</td>
       <td>PHOENIX EL PASO AWY BCN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CG0952">CG0952</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.76458815</td>
@@ -511,8 +513,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Tenney.</td>
     </tr>
     <tr>
-      <td>CG0973</td>
       <td>AIRWAY BN LANDING FLD E BENSON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CG0973">CG0973</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.96409197</td>
@@ -528,8 +530,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CG0975</td>
       <td>AVIATION BEACON 45 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CG0975">CG0975</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>31.92027518</td>
@@ -546,8 +548,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Tenney.</td>
     </tr>
     <tr>
-      <td>CY1181</td>
       <td>PHOENIX EL PASO AWY BCN T 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CY1181">CY1181</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>32.00751804</td>
@@ -563,8 +565,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CY1191</td>
       <td>PHOENIX EL PASO AWY BCN T 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CY1191">CY1191</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>32.03581835</td>
@@ -580,8 +582,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CZ1783</td>
       <td>PHOENIX EL PASO AWY BCN T 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1783">CZ1783</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>32.03397207</td>
@@ -600,8 +602,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         for the beacon. Submitted 7/15/2019 by Andy Martin.</td>
     </tr>
     <tr>
-      <td>CZ1797</td>
       <td>PHOENIX EL PASO AWY BCN T 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1797">CZ1797</a></td>
       <td>AZ</td>
       <td>COCHISE</td>
       <td>32.04973994</td>
@@ -620,8 +622,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         from the generator shed to the beacon site. Reported 7/10/2019 by Dan Deloria.</td>
     </tr>
     <tr>
-      <td>CZ1821</td>
       <td>AIRWAY BEACON 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1821">CZ1821</a></td>
       <td>AZ</td>
       <td>PIMA</td>
       <td>32.06212873</td>
@@ -637,8 +639,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CZ1930</td>
       <td>AIRWAY BEACON W OF AIRPORT 38</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1930">CZ1930</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>32.56673659</td>
@@ -654,8 +656,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CZ1940</td>
       <td>NEWMAN PEAK BEACON TOWER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1940">CZ1940</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>32.71864678</td>
@@ -671,8 +673,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CZ1942</td>
       <td>AIRWAY BEACON ON PICACHO PEAK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1942">CZ1942</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>32.6351428</td>
@@ -688,8 +690,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CZ1965</td>
       <td>AIRWAY BEACON 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1965">CZ1965</a></td>
       <td>AZ</td>
       <td>PIMA</td>
       <td>32.38914951</td>
@@ -705,8 +707,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CZ1980</td>
       <td>AIRWAY BCN RYAN FIELD TUCSON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ1980">CZ1980</a></td>
       <td>AZ</td>
       <td>PIMA</td>
       <td>32.13551369</td>
@@ -722,8 +724,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CZ2024</td>
       <td>PHOENIX TUCSON AWY BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CZ2024">CZ2024</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>32.82102786</td>
@@ -739,8 +741,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DB1653</td>
       <td>BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DB1653">DB1653</a></td>
       <td>AZ</td>
       <td>YUMA</td>
       <td>32.67369713</td>
@@ -756,8 +758,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DU2114</td>
       <td>PHOENIX TUCSON AWY BCN 3 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DU2114">DU2114</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>33.04456252</td>
@@ -773,8 +775,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DU2116</td>
       <td>AIRWAY BEACON AT AIRPORT 34 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DU2116">DU2116</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>33.06989856</td>
@@ -790,8 +792,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DU2118</td>
       <td>SACATON PEAK AIR BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DU2118">DU2118</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>33.00327633</td>
@@ -807,8 +809,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DU2134</td>
       <td>PHOENIX TUCSON AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DU2134">DU2134</a></td>
       <td>AZ</td>
       <td>PINAL</td>
       <td>33.18860681</td>
@@ -824,8 +826,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DU2166</td>
       <td>PHOENIX TUCSON AWY BCN O</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DU2166">DU2166</a></td>
       <td>AZ</td>
       <td>MARICOPA</td>
       <td>33.36710171</td>
@@ -841,8 +843,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DU2172</td>
       <td>TEMPE BUTTE AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DU2172">DU2172</a></td>
       <td>AZ</td>
       <td>MARICOPA</td>
       <td>33.42825011</td>
@@ -858,8 +860,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV1888</td>
       <td>LOS ANGELES PHOENIX AWY BCN 30</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV1888">DV1888</a></td>
       <td>AZ</td>
       <td>MARICOPA</td>
       <td>33.51494927</td>
@@ -875,8 +877,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV1900</td>
       <td>LOS ANGELES PHOENIX AWY BCN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV1900">DV1900</a></td>
       <td>AZ</td>
       <td>LA PAZ</td>
       <td>33.52961324</td>
@@ -892,8 +894,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV1966</td>
       <td>SALOME FIELD AIRWAY BCN 27 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV1966">DV1966</a></td>
       <td>AZ</td>
       <td>LA PAZ</td>
       <td>33.57755588</td>
@@ -909,8 +911,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV1968</td>
       <td>LOS ANGELES PHOENIX AWY BN 27A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV1968">DV1968</a></td>
       <td>AZ</td>
       <td>LA PAZ</td>
       <td>33.55117232</td>
@@ -926,8 +928,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV1974</td>
       <td>LOS ANGELES PHOENIX AWY BCN 25</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV1974">DV1974</a></td>
       <td>AZ</td>
       <td>LA PAZ</td>
       <td>33.5826748</td>
@@ -943,8 +945,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV2035</td>
       <td>LUKE FIELD BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV2035">DV2035</a></td>
       <td>AZ</td>
       <td>MARICOPA</td>
       <td>33.54249654</td>
@@ -960,8 +962,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV2137</td>
       <td>LOS ANGELES PHOENIX AWY BCN 33</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV2137">DV2137</a></td>
       <td>AZ</td>
       <td>MARICOPA</td>
       <td>33.44971421</td>
@@ -977,8 +979,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DV2162</td>
       <td>LOS ANGELES PHOENIX AWY BCN 31</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DV2162">DV2162</a></td>
       <td>AZ</td>
       <td>MARICOPA</td>
       <td>33.49386856</td>
@@ -994,8 +996,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DW0890</td>
       <td>LOS ANGELES PHOENIX AWY BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DW0890">DW0890</a></td>
       <td>AZ</td>
       <td>LA PAZ</td>
       <td>33.59250306</td>
@@ -1011,8 +1013,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>ES1040</td>
       <td>LOS ANGELES ALBUQUER AWY BN 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=ES1040">ES1040</a></td>
       <td>AZ</td>
       <td>NAVAJO</td>
       <td>34.96381864</td>
@@ -1028,8 +1030,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>ES1047</td>
       <td>LOS ANGELES AMARILLO AWY BN 51</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=ES1047">ES1047</a></td>
       <td>AZ</td>
       <td>NAVAJO</td>
       <td>34.93603671</td>
@@ -1045,8 +1047,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon intact, as of 11/25/2014. Reported by Zhanna.</td>
     </tr>
     <tr>
-      <td>ET0889</td>
       <td>PRESCOTT AIRPORT AIRWAY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=ET0889">ET0889</a></td>
       <td>AZ</td>
       <td>YAVAPAI</td>
       <td>34.65021885</td>
@@ -1062,8 +1064,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>ET1117</td>
       <td>LOS ANGELES PRESCOTT AWY BN 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=ET1117">ET1117</a></td>
       <td>AZ</td>
       <td>MOHAVE</td>
       <td>34.81755084</td>
@@ -1079,8 +1081,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EU0904</td>
       <td>LOS ANGELES PRESCOTT AWY BN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EU0904">EU0904</a></td>
       <td>AZ</td>
       <td>MOHAVE</td>
       <td>34.79252603</td>
@@ -1096,8 +1098,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FP0586</td>
       <td>LOS ANGELES ALBUQ AWY BCN 54 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FP0586">FP0586</a></td>
       <td>AZ</td>
       <td>APACHE</td>
       <td>35.03982459</td>
@@ -1113,8 +1115,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FP0588</td>
       <td>LOS ANGELES ALBU AWY BN 54B 56</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FP0588">FP0588</a></td>
       <td>AZ</td>
       <td>APACHE</td>
       <td>35.03481125</td>
@@ -1131,8 +1133,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         8/10/2019 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>FP0596</td>
       <td>LOS ANGELES ALBUQ AWY BCN 53</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FP0596">FP0596</a></td>
       <td>AZ</td>
       <td>APACHE</td>
       <td>35.02946301</td>
@@ -1149,8 +1151,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         8/10/2019 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>FQ0600</td>
       <td>LOS ANGELES ALBUQ AWY BCN 43 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0600">FQ0600</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.10775945</td>
@@ -1168,8 +1170,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported 8/10/2019.</td>
     </tr>
     <tr>
-      <td>FQ0604</td>
       <td>LOS ANGELES ALBUQ AWY BCN 43 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0604">FQ0604</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.14792553</td>
@@ -1185,8 +1187,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Destroyed, as of 11/25/2014. Reported by Elaine Legate.</td>
     </tr>
     <tr>
-      <td>FQ0606</td>
       <td>LOS ANGELES ALBUQ AWY BCN 42</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0606">FQ0606</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.1529312</td>
@@ -1204,8 +1206,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         may be under trees. Reported 8/10/2019 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>FQ0673</td>
       <td>LOS ANGELES ALBUQ AWY BCN 39 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0673">FQ0673</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.21802047</td>
@@ -1221,8 +1223,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FQ0728</td>
       <td>LOS ANGELES ALBUQ AWY BCN 49</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0728">FQ0728</a></td>
       <td>AZ</td>
       <td>NAVAJO</td>
       <td>35.0283832</td>
@@ -1240,8 +1242,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         the shed are visible in Google Maps. The pad looks unusual though. Reported 8/10/2019 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>FQ0733</td>
       <td>LOS ANGELES ALBUQ AWY BCN 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0733">FQ0733</a></td>
       <td>AZ</td>
       <td>NAVAJO</td>
       <td>35.02573484</td>
@@ -1257,8 +1259,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FQ0738</td>
       <td>LOS ANGELES ALBUQ AWY BCN 47</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0738">FQ0738</a></td>
       <td>AZ</td>
       <td>NAVAJO</td>
       <td>35.02680665</td>
@@ -1276,8 +1278,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         remain. Reported 8/10/2019 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>FQ0755</td>
       <td>LOS ANGELES ALBUQ AWY BCN 45</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FQ0755">FQ0755</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.06959</td>
@@ -1295,8 +1297,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported 8/10/2019 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>FR0857</td>
       <td>LOS ANGELES ALBUQ AWY BCN 38 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FR0857">FR0857</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.27105417</td>
@@ -1312,8 +1314,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FR0867</td>
       <td>WILLIAMS AIRPORT BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FR0867">FR0867</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.30210963</td>
@@ -1329,8 +1331,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FR0872</td>
       <td>PHOENIX WILLIAMS AWY BCN 38 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FR0872">FR0872</a></td>
       <td>AZ</td>
       <td>COCONINO</td>
       <td>35.20011638</td>
@@ -1346,8 +1348,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FR0946</td>
       <td>LOS ANGELES ALBUQ AWY BCN 31</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FR0946">FR0946</a></td>
       <td>AZ</td>
       <td>YAVAPAI</td>
       <td>35.23011714</td>
@@ -1363,8 +1365,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FR0959</td>
       <td>LOS ANGELES ALBUQ AWY BCN 30</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FR0959">FR0959</a></td>
       <td>AZ</td>
       <td>MOHAVE</td>
       <td>35.22496659</td>
@@ -1380,8 +1382,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FR0968</td>
       <td>LOS ANGELES ALBUQ AWY BCN 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FR0968">FR0968</a></td>
       <td>AZ</td>
       <td>MOHAVE</td>
       <td>35.21554202</td>
@@ -1397,8 +1399,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FS1049</td>
       <td>KINGMAN AIRWAY BEACON TOWER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FS1049">FS1049</a></td>
       <td>AZ</td>
       <td>MOHAVE</td>
       <td>35.19225725</td>
@@ -1414,8 +1416,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FS1062</td>
       <td>AIRWAY BEACON TOWER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FS1062">FS1062</a></td>
       <td>AZ</td>
       <td>MOHAVE</td>
       <td>35.04243917</td>
@@ -1431,8 +1433,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GQ0425</td>
       <td>LOS ANGELES SALT LK AWY BCN 34</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GQ0425">GQ0425</a></td>
       <td>AZ</td>
       <td>MOHAVE</td>
       <td>36.95382486</td>
@@ -1448,8 +1450,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow near MX1005, near Gazelle, CA</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CA</td>
       <td>SISKIYOU</td>
       <td>41.543382</td>
@@ -1465,8 +1467,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 11/17/2013. Reported by Jeff.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow/beacon site near Troy, CA</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CA</td>
       <td></td>
       <td>39.310917</td>
@@ -1484,9 +1486,9 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         1/20/2020.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon at Kelly (Kingston) Intermediate Airfield, San Bernardino
         County, CA</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>35.56241</td>
@@ -1502,8 +1504,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon destroyed, as of 11/25/2013. Reported by Francis Blake.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon at Mesquite Pass, San Bernardino County, CA</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>35.62491</td>
@@ -1519,8 +1521,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon destroyed, as of 11/25/2013. Reported by Francis Blake.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon at Santa Monica Airport</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.0182</td>
@@ -1541,8 +1543,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         http://www.santamonicalandmarks.com/landmk53.html Reported by Eve Lopez on 5/23/2019.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon in Acalanes Ridge Open Space near Walnut Creek, CA</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CA</td>
       <td>CONTRA COSTA</td>
       <td>37.902908</td>
@@ -1558,8 +1560,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 5/10/2014. Reported by Todd Christensen.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Restored beacon on Mt. Diablo, CA</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CA</td>
       <td>CONTRA COSTA</td>
       <td>37.881713</td>
@@ -1575,8 +1577,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon restored, as of 11/21/2013. Reported by John Gallagher.</td>
     </tr>
     <tr>
-      <td>AE5076</td>
       <td>BRAZOS RR BRIDGE SE TOWER LT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AE5076">AE5076</a></td>
       <td>CA</td>
       <td>NAPA</td>
       <td>38.2089051</td>
@@ -1592,8 +1594,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DB1365</td>
       <td>SAN DIEGO TUCSON AWY BCN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DB1365">DB1365</a></td>
       <td>CA</td>
       <td>IMPERIAL</td>
       <td>32.73239095</td>
@@ -1609,8 +1611,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DB1441</td>
       <td>SAN DIEGO TUCSON AWY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DB1441">DB1441</a></td>
       <td>CA</td>
       <td>IMPERIAL</td>
       <td>32.76552339</td>
@@ -1626,8 +1628,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DB1442</td>
       <td>SAN DIEGO TUCSON AWY BCN 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DB1442">DB1442</a></td>
       <td>CA</td>
       <td>IMPERIAL</td>
       <td>32.83982931</td>
@@ -1643,8 +1645,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DB1497</td>
       <td>IMPERIAL AIRPORT AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DB1497">DB1497</a></td>
       <td>CA</td>
       <td>IMPERIAL</td>
       <td>32.83798606</td>
@@ -1660,8 +1662,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon restored, as of 8/6/2012. Reported by Norm Wuytens.</td>
     </tr>
     <tr>
-      <td>DB1598</td>
       <td>SAN DIEGO TUCSON AWY BCN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DB1598">DB1598</a></td>
       <td>CA</td>
       <td>IMPERIAL</td>
       <td>32.76242411</td>
@@ -1677,8 +1679,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DC1948</td>
       <td>SAN DIEGO TUCSON AWY BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DC1948">DC1948</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>32.75558799</td>
@@ -1694,8 +1696,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DC1996</td>
       <td>AIRWAY BCN 3 8 MI S OF GUATAY</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DC1996">DC1996</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>32.73490181</td>
@@ -1711,8 +1713,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DC2038</td>
       <td>SAN DIEGO EL PASO AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DC2038">DC2038</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>32.7018763</td>
@@ -1728,8 +1730,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DC2073</td>
       <td>SAN MIGUEL BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DC2073">DC2073</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>32.69637383</td>
@@ -1745,8 +1747,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DC2085</td>
       <td>SAN DIEGO TUCSON AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DC2085">DC2085</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>32.75449064</td>
@@ -1762,8 +1764,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DW1018</td>
       <td>LOS ANGELES PHOENIX AWY BCN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DW1018">DW1018</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.65656595</td>
@@ -1779,8 +1781,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DW1360</td>
       <td>LOS ANGELES PHOENIX AWY BCN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DW1360">DW1360</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.75361661</td>
@@ -1796,8 +1798,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DW1479</td>
       <td>LOS ANGELES PHOENIX AWY BCN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DW1479">DW1479</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.66468787</td>
@@ -1813,8 +1815,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DW1487</td>
       <td>MECCA HILLS AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DW1487">DW1487</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.65843168</td>
@@ -1830,8 +1832,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX3723</td>
       <td>LOS ANGELES PHOENIX AWY 67 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX3723">DX3723</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.87417509</td>
@@ -1847,8 +1849,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX3745</td>
       <td>LOS ANGELES PHOENIX AWY 70 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX3745">DX3745</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.90035362</td>
@@ -1864,8 +1866,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX3797</td>
       <td>AIRWAY BCN 6 BOX SPRINGS MTN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX3797">DX3797</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.96003716</td>
@@ -1881,8 +1883,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX3997</td>
       <td>AIRWAY BEACON 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX3997">DX3997</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>33.06547183</td>
@@ -1898,8 +1900,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4041</td>
       <td>AIRWAY BCN 3 2 MI NW OCEANSIDE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4041">DX4041</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>33.22985348</td>
@@ -1915,8 +1917,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4090</td>
       <td>AIRWAY 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4090">DX4090</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>33.38823364</td>
@@ -1932,8 +1934,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4094</td>
       <td>BEACON 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4094">DX4094</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>33.38332445</td>
@@ -1949,8 +1951,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4105</td>
       <td>ONOFRE BEACON BEACON 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4105">DX4105</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>33.37638162</td>
@@ -1966,8 +1968,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4140</td>
       <td>BEACON 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4140">DX4140</a></td>
       <td>CA</td>
       <td>ORANGE</td>
       <td>33.47980685</td>
@@ -1983,8 +1985,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4350</td>
       <td>BEACON 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4350">DX4350</a></td>
       <td>CA</td>
       <td>ORANGE</td>
       <td>33.5845476</td>
@@ -2000,8 +2002,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4431</td>
       <td>BEACON 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4431">DX4431</a></td>
       <td>CA</td>
       <td>ORANGE</td>
       <td>33.69276254</td>
@@ -2017,8 +2019,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4877</td>
       <td>LOS ANGELES PHOENIX AWY BCN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4877">DX4877</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.75636027</td>
@@ -2034,8 +2036,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4882</td>
       <td>LOS ANGELES PHOENIX AWY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4882">DX4882</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.81521177</td>
@@ -2051,8 +2053,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DX4994</td>
       <td>AIRWAY BEACON 3 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX4994">DX4994</a></td>
       <td>CA</td>
       <td>SAN DIEGO</td>
       <td>33.10194238</td>
@@ -2068,8 +2070,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon intact, as of 11/18/2013. Reported by Laura.</td>
     </tr>
     <tr>
-      <td>DX5100</td>
       <td>LOS ANGELES PHOENIX AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DX5100">DX5100</a></td>
       <td>CA</td>
       <td>RIVERSIDE</td>
       <td>33.92116861</td>
@@ -2086,8 +2088,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td>DY1712</td>
       <td>AIRWAY 8 1932</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DY1712">DY1712</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>33.77394169</td>
@@ -2103,8 +2105,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DZ1257</td>
       <td>AIRWAY BCN 10 E LAS CRUCES</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DZ1257">DZ1257</a></td>
       <td>CA</td>
       <td>SANTA BARBARA</td>
       <td>34.51323061</td>
@@ -2120,8 +2122,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DZ1333</td>
       <td>AIRWAY BCN 12 NE OF LOS ALAMOS</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DZ1333">DZ1333</a></td>
       <td>CA</td>
       <td>SANTA BARBARA</td>
       <td>34.79834894</td>
@@ -2137,8 +2139,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EU1084</td>
       <td>LOS ANGELES AMARILLO AWY BN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EU1084">EU1084</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.73709407</td>
@@ -2154,8 +2156,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EU1113</td>
       <td>LOS ANGELES AMARILLO AWY BN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EU1113">EU1113</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.56989668</td>
@@ -2171,8 +2173,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EU1203</td>
       <td>LOS ANGELES AMARILLO AWY BN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EU1203">EU1203</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.58117328</td>
@@ -2190,8 +2192,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Earth lists the images as 9/2018. The pad is painted red. Reported 8/10/2019 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>EV1064</td>
       <td>LOS ANGELES LAS VEGAS AWY BN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EV1064">EV1064</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.82403536</td>
@@ -2207,8 +2209,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EV2865</td>
       <td>LOS ANGELES LAS VEGAS AWY BN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EV2865">EV2865</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.735547</td>
@@ -2224,8 +2226,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EV3620</td>
       <td>AIRWAY BCN 9 A W OF CRESTLINE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EV3620">EV3620</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.23270903</td>
@@ -2241,8 +2243,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EV3876</td>
       <td>LOS ANGELES LAS VEGAS AWY BN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EV3876">EV3876</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.68365129</td>
@@ -2258,8 +2260,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EV3889</td>
       <td>LOS ANGELES LAS VEGAS AWY BN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EV3889">EV3889</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.596152</td>
@@ -2275,8 +2277,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EV3947</td>
       <td>AIRWAY BN 17 THREE MI S LUDLOW</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EV3947">EV3947</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.68347378</td>
@@ -2292,8 +2294,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EV3954</td>
       <td>AIRWAY BCN 16 ONE MI NE LAVIC</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EV3954">EV3954</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>34.73648707</td>
@@ -2309,8 +2311,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7072</td>
       <td>LOS ANGELES LAS VEGAS AWY BN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7072">EW7072</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.61706003</td>
@@ -2326,8 +2328,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7086</td>
       <td>AIRWAY BEACON 5B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7086">EW7086</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.52572401</td>
@@ -2343,8 +2345,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7127</td>
       <td>LOS ANGELES LAS VEGAS AY BN 4A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7127">EW7127</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.50078287</td>
@@ -2360,8 +2362,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7174</td>
       <td>ANTELOPE VALLEY AIRWAY BCN X 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7174">EW7174</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.77566017</td>
@@ -2377,8 +2379,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7336</td>
       <td>AIRWAY BEACON 4 ENE OF SAUGUS</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7336">EW7336</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.44481065</td>
@@ -2394,8 +2396,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7354</td>
       <td>LOS ANGELES SAN FRAN AWY BN 3A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7354">EW7354</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.40147529</td>
@@ -2411,8 +2413,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7397</td>
       <td>LOS ANGELES SAN FRAN AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7397">EW7397</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.34765956</td>
@@ -2428,8 +2430,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7505</td>
       <td>AIRWAY BEACON 3 1964</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7505">EW7505</a></td>
       <td>CA</td>
       <td>VENTURA</td>
       <td>34.16418999</td>
@@ -2445,8 +2447,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EW7557</td>
       <td>LOS ANGELES SAN FRAN AWY BN 5A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EW7557">EW7557</a></td>
       <td>CA</td>
       <td>LOS ANGELES</td>
       <td>34.75089948</td>
@@ -2462,8 +2464,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FS1262</td>
       <td>LOS ANGELES LAS VEGAS BN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FS1262">FS1262</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>35.48399704</td>
@@ -2479,8 +2481,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FS1273</td>
       <td>LOS ANGELES LAS VEGAS BN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FS1273">FS1273</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>35.39964029</td>
@@ -2498,8 +2500,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         3/22/2016. Reported by Laura, Francis Blake, Michael A. Adams.</td>
     </tr>
     <tr>
-      <td>FT1486</td>
       <td>LOS ANGELES LAS VEGAS AY BN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FT1486">FT1486</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>35.27181143</td>
@@ -2515,8 +2517,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FT1501</td>
       <td>LOS ANGELES LAS VEGAS AY BN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FT1501">FT1501</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>35.07755462</td>
@@ -2534,8 +2536,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         3/22/2016. Reported by Laura and Michael A. Adams.</td>
     </tr>
     <tr>
-      <td>FT1502</td>
       <td>LOS ANGELES SALT LAKE AY BN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FT1502">FT1502</a></td>
       <td>CA</td>
       <td>SAN BERNARDINO</td>
       <td>35.07354604</td>
@@ -2551,8 +2553,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FU3427</td>
       <td>LOS ANGELES SAN FRAN AWY BN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FU3427">FU3427</a></td>
       <td>CA</td>
       <td>KERN</td>
       <td>35.15057909</td>
@@ -2568,8 +2570,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FU3438</td>
       <td>AIRWAY BN 9 CODE B S BAKERSFLD</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FU3438">FU3438</a></td>
       <td>CA</td>
       <td>KERN</td>
       <td>35.29574309</td>
@@ -2585,8 +2587,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FU3524</td>
       <td>DELANO AIRPORT AIRWAYS BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FU3524">FU3524</a></td>
       <td>CA</td>
       <td>KERN</td>
       <td>35.75226066</td>
@@ -2605,8 +2607,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         the beacon, as of 1/2/2017. Reported by Marici Reid.</td>
     </tr>
     <tr>
-      <td>FU3536</td>
       <td>LOS ANGELES SAN FRAN AWY BN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FU3536">FU3536</a></td>
       <td>CA</td>
       <td>KERN</td>
       <td>35.57641093</td>
@@ -2622,8 +2624,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FU3571</td>
       <td>AIRWAY BCN 13 FLASHING RED V</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FU3571">FU3571</a></td>
       <td>CA</td>
       <td>TULARE</td>
       <td>35.86144139</td>
@@ -2640,8 +2642,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Marici Reid.</td>
     </tr>
     <tr>
-      <td>FV1462</td>
       <td>LOS ANGELES SAN FRAN AWY BN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FV1462">FV1462</a></td>
       <td>CA</td>
       <td>SAN LUIS OBISPO</td>
       <td>35.32510084</td>
@@ -2657,8 +2659,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FV1799</td>
       <td>LOS ANGELES SAN FRAN AWY BN 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FV1799">FV1799</a></td>
       <td>CA</td>
       <td>MONTEREY</td>
       <td>35.8826454</td>
@@ -2674,8 +2676,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GT1934</td>
       <td>LOS ANGELES SAN FRAN AWY BN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GT1934">GT1934</a></td>
       <td>CA</td>
       <td>TULARE</td>
       <td>36.02110284</td>
@@ -2692,8 +2694,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td>GT1963</td>
       <td>LOS ANGELES SAN FRAN AWY BN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GT1963">GT1963</a></td>
       <td>CA</td>
       <td>TULARE</td>
       <td>36.32693676</td>
@@ -2712,8 +2714,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         1/2/2017. Reported by Marici Reid.</td>
     </tr>
     <tr>
-      <td>GT1965</td>
       <td>LOS ANGELES SAN FRAN AWY BN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GT1965">GT1965</a></td>
       <td>CA</td>
       <td>TULARE</td>
       <td>36.45993081</td>
@@ -2729,8 +2731,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GT2066</td>
       <td>LOS ANGELES SAN FRAN AWY BN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GT2066">GT2066</a></td>
       <td>CA</td>
       <td>FRESNO</td>
       <td>36.57618316</td>
@@ -2747,8 +2749,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Marici Reid.</td>
     </tr>
     <tr>
-      <td>GT2085</td>
       <td>LOS ANGELES SAN FRAN AWY BN 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GT2085">GT2085</a></td>
       <td>CA</td>
       <td>FRESNO</td>
       <td>36.68520984</td>
@@ -2764,8 +2766,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GU3513</td>
       <td>LOS ANGELES SAN FRAN AWY BN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GU3513">GU3513</a></td>
       <td>CA</td>
       <td>MONTEREY</td>
       <td>36.07932928</td>
@@ -2781,8 +2783,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GU3684</td>
       <td>LOS ANGELES SAN FRAN AWY BN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GU3684">GU3684</a></td>
       <td>CA</td>
       <td>MONTEREY</td>
       <td>36.36711415</td>
@@ -2798,8 +2800,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GU3691</td>
       <td>GONZALES AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GU3691">GU3691</a></td>
       <td>CA</td>
       <td>MONTEREY</td>
       <td>36.49958698</td>
@@ -2815,8 +2817,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GU3914</td>
       <td>AIRWAY</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GU3914">GU3914</a></td>
       <td>CA</td>
       <td>MONTEREY</td>
       <td>36.57327905</td>
@@ -2832,8 +2834,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GU4043</td>
       <td>SAN FRAN LOS ANGELES AWY BN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GU4043">GU4043</a></td>
       <td>CA</td>
       <td>MONTEREY</td>
       <td>36.86523422</td>
@@ -2849,8 +2851,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4567</td>
       <td>LOS ANGELES SAN FRAN AIR BN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4567">HS4567</a></td>
       <td>CA</td>
       <td>MADERA</td>
       <td>37.01762592</td>
@@ -2866,8 +2868,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4574</td>
       <td>LOS ANGELES SAN FRAN AIR BN 25</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4574">HS4574</a></td>
       <td>CA</td>
       <td>MERCED</td>
       <td>37.22704204</td>
@@ -2883,8 +2885,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4589</td>
       <td>MERCED LA SAN FRAN AWY BN 26 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4589">HS4589</a></td>
       <td>CA</td>
       <td>MERCED</td>
       <td>37.36431442</td>
@@ -2900,8 +2902,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4631</td>
       <td>MODESTO LA SAN FRAN AWY BN 95</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4631">HS4631</a></td>
       <td>CA</td>
       <td>STANISLAUS</td>
       <td>37.62770535</td>
@@ -2917,8 +2919,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4696</td>
       <td>LOS ANGELES SAN FRAN AWY BN 31</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4696">HS4696</a></td>
       <td>CA</td>
       <td>SAN JOAQUIN</td>
       <td>37.62459103</td>
@@ -2934,8 +2936,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4842</td>
       <td>LOS ANGELES SAN FRAN AWY BN 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4842">HS4842</a></td>
       <td>CA</td>
       <td>SANTA CLARA</td>
       <td>37.00802748</td>
@@ -2953,8 +2955,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         equipment. Beacon destroyed, as of 3/27/2015. Reported by John Gleichweit.</td>
     </tr>
     <tr>
-      <td>HS4873</td>
       <td>LOS ANGELES SAN FRAN AWY BN 30</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4873">HS4873</a></td>
       <td>CA</td>
       <td>SANTA CLARA</td>
       <td>37.08750474</td>
@@ -2970,8 +2972,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4897</td>
       <td>LOS ANGELES DALLES ORE BCN 30</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4897">HS4897</a></td>
       <td>CA</td>
       <td>SANTA CRUZ</td>
       <td>37.1095928</td>
@@ -2987,8 +2989,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS4928</td>
       <td>SAN FRANCISCO LOS ANGELES AIRWAY BN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS4928">HS4928</a></td>
       <td>CA</td>
       <td>SANTA CLARA</td>
       <td>37.3370154</td>
@@ -3004,8 +3006,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HS5030</td>
       <td>LIVERMORE AIRWAY BEACON 448</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HS5030">HS5030</a></td>
       <td>CA</td>
       <td>ALAMEDA</td>
       <td>37.69182124</td>
@@ -3021,8 +3023,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HT2511</td>
       <td>OAKLAND BEACON 1 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HT2511">HT2511</a></td>
       <td>CA</td>
       <td>ALAMEDA</td>
       <td>37.78746331</td>
@@ -3038,8 +3040,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HT2592</td>
       <td>AIRWAY BCN 34 SW CENTERVILLE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HT2592">HT2592</a></td>
       <td>CA</td>
       <td>ALAMEDA</td>
       <td>37.53971311</td>
@@ -3055,8 +3057,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HT3250</td>
       <td>FRESNO HAMILTON AWY BCN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HT3250">HT3250</a></td>
       <td>CA</td>
       <td>SANTA CLARA</td>
       <td>37.31869998</td>
@@ -3072,8 +3074,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4077</td>
       <td>SACRAMENTO RENO AIRWAY BCN 11A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4077">JS4077</a></td>
       <td>CA</td>
       <td>PLACER</td>
       <td>38.99315081</td>
@@ -3089,8 +3091,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4087</td>
       <td>SAN FRAN SALT LK CTY AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4087">JS4087</a></td>
       <td>CA</td>
       <td>PLACER</td>
       <td>38.87230932</td>
@@ -3106,8 +3108,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4151</td>
       <td>SAN FRAN SALT LK CTY AWY BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4151">JS4151</a></td>
       <td>CA</td>
       <td>PLACER</td>
       <td>38.75199469</td>
@@ -3123,8 +3125,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4291</td>
       <td>SAN FRAN RENO AWY BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4291">JS4291</a></td>
       <td>CA</td>
       <td>YOLO</td>
       <td>38.38628239</td>
@@ -3140,8 +3142,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4319</td>
       <td>SAN FRAN RENO RED AIRWAY BCN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4319">JS4319</a></td>
       <td>CA</td>
       <td>SOLANO</td>
       <td>38.25954151</td>
@@ -3157,8 +3159,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4398</td>
       <td>SAN FRAN RENO AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4398">JS4398</a></td>
       <td>CA</td>
       <td>SOLANO</td>
       <td>38.11692634</td>
@@ -3174,8 +3176,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4487</td>
       <td>SAN FRAN MEDFORD AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4487">JS4487</a></td>
       <td>CA</td>
       <td>SOLANO</td>
       <td>38.20695746</td>
@@ -3191,8 +3193,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4498</td>
       <td>SAN FRAN MEDFORD AWY BN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4498">JS4498</a></td>
       <td>CA</td>
       <td>SOLANO</td>
       <td>38.24322539</td>
@@ -3208,8 +3210,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4520</td>
       <td>SAN FRAN SEATTLE AIRWAY BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4520">JS4520</a></td>
       <td>CA</td>
       <td>SOLANO</td>
       <td>38.42362473</td>
@@ -3225,8 +3227,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JS4586</td>
       <td>SAN FRAN SEATTLE AIRWAY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JS4586">JS4586</a></td>
       <td>CA</td>
       <td>YOLO</td>
       <td>38.56160354</td>
@@ -3242,8 +3244,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JT0591</td>
       <td>SAN FRAN SEATTLE AWY BCN 8B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JT0591">JT0591</a></td>
       <td>CA</td>
       <td>COLUSA</td>
       <td>38.9515485</td>
@@ -3259,8 +3261,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JT0593</td>
       <td>SAN FRAN SEATTLE AWY BCN 8A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JT0593">JT0593</a></td>
       <td>CA</td>
       <td>YOLO</td>
       <td>38.83586754</td>
@@ -3276,8 +3278,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JT0605</td>
       <td>SAN FRAN SEATTLE AWY BCN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JT0605">JT0605</a></td>
       <td>CA</td>
       <td>YOLO</td>
       <td>38.72093886</td>
@@ -3293,8 +3295,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JT2093</td>
       <td>SAN FRANCISCO RENO AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JT2093">JT2093</a></td>
       <td>CA</td>
       <td>CONTRA COSTA</td>
       <td>38.03015769</td>
@@ -3310,8 +3312,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JT2195</td>
       <td>CARQUINEZ BRIDGE AVIATION BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JT2195">JT2195</a></td>
       <td>CA</td>
       <td>CONTRA COSTA</td>
       <td>38.06093554</td>
@@ -3327,8 +3329,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KS1392</td>
       <td>AIRWAY BCN 17 5 MI SW OF VERDI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KS1392">KS1392</a></td>
       <td>CA</td>
       <td>SIERRA</td>
       <td>39.47266231</td>
@@ -3344,8 +3346,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KS1455</td>
       <td>SACRAMENTO RENO AIRWAY BCN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KS1455">KS1455</a></td>
       <td>CA</td>
       <td>NEVADA</td>
       <td>39.32181294</td>
@@ -3363,8 +3365,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         7/2016). Reported by Brian Lee.</td>
     </tr>
     <tr>
-      <td>KS1461</td>
       <td>SACRAMENTO RENO AIRWAY BCN 14A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KS1461">KS1461</a></td>
       <td>CA</td>
       <td>PLACER</td>
       <td>39.30850379</td>
@@ -3380,8 +3382,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KS1479</td>
       <td>SACRAMENTO RENO AIRWAY BCN 11B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KS1479">KS1479</a></td>
       <td>CA</td>
       <td>PLACER</td>
       <td>39.10485608</td>
@@ -3397,8 +3399,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KT1797</td>
       <td>SAN FRANCIS SEATTLE AWY BN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KT1797">KT1797</a></td>
       <td>CA</td>
       <td>GLENN</td>
       <td>39.79702696</td>
@@ -3414,8 +3416,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KT1803</td>
       <td>SAN FRANCIS SEATTLE AWY BN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KT1803">KT1803</a></td>
       <td>CA</td>
       <td>TEHAMA</td>
       <td>39.94251333</td>
@@ -3431,8 +3433,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KT1811</td>
       <td>SAN FRANCIS SEATTLE AWY BN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KT1811">KT1811</a></td>
       <td>CA</td>
       <td>GLENN</td>
       <td>39.52404316</td>
@@ -3448,8 +3450,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KT1818</td>
       <td>SAN FRANCIS SEATTLE AWY BN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KT1818">KT1818</a></td>
       <td>CA</td>
       <td>GLENN</td>
       <td>39.68211812</td>
@@ -3465,8 +3467,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KT1836</td>
       <td>SAN FRANCISCO SEATTLE AIRWAY BEACON 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KT1836">KT1836</a></td>
       <td>CA</td>
       <td>COLUSA</td>
       <td>39.37778728</td>
@@ -3482,8 +3484,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KT1851</td>
       <td>SAN FRANCIS SEATTLE AWY BN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KT1851">KT1851</a></td>
       <td>CA</td>
       <td>COLUSA</td>
       <td>39.10105606</td>
@@ -3499,8 +3501,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KT1853</td>
       <td>SAN FRANCIS SEATTLE AWY BN 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KT1853">KT1853</a></td>
       <td>CA</td>
       <td>COLUSA</td>
       <td>39.21853178</td>
@@ -3516,8 +3518,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LU1914</td>
       <td>SAN FRANCISCO SEATTL AWY BN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LU1914">LU1914</a></td>
       <td>CA</td>
       <td>SHASTA</td>
       <td>40.73274725</td>
@@ -3533,8 +3535,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LU1921</td>
       <td>SAN FRANCISCO SEATTL AWY BN 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LU1921">LU1921</a></td>
       <td>CA</td>
       <td>SHASTA</td>
       <td>40.57766717</td>
@@ -3550,8 +3552,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LU1940</td>
       <td>SAN FRANCISCO SEATTL AWY BN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LU1940">LU1940</a></td>
       <td>CA</td>
       <td>SHASTA</td>
       <td>40.98461016</td>
@@ -3567,8 +3569,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LU1964</td>
       <td>SAN FRANCISCO SEATTL AWY BN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LU1964">LU1964</a></td>
       <td>CA</td>
       <td>TEHAMA</td>
       <td>40.15713088</td>
@@ -3584,8 +3586,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LU1995</td>
       <td>SAN FRANCISCO SEATTL AWY BN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LU1995">LU1995</a></td>
       <td>CA</td>
       <td>SHASTA</td>
       <td>40.44689635</td>
@@ -3601,8 +3603,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LU2004</td>
       <td>SAN FRANCISCO SEATTL AWY BN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LU2004">LU2004</a></td>
       <td>CA</td>
       <td>TEHAMA</td>
       <td>40.27753285</td>
@@ -3618,8 +3620,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MX1005</td>
       <td>SEATTLE SAN FRAN AIRWAY BCN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MX1005">MX1005</a></td>
       <td>CA</td>
       <td>SISKIYOU</td>
       <td>41.54772567</td>
@@ -3635,8 +3637,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Destroyed, as of 5/14/2014. Reported by Tom J.</td>
     </tr>
     <tr>
-      <td>MX1020</td>
       <td>SEATTLE SAN FRAN AIRWAY BN 25A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MX1020">MX1020</a></td>
       <td>CA</td>
       <td>SISKIYOU</td>
       <td>41.22484398</td>
@@ -3652,8 +3654,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MX1027</td>
       <td>SEATTLE SAN FRAN AIRWAY BCN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MX1027">MX1027</a></td>
       <td>CA</td>
       <td>SHASTA</td>
       <td>41.09090337</td>
@@ -3669,8 +3671,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MX1044</td>
       <td>SEATTLE SAN FRAN AIRWAY BCN 26</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MX1044">MX1044</a></td>
       <td>CA</td>
       <td>SISKIYOU</td>
       <td>41.38636215</td>
@@ -3686,8 +3688,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MX1086</td>
       <td>SEATTLE SAN FRAN AIRWAY BCN 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MX1086">MX1086</a></td>
       <td>CA</td>
       <td>SISKIYOU</td>
       <td>41.85771703</td>
@@ -3706,8 +3708,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         The red cans and jar are the hikers register. Reported 7/15/2019 by Andy Martin.</td>
     </tr>
     <tr>
-      <td>MX1095</td>
       <td>SEATTLE SAN FRAN AIRWAY BCN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MX1095">MX1095</a></td>
       <td>CA</td>
       <td>SISKIYOU</td>
       <td>41.72845584</td>
@@ -3723,8 +3725,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon site on Continental Divide Trail near Rollins Pass, CO</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>CO</td>
       <td>GILPIN</td>
       <td>39.917414</td>
@@ -3744,8 +3746,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td>HK0432</td>
       <td>EL PASO PUEBLO AWY BCN 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HK0432">HK0432</a></td>
       <td>CO</td>
       <td>LAS ANIMAS</td>
       <td>37.53303594</td>
@@ -3761,8 +3763,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HK0437</td>
       <td>DENVER ALBUQUERQUE AWY BCN 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HK0437">HK0437</a></td>
       <td>CO</td>
       <td>HUERFANO</td>
       <td>37.77122839</td>
@@ -3778,8 +3780,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HK0440</td>
       <td>EL PASO PUEBLO AWY BCN 45</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HK0440">HK0440</a></td>
       <td>CO</td>
       <td>LAS ANIMAS</td>
       <td>37.03746431</td>
@@ -3795,8 +3797,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon intact, as of 9/3/2013. Reported by Louis McGinnis.</td>
     </tr>
     <tr>
-      <td>JK1093</td>
       <td>DENVER ALBUQUERQUE AWY BCN 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JK1093">JK1093</a></td>
       <td>CO</td>
       <td>PUEBLO</td>
       <td>38.40062723</td>
@@ -3812,8 +3814,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JK1124</td>
       <td>DENVER ALBUQUERQUE AWY BCN 52</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JK1124">JK1124</a></td>
       <td>CO</td>
       <td>PUEBLO</td>
       <td>38.02577726</td>
@@ -3829,8 +3831,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JK1181</td>
       <td>DENVER ALBUQUERQUE AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JK1181">JK1181</a></td>
       <td>CO</td>
       <td>EL PASO</td>
       <td>38.69001358</td>
@@ -3846,8 +3848,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JK1199</td>
       <td>PUEBLO CHEYENNE AIRWAY BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JK1199">JK1199</a></td>
       <td>CO</td>
       <td>EL PASO</td>
       <td>38.99167984</td>
@@ -3863,8 +3865,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KK1650</td>
       <td>PUEBLO CHEYENNE AIRWAY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KK1650">KK1650</a></td>
       <td>CO</td>
       <td>EL PASO</td>
       <td>39.12272471</td>
@@ -3880,8 +3882,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KL0620</td>
       <td>LOS ANGELES DENVER AWY BCN 79</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KL0620">KL0620</a></td>
       <td>CO</td>
       <td>SUMMIT</td>
       <td>39.92803123</td>
@@ -3897,8 +3899,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KL0666</td>
       <td>LOS ANGELES DENVER AWY BCN 76A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KL0666">KL0666</a></td>
       <td>CO</td>
       <td>EAGLE</td>
       <td>39.73964285</td>
@@ -3914,8 +3916,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KL0699</td>
       <td>LOS ANGELES DENVER AWY BCN 73</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KL0699">KL0699</a></td>
       <td>CO</td>
       <td>GARFIELD</td>
       <td>39.42263092</td>
@@ -3931,8 +3933,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Tower intact, as of 4/2015. Reported 4/17/2017 by Brian Lee.</td>
     </tr>
     <tr>
-      <td>LL1223</td>
       <td>PUEBLO CHEYENNE AIRWAY BCN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LL1223">LL1223</a></td>
       <td>CO</td>
       <td>WELD</td>
       <td>40.39701853</td>
@@ -3950,8 +3952,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Allina Condie on 6/5/2018.</td>
     </tr>
     <tr>
-      <td>LL1245</td>
       <td>BEACON 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LL1245">LL1245</a></td>
       <td>CO</td>
       <td>WELD</td>
       <td>40.37820563</td>
@@ -3967,8 +3969,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LL1260</td>
       <td>PUEBLO CHEYENNE AIRWAY BCN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LL1260">LL1260</a></td>
       <td>CO</td>
       <td>WELD</td>
       <td>40.58129056</td>
@@ -3984,8 +3986,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LL1264</td>
       <td>PUEBLO CHEYENNE AIRWAY BCN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LL1264">LL1264</a></td>
       <td>CO</td>
       <td>WELD</td>
       <td>40.70452094</td>
@@ -4001,8 +4003,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LL1272</td>
       <td>PUEBLO CHEYENNE AIRWAY BCN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LL1272">LL1272</a></td>
       <td>CO</td>
       <td>WELD</td>
       <td>40.98976294</td>
@@ -4018,8 +4020,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LL1277</td>
       <td>PUEBLO CHEYENNE AIRWAY BCN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LL1277">LL1277</a></td>
       <td>CO</td>
       <td>WELD</td>
       <td>40.8263928</td>
@@ -4035,8 +4037,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LD0778</td>
       <td>KANSAS CITY CHICAGO AIR BCN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LD0778">LD0778</a></td>
       <td>IA</td>
       <td> </td>
       <td>40.78559236</td>
@@ -4052,8 +4054,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MG0890</td>
       <td>OMAHA CHI AWY BN SE OF WINDHAM</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MG0890">MG0890</a></td>
       <td>IA</td>
       <td>JOHNSON</td>
       <td>41.58512674</td>
@@ -4069,8 +4071,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MG0901</td>
       <td>OMAHA CHI AWY BCN E OF PARNELL</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MG0901">MG0901</a></td>
       <td>IA</td>
       <td>IOWA</td>
       <td>41.58320642</td>
@@ -4086,8 +4088,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MH0459</td>
       <td>AIR BEACON 1 MI W OF MARENGO</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MH0459">MH0459</a></td>
       <td>IA</td>
       <td>IOWA</td>
       <td>41.78201071</td>
@@ -4103,8 +4105,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MH0470</td>
       <td>OMAHA AWY BCN WSW MILLERSBURG</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MH0470">MH0470</a></td>
       <td>IA</td>
       <td>IOWA</td>
       <td>41.57146397</td>
@@ -4120,8 +4122,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MH0617</td>
       <td>COLFAX AEROPLANE BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MH0617">MH0617</a></td>
       <td>IA</td>
       <td>JASPER</td>
       <td>41.68091078</td>
@@ -4140,8 +4142,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         concrete base into their garage.</td>
     </tr>
     <tr>
-      <td>MJ1097</td>
       <td>STUART OMAHA CHICAGO AIR BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1097">MJ1097</a></td>
       <td>IA</td>
       <td>ADAIR</td>
       <td>41.46067009</td>
@@ -4157,8 +4159,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1099</td>
       <td>CASEY OMAHA CHICAGO AIR BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1099">MJ1099</a></td>
       <td>IA</td>
       <td>ADAIR</td>
       <td>41.44360865</td>
@@ -4174,8 +4176,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1104</td>
       <td>ADAIR OMAHA CHICAGO AIR BCN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1104">MJ1104</a></td>
       <td>IA</td>
       <td>ADAIR</td>
       <td>41.48920481</td>
@@ -4191,8 +4193,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1112</td>
       <td>ANITA OMAHA CHICAGO AIR BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1112">MJ1112</a></td>
       <td>IA</td>
       <td>CASS</td>
       <td>41.41382735</td>
@@ -4208,8 +4210,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1181</td>
       <td>ATLANTIC OMAHA CHICAGO BCN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1181">MJ1181</a></td>
       <td>IA</td>
       <td>CASS</td>
       <td>41.40405646</td>
@@ -4225,8 +4227,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1203</td>
       <td>AIRWAY BEACON 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1203">MJ1203</a></td>
       <td>IA</td>
       <td>POTTAWATTAMIE</td>
       <td>41.32553056</td>
@@ -4242,8 +4244,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1247</td>
       <td>OMAHA DES MOINES GRN 3 AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1247">MJ1247</a></td>
       <td>IA</td>
       <td>POTTAWATTAMIE</td>
       <td>41.30314041</td>
@@ -4259,8 +4261,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1250</td>
       <td>AIRWAY BEACON 0</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1250">MJ1250</a></td>
       <td>IA</td>
       <td>POTTAWATTAMIE</td>
       <td>41.28863597</td>
@@ -4276,8 +4278,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MK1834</td>
       <td>OMAHA/SIOUX FALLS AMBER 4 BN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MK1834">MK1834</a></td>
       <td>IA</td>
       <td>HARRISON</td>
       <td>41.61882021</td>
@@ -4293,8 +4295,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NM1646</td>
       <td>OMAHA/BISMARCK AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NM1646">NM1646</a></td>
       <td>IA</td>
       <td>PLYMOUTH</td>
       <td>42.60571418</td>
@@ -4310,8 +4312,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NM1663</td>
       <td>OMAHA SIOUX FALLS AMB 4 BN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NM1663">NM1663</a></td>
       <td>IA</td>
       <td>MONONA</td>
       <td>42.03358901</td>
@@ -4327,8 +4329,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NM1666</td>
       <td>OMAHA/SIOUX FALLS AMB 4 AWY 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NM1666">NM1666</a></td>
       <td>IA</td>
       <td>WOODBURY</td>
       <td>42.24330331</td>
@@ -4344,8 +4346,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NM1708</td>
       <td>OMAHA BISMARCK AIRWAY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NM1708">NM1708</a></td>
       <td>IA</td>
       <td>PLYMOUTH</td>
       <td>42.82261802</td>
@@ -4361,8 +4363,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>ON0841</td>
       <td>AVIATION BEACON NEAR LEE MON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=ON0841">ON0841</a></td>
       <td>IA</td>
       <td>ALLAMAKEE</td>
       <td>43.49638351</td>
@@ -4378,8 +4380,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OY0788</td>
       <td>AIR RM 1 near Hamer, ID</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OY0788">OY0788</a></td>
       <td>ID</td>
       <td>JEFFERSON</td>
       <td>43.96237975</td>
@@ -4396,8 +4398,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Kaarin Englemann.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow southeast of Boise, ID</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>ID</td>
       <td>ELMORE</td>
       <td>43.365891</td>
@@ -4418,8 +4420,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Regina Road on private property. Reported by Glen Smallwood.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon tower at Malad City Airport, ID</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>ID</td>
       <td>ONEIDA</td>
       <td>42.16628</td>
@@ -4438,8 +4440,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         beacon and generator shed remaining, as of 10/15/2016. Reported by Kaarin Englemann.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon tower SW of Canyon, ID</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>ID</td>
       <td></td>
       <td>47.570209</td>
@@ -4457,8 +4459,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         tower as 4-LEGGED STEEL STRUCTURE 85 FEET HIGH - JKG] Reported 6/22/2020 by Dustin Wise.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Destroyed/re-purposed site near Mountain Home, ID</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>ID</td>
       <td>ELMORE</td>
       <td>43.0623</td>
@@ -4480,8 +4482,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Glen Smallwood.</td>
     </tr>
     <tr>
-      <td>NT0555</td>
       <td>BEAR LK CO AIR BEA</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NT0555">NT0555</a></td>
       <td>ID</td>
       <td>BEAR LAKE</td>
       <td>42.25385904</td>
@@ -4497,8 +4499,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NU1617</td>
       <td>AIRWAY BN 14 3 MI S OF MICHAUD</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NU1617">NU1617</a></td>
       <td>ID</td>
       <td>POWER</td>
       <td>42.85603111</td>
@@ -4514,8 +4516,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NU1623</td>
       <td>AIR BEACON 12 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NU1623">NU1623</a></td>
       <td>ID</td>
       <td>POWER</td>
       <td>42.54685428</td>
@@ -4531,8 +4533,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NU1678</td>
       <td>SALT LAKE PENDLETON BCN 14 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NU1678">NU1678</a></td>
       <td>ID</td>
       <td>CASSIA</td>
       <td>42.5412971</td>
@@ -4548,8 +4550,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NU1711</td>
       <td>SALT LAKE PENDLETON BCN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NU1711">NU1711</a></td>
       <td>ID</td>
       <td>CASSIA</td>
       <td>42.41568828</td>
@@ -4565,8 +4567,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NU1740</td>
       <td>SALT LAKE PENDLETON BCN 14 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NU1740">NU1740</a></td>
       <td>ID</td>
       <td>CASSIA</td>
       <td>42.54780739</td>
@@ -4582,8 +4584,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NU1741</td>
       <td>PORTLAND SALT LAKE AWY BN 47 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NU1741">NU1741</a></td>
       <td>ID</td>
       <td>CASSIA</td>
       <td>42.54775644</td>
@@ -4599,8 +4601,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NU1758</td>
       <td>BURLEY AIRPORT BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NU1758">NU1758</a></td>
       <td>ID</td>
       <td>CASSIA</td>
       <td>42.5395361</td>
@@ -4616,8 +4618,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1008</td>
       <td>SALT LAKE PENDLETON AWY BCN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1008">NV1008</a></td>
       <td>ID</td>
       <td>JEROME</td>
       <td>42.67173889</td>
@@ -4633,8 +4635,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1010</td>
       <td>AIRWAY BEACON 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1010">NV1010</a></td>
       <td>ID</td>
       <td> </td>
       <td>42.6250618</td>
@@ -4650,8 +4652,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1025</td>
       <td>AIRWAY BEACON 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1025">NV1025</a></td>
       <td>ID</td>
       <td> </td>
       <td>42.72413661</td>
@@ -4667,8 +4669,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1072</td>
       <td>AIRWAY BEACON 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1072">NV1072</a></td>
       <td>ID</td>
       <td> </td>
       <td>42.78722587</td>
@@ -4684,8 +4686,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1108</td>
       <td>GOODING AIRPORT AIRWAY BCN 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1108">NV1108</a></td>
       <td>ID</td>
       <td>GOODING</td>
       <td>42.91528274</td>
@@ -4701,8 +4703,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1111</td>
       <td>AIRWAY BEACON 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1111">NV1111</a></td>
       <td>ID</td>
       <td> </td>
       <td>42.85110023</td>
@@ -4718,8 +4720,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1117</td>
       <td>AIRWAY BEACON 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1117">NV1117</a></td>
       <td>ID</td>
       <td>GOODING</td>
       <td>42.92508631</td>
@@ -4735,8 +4737,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1125</td>
       <td>SALT LAKE PORTLAND AWY BCN 22</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1125">NV1125</a></td>
       <td>ID</td>
       <td>GOODING</td>
       <td>42.95970999</td>
@@ -4752,8 +4754,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NV1144</td>
       <td>AIRWAY BEACON 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NV1144">NV1144</a></td>
       <td>ID</td>
       <td>ELMORE</td>
       <td>42.99129344</td>
@@ -4769,8 +4771,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OH1234</td>
       <td>AIRWAY BCN 29 8 MI SE OF BOISE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OH1234">OH1234</a></td>
       <td>ID</td>
       <td>ADA</td>
       <td>43.50343841</td>
@@ -4787,8 +4789,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Glen Smallwood.</td>
     </tr>
     <tr>
-      <td>OY0788</td>
       <td>AIR RM 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OY0788">OY0788</a></td>
       <td>ID</td>
       <td>JEFFERSON</td>
       <td>43.96237975</td>
@@ -4804,8 +4806,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OY0791</td>
       <td>POCATELLO BUTTE AWY BCN 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OY0791">OY0791</a></td>
       <td>ID</td>
       <td>JEFFERSON</td>
       <td>43.72278021</td>
@@ -4821,8 +4823,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OY0826</td>
       <td>AIRWAY BCN 18 4 MI N OF FIRTH</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OY0826">OY0826</a></td>
       <td>ID</td>
       <td>BINGHAM</td>
       <td>43.35913174</td>
@@ -4838,8 +4840,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OZ1010</td>
       <td>AIRWAY BN 23 NW OF GLENS FERRY</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OZ1010">OZ1010</a></td>
       <td>ID</td>
       <td>ELMORE</td>
       <td>43.02737654</td>
@@ -4863,8 +4865,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Glen Smallwood and Charles W. Voll.</td>
     </tr>
     <tr>
-      <td>OZ1042</td>
       <td>AIRPORT BCN MTN HOME MUN APT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OZ1042">OZ1042</a></td>
       <td>ID</td>
       <td>ELMORE</td>
       <td>43.12691802</td>
@@ -4883,8 +4885,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         appears to have been demolished when the entrance was constructed. Reported by Glen Smallwood.</td>
     </tr>
     <tr>
-      <td>OZ1045</td>
       <td>AIRWAY BN 26 10 MI NW MTN HOME</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OZ1045">OZ1045</a></td>
       <td>ID</td>
       <td>ELMORE</td>
       <td>43.24590938</td>
@@ -4901,8 +4903,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Glen Smallwood.</td>
     </tr>
     <tr>
-      <td>PZ0637</td>
       <td>AIRWAY BCN 26 2 MI E OF MONIDA</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PZ0637">PZ0637</a></td>
       <td>ID</td>
       <td>CLARK</td>
       <td>44.55861124</td>
@@ -4924,8 +4926,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Zhanna.</td>
     </tr>
     <tr>
-      <td>PZ0656</td>
       <td>POCATELLO BUTTE AWY BCN 25</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PZ0656">PZ0656</a></td>
       <td>ID</td>
       <td>CLARK</td>
       <td>44.37816917</td>
@@ -4941,8 +4943,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PZ0669</td>
       <td>POCATELLO BUTTE AWY BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PZ0669">PZ0669</a></td>
       <td>ID</td>
       <td>CLARK</td>
       <td>44.16885798</td>
@@ -4966,8 +4968,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         10/13/2015. Reported by Gerald Muller.</td>
     </tr>
     <tr>
-      <td>QB1221</td>
       <td>SALT LAKE PORTLAND AWY BCN 36</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QB1221">QB1221</a></td>
       <td>ID</td>
       <td>WASHINGTON</td>
       <td>44.32718641</td>
@@ -4983,8 +4985,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QB1302</td>
       <td>AIRWAY BCN 33 NE NEW PLYMOUTH</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QB1302">QB1302</a></td>
       <td>ID</td>
       <td>PAYETTE</td>
       <td>44.01946007</td>
@@ -5000,8 +5002,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1430</td>
       <td>GREAT FALLS SPOKANE AWY BN 29A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1430">SV1430</a></td>
       <td>ID</td>
       <td>SHOSHONE</td>
       <td>47.56125856</td>
@@ -5017,8 +5019,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1454</td>
       <td>AIRWAY BCN 28 5 MI WNW CATALDO</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1454">SV1454</a></td>
       <td>ID</td>
       <td>KOOTENAI</td>
       <td>47.67665839</td>
@@ -5034,8 +5036,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1578</td>
       <td>GREAT FALLS SPOKANE AWY BCN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1578">SV1578</a></td>
       <td>ID</td>
       <td>KOOTENAI</td>
       <td>47.58118259</td>
@@ -5051,8 +5053,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CU7047</td>
       <td>GREAT FALLS SPOKANE AWY BCN 25</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CU7047">CU7047</a></td>
       <td>ID</td>
       <td>KOOTENAI</td>
       <td>47.62228919</td>
@@ -5068,8 +5070,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HE0713</td>
       <td>TULSA KANSAS CITY AIRWAY BN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HE0713">HE0713</a></td>
       <td>KS</td>
       <td>ALLEN</td>
       <td>37.88113739</td>
@@ -5085,8 +5087,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HE0805</td>
       <td>TULSA KANSAS CITY AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HE0805">HE0805</a></td>
       <td>KS</td>
       <td>WILSON</td>
       <td>37.49306976</td>
@@ -5102,8 +5104,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HF1187</td>
       <td>AMARILLO KANSAS CITY AWY BN 33</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HF1187">HF1187</a></td>
       <td>KS</td>
       <td>BUTLER</td>
       <td>37.96114943</td>
@@ -5119,8 +5121,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HF1196</td>
       <td>AMARILLO KANSAS CITY AWY BN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HF1196">HF1196</a></td>
       <td>KS</td>
       <td>BUTLER</td>
       <td>37.89709286</td>
@@ -5136,8 +5138,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HF1203</td>
       <td>AMARILLO KANSAS CITY AWY BN 31</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HF1203">HF1203</a></td>
       <td>KS</td>
       <td>BUTLER</td>
       <td>37.79597068</td>
@@ -5153,8 +5155,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HF1245</td>
       <td>AMARILLO KANSAS CITY AWY BN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HF1245">HF1245</a></td>
       <td>KS</td>
       <td>SEDGWICK</td>
       <td>37.53460291</td>
@@ -5170,8 +5172,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HF1365</td>
       <td>AMARILLO KANSAS CITY AWY BN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HF1365">HF1365</a></td>
       <td>KS</td>
       <td>SUMNER</td>
       <td>37.44561648</td>
@@ -5187,8 +5189,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HF1373</td>
       <td>AMARILLO KANSAS CITY BCN 26</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HF1373">HF1373</a></td>
       <td>KS</td>
       <td>SUMNER</td>
       <td>37.35042423</td>
@@ -5204,8 +5206,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HF1421</td>
       <td>AMARILLO KANSAS CITY BCN 25</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HF1421">HF1421</a></td>
       <td>KS</td>
       <td>HARPER</td>
       <td>37.25501745</td>
@@ -5221,8 +5223,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HG0831</td>
       <td>AMARILLO KANSAS CITY BCN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HG0831">HG0831</a></td>
       <td>KS</td>
       <td>HARPER</td>
       <td>37.15188526</td>
@@ -5238,8 +5240,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow and beacon intact, as of 1/2/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>HG0841</td>
       <td>AMARILLO KANSAS CITY BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HG0841">HG0841</a></td>
       <td>KS</td>
       <td>HARPER</td>
       <td>37.06494684</td>
@@ -5255,8 +5257,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1625</td>
       <td>AMARILLO KANS CITY AWY BCN 44A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1625">JE1625</a></td>
       <td>KS</td>
       <td>JOHNSON</td>
       <td>38.87883033</td>
@@ -5272,8 +5274,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1633</td>
       <td>AMARILLO KANS CITY AWY BCN 43</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1633">JE1633</a></td>
       <td>KS</td>
       <td>DOUGLAS</td>
       <td>38.78737774</td>
@@ -5289,8 +5291,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1644</td>
       <td>TULSA KANSAS CITY AWY BN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1644">JE1644</a></td>
       <td>KS</td>
       <td>FRANKLIN</td>
       <td>38.58002469</td>
@@ -5306,8 +5308,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1654</td>
       <td>AMARILLO KANSAS CITY AWY BN 42</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1654">JE1654</a></td>
       <td>KS</td>
       <td>FRANKLIN</td>
       <td>38.70706338</td>
@@ -5323,8 +5325,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1673</td>
       <td>AMARILLO KANSAS CITY AWY BN 41</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1673">JE1673</a></td>
       <td>KS</td>
       <td>FRANKLIN</td>
       <td>38.62892853</td>
@@ -5340,8 +5342,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1695</td>
       <td>TULSA KANSAS CITY AWY BN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1695">JE1695</a></td>
       <td>KS</td>
       <td>ANDERSON</td>
       <td>38.33913116</td>
@@ -5357,8 +5359,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1709</td>
       <td>TULSA KANSAS CITY AWY BN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1709">JE1709</a></td>
       <td>KS</td>
       <td>ANDERSON</td>
       <td>38.10379345</td>
@@ -5374,8 +5376,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1751</td>
       <td>AMARILLO KANSAS CITY AWY BN 39</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1751">JE1751</a></td>
       <td>KS</td>
       <td>COFFEY</td>
       <td>38.43395869</td>
@@ -5391,8 +5393,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE1805</td>
       <td>AMARILLO KANSAS CITY AWY BN 40</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE1805">JE1805</a></td>
       <td>KS</td>
       <td>OSAGE</td>
       <td>38.52221035</td>
@@ -5408,8 +5410,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE2026</td>
       <td>AMARILLO KANS CITY AWY BCN 45</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE2026">JE2026</a></td>
       <td>KS</td>
       <td>JOHNSON</td>
       <td>38.9636822</td>
@@ -5425,8 +5427,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JE2042</td>
       <td>GARDNER MUN AIRPORT BEACON 44B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JE2042">JE2042</a></td>
       <td>KS</td>
       <td>JOHNSON</td>
       <td>38.81063673</td>
@@ -5442,8 +5444,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JF1410</td>
       <td>AMARILLO KANSAS CITY AWY BN 35</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JF1410">JF1410</a></td>
       <td>KS</td>
       <td>CHASE</td>
       <td>38.13012728</td>
@@ -5459,8 +5461,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JF1439</td>
       <td>AMARILLO KANSAS CITY AWY BN 34</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JF1439">JF1439</a></td>
       <td>KS</td>
       <td>BUTLER</td>
       <td>38.02789457</td>
@@ -5476,8 +5478,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1151</td>
       <td>AMARILLO KANS CITY AWY BCN 46</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1151">KE1151</a></td>
       <td>KS</td>
       <td>JOHNSON</td>
       <td>39.03896936</td>
@@ -5493,8 +5495,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1184</td>
       <td>FT LEAVENWORTH AIRPORT AWY BN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1184">KE1184</a></td>
       <td>KS</td>
       <td>LEAVENWORTH</td>
       <td>39.36945169</td>
@@ -5510,8 +5512,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NEW ORLEANS-ATLANTA AIRWAY BEACON NO. 2</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>LA</td>
       <td>ORLEANS</td>
       <td>30.166532</td>
@@ -5530,8 +5532,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Reese Patterson.</td>
     </tr>
     <tr>
-      <td>BJ4137</td>
       <td>NEW ORLEANS ST LOUIS AWY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BJ4137">BJ4137</a></td>
       <td>LA</td>
       <td>WASHINGTON</td>
       <td>30.90332489</td>
@@ -5547,8 +5549,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BJ4266</td>
       <td>SHUSHAN AIRPORT AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BJ4266">BJ4266</a></td>
       <td>LA</td>
       <td>ORLEANS</td>
       <td>30.03589324</td>
@@ -5564,8 +5566,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BJ4309</td>
       <td>HOUSTON NEW ORLEANS BCN 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BJ4309">BJ4309</a></td>
       <td>LA</td>
       <td> </td>
       <td>30.06125301</td>
@@ -5581,8 +5583,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BJ4398</td>
       <td>HOUSTON NEW ORLEANS AWY BCN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BJ4398">BJ4398</a></td>
       <td>LA</td>
       <td>ST JAMES</td>
       <td>30.07675568</td>
@@ -5598,8 +5600,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BK3111</td>
       <td>LAKE CHAR MAJESTIC HTL AWY BN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BK3111">BK3111</a></td>
       <td>LA</td>
       <td>CALCASIEU</td>
       <td>30.22788286</td>
@@ -5615,8 +5617,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CP3041</td>
       <td>FORT WORTH ATLANTA AWY BCN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CP3041">CP3041</a></td>
       <td>LA</td>
       <td>RICHLAND</td>
       <td>32.49164485</td>
@@ -5632,8 +5634,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CQ2936</td>
       <td>FORT WORTH JACKSON AWY BCN 26</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CQ2936">CQ2936</a></td>
       <td>LA</td>
       <td>LINCOLN</td>
       <td>32.54309452</td>
@@ -5649,8 +5651,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CQ2995</td>
       <td>FT WORTH ATLANTA AIRWAY BCN 25</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CQ2995">CQ2995</a></td>
       <td>LA</td>
       <td>BIENVILLE</td>
       <td>32.53141455</td>
@@ -5666,8 +5668,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CQ3025</td>
       <td>FT WORTH ATLANTA AIRWAY BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CQ3025">CQ3025</a></td>
       <td>LA</td>
       <td>WEBSTER</td>
       <td>32.53452534</td>
@@ -5683,8 +5685,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CQ3244</td>
       <td>FT WORTH ATLANTA AIRWAY BCN 22</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CQ3244">CQ3244</a></td>
       <td>LA</td>
       <td>BOSSIER</td>
       <td>32.53326258</td>
@@ -5700,8 +5702,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Indian Mounds Park Airway Beacon, St. Paul, MN</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>MN</td>
       <td>RAMSEY</td>
       <td>44.9465127</td>
@@ -5720,8 +5722,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Rautio.</td>
     </tr>
     <tr>
-      <td>ON0793</td>
       <td>AIRWAY BEACON 23 DRESBACH</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=ON0793">ON0793</a></td>
       <td>MN</td>
       <td>WINONA</td>
       <td>43.87859228</td>
@@ -5737,8 +5739,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PO0702</td>
       <td>AVIATION BEACON 25 A OLD 29 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PO0702">PO0702</a></td>
       <td>MN</td>
       <td>WINONA</td>
       <td>44.05539243</td>
@@ -5754,8 +5756,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PO0715</td>
       <td>AVIATION BEACON 26 OLD 30</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PO0715">PO0715</a></td>
       <td>MN</td>
       <td> </td>
       <td>44.17334372</td>
@@ -5771,8 +5773,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PP2198</td>
       <td>AVIATION BEACON 30 OLD 34</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PP2198">PP2198</a></td>
       <td>MN</td>
       <td>GOODHUE</td>
       <td>44.54094308</td>
@@ -5788,8 +5790,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PP2217</td>
       <td>AVIATION BCN 28 OLD 32 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PP2217">PP2217</a></td>
       <td>MN</td>
       <td> </td>
       <td>44.39928008</td>
@@ -5805,8 +5807,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PP2301</td>
       <td>AVIATION BCN 29 OLD 33</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PP2301">PP2301</a></td>
       <td>MN</td>
       <td>WABASHA</td>
       <td>44.42722477</td>
@@ -5822,8 +5824,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PP2470</td>
       <td>AVIATION BEACON 33 OLD 37</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PP2470">PP2470</a></td>
       <td>MN</td>
       <td>WASHINGTON</td>
       <td>44.81890091</td>
@@ -5845,8 +5847,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         an artifact nor a sign of damage. It was built that way. Reported 10/29/2019 by Don Butner.</td>
     </tr>
     <tr>
-      <td>RP0918</td>
       <td>HELENA TWIN CITIES AWY BCN 81</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RP0918">RP0918</a></td>
       <td>MN</td>
       <td>OTTER TAIL</td>
       <td>46.54406389</td>
@@ -5862,8 +5864,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RP0931</td>
       <td>HELENA TWIN CITIES AWY BCN 79</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RP0931">RP0931</a></td>
       <td>MN</td>
       <td>CLAY</td>
       <td>46.65228011</td>
@@ -5879,8 +5881,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RP0948</td>
       <td>HELENA TWIN CITIES AWY BN 82 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RP0948">RP0948</a></td>
       <td>MN</td>
       <td>OTTER TAIL</td>
       <td>46.41657563</td>
@@ -5896,8 +5898,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon #9, northeast of Tarkio, MO</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>MO</td>
       <td>ATCHISON</td>
       <td>40.335292</td>
@@ -5915,8 +5917,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         as of 4/18/2016. Reported by Sam Graves.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon #10, northeast of Tarkio, MO</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>MO</td>
       <td>ATCHISON</td>
       <td>40.451808</td>
@@ -5935,8 +5937,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Graves.</td>
     </tr>
     <tr>
-      <td>GD1843</td>
       <td>MEMPHIS ST LOUIS AIRWAY BCN 45</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GD1843">GD1843</a></td>
       <td>MO</td>
       <td>DUNKLIN</td>
       <td>36.60795831</td>
@@ -5952,8 +5954,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GD1859</td>
       <td>MEMPHIS ST LOUIS AIRWAY BCN 46</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GD1859">GD1859</a></td>
       <td>MO</td>
       <td>STODDARD</td>
       <td>36.8305627</td>
@@ -5969,8 +5971,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GD1862</td>
       <td>MEMPHIS ST LOUIS AIRWAY BCN 47</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GD1862">GD1862</a></td>
       <td>MO</td>
       <td>STODDARD</td>
       <td>36.99109476</td>
@@ -5986,8 +5988,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GG0537</td>
       <td>AMARILLO ST LOUIS AWY BCN 45</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GG0537">GG0537</a></td>
       <td>MO</td>
       <td>LAWRENCE</td>
       <td>36.95009832</td>
@@ -6003,8 +6005,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GG0571</td>
       <td>AMARILLO ST LOUIS AWY BCN 44</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GG0571">GG0571</a></td>
       <td>MO</td>
       <td>NEWTON</td>
       <td>36.85190201</td>
@@ -6020,8 +6022,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GG0582</td>
       <td>AMARILLO ST LOUIS AWY BCN 43A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GG0582">GG0582</a></td>
       <td>MO</td>
       <td>NEWTON</td>
       <td>36.78431976</td>
@@ -6037,8 +6039,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GG0586</td>
       <td>AMARILLO ST LOUIS AWY BCN 43B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GG0586">GG0586</a></td>
       <td>MO</td>
       <td>NEWTON</td>
       <td>36.85085054</td>
@@ -6054,8 +6056,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HB1750</td>
       <td>MEMPHIS ST LOUIS AWY BEACON 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HB1750">HB1750</a></td>
       <td>MO</td>
       <td>STODDARD</td>
       <td>37.10621096</td>
@@ -6071,8 +6073,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HB1751</td>
       <td>MEMPHIS ST LOUIS AWY BEACON 49</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HB1751">HB1751</a></td>
       <td>MO</td>
       <td>BOLLINGER</td>
       <td>37.19409777</td>
@@ -6088,8 +6090,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HB1758</td>
       <td>MEMPHIS ST LOUIS AWY BEACON 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HB1758">HB1758</a></td>
       <td>MO</td>
       <td>BOLLINGER</td>
       <td>37.40241468</td>
@@ -6105,8 +6107,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HB1772</td>
       <td>MEMPHIS ST LOUIS AWY BEACON 52</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HB1772">HB1772</a></td>
       <td>MO</td>
       <td>BOLLINGER</td>
       <td>37.58878416</td>
@@ -6122,8 +6124,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HB1775</td>
       <td>MEMPHIS ST LOUIS AWY BEACON 53</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HB1775">HB1775</a></td>
       <td>MO</td>
       <td>PERRY</td>
       <td>37.732522</td>
@@ -6139,8 +6141,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HB1787</td>
       <td>MEMPHIS ST LOUIS AWY BEACON 54</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HB1787">HB1787</a></td>
       <td>MO</td>
       <td>PERRY</td>
       <td>37.80465596</td>
@@ -6156,8 +6158,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HC0903</td>
       <td>TULSA ST LOUIS AWY BCN 59</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HC0903">HC0903</a></td>
       <td>MO</td>
       <td>PHELPS</td>
       <td>37.92998366</td>
@@ -6173,8 +6175,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HC0909</td>
       <td>MEMPHIS ST LOUIS AWY BCN 55</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HC0909">HC0909</a></td>
       <td>MO</td>
       <td>STE GENEVIEVE</td>
       <td>37.9894749</td>
@@ -6190,8 +6192,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HC0940</td>
       <td>AIRPORT BCN FARMINGTON MUN APT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HC0940">HC0940</a></td>
       <td>MO</td>
       <td>ST FRANCOIS</td>
       <td>37.77640449</td>
@@ -6207,8 +6209,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1036</td>
       <td>TULSA ST LOUIS AIRWAY BCN 57</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1036">HD1036</a></td>
       <td>MO</td>
       <td>PULASKI</td>
       <td>37.8199895</td>
@@ -6224,8 +6226,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1072</td>
       <td>TULSA ST LOUIS AWY BCN 56</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1072">HD1072</a></td>
       <td>MO</td>
       <td>LACLEDE</td>
       <td>37.6791527</td>
@@ -6241,8 +6243,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1073</td>
       <td>BEACON 56 PP BUILDING NORTH COR</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1073">HD1073</a></td>
       <td>MO</td>
       <td>LACLEDE</td>
       <td>37.67913714</td>
@@ -6258,8 +6260,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1176</td>
       <td>AMARILLO ST LOUIS AWY BCN 53</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1176">HD1176</a></td>
       <td>MO</td>
       <td>WEBSTER</td>
       <td>37.46545847</td>
@@ -6275,8 +6277,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1199</td>
       <td>TULSA ST LOUIS AWY BCN 54A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1199">HD1199</a></td>
       <td>MO</td>
       <td>LACLEDE</td>
       <td>37.57212138</td>
@@ -6292,8 +6294,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1207</td>
       <td>TULSA ST LOUIS AWY BCN 54B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1207">HD1207</a></td>
       <td>MO</td>
       <td>LACLEDE</td>
       <td>37.65106728</td>
@@ -6309,8 +6311,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1309</td>
       <td>SPRINGFIELD MUN APT W AWY TWR</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1309">HD1309</a></td>
       <td>MO</td>
       <td>GREENE</td>
       <td>37.24439459</td>
@@ -6326,8 +6328,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1317</td>
       <td>SPRINGFIELD MUN APT SE AWY TWR</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1317">HD1317</a></td>
       <td>MO</td>
       <td>GREENE</td>
       <td>37.24439612</td>
@@ -6343,8 +6345,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HD1319</td>
       <td>SPRINGFIELD MUN APT N AWY TWR</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HD1319">HD1319</a></td>
       <td>MO</td>
       <td>GREENE</td>
       <td>37.24461808</td>
@@ -6360,8 +6362,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JC1461</td>
       <td>AIRWAY BCN 64 6 MI S BEAUFORT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JC1461">JC1461</a></td>
       <td>MO</td>
       <td>FRANKLIN</td>
       <td>38.3324364</td>
@@ -6377,8 +6379,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JC1509</td>
       <td>TULSA ST LOUIS AIRWAY BCN 61</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JC1509">JC1509</a></td>
       <td>MO</td>
       <td>GASCONADE</td>
       <td>38.12240755</td>
@@ -6394,8 +6396,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JC1538</td>
       <td>KANSAS CITY ST LOUIS AWY BN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JC1538">JC1538</a></td>
       <td>MO</td>
       <td>CALLAWAY</td>
       <td>38.91250736</td>
@@ -6411,8 +6413,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JC1568</td>
       <td>KANSAS CITY ST LOUIS AWY BN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JC1568">JC1568</a></td>
       <td>MO</td>
       <td>CALLAWAY</td>
       <td>38.93719186</td>
@@ -6428,8 +6430,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JD2464</td>
       <td>KANSAS CITY ST LOUIS AWY BN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JD2464">JD2464</a></td>
       <td>MO</td>
       <td>CALLAWAY</td>
       <td>38.951014</td>
@@ -6445,8 +6447,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JD2500</td>
       <td>KANSAS CITY ST LOUIS AWY BN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JD2500">JD2500</a></td>
       <td>MO</td>
       <td>BOONE</td>
       <td>38.9678109</td>
@@ -6462,8 +6464,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1095</td>
       <td>KANSAS CITY ST LOUIS AWY BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1095">KD1095</a></td>
       <td>MO</td>
       <td>COOPER</td>
       <td>39.02290811</td>
@@ -6479,8 +6481,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1139</td>
       <td>KANSAS CITY CHICAGO AWY BN 10B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1139">KD1139</a></td>
       <td>MO</td>
       <td>LINN</td>
       <td>39.95066706</td>
@@ -6496,8 +6498,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1145</td>
       <td>KANSAS CITY CHICAGO AWY BN 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1145">KD1145</a></td>
       <td>MO</td>
       <td>LINN</td>
       <td>39.89791185</td>
@@ -6513,8 +6515,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1173</td>
       <td>KANSAS CITY CHICAGO AWY BN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1173">KD1173</a></td>
       <td>MO</td>
       <td>LIVINGSTON</td>
       <td>39.65909776</td>
@@ -6530,8 +6532,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1178</td>
       <td>KANSAS CITY CHICAGO AWY BN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1178">KD1178</a></td>
       <td>MO</td>
       <td>LINN</td>
       <td>39.76106314</td>
@@ -6547,8 +6549,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1181</td>
       <td>KANSAS CITY CHICAGO AWY BN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1181">KD1181</a></td>
       <td>MO</td>
       <td>LIVINGSTON</td>
       <td>39.77993461</td>
@@ -6564,8 +6566,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1201</td>
       <td>KANSAS CITY ST LOUIS AWY BN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1201">KD1201</a></td>
       <td>MO</td>
       <td>SALINE</td>
       <td>39.09414314</td>
@@ -6581,8 +6583,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1210</td>
       <td>KANSAS CITY ST LOUIS AWY BN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1210">KD1210</a></td>
       <td>MO</td>
       <td>SALINE</td>
       <td>39.08148225</td>
@@ -6598,8 +6600,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1243</td>
       <td>KANSAS CITY ST LOUIS AWY BN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1243">KD1243</a></td>
       <td>MO</td>
       <td>LAFAYETTE</td>
       <td>39.09512278</td>
@@ -6615,8 +6617,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1244</td>
       <td>KANSAS CITY ST LOUIS AWY BCN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1244">KD1244</a></td>
       <td>MO</td>
       <td>LAFAYETTE</td>
       <td>39.10445251</td>
@@ -6632,8 +6634,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1264</td>
       <td>KANSAS CITY ST LOUIS AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1264">KD1264</a></td>
       <td>MO</td>
       <td>LAFAYETTE</td>
       <td>39.11812177</td>
@@ -6649,8 +6651,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KD1295</td>
       <td>KANSAS CITY CHICAGO AWY BN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KD1295">KD1295</a></td>
       <td>MO</td>
       <td>CARROLL</td>
       <td>39.53872221</td>
@@ -6666,8 +6668,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1311</td>
       <td>KANSAS C MINNEAPOLIS AWY BN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1311">KE1311</a></td>
       <td>MO</td>
       <td>DE KALB</td>
       <td>39.765156</td>
@@ -6683,8 +6685,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1317</td>
       <td>KANSAS CITY CHICAGO AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1317">KE1317</a></td>
       <td>MO</td>
       <td>RAY</td>
       <td>39.42495823</td>
@@ -6700,8 +6702,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1321</td>
       <td>KANSAS CITY CHICAGO AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1321">KE1321</a></td>
       <td>MO</td>
       <td>RAY</td>
       <td>39.33759577</td>
@@ -6717,8 +6719,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1346</td>
       <td>KANSAS CITY ST LOUIS AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1346">KE1346</a></td>
       <td>MO</td>
       <td>JACKSON</td>
       <td>39.12751797</td>
@@ -6734,8 +6736,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1378</td>
       <td>KANSAS CITY ST LOUIS AWY BCN 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1378">KE1378</a></td>
       <td>MO</td>
       <td>JACKSON</td>
       <td>39.12024856</td>
@@ -6751,8 +6753,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1397</td>
       <td>KANSAS CITY CHICAGO AWY BCN 0</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1397">KE1397</a></td>
       <td>MO</td>
       <td>CLAY</td>
       <td>39.17746664</td>
@@ -6768,8 +6770,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1412</td>
       <td>KANSAS CITY CHICAGO AWY BCN 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1412">KE1412</a></td>
       <td>MO</td>
       <td>CLAY</td>
       <td>39.26518074</td>
@@ -6785,8 +6787,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1426</td>
       <td>KANSAS CITY OMAHA AWY BCN 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1426">KE1426</a></td>
       <td>MO</td>
       <td>PLATTE</td>
       <td>39.31036308</td>
@@ -6802,8 +6804,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1430</td>
       <td>KANSAS CITY OMAHA AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1430">KE1430</a></td>
       <td>MO</td>
       <td>PLATTE</td>
       <td>39.45957936</td>
@@ -6819,8 +6821,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1528</td>
       <td>KANSAS CITY OMAHA AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1528">KE1528</a></td>
       <td>MO</td>
       <td>BUCHANAN</td>
       <td>39.60147618</td>
@@ -6836,8 +6838,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1547</td>
       <td>ST JOSEPH MUN AIRPORT AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1547">KE1547</a></td>
       <td>MO</td>
       <td>BUCHANAN</td>
       <td>39.77674529</td>
@@ -6853,8 +6855,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KE1557</td>
       <td>AMBER AIRWAY 4 BEACON 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KE1557">KE1557</a></td>
       <td>MO</td>
       <td>ANDREW</td>
       <td>39.91843664</td>
@@ -6870,8 +6872,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LD0853</td>
       <td>KANSAS CITY CHICAGO AWY BCN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LD0853">LD0853</a></td>
       <td>MO</td>
       <td>CLARK</td>
       <td>40.44437778</td>
@@ -6887,8 +6889,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LD0871</td>
       <td>KANSAS CITY CHICAGO AWY BN 18A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LD0871">LD0871</a></td>
       <td>MO</td>
       <td>CLARK</td>
       <td>40.52155001</td>
@@ -6904,8 +6906,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LE0452</td>
       <td>KANSAS CITY CHICAGO AWY BN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LE0452">LE0452</a></td>
       <td>MO</td>
       <td>SCOTLAND</td>
       <td>40.35090495</td>
@@ -6921,8 +6923,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LE0454</td>
       <td>KANSAS CITY CHICAGO AWY BN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LE0454">LE0454</a></td>
       <td>MO</td>
       <td>KNOX</td>
       <td>40.25545674</td>
@@ -6938,8 +6940,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LE0471</td>
       <td>KANSAS CITY CHICAGO AWY BN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LE0471">LE0471</a></td>
       <td>MO</td>
       <td>ADAIR</td>
       <td>40.16947059</td>
@@ -6955,8 +6957,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LE0485</td>
       <td>KANSAS CITY CHICAGO AWY BN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LE0485">LE0485</a></td>
       <td>MO</td>
       <td>ADAIR</td>
       <td>40.10251912</td>
@@ -6972,8 +6974,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LE0493</td>
       <td>KANSAS CITY CHICAGO AWY BN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LE0493">LE0493</a></td>
       <td>MO</td>
       <td>MACON</td>
       <td>40.02805556</td>
@@ -6989,8 +6991,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LF1332</td>
       <td>AMBER AIRWAY 4 BEACON 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LF1332">LF1332</a></td>
       <td>MO</td>
       <td>HOLT</td>
       <td>40.10097392</td>
@@ -7006,8 +7008,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LF1340</td>
       <td>AMBER AIRWAY 4 BEACON 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LF1340">LF1340</a></td>
       <td>MO</td>
       <td>HOLT</td>
       <td>40.21145936</td>
@@ -7023,8 +7025,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon tower N of Bozeman, MT</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>MT</td>
       <td>BROADWATER</td>
       <td>46.54</td>
@@ -7043,8 +7045,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         8/15/2017.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon tower W of Helena, MT</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>MT</td>
       <td>LEWIS AND CLARK</td>
       <td>46.55622</td>
@@ -7062,8 +7064,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Chart. ( - - . ) 49 points to Beacon 47 Garrison (- . . ) and KHLN. Reported by Dan on 8/15/2017.</td>
     </tr>
     <tr>
-      <td>QV0342</td>
       <td>AIRWAY BCN 34 10 MI NW WYOLA</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QV0342">QV0342</a></td>
       <td>MT</td>
       <td>BIG HORN</td>
       <td>45.19708729</td>
@@ -7079,8 +7081,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QW0514</td>
       <td>BILLINGS B AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QW0514">QW0514</a></td>
       <td>MT</td>
       <td>YELLOWSTONE</td>
       <td>45.63094416</td>
@@ -7096,8 +7098,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QW0577</td>
       <td>CANYON CREEK B AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QW0577">QW0577</a></td>
       <td>MT</td>
       <td>STILLWATER</td>
       <td>45.76985694</td>
@@ -7113,8 +7115,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QW0634</td>
       <td>LIVINGSTON BILLINGS AWY BN 13B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QW0634">QW0634</a></td>
       <td>MT</td>
       <td>SWEET GRASS</td>
       <td>45.74049238</td>
@@ -7130,8 +7132,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QW0640</td>
       <td>LIVINGSTON BILLINGS AWY BN 13A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QW0640">QW0640</a></td>
       <td>MT</td>
       <td>SWEET GRASS</td>
       <td>45.81100836</td>
@@ -7147,8 +7149,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QX0657</td>
       <td>LIVINGSTON BILLINGS AWY BCN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QX0657">QX0657</a></td>
       <td>MT</td>
       <td>SWEET GRASS</td>
       <td>45.72826697</td>
@@ -7164,8 +7166,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QX0728</td>
       <td>LIVINGSTON MUN AIRPORT BCN 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QX0728">QX0728</a></td>
       <td>MT</td>
       <td>PARK</td>
       <td>45.66624172</td>
@@ -7181,8 +7183,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QY0497</td>
       <td>AIRWAY BCN 34 NNE TWIN BRIDGES</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QY0497">QY0497</a></td>
       <td>MT</td>
       <td>MADISON</td>
       <td>45.62264004</td>
@@ -7198,8 +7200,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QY0505</td>
       <td>AIRWAY BN 36F 8 MI SE OF BUTTE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QY0505">QY0505</a></td>
       <td>MT</td>
       <td>SILVER BOW</td>
       <td>45.90822344</td>
@@ -7215,8 +7217,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QY0516</td>
       <td>AIRWAY BCN 32 DILLON MUN APT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QY0516">QY0516</a></td>
       <td>MT</td>
       <td>BEAVERHEAD</td>
       <td>45.25255931</td>
@@ -7232,8 +7234,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Tower and power shed intact, as of 1/10/2015. Reported by Zhanna.</td>
     </tr>
     <tr>
-      <td>QY0531</td>
       <td>AIRWAY BCN 30 10 MI SSW DILLON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QY0531">QY0531</a></td>
       <td>MT</td>
       <td>BEAVERHEAD</td>
       <td>45.07029537</td>
@@ -7249,8 +7251,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Tower intact, as of 1/10/2015. Reported by Zhanna.</td>
     </tr>
     <tr>
-      <td>RT0481</td>
       <td>BILLINGS BISMARCK AWY BCN 38</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RT0481">RT0481</a></td>
       <td>MT</td>
       <td>PRAIRIE</td>
       <td>46.65666892</td>
@@ -7266,8 +7268,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RT0485</td>
       <td>BILLINGS BISMARCK AWY BCN 37</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RT0485">RT0485</a></td>
       <td>MT</td>
       <td>PRAIRIE</td>
       <td>46.59939669</td>
@@ -7283,8 +7285,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RV0735</td>
       <td>GREAT FALLS BILLINGS AWY BN 46</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RV0735">RV0735</a></td>
       <td>MT</td>
       <td>GOLDEN VALLEY</td>
       <td>46.53374574</td>
@@ -7300,8 +7302,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RV0737</td>
       <td>GREAT FALLS BILLINGS AWY BN 47</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RV0737">RV0737</a></td>
       <td>MT</td>
       <td>GOLDEN VALLEY</td>
       <td>46.7271182</td>
@@ -7317,8 +7319,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RV0743</td>
       <td>GREAT FALLS BILLINGS AWY BN 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RV0743">RV0743</a></td>
       <td>MT</td>
       <td>FERGUS</td>
       <td>46.8430194</td>
@@ -7334,8 +7336,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RW0489</td>
       <td>AIRWAY BCN 43 18 MI NNE HELENA</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RW0489">RW0489</a></td>
       <td>MT</td>
       <td>LEWIS AND CLARK</td>
       <td>46.85373903</td>
@@ -7351,8 +7353,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RX0900</td>
       <td>AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RX0900">RX0900</a></td>
       <td>MT</td>
       <td>JEFFERSON</td>
       <td>46.07989217</td>
@@ -7368,8 +7370,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RX0926</td>
       <td>AIRWAY BCN B 3 NW SILVER BOW</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RX0926">RX0926</a></td>
       <td>MT</td>
       <td>SILVER BOW</td>
       <td>46.05184711</td>
@@ -7385,8 +7387,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RX0931</td>
       <td>AIRWAY BCN B 2 SSW DEER LODGE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RX0931">RX0931</a></td>
       <td>MT</td>
       <td>DEER LODGE</td>
       <td>46.22960482</td>
@@ -7402,8 +7404,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RX0950</td>
       <td>AIRWAY BCN 47 SSW OF AVON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RX0950">RX0950</a></td>
       <td>MT</td>
       <td>POWELL</td>
       <td>46.54762295</td>
@@ -7419,8 +7421,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RX0975</td>
       <td>AIRWAY BCN 44 A SW OF DRUMMOND</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RX0975">RX0975</a></td>
       <td>MT</td>
       <td>GRANITE</td>
       <td>46.65209067</td>
@@ -7436,8 +7438,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SS1432</td>
       <td>GREAT FALLS BILLINGS AWY BN 58</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SS1432">SS1432</a></td>
       <td>MT</td>
       <td>CASCADE</td>
       <td>47.43081723</td>
@@ -7453,8 +7455,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SS1457</td>
       <td>GREAT FALLS ID FALLS AWY BN 47</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SS1457">SS1457</a></td>
       <td>MT</td>
       <td>CASCADE</td>
       <td>47.35996904</td>
@@ -7470,8 +7472,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SS1506</td>
       <td>AIRWAY BCN 53 7 MI NE STANFORD</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SS1506">SS1506</a></td>
       <td>MT</td>
       <td>JUDITH BASIN</td>
       <td>47.19934813</td>
@@ -7487,8 +7489,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SS1522</td>
       <td>AIRWAY BCN 56 12 MI ESE BELT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SS1522">SS1522</a></td>
       <td>MT</td>
       <td>JUDITH BASIN</td>
       <td>47.33661946</td>
@@ -7504,8 +7506,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SS1548</td>
       <td>GREAT FALLS BILLINGS AWY BN 57</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SS1548">SS1548</a></td>
       <td>MT</td>
       <td>CASCADE</td>
       <td>47.38153183</td>
@@ -7521,8 +7523,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SU1122</td>
       <td>ST REGIS BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SU1122">SU1122</a></td>
       <td>MT</td>
       <td>MINERAL</td>
       <td>47.28725849</td>
@@ -7538,8 +7540,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RR0768</td>
       <td>BISMARCK FARGO AWY BN 62</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RR0768">RR0768</a></td>
       <td>ND</td>
       <td>KIDDER</td>
       <td>46.82869961</td>
@@ -7555,8 +7557,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RR0843</td>
       <td>ABERDEEN MINOT AMBER 4 BCN 47</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RR0843">RR0843</a></td>
       <td>ND</td>
       <td>EMMONS</td>
       <td>46.62062491</td>
@@ -7572,8 +7574,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RR0888</td>
       <td>BISMARK AIR BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RR0888">RR0888</a></td>
       <td>ND</td>
       <td>MORTON</td>
       <td>46.77678072</td>
@@ -7589,8 +7591,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RR0972</td>
       <td>GLEN ULLIN MUN AIRPORT BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RR0972">RR0972</a></td>
       <td>ND</td>
       <td>MORTON</td>
       <td>46.81334003</td>
@@ -7606,8 +7608,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RS0394</td>
       <td>BISMARCK BILLINGS AWY BCN 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RS0394">RS0394</a></td>
       <td>ND</td>
       <td>STARK</td>
       <td>46.82822717</td>
@@ -7623,8 +7625,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SL1273</td>
       <td>FARGO WINNIPEG AIRWAY BEACON 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SL1273">SL1273</a></td>
       <td>ND</td>
       <td>GRAND FORKS</td>
       <td>47.71547882</td>
@@ -7640,8 +7642,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SL1555</td>
       <td>FARGO WINNIPEG AIRWAY BEACON 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SL1555">SL1555</a></td>
       <td>ND</td>
       <td>TRAILL</td>
       <td>47.32438258</td>
@@ -7657,8 +7659,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SL1606</td>
       <td>FARGO WINNIPEG AIRWAY BEACON 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SL1606">SL1606</a></td>
       <td>ND</td>
       <td>TRAILL</td>
       <td>47.51208229</td>
@@ -7674,8 +7676,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow E of Potter, NE</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NE</td>
       <td>CHEYENNE</td>
       <td>41.214158</td>
@@ -7692,8 +7694,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Patrick Haynes.</td>
     </tr>
     <tr>
-      <td>LG0757</td>
       <td>OMAHA SALT LAKE CITY AWY BN 82</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LG0757">LG0757</a></td>
       <td>NE</td>
       <td>SEWARD</td>
       <td>40.90183598</td>
@@ -7709,8 +7711,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LG0796</td>
       <td>OMAHA SALT LAKE CITY AWY BN 81</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LG0796">LG0796</a></td>
       <td>NE</td>
       <td>SEWARD</td>
       <td>40.89471381</td>
@@ -7726,8 +7728,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LG0896</td>
       <td>OMAHA SALT LAKE CITY AWY BN 80</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LG0896">LG0896</a></td>
       <td>NE</td>
       <td>YORK</td>
       <td>40.88697093</td>
@@ -7743,8 +7745,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LH1044</td>
       <td>SALT LAKE CITY OMAHA AWY BN 68</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LH1044">LH1044</a></td>
       <td>NE</td>
       <td>DAWSON</td>
       <td>40.8169479</td>
@@ -7760,8 +7762,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LH1087</td>
       <td>SALT LAKE CITY OMAHA AWY BN 67</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LH1087">LH1087</a></td>
       <td>NE</td>
       <td>DAWSON</td>
       <td>40.87775696</td>
@@ -7777,8 +7779,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LJ0382</td>
       <td>SALT LAKE CITY OMAHA AWY BN 66</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LJ0382">LJ0382</a></td>
       <td>NE</td>
       <td>DAWSON</td>
       <td>40.92194657</td>
@@ -7794,8 +7796,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LJ0475</td>
       <td>DENVER GRAND IS AWY BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LJ0475">LJ0475</a></td>
       <td>NE</td>
       <td>FRONTIER</td>
       <td>40.57594538</td>
@@ -7811,8 +7813,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1205</td>
       <td>AIRWAY BN 14 FLASH RED WHITE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1205">MJ1205</a></td>
       <td>NE</td>
       <td>DOUGLAS</td>
       <td>41.00100738</td>
@@ -7828,8 +7830,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1227</td>
       <td>OFFUTT FIELD AIRWAY BCN 332</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1227">MJ1227</a></td>
       <td>NE</td>
       <td>SARPY</td>
       <td>41.13274166</td>
@@ -7845,8 +7847,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MJ1288</td>
       <td>OMAHA SIOUX FALLS AMBER 4 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MJ1288">MJ1288</a></td>
       <td>NE</td>
       <td>WASHINGTON</td>
       <td>41.40973844</td>
@@ -7862,8 +7864,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MK1960</td>
       <td>OMAHA/SIOUX FALLS AMBER 4 BN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MK1960">MK1960</a></td>
       <td>NE</td>
       <td>BURT</td>
       <td>41.82185314</td>
@@ -7879,8 +7881,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MK1989</td>
       <td>AIRWAY BEACON 88</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MK1989">MK1989</a></td>
       <td>NE</td>
       <td>DOUGLAS</td>
       <td>41.24064144</td>
@@ -7896,8 +7898,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MK1998</td>
       <td>AIRWAY BN 87 FLASH RED WHITE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MK1998">MK1998</a></td>
       <td>NE</td>
       <td>DOUGLAS</td>
       <td>41.14625381</td>
@@ -7913,8 +7915,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MM0376</td>
       <td>SALT LAKE CTY OMAHA AWY BCN 65</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MM0376">MM0376</a></td>
       <td>NE</td>
       <td>LINCOLN</td>
       <td>41.02785854</td>
@@ -7930,8 +7932,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MM0455</td>
       <td>HERSHEY WATER TK=AIRWAY BN 62</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MM0455">MM0455</a></td>
       <td>NE</td>
       <td>LINCOLN</td>
       <td>41.15884761</td>
@@ -7947,8 +7949,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MN0422</td>
       <td>AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MN0422">MN0422</a></td>
       <td>NE</td>
       <td>GARDEN</td>
       <td>41.02756224</td>
@@ -7964,8 +7966,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NP0689</td>
       <td>CHEYENNE HURON AWY BCN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NP0689">NP0689</a></td>
       <td>NE</td>
       <td>DAWES</td>
       <td>42.82877191</td>
@@ -7989,8 +7991,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Brian Lee.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow E of Continental Divide, NM</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NM</td>
       <td>MCKINLEY</td>
       <td>35.426736</td>
@@ -8008,8 +8010,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported on 11/6/2019 by Ray Hawkins.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow E of Laguna Pueblo, NM</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NM</td>
       <td></td>
       <td>34.984758</td>
@@ -8025,8 +8027,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow visible on Google Earth. Reported 11/6/2019 by Ray Hawkins.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow in Columbus, NM</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NM</td>
       <td>LUNA</td>
       <td>31.824812</td>
@@ -8043,8 +8045,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Bob Anderson.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow near Prewitt, NM</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NM</td>
       <td>MCKINLEY</td>
       <td>35.362556</td>
@@ -8061,8 +8063,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Hawkins.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow NW of Acoma Pueblo, NM</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NM</td>
       <td></td>
       <td>35.061035</td>
@@ -8079,8 +8081,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Hawkins.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow SW of Church Rock, NM</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NM</td>
       <td>MCKINLEY</td>
       <td>35.529398</td>
@@ -8097,8 +8099,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Lee.</td>
     </tr>
     <tr>
-      <td>CE0702</td>
       <td>PHOENIX EL PASO AWY BCN 39</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CE0702">CE0702</a></td>
       <td>NM</td>
       <td>DONA ANA</td>
       <td>31.82157814</td>
@@ -8116,8 +8118,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Beacon is destroyed. Reported 5/12/2020 by Tony Rivera.</td>
     </tr>
     <tr>
-      <td>CF0275</td>
       <td>HATCHITA AIRPORT BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0275">CF0275</a></td>
       <td>NM</td>
       <td>GRANT</td>
       <td>31.91861045</td>
@@ -8133,8 +8135,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>CF0284</td>
       <td>PHOENIX EL PASO AWY BCN 29 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0284">CF0284</a></td>
       <td>NM</td>
       <td>GRANT</td>
       <td>31.95038982</td>
@@ -8150,8 +8152,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CF0310</td>
       <td>PHOENIX EL PASO AWY BCN 26 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0310">CF0310</a></td>
       <td>NM</td>
       <td>HIDALGO</td>
       <td>31.93312165</td>
@@ -8167,8 +8169,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CF0312</td>
       <td>PHOENIX EL PASO AWY BCN 26 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CF0312">CF0312</a></td>
       <td>NM</td>
       <td>HIDALGO</td>
       <td>31.92834494</td>
@@ -8184,8 +8186,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 3/23/2015. Reported by Alan Rice.</td>
     </tr>
     <tr>
-      <td>CX1741</td>
       <td>AWY BCN 6 18 MI E OF RINCON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CX1741">CX1741</a></td>
       <td>NM</td>
       <td>DONA ANA</td>
       <td>32.64046934</td>
@@ -8201,8 +8203,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DS1244</td>
       <td>AIRWAY BCN 10 2.5 MI E ENGLE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DS1244">DS1244</a></td>
       <td>NM</td>
       <td>SIERRA</td>
       <td>33.18018489</td>
@@ -8218,8 +8220,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EQ0737</td>
       <td>EL PASO PUEBLO AWY BCN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EQ0737">EQ0737</a></td>
       <td>NM</td>
       <td>SOCORRO</td>
       <td>34.42055443</td>
@@ -8235,8 +8237,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EQ0747</td>
       <td>EL PASO PUEBLO AWY BCN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EQ0747">EQ0747</a></td>
       <td>NM</td>
       <td>SOCORRO</td>
       <td>34.20174952</td>
@@ -8252,8 +8254,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EQ0840</td>
       <td>EL PASO PUEBLO AWY BCN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EQ0840">EQ0840</a></td>
       <td>NM</td>
       <td>VALENCIA</td>
       <td>34.81413317</td>
@@ -8269,8 +8271,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EQ0918</td>
       <td>AIRWAY BCN 20 5 MI SE OF BELEN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EQ0918">EQ0918</a></td>
       <td>NM</td>
       <td>VALENCIA</td>
       <td>34.62139135</td>
@@ -8286,8 +8288,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FM0954</td>
       <td>LOS ANGELES AMARILLO AWY BN 88</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FM0954">FM0954</a></td>
       <td>NM</td>
       <td>QUAY</td>
       <td>35.19956414</td>
@@ -8303,8 +8305,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FM0969</td>
       <td>LOS ANGELES AMARILLO AWY BN 87</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FM0969">FM0969</a></td>
       <td>NM</td>
       <td>QUAY</td>
       <td>35.18627063</td>
@@ -8320,8 +8322,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FM0993</td>
       <td>LOS ANGELES AMARILLO AWY BN 86</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FM0993">FM0993</a></td>
       <td>NM</td>
       <td>QUAY</td>
       <td>35.1739881</td>
@@ -8337,8 +8339,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FM1009</td>
       <td>AIRWAY BN 87A SE OF TUCUMCARI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FM1009">FM1009</a></td>
       <td>NM</td>
       <td>QUAY</td>
       <td>35.13432562</td>
@@ -8354,8 +8356,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FM1020</td>
       <td>LOS ANGELES AMARILLO AWY BN 84</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FM1020">FM1020</a></td>
       <td>NM</td>
       <td>QUAY</td>
       <td>35.16632772</td>
@@ -8371,8 +8373,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0458</td>
       <td>LOS ANGELES AMARILLO AWY BN 83</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0458">FN0458</a></td>
       <td>NM</td>
       <td>QUAY</td>
       <td>35.15856618</td>
@@ -8388,8 +8390,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0484</td>
       <td>LOS ANGELES AMARILLO AY BN 81B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0484">FN0484</a></td>
       <td>NM</td>
       <td>GUADALUPE</td>
       <td>35.11182206</td>
@@ -8405,8 +8407,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0496</td>
       <td>LOS ANGELES AMARILLO AY BN 81A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0496">FN0496</a></td>
       <td>NM</td>
       <td>GUADALUPE</td>
       <td>35.12843018</td>
@@ -8422,8 +8424,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0519</td>
       <td>DENVER ALBUQUERQUE AWY BN 37</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0519">FN0519</a></td>
       <td>NM</td>
       <td>MORA</td>
       <td>35.99653608</td>
@@ -8439,8 +8441,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0557</td>
       <td>DENVER ALBUQUERQUE AWY BN 34</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0557">FN0557</a></td>
       <td>NM</td>
       <td>SAN MIGUEL</td>
       <td>35.65143942</td>
@@ -8456,8 +8458,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0578</td>
       <td>AMARILLO ALBUQUERQUE AY BN 79A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0578">FN0578</a></td>
       <td>NM</td>
       <td>GUADALUPE</td>
       <td>35.1358616</td>
@@ -8473,8 +8475,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0579</td>
       <td>AMARILLO ALBUQUERQUE AY BN 79B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0579">FN0579</a></td>
       <td>NM</td>
       <td>GUADALUPE</td>
       <td>35.11504342</td>
@@ -8490,8 +8492,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0583</td>
       <td>AMARILLO ALBUQUERQUE AWY BN 77</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0583">FN0583</a></td>
       <td>NM</td>
       <td>SAN MIGUEL</td>
       <td>35.10954629</td>
@@ -8507,8 +8509,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0588</td>
       <td>DENVER ALBUQUERQUE AWY BN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0588">FN0588</a></td>
       <td>NM</td>
       <td>SAN MIGUEL</td>
       <td>35.37637531</td>
@@ -8524,8 +8526,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FN0636</td>
       <td>AMARILLO ALBUQUERQUE AWY BN 76</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FN0636">FN0636</a></td>
       <td>NM</td>
       <td>SAN MIGUEL</td>
       <td>35.09983763</td>
@@ -8541,8 +8543,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FO0982</td>
       <td>LOS ANGELES AMARILLO AWY BN 71</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FO0982">FO0982</a></td>
       <td>NM</td>
       <td>BERNALILLO</td>
       <td>35.05292396</td>
@@ -8558,8 +8560,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FO1422</td>
       <td>LOS ANGELES AMARILLO AWY BN 68</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FO1422">FO1422</a></td>
       <td>NM</td>
       <td>BERNALILLO</td>
       <td>35.0561878</td>
@@ -8581,8 +8583,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Arrow intact, as of 1/24/2014. Reported by Steve Owen.</td>
     </tr>
     <tr>
-      <td>FO1617</td>
       <td>LOS ANGELES ALBUQ AWY BN 64</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FO1617">FO1617</a></td>
       <td>NM</td>
       <td>CIBOLA</td>
       <td>35.04871257</td>
@@ -8598,8 +8600,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 11/19/2013. Reported by David.</td>
     </tr>
     <tr>
-      <td>FO1626</td>
       <td>LOS ANGELES ALBUQ AWY BN 63</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FO1626">FO1626</a></td>
       <td>NM</td>
       <td>CIBOLA</td>
       <td>35.0401252</td>
@@ -8615,8 +8617,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FO1641</td>
       <td>LOS ANGELES ALBUQ AWY BN 62</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FO1641">FO1641</a></td>
       <td>NM</td>
       <td>CIBOLA</td>
       <td>35.0424234</td>
@@ -8632,8 +8634,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FO1695</td>
       <td>AIRWAY BEACON 68</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FO1695">FO1695</a></td>
       <td>NM</td>
       <td>VALENCIA</td>
       <td>35.03048733</td>
@@ -8649,8 +8651,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 11/25/2014. Reported by Zhanna.</td>
     </tr>
     <tr>
-      <td>FP0466</td>
       <td>LOS ANGELES ALBUQ BCN 61</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FP0466">FP0466</a></td>
       <td>NM</td>
       <td>CIBOLA</td>
       <td>35.0381428</td>
@@ -8666,8 +8668,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Generator hut restored, as of 1/24/2014. Reported by Steve Owen.</td>
     </tr>
     <tr>
-      <td>FP0472</td>
       <td>LOS ANGELES ALBUQ AWY BCN 59 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FP0472">FP0472</a></td>
       <td>NM</td>
       <td>CIBOLA</td>
       <td>35.02183749</td>
@@ -8683,8 +8685,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FP0499</td>
       <td>LOS ANGELES ALBUQ AWY BCN 59 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FP0499">FP0499</a></td>
       <td>NM</td>
       <td>MCKINLEY</td>
       <td>35.04426088</td>
@@ -8700,8 +8702,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FP0501</td>
       <td>LOS ANGELES ALBUQ AWY BN 57 58</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FP0501">FP0501</a></td>
       <td>NM</td>
       <td>MCKINLEY</td>
       <td>35.05788321</td>
@@ -8717,8 +8719,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GM0727</td>
       <td>EL PASO PUEBLO AIRWAY BCN 39</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GM0727">GM0727</a></td>
       <td>NM</td>
       <td>COLFAX</td>
       <td>36.29238562</td>
@@ -8734,8 +8736,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GM0738</td>
       <td>EL PASO PUEBLO AIRWAY BCN 42</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GM0738">GM0738</a></td>
       <td>NM</td>
       <td>COLFAX</td>
       <td>36.74710646</td>
@@ -8751,8 +8753,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GM0741</td>
       <td>EL PASO PUEBLO AIRWAY BCN 41</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GM0741">GM0741</a></td>
       <td>NM</td>
       <td>COLFAX</td>
       <td>36.55560251</td>
@@ -8768,8 +8770,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow near KR1596, Derby Dam, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>WASHOE</td>
       <td>39.578653</td>
@@ -8785,8 +8787,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 11/16/2013. Reported by Carol.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow near Verdi-Mogul, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>WASHOE</td>
       <td>39.510018</td>
@@ -8802,8 +8804,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 5/13/2015. Reported by David Mansfield.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow NW of Bunkerville, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.796826</td>
@@ -8820,8 +8822,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow NW of Golconda, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>HUMBOLDT</td>
       <td>41.00736</td>
@@ -8838,9 +8840,9 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Carl Van Cleave.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow south of Las Vegas, on hill between I-15 and Las Vegas
         Boulevard</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>35.953293</td>
@@ -8858,8 +8860,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Roland R. Rosenberg, Jr. and Marici Reid.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow SE of Golconda, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>HUMBOLDT</td>
       <td>40.92508</td>
@@ -8878,8 +8880,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Carl Van Cleave and Gerald Muller.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow SW of Jean, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td></td>
       <td>35.740218</td>
@@ -8895,8 +8897,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 5/29/2020. Reported by Herbert Arnold.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon at Humboldt Intermediate Field, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>PERSHING</td>
       <td>40.085023</td>
@@ -8916,8 +8918,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         foundations of office building still there, as of 4/18/2016. Reported by Jack Fawcett.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon tower near Polkinghorne Springs, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>PERSHING</td>
       <td>40.228794</td>
@@ -8935,8 +8937,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Jack Fawcett.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Tower near Fernley, NV - "216 SF-SL"</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>LYON</td>
       <td>39.608274</td>
@@ -8952,8 +8954,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Tower intact; partial shed. Reported by Ken Nussear.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Tower southwest of Battle Mountain, NV</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>NV</td>
       <td>LANDER</td>
       <td>40.435814</td>
@@ -8971,8 +8973,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         is intact, as of 4/18/2016. Reported by Jack Fawcett.</td>
     </tr>
     <tr>
-      <td>FS1224</td>
       <td>AIRWAY BCN WILSON SUMMIT 23 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FS1224">FS1224</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>35.93963694</td>
@@ -8988,8 +8990,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1824</td>
       <td>LOS ANGELES SALT LK AWY BN 31B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1824">GR1824</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.71147625</td>
@@ -9005,8 +9007,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1830</td>
       <td>LOS ANGELES SALT LK AWY BCN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1830">GR1830</a></td>
       <td>NV</td>
       <td>LINCOLN</td>
       <td>36.856443</td>
@@ -9022,8 +9024,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1878</td>
       <td>AIRWAY BEACON USA 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1878">GR1878</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.22445713</td>
@@ -9039,8 +9041,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1879</td>
       <td>AIRWAY BEACON USA 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1879">GR1879</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.17687858</td>
@@ -9056,8 +9058,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1880</td>
       <td>AIRWAY BEACON USA 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1880">GR1880</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.18805232</td>
@@ -9073,8 +9075,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1883</td>
       <td>LOS ANGELES SALT LK AWY BCN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1883">GR1883</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.44765039</td>
@@ -9090,8 +9092,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1891</td>
       <td>LOS ANGELES SALT LK AWY BCN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1891">GR1891</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.32810361</td>
@@ -9107,8 +9109,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1900</td>
       <td>LOS ANGELES SALT LK AWY BN 31A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1900">GR1900</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.68519825</td>
@@ -9124,8 +9126,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1903</td>
       <td>LOS ANGELES SALT LAKE AIRWAY BEACON 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1903">GR1903</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.54080803</td>
@@ -9141,8 +9143,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GR1964</td>
       <td>AIRWAY BEACON ARDEN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GR1964">GR1964</a></td>
       <td>NV</td>
       <td>CLARK</td>
       <td>36.03594691</td>
@@ -9158,8 +9160,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HP0315</td>
       <td>LOS ANGELES SALT LK AWY BN 34</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HP0315">HP0315</a></td>
       <td>NV</td>
       <td>LINCOLN</td>
       <td>37.08342118</td>
@@ -9175,8 +9177,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JQ0530</td>
       <td>TONOPAH BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JQ0530">JQ0530</a></td>
       <td>NV</td>
       <td>NYE</td>
       <td>38.08517143</td>
@@ -9192,8 +9194,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JR1014</td>
       <td>HAWTHORNE NAVAL BASE AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JR1014">JR1014</a></td>
       <td>NV</td>
       <td>MINERAL</td>
       <td>38.56729763</td>
@@ -9209,8 +9211,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1538</td>
       <td>SAN FRAN SALT LAKE AWY BCN 253</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1538">KR1538</a></td>
       <td>NV</td>
       <td>CHURCHILL</td>
       <td>39.85054572</td>
@@ -9226,8 +9228,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1547</td>
       <td>AIRWAY BN 23 12 MI NE OF HAZEN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1547">KR1547</a></td>
       <td>NV</td>
       <td>CHURCHILL</td>
       <td>39.74727969</td>
@@ -9243,8 +9245,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1556</td>
       <td>SAN FRAN SALT LAKE AWY BCN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1556">KR1556</a></td>
       <td>NV</td>
       <td>CHURCHILL</td>
       <td>39.8132849</td>
@@ -9260,8 +9262,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1596</td>
       <td>AIRWAY BCN 20 2 MI N OF CLARK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1596">KR1596</a></td>
       <td>NV</td>
       <td>WASHOE</td>
       <td>39.58082668</td>
@@ -9277,8 +9279,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1725</td>
       <td>HUBBARD FIELD AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1725">KR1725</a></td>
       <td>NV</td>
       <td>WASHOE</td>
       <td>39.49535073</td>
@@ -9294,8 +9296,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1732</td>
       <td>RENO AIRWAY BEACON 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1732">KR1732</a></td>
       <td>NV</td>
       <td> </td>
       <td>39.49002331</td>
@@ -9311,8 +9313,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1752</td>
       <td>AIRWAY BCN 19 5 MI E OF SPARKS</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1752">KR1752</a></td>
       <td>NV</td>
       <td>WASHOE</td>
       <td>39.53063674</td>
@@ -9328,8 +9330,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KR1753</td>
       <td>RENO AIRWAY BEACON 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KR1753">KR1753</a></td>
       <td>NV</td>
       <td>WASHOE</td>
       <td>39.53091624</td>
@@ -9345,8 +9347,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0601</td>
       <td>AIRWAY BCN 51 3 MI W WENDOVER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0601">LQ0601</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.73995126</td>
@@ -9362,8 +9364,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0606</td>
       <td>AIRWAY LIGHT NEAR STATION SALT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0606">LQ0606</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.63567137</td>
@@ -9379,8 +9381,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0620</td>
       <td>SAN FRAN SALT LK AWY BCN 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0620">LQ0620</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.92786821</td>
@@ -9397,8 +9399,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td>LQ0626</td>
       <td>SAN FRAN SALT LK AWY BCN 49 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0626">LQ0626</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.85171855</td>
@@ -9414,8 +9416,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 2/4/2014. Reported by Decman.</td>
     </tr>
     <tr>
-      <td>LQ0629</td>
       <td>AIRWAY BCN 4 MI NE OF SHAFTER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0629">LQ0629</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.88141065</td>
@@ -9431,8 +9433,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0676</td>
       <td>SAN FRAN SALT LK AWY BCN 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0676">LQ0676</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.85793883</td>
@@ -9448,8 +9450,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0737</td>
       <td>AIRWAY BN 42 RENO TO SALT LAKE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0737">LQ0737</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.8867721</td>
@@ -9465,8 +9467,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0749</td>
       <td>AIRWAY BN 40 RENO TO SALT LAKE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0749">LQ0749</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>40.72977082</td>
@@ -9482,8 +9484,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0841</td>
       <td>AIR BEACON REESE RIVER VALLEY</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0841">LR0841</a></td>
       <td>NV</td>
       <td>LANDER</td>
       <td>40.34521271</td>
@@ -9499,8 +9501,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0843</td>
       <td>AIRWAY BCN 32 SW OF BATTLE MTN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0843">LR0843</a></td>
       <td>NV</td>
       <td>PERSHING</td>
       <td>40.31559994</td>
@@ -9516,8 +9518,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0848</td>
       <td>AIRWAY BCN 30 35 MI E LOVELOCK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0848">LR0848</a></td>
       <td>NV</td>
       <td>PERSHING</td>
       <td>40.20595602</td>
@@ -9535,8 +9537,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         blown into the trees. Tower is gone now (stolen?), as of 4/18/2016. Reported by Jack Fawcett.</td>
     </tr>
     <tr>
-      <td>LR0877</td>
       <td>AIRWAY BCN 32=WINNEMUCCA APT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0877">LR0877</a></td>
       <td>NV</td>
       <td>HUMBOLDT</td>
       <td>40.90467783</td>
@@ -9553,8 +9555,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         1/15/2015. Reported by Chris.</td>
     </tr>
     <tr>
-      <td>LR0894</td>
       <td>AIRWAY BCN 39 SAN FRAN SALT LK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0894">LR0894</a></td>
       <td>NV</td>
       <td>EUREKA</td>
       <td>40.65287106</td>
@@ -9570,8 +9572,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0912</td>
       <td>AIRWAY BN 37B SAN FRAN SALT LK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0912">LR0912</a></td>
       <td>NV</td>
       <td>EUREKA</td>
       <td>40.70815222</td>
@@ -9587,8 +9589,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0914</td>
       <td>AIRWAY BN 37A SAN FRAN SALT LK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0914">LR0914</a></td>
       <td>NV</td>
       <td>EUREKA</td>
       <td>40.59610358</td>
@@ -9604,8 +9606,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0915</td>
       <td>AIRWAY BEACON 36 ESE BATTLE MT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0915">LR0915</a></td>
       <td>NV</td>
       <td>LANDER</td>
       <td>40.56300587</td>
@@ -9621,8 +9623,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0921</td>
       <td>AIRWAY BCN 36 SAN FRAN SALT LK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0921">LR0921</a></td>
       <td>NV</td>
       <td>LANDER</td>
       <td>40.66283326</td>
@@ -9638,8 +9640,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0923</td>
       <td>AIRPORT BN LANDER AP BATTLE MT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0923">LR0923</a></td>
       <td>NV</td>
       <td>LANDER</td>
       <td>40.60884378</td>
@@ -9655,8 +9657,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LR0932</td>
       <td>AIR BEACON BATTLE MTN AIRPORT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LR0932">LR0932</a></td>
       <td>NV</td>
       <td>LANDER</td>
       <td>40.6403611</td>
@@ -9672,8 +9674,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LS0572</td>
       <td>AIRWAY BCN 28 ESE LOVELOCK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LS0572">LS0572</a></td>
       <td>NV</td>
       <td>PERSHING</td>
       <td>40.07537891</td>
@@ -9689,8 +9691,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 2/4/2014. Reported by Decman.</td>
     </tr>
     <tr>
-      <td>LS0603</td>
       <td>AIRWAY BCN 26 A DERBY APT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LS0603">LS0603</a></td>
       <td>NV</td>
       <td>PERSHING</td>
       <td>40.06979687</td>
@@ -9706,8 +9708,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MT0752</td>
       <td>AIRWAY BEACON 48 PEQUOP SUMMIT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MT0752">MT0752</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>41.08078478</td>
@@ -9723,8 +9725,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MT0765</td>
       <td>AIRWAY BEACON 46 WELLS AIRPORT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MT0765">MT0765</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>41.11465511</td>
@@ -9740,8 +9742,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MT0818</td>
       <td>BEACON 45=BELL TEL MICRO REL TWR KOB 81</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MT0818">MT0818</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>41.10269161</td>
@@ -9757,8 +9759,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MT0819</td>
       <td>RENO SALT LAKE AIRWAY BCN 44</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MT0819">MT0819</a></td>
       <td>NV</td>
       <td>ELKO</td>
       <td>41.1208742</td>
@@ -9774,8 +9776,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DN1275</td>
       <td>AIRWAY BCN 7 ESE OF MARIETTA</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DN1275">DN1275</a></td>
       <td>OK</td>
       <td>LOVE</td>
       <td>33.92697731</td>
@@ -9791,8 +9793,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EL0900</td>
       <td>AIRWAY BCN 11 N SPRINGER 1955</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EL0900">EL0900</a></td>
       <td>OK</td>
       <td>MURRAY</td>
       <td>34.41700899</td>
@@ -9811,8 +9813,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Baumeister, 5/31/2018.</td>
     </tr>
     <tr>
-      <td>EM0654</td>
       <td>FORT SILL AIRWAY BEACON 1170</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EM0654">EM0654</a></td>
       <td>OK</td>
       <td>COMANCHE</td>
       <td>34.65856528</td>
@@ -9828,8 +9830,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EM1009</td>
       <td>PONDER FIELD AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EM1009">EM1009</a></td>
       <td>OK</td>
       <td>JACKSON</td>
       <td>34.90144676</td>
@@ -9845,8 +9847,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FJ1256</td>
       <td>AMARILLO ST LOUIS AWY BCN 29B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FJ1256">FJ1256</a></td>
       <td>OK</td>
       <td>LINCOLN</td>
       <td>35.89391775</td>
@@ -9862,8 +9864,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FJ1264</td>
       <td>AMARILLO ST LOUIS AWY BCN 29A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FJ1264">FJ1264</a></td>
       <td>OK</td>
       <td>LINCOLN</td>
       <td>35.78817886</td>
@@ -9879,8 +9881,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FJ1289</td>
       <td>AMARILLO ST LOUIS AWY BCN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FJ1289">FJ1289</a></td>
       <td>OK</td>
       <td>LINCOLN</td>
       <td>35.70269212</td>
@@ -9896,8 +9898,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FJ1303</td>
       <td>AMARILLO ST LOUIS AWY BCN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FJ1303">FJ1303</a></td>
       <td>OK</td>
       <td>LINCOLN</td>
       <td>35.78200433</td>
@@ -9913,8 +9915,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FK0604</td>
       <td>AMARILLO ST LOUIS AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FK0604">FK0604</a></td>
       <td>OK</td>
       <td>BECKHAM</td>
       <td>35.22985585</td>
@@ -9930,8 +9932,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GG0710</td>
       <td>AMARILLO ST LOUIS AWY BCN 41</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GG0710">GG0710</a></td>
       <td>OK</td>
       <td>OTTAWA</td>
       <td>36.69203684</td>
@@ -9947,8 +9949,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GG0791</td>
       <td>AIRWAY BCN NE OF STA PILANT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GG0791">GG0791</a></td>
       <td>OK</td>
       <td>MAYES</td>
       <td>36.40997931</td>
@@ -9964,8 +9966,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GG0834</td>
       <td>TULSA MUN APT AIRWAYS BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GG0834">GG0834</a></td>
       <td>OK</td>
       <td>TULSA</td>
       <td>36.19207056</td>
@@ -9981,8 +9983,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GH0664</td>
       <td>PONCA CITY AIRPORT AIR BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GH0664">GH0664</a></td>
       <td>OK</td>
       <td>KAY</td>
       <td>36.72906378</td>
@@ -9998,8 +10000,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GH0667</td>
       <td>PONCA CITY APT HOMING BCN MAST</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GH0667">GH0667</a></td>
       <td>OK</td>
       <td>KAY</td>
       <td>36.72876249</td>
@@ -10015,8 +10017,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GH0731</td>
       <td>FORT WORTH KANS CITY AWY BN 22</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GH0731">GH0731</a></td>
       <td>OK</td>
       <td>LOGAN</td>
       <td>36.01364117</td>
@@ -10032,8 +10034,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GH0750</td>
       <td>FORT WORTH KANS CITY AWY BN 25</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GH0750">GH0750</a></td>
       <td>OK</td>
       <td>NOBLE</td>
       <td>36.31284273</td>
@@ -10049,8 +10051,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GH0883</td>
       <td>BARTLESVILLE PHI PETROL AWY BN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GH0883">GH0883</a></td>
       <td>OK</td>
       <td>OSAGE</td>
       <td>36.75526386</td>
@@ -10066,8 +10068,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GH0946</td>
       <td>AMARILLO ST LOUIS AWY BCN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GH0946">GH0946</a></td>
       <td>OK</td>
       <td>TULSA</td>
       <td>36.08860143</td>
@@ -10083,8 +10085,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GJ0518</td>
       <td>AMARILLO KANSAS CITY BCN 22</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GJ0518">GJ0518</a></td>
       <td>OK</td>
       <td>ALFALFA</td>
       <td>36.98587193</td>
@@ -10100,8 +10102,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GJ0525</td>
       <td>AMARILLO KANSAS CITY BCN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GJ0525">GJ0525</a></td>
       <td>OK</td>
       <td>ALFALFA</td>
       <td>36.88423689</td>
@@ -10117,8 +10119,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GJ0600</td>
       <td>AMARILLO KANSAS CITY BCN 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GJ0600">GJ0600</a></td>
       <td>OK</td>
       <td>WOODS</td>
       <td>36.78286142</td>
@@ -10134,8 +10136,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GJ0623</td>
       <td>AMARILLO KANSAS CITY BCN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GJ0623">GJ0623</a></td>
       <td>OK</td>
       <td>WOODS</td>
       <td>36.63883167</td>
@@ -10151,8 +10153,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>GJ0647</td>
       <td>AMARILLO KANSAS CITY BCN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=GJ0647">GJ0647</a></td>
       <td>OK</td>
       <td>WOODWARD</td>
       <td>36.50642384</td>
@@ -10168,8 +10170,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow E of Glendale, OR</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>42.730123</td>
@@ -10188,8 +10190,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         intact. Reported by Blossom Merz.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon on Mahogany Mountain near La Grande, OR</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>OR</td>
       <td>UNION</td>
       <td>45.3679</td>
@@ -10205,8 +10207,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon intact, as of 5/17/2014. Reported by David Pinyerd.</td>
     </tr>
     <tr>
-      <td>NZ1075</td>
       <td>SEATTLE SAN FRAN AWY BCN 30</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NZ1075">NZ1075</a></td>
       <td>OR</td>
       <td>JACKSON</td>
       <td>42.05186281</td>
@@ -10222,8 +10224,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NZ1086</td>
       <td>SEATTLE SAN FRAN AWY BCN 32</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NZ1086">NZ1086</a></td>
       <td>OR</td>
       <td>JACKSON</td>
       <td>42.23833806</td>
@@ -10239,8 +10241,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NZ1209</td>
       <td>SEXTON MOUNTAIN BEACON 36</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NZ1209">NZ1209</a></td>
       <td>OR</td>
       <td>JOSEPHINE</td>
       <td>42.60013915</td>
@@ -10256,8 +10258,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC0917</td>
       <td>SAN FRANCISCO PORTLAND BCN 45</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC0917">PC0917</a></td>
       <td>OR</td>
       <td>LANE</td>
       <td>43.90756312</td>
@@ -10273,8 +10275,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC0961</td>
       <td>SAN FRANCISCO PORTLAND BCN 44A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC0961">PC0961</a></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>43.73676627</td>
@@ -10290,8 +10292,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC0965</td>
       <td>SAN FRANCISCO PORTLAND BCN 43</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC0965">PC0965</a></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>43.63861723</td>
@@ -10307,8 +10309,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC0966</td>
       <td>SAN FRANCISCO SEATTLE BCN 42 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC0966">PC0966</a></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>43.5027449</td>
@@ -10324,8 +10326,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC1009</td>
       <td>SEATTLE SAN FRANCISCO BCN 40 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC1009">PC1009</a></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>43.21094516</td>
@@ -10341,8 +10343,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC1013</td>
       <td>SEATTLE SAN FRANCISCO BCN 40 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC1013">PC1013</a></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>43.11000724</td>
@@ -10358,8 +10360,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC1020</td>
       <td>SAN FRANCISCO SEATTLE BCN 42 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC1020">PC1020</a></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>43.40253648</td>
@@ -10375,8 +10377,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PC1024</td>
       <td>SAN FRANCISCO SEATTLE BCN 41 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PC1024">PC1024</a></td>
       <td>OR</td>
       <td>DOUGLAS</td>
       <td>43.31701366</td>
@@ -10392,8 +10394,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QB1233</td>
       <td>SALT LAKE PORTLAND AIRWAY BEACON 34 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QB1233">QB1233</a></td>
       <td>OR</td>
       <td>MALHEUR</td>
       <td>44.02141311</td>
@@ -10409,8 +10411,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QB1240</td>
       <td>SALT LAKE PORTLAND AWY BCN 37</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QB1240">QB1240</a></td>
       <td>OR</td>
       <td> </td>
       <td>44.42539702</td>
@@ -10426,8 +10428,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QB1257</td>
       <td>COYOTE POINT AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QB1257">QB1257</a></td>
       <td>OR</td>
       <td>BAKER</td>
       <td>44.92424409</td>
@@ -10443,8 +10445,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QB1314</td>
       <td>SALT LAKE CITY PORTLAND BN 35</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QB1314">QB1314</a></td>
       <td>OR</td>
       <td>MALHEUR</td>
       <td>44.22166701</td>
@@ -10460,8 +10462,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QE1786</td>
       <td>SAN FRANCISCO PORTLAND BCN 51</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QE1786">QE1786</a></td>
       <td>OR</td>
       <td>LINN</td>
       <td>44.67920639</td>
@@ -10477,8 +10479,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QE1800</td>
       <td>SAN FRANCISCO PORTLAND BCN 52</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QE1800">QE1800</a></td>
       <td>OR</td>
       <td>MARION</td>
       <td>44.87321992</td>
@@ -10494,8 +10496,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QE2021</td>
       <td>ALBANY AIRPORT BEACON 212</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QE2021">QE2021</a></td>
       <td>OR</td>
       <td>LINN</td>
       <td>44.64455299</td>
@@ -10511,8 +10513,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QE2126</td>
       <td>WARD BUTTE AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QE2126">QE2126</a></td>
       <td>OR</td>
       <td>LINN</td>
       <td>44.46881606</td>
@@ -10528,8 +10530,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QE2132</td>
       <td>SAN FRANCISCO PORTLAND BCN 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QE2132">QE2132</a></td>
       <td>OR</td>
       <td>LINN</td>
       <td>44.31843448</td>
@@ -10545,8 +10547,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QE2149</td>
       <td>SAN FRANCISCO PORTLAND BCN 47</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QE2149">QE2149</a></td>
       <td>OR</td>
       <td>LANE</td>
       <td>44.18926196</td>
@@ -10562,8 +10564,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>QE2182</td>
       <td>SAN FRANCISCO PORTLAND BCN 46</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=QE2182">QE2182</a></td>
       <td>OR</td>
       <td>LANE</td>
       <td>44.05359719</td>
@@ -10579,8 +10581,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RB1336</td>
       <td>AIRWAY BCN 5 MI SSE OF MEACHAM</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RB1336">RB1336</a></td>
       <td>OR</td>
       <td> </td>
       <td>45.44847671</td>
@@ -10596,8 +10598,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RB1351</td>
       <td>AIRWAY BN 21 WSW MILTON FREEW</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RB1351">RB1351</a></td>
       <td>OR</td>
       <td>UMATILLA</td>
       <td>45.89892638</td>
@@ -10613,8 +10615,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RB1360</td>
       <td>AIRWAY BCN 48 SE OF PENDLETON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RB1360">RB1360</a></td>
       <td>OR</td>
       <td>UMATILLA</td>
       <td>45.58940724</td>
@@ -10630,8 +10632,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RB1377</td>
       <td>SPOKANE PENDLETON AWY BCN 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RB1377">RB1377</a></td>
       <td>OR</td>
       <td> </td>
       <td>45.97851078</td>
@@ -10647,8 +10649,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RB1402</td>
       <td>AIRWAY BN 18 14 MI W PENDLETON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RB1402">RB1402</a></td>
       <td>OR</td>
       <td>UMATILLA</td>
       <td>45.68991004</td>
@@ -10664,8 +10666,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RB1407</td>
       <td>PORTLAND SPOKANE AWY BCN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RB1407">RB1407</a></td>
       <td>OR</td>
       <td>UMATILLA</td>
       <td>45.6163265</td>
@@ -10681,8 +10683,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RB1469</td>
       <td>PORTLAND SPOKANE AWY BCN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RB1469">RB1469</a></td>
       <td>OR</td>
       <td> </td>
       <td>45.57626366</td>
@@ -10698,8 +10700,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2079</td>
       <td>PORTLAND SPOKANE AWY BCN 74 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2079">RC2079</a></td>
       <td>OR</td>
       <td>WASCO</td>
       <td>45.66191046</td>
@@ -10715,8 +10717,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2111</td>
       <td>PORTLAND SPOKANE AWY BCN 6 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2111">RC2111</a></td>
       <td>OR</td>
       <td>WASCO</td>
       <td>45.6871269</td>
@@ -10732,8 +10734,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2164</td>
       <td>PORTLAND SPOKANE BCN NR GEORGE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2164">RC2164</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.70734799</td>
@@ -10749,8 +10751,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2180</td>
       <td>PORTLAND SPOKANE AWY BCN 63 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2180">RC2180</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.70043587</td>
@@ -10766,8 +10768,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2277</td>
       <td>PORTLAND SPOKANE AWY BCN 59 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2277">RC2277</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.71057893</td>
@@ -10783,8 +10785,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2291</td>
       <td>PORTLAND SPOKANE AWY BCN 55 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2291">RC2291</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.70367051</td>
@@ -10800,8 +10802,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2322</td>
       <td>PORTLAND SPOKANE AWY BCN 49 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2322">RC2322</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.69030062</td>
@@ -10817,8 +10819,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2330</td>
       <td>PORTLAND SPOKANE AWY BCN 48 MI</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2330">RC2330</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.69174629</td>
@@ -10834,8 +10836,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2345</td>
       <td>PORTLAND THE DALLES AWY BCN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2345">RC2345</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.69667622</td>
@@ -10851,8 +10853,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2351</td>
       <td>PORTLAND SPOKANE AY BN NR PARK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2351">RC2351</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.69583046</td>
@@ -10868,8 +10870,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2378</td>
       <td>PORTLAND SPOKANE AUX BCN 3 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2378">RC2378</a></td>
       <td>OR</td>
       <td>MULTNOMAH</td>
       <td>45.61285895</td>
@@ -10885,8 +10887,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2393</td>
       <td>PORTLAND SPOKANE AWY BN EAG CR</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2393">RC2393</a></td>
       <td>OR</td>
       <td>MULTNOMAH</td>
       <td>45.63850757</td>
@@ -10902,8 +10904,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2414</td>
       <td>PORTLAND SPOKANE AWY BN CASC L</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2414">RC2414</a></td>
       <td>OR</td>
       <td>HOOD RIVER</td>
       <td>45.67025211</td>
@@ -10919,8 +10921,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2488</td>
       <td>PORTLAND PENDLETON AWY BCN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2488">RC2488</a></td>
       <td>OR</td>
       <td>GILLIAM</td>
       <td>45.79668358</td>
@@ -10936,8 +10938,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2498</td>
       <td>PENDLETON PORTLAND AWY BN 12 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2498">RC2498</a></td>
       <td>OR</td>
       <td>GILLIAM</td>
       <td>45.59417276</td>
@@ -10953,8 +10955,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2505</td>
       <td>PORTLAND PENDLETON AWY BCN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2505">RC2505</a></td>
       <td>OR</td>
       <td>GILLIAM</td>
       <td>45.71970953</td>
@@ -10970,8 +10972,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2524</td>
       <td>PORTLAND PENDLETON AWY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2524">RC2524</a></td>
       <td>OR</td>
       <td> </td>
       <td>45.68159564</td>
@@ -10987,8 +10989,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2614</td>
       <td>AIRWAY BEACON 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2614">RC2614</a></td>
       <td>OR</td>
       <td>SHERMAN</td>
       <td>45.59697027</td>
@@ -11004,8 +11006,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2620</td>
       <td>PORTLAND PENDLETON AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2620">RC2620</a></td>
       <td>OR</td>
       <td>SHERMAN</td>
       <td>45.69317084</td>
@@ -11021,8 +11023,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2630</td>
       <td>PORTLAND PENDLETON AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2630">RC2630</a></td>
       <td>OR</td>
       <td>SHERMAN</td>
       <td>45.62023413</td>
@@ -11038,8 +11040,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2219</td>
       <td>PORTLAND SPOKANE AUX AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2219">RD2219</a></td>
       <td>OR</td>
       <td>MULTNOMAH</td>
       <td>45.55168925</td>
@@ -11055,8 +11057,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2222</td>
       <td>PORTLAND SPOKANE AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2222">RD2222</a></td>
       <td>OR</td>
       <td>MULTNOMAH</td>
       <td>45.55738333</td>
@@ -11072,8 +11074,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2518</td>
       <td>PORTLAND SAN FRANCISCO BCN 56</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2518">RD2518</a></td>
       <td>OR</td>
       <td> </td>
       <td>45.34264899</td>
@@ -11089,8 +11091,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2553</td>
       <td>PORTLAND COUNCIL CREST AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2553">RD2553</a></td>
       <td>OR</td>
       <td>MULTNOMAH</td>
       <td>45.49893587</td>
@@ -11106,8 +11108,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2655</td>
       <td>SAN FRANCISCO PORTLAND BCN 54</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2655">RD2655</a></td>
       <td>OR</td>
       <td>MARION</td>
       <td>45.10007508</td>
@@ -11123,8 +11125,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2866</td>
       <td>ROCKY BUTTE AWY BCN FLASH RED</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2866">RD2866</a></td>
       <td>OR</td>
       <td>MULTNOMAH</td>
       <td>45.54658178</td>
@@ -11140,8 +11142,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OQ0723</td>
       <td>OMAHA BISMARCK AIRWAY BCN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OQ0723">OQ0723</a></td>
       <td>SD</td>
       <td>LINCOLN</td>
       <td>43.42492965</td>
@@ -11157,8 +11159,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OQ0727</td>
       <td>OMAHA BISMARCK AIRWAY BCN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OQ0727">OQ0727</a></td>
       <td>SD</td>
       <td>UNION</td>
       <td>43.01182585</td>
@@ -11174,8 +11176,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OQ0732</td>
       <td>OMAHA BISMARCK AIRWAY BCN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OQ0732">OQ0732</a></td>
       <td>SD</td>
       <td>LINCOLN</td>
       <td>43.21199868</td>
@@ -11191,8 +11193,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>OT0813</td>
       <td>HARNEY PEAK AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=OT0813">OT0813</a></td>
       <td>SD</td>
       <td>PENNINGTON</td>
       <td>43.86581389</td>
@@ -11208,8 +11210,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow near Odessa, TX</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>TX</td>
       <td>ECTOR</td>
       <td>31.914243</td>
@@ -11225,8 +11227,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 8/29/2018. Reported by John Nixon.</td>
     </tr>
     <tr>
-      <td>AB1682</td>
       <td>SITE 6 AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AB1682">AB1682</a></td>
       <td>TX</td>
       <td>KENEDY</td>
       <td>26.68599068</td>
@@ -11242,8 +11244,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AB1693</td>
       <td>BROWNSVILLE FT WORTH AWY BCN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AB1693">AB1693</a></td>
       <td>TX</td>
       <td>KENEDY</td>
       <td>26.78976119</td>
@@ -11259,8 +11261,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AF9920</td>
       <td>EL PASO FORT WORTH AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AF9920">AF9920</a></td>
       <td>TX</td>
       <td>HUDSPETH</td>
       <td>31.81790551</td>
@@ -11276,8 +11278,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>AF9921</td>
       <td>EL PASO FORT WORTH AWY BCN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AF9921">AF9921</a></td>
       <td>TX</td>
       <td>HUDSPETH</td>
       <td>31.8064499</td>
@@ -11294,8 +11296,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Hwy 62. Reported by John.</td>
     </tr>
     <tr>
-      <td>AH1530</td>
       <td>BROWNSVILLE FT WORTH AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AH1530">AH1530</a></td>
       <td>TX</td>
       <td>KENEDY</td>
       <td>27.24804677</td>
@@ -11311,8 +11313,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AH1534</td>
       <td>BROWNSVILLE FT WORTH AWY BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AH1534">AH1534</a></td>
       <td>TX</td>
       <td>KENEDY</td>
       <td>27.01222179</td>
@@ -11328,8 +11330,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AH1552</td>
       <td>BROWNSVILLE FT WORTH AWY BN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AH1552">AH1552</a></td>
       <td>TX</td>
       <td>SAN PATRICIO</td>
       <td>27.97063059</td>
@@ -11345,8 +11347,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AH1599</td>
       <td>BROWNSVILLE FT WORTH AWY BN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AH1599">AH1599</a></td>
       <td>TX</td>
       <td>NUECES</td>
       <td>27.79398828</td>
@@ -11362,8 +11364,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AN2170</td>
       <td>BROWNSVILLE FT WORTH AWY BN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AN2170">AN2170</a></td>
       <td>TX</td>
       <td>BEE</td>
       <td>28.36429029</td>
@@ -11379,8 +11381,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AO0554</td>
       <td>CORPUS CHRISTI SAN ANG BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AO0554">AO0554</a></td>
       <td>TX</td>
       <td>KARNES</td>
       <td>28.86063381</td>
@@ -11396,8 +11398,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AW6062</td>
       <td>HOUSTON NEW ORLEANS AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AW6062">AW6062</a></td>
       <td>TX</td>
       <td>LIBERTY</td>
       <td>29.88949556</td>
@@ -11413,8 +11415,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AW6412</td>
       <td>ELLINGTON FIELD AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AW6412">AW6412</a></td>
       <td>TX</td>
       <td>HARRIS</td>
       <td>29.60372895</td>
@@ -11430,8 +11432,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AW6495</td>
       <td>SOUTH HOUSTON AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AW6495">AW6495</a></td>
       <td>TX</td>
       <td>HARRIS</td>
       <td>29.649614</td>
@@ -11447,8 +11449,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AW6497</td>
       <td>HOUSTON LONGREACH DOCKS S TANK</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AW6497">AW6497</a></td>
       <td>TX</td>
       <td>HARRIS</td>
       <td>29.73661909</td>
@@ -11464,8 +11466,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AW6851</td>
       <td>CORPUS CHRISTI HOUST AWY BN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AW6851">AW6851</a></td>
       <td>TX</td>
       <td>BRAZORIA</td>
       <td>29.27722432</td>
@@ -11481,8 +11483,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AX2604</td>
       <td>SAN ANTONIO HOUSTON AWY BCN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AX2604">AX2604</a></td>
       <td>TX</td>
       <td>DE WITT</td>
       <td>29.32052951</td>
@@ -11498,8 +11500,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AX2619</td>
       <td>SAN ANTONIO HOUSTON AWY BCN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AX2619">AX2619</a></td>
       <td>TX</td>
       <td>WILSON</td>
       <td>29.24358676</td>
@@ -11515,8 +11517,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AX2677</td>
       <td>SAN ANTONIO HOUSTON AWY BCN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AX2677">AX2677</a></td>
       <td>TX</td>
       <td>WHARTON</td>
       <td>29.40630379</td>
@@ -11532,8 +11534,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AX2708</td>
       <td>SAN ANTONIO HOUSTON AWY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AX2708">AX2708</a></td>
       <td>TX</td>
       <td>COLORADO</td>
       <td>29.37747411</td>
@@ -11549,8 +11551,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AX2754</td>
       <td>SAN ANTONIO HOUSTON AWY BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AX2754">AX2754</a></td>
       <td>TX</td>
       <td>LAVACA</td>
       <td>29.33092465</td>
@@ -11566,8 +11568,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AY1832</td>
       <td>SAN ANTONIO HOUSTON AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AY1832">AY1832</a></td>
       <td>TX</td>
       <td>WILSON</td>
       <td>29.20577764</td>
@@ -11583,8 +11585,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>AY1910</td>
       <td>KELLY FLD WTR TANK AND AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=AY1910">AY1910</a></td>
       <td>TX</td>
       <td>BEXAR</td>
       <td>29.3871859</td>
@@ -11600,8 +11602,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BL2249</td>
       <td>DALLAS HOUSTON AIRWAY BEACON 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BL2249">BL2249</a></td>
       <td>TX</td>
       <td>HARRIS</td>
       <td>30.08724365</td>
@@ -11617,8 +11619,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BL2259</td>
       <td>GALVESTON WACO AIRWAY BEACON 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BL2259">BL2259</a></td>
       <td>TX</td>
       <td>GRIMES</td>
       <td>30.25564083</td>
@@ -11634,8 +11636,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BM0859</td>
       <td>AUSTIN WACO AIRWAY BEACON 39</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BM0859">BM0859</a></td>
       <td>TX</td>
       <td>BELL</td>
       <td>30.92360198</td>
@@ -11651,8 +11653,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BM0902</td>
       <td>AUSTIN BROWNSV FT WORTH AWY 34</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BM0902">BM0902</a></td>
       <td>TX</td>
       <td>TRAVIS</td>
       <td>30.44896222</td>
@@ -11668,8 +11670,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BM0948</td>
       <td>GALVESTON WACO AIRWAY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BM0948">BM0948</a></td>
       <td>TX</td>
       <td>BRAZOS</td>
       <td>30.56805533</td>
@@ -11685,8 +11687,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BM0956</td>
       <td>HOUSTON WACO AIRWAY BEACON 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BM0956">BM0956</a></td>
       <td>TX</td>
       <td>BRAZOS</td>
       <td>30.73545456</td>
@@ -11702,8 +11704,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BM0967</td>
       <td>GALVESTON WACO AIRWAY BCN 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BM0967">BM0967</a></td>
       <td>TX</td>
       <td>GRIMES</td>
       <td>30.40289431</td>
@@ -11719,8 +11721,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BM0977</td>
       <td>WACO GALVESTON AIRWAY BCN 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BM0977">BM0977</a></td>
       <td>TX</td>
       <td>GRIMES</td>
       <td>30.37506705</td>
@@ -11736,8 +11738,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BM1047</td>
       <td>HOUSTON WACO AIRWAY BEACON 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BM1047">BM1047</a></td>
       <td>TX</td>
       <td>ROBERTSON</td>
       <td>30.88647999</td>
@@ -11753,8 +11755,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>BZ1400</td>
       <td>HOUSTON WACO AIRWAY BEACON 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=BZ1400">BZ1400</a></td>
       <td>TX</td>
       <td>FALLS</td>
       <td>31.18307971</td>
@@ -11770,8 +11772,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CB0834</td>
       <td>AIRWAY BEACON 20</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CB0834">CB0834</a></td>
       <td>TX</td>
       <td>COKE</td>
       <td>31.70726914</td>
@@ -11787,8 +11789,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CC0769</td>
       <td>AIRWAY BEACON A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CC0769">CC0769</a></td>
       <td>TX</td>
       <td>ECTOR</td>
       <td>31.86220975</td>
@@ -11804,8 +11806,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CC0778</td>
       <td>FORT WORTH EL PASO AWY BCN 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CC0778">CC0778</a></td>
       <td>TX</td>
       <td>WINKLER</td>
       <td>31.81819534</td>
@@ -11821,8 +11823,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>CC0793</td>
       <td>FORT WORTH EL PASO AWY BCN 17</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CC0793">CC0793</a></td>
       <td>TX</td>
       <td>LOVING</td>
       <td>31.77766641</td>
@@ -11838,8 +11840,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CD0910</td>
       <td>EL PASO FORT WORTH AWY BCN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD0910">CD0910</a></td>
       <td>TX</td>
       <td>REEVES</td>
       <td>31.81421278</td>
@@ -11855,8 +11857,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>CD0923</td>
       <td>EL PASO FORT WORTH AWY BCN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD0923">CD0923</a></td>
       <td>TX</td>
       <td>CULBERSON</td>
       <td>31.83364681</td>
@@ -11872,8 +11874,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon and arrow intact, as of 11/18/2013. Reported by Ken Drews.</td>
     </tr>
     <tr>
-      <td>CD0971</td>
       <td>EL PASO FORT WORTH AWY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD0971">CD0971</a></td>
       <td>TX</td>
       <td>CULBERSON</td>
       <td>31.85327799</td>
@@ -11892,8 +11894,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by John.</td>
     </tr>
     <tr>
-      <td>CD0995</td>
       <td>EL PASO FORT WORTH AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD0995">CD0995</a></td>
       <td>TX</td>
       <td>CULBERSON</td>
       <td>31.83282584</td>
@@ -11914,8 +11916,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         remains with Google Earth. Reported by Dave Tenney, 2/17/2017.</td>
     </tr>
     <tr>
-      <td>CD0997</td>
       <td>EL PASO FORT WORTH AWY BCN 8 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD0997">CD0997</a></td>
       <td>TX</td>
       <td>CULBERSON</td>
       <td>31.77299679</td>
@@ -11931,8 +11933,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CD1004</td>
       <td>EL PASO FORT WORTH AWY BCN 8 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD1004">CD1004</a></td>
       <td>TX</td>
       <td>HUDSPETH</td>
       <td>31.74596454</td>
@@ -11948,8 +11950,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>CD1012</td>
       <td>EL PASO FORT WORTH AWY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD1012">CD1012</a></td>
       <td>TX</td>
       <td>HUDSPETH</td>
       <td>31.78014087</td>
@@ -11966,8 +11968,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         by John.</td>
     </tr>
     <tr>
-      <td>CD1081</td>
       <td>EL PASO FORT WORTH AWY BCN 4</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD1081">CD1081</a></td>
       <td>TX</td>
       <td>HUDSPETH</td>
       <td>31.8064499</td>
@@ -11983,8 +11985,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CD1087</td>
       <td>EL PASO FORT WORTH AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD1087">CD1087</a></td>
       <td>TX</td>
       <td>HUDSPETH</td>
       <td>31.81790551</td>
@@ -12000,8 +12002,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CD1088</td>
       <td>EL PASO FORT WORTH AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CD1088">CD1088</a></td>
       <td>TX</td>
       <td>HUDSPETH</td>
       <td>31.82366422</td>
@@ -12017,8 +12019,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CE0468</td>
       <td>EL PASO FORT WORTH AWY BCN 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CE0468">CE0468</a></td>
       <td>TX</td>
       <td>EL PASO</td>
       <td>31.82128957</td>
@@ -12034,8 +12036,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CR1329</td>
       <td>DALLAS ATLANTA AIRWAY BEACON 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CR1329">CR1329</a></td>
       <td>TX</td>
       <td>VAN ZANDT</td>
       <td>32.71978742</td>
@@ -12051,8 +12053,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CS3000</td>
       <td>FORT WORTH MEACHAM FLD AWY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CS3000">CS3000</a></td>
       <td>TX</td>
       <td>TARRANT</td>
       <td>32.82007822</td>
@@ -12068,8 +12070,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CS3073</td>
       <td>WACO FORT WORTH ARIWAY BCN 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CS3073">CS3073</a></td>
       <td>TX</td>
       <td>JOHNSON</td>
       <td>32.24788576</td>
@@ -12085,8 +12087,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CS3076</td>
       <td>WACO FORT WORTH AIRWAY BCN 47</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CS3076">CS3076</a></td>
       <td>TX</td>
       <td>HILL</td>
       <td>32.04012363</td>
@@ -12102,8 +12104,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CS3147</td>
       <td>EL PASO FORT WORTH AWY BCN 52</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CS3147">CS3147</a></td>
       <td>TX</td>
       <td>PARKER</td>
       <td>32.75452549</td>
@@ -12119,8 +12121,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CT0989</td>
       <td>EL PASO FORT WORTH AWY BCN 48</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CT0989">CT0989</a></td>
       <td>TX</td>
       <td>PALO PINTO</td>
       <td>32.72672676</td>
@@ -12136,8 +12138,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>CU0947</td>
       <td>AIR BEACON 36</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CU0947">CU0947</a></td>
       <td>TX</td>
       <td>NOLAN</td>
       <td>32.4570724</td>
@@ -12153,8 +12155,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>CU0955</td>
       <td>SWEETWATER MUNICIPAL APT BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CU0955">CU0955</a></td>
       <td>TX</td>
       <td>NOLAN</td>
       <td>32.45835304</td>
@@ -12170,8 +12172,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Destroyed, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>CU1130</td>
       <td>AIRWAYS BEACON 26</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=CU1130">CU1130</a></td>
       <td>TX</td>
       <td>MIDLAND</td>
       <td>32.0775145</td>
@@ -12187,8 +12189,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 1/5/2015. Reported by John.</td>
     </tr>
     <tr>
-      <td>DM1244</td>
       <td>DALLAS LOUISVILLE AWY BCN 15</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DM1244">DM1244</a></td>
       <td>TX</td>
       <td>BOWIE</td>
       <td>33.40111461</td>
@@ -12204,8 +12206,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DM1252</td>
       <td>DALLAS LOUISVILLE AWY BCN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DM1252">DM1252</a></td>
       <td>TX</td>
       <td>BOWIE</td>
       <td>33.36273567</td>
@@ -12221,8 +12223,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DM1254</td>
       <td>DALLAS LOUISVILLE AWY BCN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DM1254">DM1254</a></td>
       <td>TX</td>
       <td>MORRIS</td>
       <td>33.29750496</td>
@@ -12238,8 +12240,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Destroyed, as of 11/20/2013. Reported by Cary.</td>
     </tr>
     <tr>
-      <td>DM1396</td>
       <td>DALLAS LOUISVILLE AIRWAY BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DM1396">DM1396</a></td>
       <td>TX</td>
       <td>HOPKINS</td>
       <td>33.14006667</td>
@@ -12255,8 +12257,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DM1402</td>
       <td>DALLAS LOUISVILLE AIRWAY BCN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DM1402">DM1402</a></td>
       <td>TX</td>
       <td>HOPKINS</td>
       <td>33.09830724</td>
@@ -12272,8 +12274,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DN1325</td>
       <td>DALLAS WICHITA AIRWAY BEACON 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DN1325">DN1325</a></td>
       <td>TX</td>
       <td>DENTON</td>
       <td>33.08639261</td>
@@ -12289,8 +12291,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>DN1342</td>
       <td>FORT WORTH WICHITA AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=DN1342">DN1342</a></td>
       <td>TX</td>
       <td>DENTON</td>
       <td>33.36348311</td>
@@ -12306,8 +12308,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EN0756</td>
       <td>AMARILLO FORT WORTH AWY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EN0756">EN0756</a></td>
       <td>TX</td>
       <td>DONLEY</td>
       <td>34.84903853</td>
@@ -12323,8 +12325,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>EO0605</td>
       <td>AIRWAYS BLINKER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=EO0605">EO0605</a></td>
       <td>TX</td>
       <td> </td>
       <td>34.84969496</td>
@@ -12340,8 +12342,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FL1706</td>
       <td>AMARILLO KANSAS CITY AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FL1706">FL1706</a></td>
       <td>TX</td>
       <td>CARSON</td>
       <td>35.4721772</td>
@@ -12357,8 +12359,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FL1720</td>
       <td>AMARILLO TULSA AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FL1720">FL1720</a></td>
       <td>TX</td>
       <td>CARSON</td>
       <td>35.22244617</td>
@@ -12374,8 +12376,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FL1809</td>
       <td>AIRWAYS BEACON 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FL1809">FL1809</a></td>
       <td>TX</td>
       <td>RANDALL</td>
       <td>35.12477828</td>
@@ -12391,8 +12393,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FL1945</td>
       <td>AMARILLO ST LOUIS AWY BCN 8B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FL1945">FL1945</a></td>
       <td>TX</td>
       <td>WHEELER</td>
       <td>35.2262148</td>
@@ -12408,8 +12410,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FL1993</td>
       <td>AMARILLO ST LOUIS AWY BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FL1993">FL1993</a></td>
       <td>TX</td>
       <td>GRAY</td>
       <td>35.22523488</td>
@@ -12425,8 +12427,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FL2000</td>
       <td>AMARILLO ST LOUIS AWY BCN 3</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FL2000">FL2000</a></td>
       <td>TX</td>
       <td>GRAY</td>
       <td>35.22437617</td>
@@ -12442,8 +12444,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FL2027</td>
       <td>AMARILLO KANSAS CITY AWY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FL2027">FL2027</a></td>
       <td>TX</td>
       <td>ROBERTS</td>
       <td>35.72331568</td>
@@ -12459,8 +12461,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FM0903</td>
       <td>AIRWAY BEACON 92</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FM0903">FM0903</a></td>
       <td>TX</td>
       <td>OLDHAM</td>
       <td>35.21896772</td>
@@ -12476,8 +12478,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>FM0918</td>
       <td>AIRWAY BEACON 91</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=FM0918">FM0918</a></td>
       <td>TX</td>
       <td>OLDHAM</td>
       <td>35.21544366</td>
@@ -12493,8 +12495,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow northeast of St. George, UT</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.1806131</td>
@@ -12510,8 +12512,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 3/23/2015. Reported by Alan Rice.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow southwest of St. George, UT</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.0648086</td>
@@ -12528,8 +12530,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         (04/17/2017).</td>
     </tr>
     <tr>
-      <td>HO0600</td>
       <td>BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0600">HO0600</a></td>
       <td>UT</td>
       <td>IRON</td>
       <td>37.67812077</td>
@@ -12545,8 +12547,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HO0616</td>
       <td>LOS ANGELES SALT LK AWY BN 41</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0616">HO0616</a></td>
       <td>UT</td>
       <td>IRON</td>
       <td>37.87795384</td>
@@ -12562,8 +12564,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HO0621</td>
       <td>LOS ANGELES DENVER AWY BN 37</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0621">HO0621</a></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.07754576</td>
@@ -12579,8 +12581,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HO0622</td>
       <td>LOS ANGELES SALT LK AWY BN 37B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0622">HO0622</a></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.11745018</td>
@@ -12596,8 +12598,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 2/4/2014. Reported by Decman.</td>
     </tr>
     <tr>
-      <td>HO0625</td>
       <td>LOS ANGELES DENVER AWY BN 36</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0625">HO0625</a></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.04504119</td>
@@ -12613,8 +12615,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HO0627</td>
       <td>LOS ANGELES SALT LK AWY BN 37A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0627">HO0627</a></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.0918281</td>
@@ -12630,8 +12632,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HO0635</td>
       <td>LOS ANGELES SALT LK AWY BN 36</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0635">HO0635</a></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.34242948</td>
@@ -12647,8 +12649,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HO0640</td>
       <td>LOS ANGELES SALT LK AWY BN 39</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0640">HO0640</a></td>
       <td>UT</td>
       <td>IRON</td>
       <td>37.68831659</td>
@@ -12664,8 +12666,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>HO0641</td>
       <td>LOS ANGELES SALT LK AWY BN 37</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HO0641">HO0641</a></td>
       <td>UT</td>
       <td>WASHINGTON</td>
       <td>37.50768586</td>
@@ -12681,8 +12683,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JO0535</td>
       <td>LOS ANGELES SALT LK AWY BN 49</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JO0535">JO0535</a></td>
       <td>UT</td>
       <td>MILLARD</td>
       <td>38.95264429</td>
@@ -12698,8 +12700,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JO0557</td>
       <td>LOS ANGELES SALT LK AWY BN 44</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JO0557">JO0557</a></td>
       <td>UT</td>
       <td>BEAVER</td>
       <td>38.26283834</td>
@@ -12715,8 +12717,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>JO0567</td>
       <td>LOS ANGELES SALT LK AWY BN 42</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=JO0567">JO0567</a></td>
       <td>UT</td>
       <td>IRON</td>
       <td>38.09679738</td>
@@ -12732,8 +12734,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>KO0429</td>
       <td>AIRWAY BEACON 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KO0429">KO0429</a></td>
       <td>UT</td>
       <td>MILLARD</td>
       <td>39.10238762</td>
@@ -12749,8 +12751,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Destroyed, as of 11/12/2013. Reported by Dean Draper.</td>
     </tr>
     <tr>
-      <td>KO0431</td>
       <td>LOS ANGELES SALT LAKE AY BN 50</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=KO0431">KO0431</a></td>
       <td>UT</td>
       <td>MILLARD</td>
       <td>39.17037232</td>
@@ -12768,8 +12770,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         generator shack. Reported 7/15/2018 by Brian Lee..</td>
     </tr>
     <tr>
-      <td>LO0708</td>
       <td>AIR BCN S END PORCUPINE RIDGE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO0708">LO0708</a></td>
       <td>UT</td>
       <td>SUMMIT</td>
       <td>40.98041397</td>
@@ -12785,8 +12787,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LO0710</td>
       <td>AIR BEACON 4 3 MI SE OF UPTON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO0710">LO0710</a></td>
       <td>UT</td>
       <td> </td>
       <td>40.93181799</td>
@@ -12802,8 +12804,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LO0728</td>
       <td>AIR BN 3 1/2 MI NE STA KIMBALL</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO0728">LO0728</a></td>
       <td>UT</td>
       <td>SUMMIT</td>
       <td>40.77427838</td>
@@ -12819,8 +12821,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LO0817</td>
       <td>AIR BCN 1A 14 MI E SALT LAKE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO0817">LO0817</a></td>
       <td>UT</td>
       <td>SUMMIT</td>
       <td>40.75816589</td>
@@ -12836,8 +12838,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LO0818</td>
       <td>PORCUPINE PK AIR BCN PROP TYPE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO0818">LO0818</a></td>
       <td>UT</td>
       <td>MORGAN</td>
       <td>40.86686718</td>
@@ -12854,8 +12856,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td>LO0823</td>
       <td>AIR BCN 1 B NEAR STA KIMBALL</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO0823">LO0823</a></td>
       <td>UT</td>
       <td>SUMMIT</td>
       <td>40.74103082</td>
@@ -12871,8 +12873,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LO0975</td>
       <td>AIR BEACON O B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO0975">LO0975</a></td>
       <td>UT</td>
       <td>SALT LAKE</td>
       <td>40.77060109</td>
@@ -12888,8 +12890,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LO1031</td>
       <td>LONE BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LO1031">LO1031</a></td>
       <td>UT</td>
       <td>DAVIS</td>
       <td>40.8859304</td>
@@ -12906,8 +12908,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td>LP0424</td>
       <td>BEACON 61A NEAR STA LAKE POINT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0424">LP0424</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.70455414</td>
@@ -12924,8 +12926,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Brian Lee.</td>
     </tr>
     <tr>
-      <td>LP0428</td>
       <td>BEACON 61B WEST OF TOOELE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0428">LP0428</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.5287617</td>
@@ -12941,8 +12943,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LP0434</td>
       <td>GRANTSVILLE AIRPORT BEACON 60</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0434">LP0434</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.65817538</td>
@@ -12958,8 +12960,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LP0436</td>
       <td>AIRWAY BN 60 SW OF RIVERTON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0436">LP0436</a></td>
       <td>UT</td>
       <td>SALT LAKE</td>
       <td>40.46708423</td>
@@ -12975,8 +12977,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LP0447</td>
       <td>BEACON 59 AT STOCKTON 61A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0447">LP0447</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.45839433</td>
@@ -12994,8 +12996,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         settling but arrow is intact - on top of Stockton Bar; no tower. Reported 8/16/18 by Art Johnston.</td>
     </tr>
     <tr>
-      <td>LP0470</td>
       <td>MICHAEL AFB AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0470">LP0470</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.1840099</td>
@@ -13012,8 +13014,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         by Brian Lee.</td>
     </tr>
     <tr>
-      <td>LP0482</td>
       <td>SAN FRANCIS SALT LK AWY BN 59</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0482">LP0482</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.75002521</td>
@@ -13031,8 +13033,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Springs Waterfowl area; arrow intact, tower gone as of July 2018. Reported 8/16/18 by Art Johnston.</td>
     </tr>
     <tr>
-      <td>LP0496</td>
       <td>SAN FRANCIS SALT LK AWY BN 57</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0496">LP0496</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.82650828</td>
@@ -13050,8 +13052,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         arrow is intact, tower is gone, as of 11/2/2015. Reported by Art Johnston.</td>
     </tr>
     <tr>
-      <td>LP0511</td>
       <td>SAN FRANCIS SALT LK AWY BN 56</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0511">LP0511</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.72699671</td>
@@ -13067,8 +13069,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LP0515</td>
       <td>SAN FRANCIS SALT LK AWY BN 55</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0515">LP0515</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.72721929</td>
@@ -13084,8 +13086,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LP0579</td>
       <td>SAN FRANCIS SALT LK AWY BN 53</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LP0579">LP0579</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.73362242</td>
@@ -13101,8 +13103,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0586</td>
       <td>WENDOVER USAF BCN AT WENDOVER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0586">LQ0586</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.75279969</td>
@@ -13118,8 +13120,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>LQ0597</td>
       <td>SAN FRAN SALT LK AWY BCN 52</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=LQ0597">LQ0597</a></td>
       <td>UT</td>
       <td>TOOELE</td>
       <td>40.72937139</td>
@@ -13135,8 +13137,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MS0704</td>
       <td>AIR BCN 3 5 MI SW OF WILLARD</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MS0704">MS0704</a></td>
       <td>UT</td>
       <td>WEBER</td>
       <td>41.33615832</td>
@@ -13152,8 +13154,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MS0711</td>
       <td>AIR BCN 2 2 MI S CLEARFIELD</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MS0711">MS0711</a></td>
       <td>UT</td>
       <td>DAVIS</td>
       <td>41.10278465</td>
@@ -13169,8 +13171,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MS0715</td>
       <td>ANTELOPE ISLAND AIR BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MS0715">MS0715</a></td>
       <td>UT</td>
       <td>DAVIS</td>
       <td>41.01468821</td>
@@ -13186,8 +13188,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MS0728</td>
       <td>SALT LAKE PENDLETON AWY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MS0728">MS0728</a></td>
       <td>UT</td>
       <td>BOX ELDER</td>
       <td>41.4810731</td>
@@ -13203,8 +13205,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow near Tyler, WA</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>WA</td>
       <td>SPOKANE</td>
       <td>47.4153</td>
@@ -13221,8 +13223,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         3/31/2016. Reported by Pete Hill.</td>
     </tr>
     <tr>
-      <td>RC2056</td>
       <td>PORTLAND SPOKANE AWY BCN 7 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2056">RC2056</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.6150151</td>
@@ -13238,8 +13240,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2090</td>
       <td>PORTLAND SPOKANE AWY BCN 7 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2090">RC2090</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.65291792</td>
@@ -13255,8 +13257,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2096</td>
       <td>PORTLAND SPOK BN 73 MI BLINKER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2096">RC2096</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.67417392</td>
@@ -13272,8 +13274,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2171</td>
       <td>PORTLAND SPOK BN 62 MI BLINKER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2171">RC2171</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.72556461</td>
@@ -13289,8 +13291,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2331</td>
       <td>PORTLAND SPOK BN 49 MI BLINKER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2331">RC2331</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.69779278</td>
@@ -13306,8 +13308,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2339</td>
       <td>PORTLAND SPOK BN 48 MI BLINKER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2339">RC2339</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.70405211</td>
@@ -13323,8 +13325,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2361</td>
       <td>PORTLAND SPOK BN 44 MI BLINKER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2361">RC2361</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.71023123</td>
@@ -13340,8 +13342,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2386</td>
       <td>PORTLAND SPOK BN W STEVENSON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2386">RC2386</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.6847656</td>
@@ -13357,8 +13359,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2430</td>
       <td>PORTLAND SPOKANE AWY BCN 3 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2430">RC2430</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.66275071</td>
@@ -13374,8 +13376,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RC2444</td>
       <td>PORTLAND SPOKANE AUX BCN 3 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RC2444">RC2444</a></td>
       <td>WA</td>
       <td> </td>
       <td>45.65290145</td>
@@ -13391,8 +13393,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2116</td>
       <td>PORTLAND SPOKANE E AUX BCN 3 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2116">RD2116</a></td>
       <td>WA</td>
       <td>SKAMANIA</td>
       <td>45.63130306</td>
@@ -13408,8 +13410,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2119</td>
       <td>PORTLAND SPOKANE AWY BCN 3 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2119">RD2119</a></td>
       <td>WA</td>
       <td>SKAMANIA</td>
       <td>45.62789418</td>
@@ -13425,8 +13427,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2174</td>
       <td>PORTLAND SPOKANE W AUX BCN 3 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2174">RD2174</a></td>
       <td>WA</td>
       <td>SKAMANIA</td>
       <td>45.62293938</td>
@@ -13442,8 +13444,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RD2207</td>
       <td>CAPE HORN AUX AWY BCN 2</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RD2207">RD2207</a></td>
       <td>WA</td>
       <td>SKAMANIA</td>
       <td>45.56704308</td>
@@ -13459,8 +13461,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RZ1721</td>
       <td>SPOKANE PENDLETON AWY BCN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RZ1721">RZ1721</a></td>
       <td>WA</td>
       <td>COLUMBIA</td>
       <td>46.54687568</td>
@@ -13476,8 +13478,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RZ1725</td>
       <td>SPOKANE PENDLETON AWY BCN 28</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RZ1725">RZ1725</a></td>
       <td>WA</td>
       <td>WHITMAN</td>
       <td>46.71369115</td>
@@ -13493,8 +13495,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RZ1728</td>
       <td>PORTLAND SPOKANE AWY BCN 29</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RZ1728">RZ1728</a></td>
       <td>WA</td>
       <td>WHITMAN</td>
       <td>46.93873493</td>
@@ -13510,8 +13512,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>RZ1734</td>
       <td>SPOKANE PENDLETON AWY BCN 28 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=RZ1734">RZ1734</a></td>
       <td>WA</td>
       <td>WHITMAN</td>
       <td>46.79430816</td>
@@ -13527,8 +13529,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SA1902</td>
       <td>AIRWAY BCN 25 NW OF DAYTON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SA1902">SA1902</a></td>
       <td>WA</td>
       <td>COLUMBIA</td>
       <td>46.39001093</td>
@@ -13544,8 +13546,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SA2106</td>
       <td>SPOKANE PENDLETON AWY BCN 24</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SA2106">SA2106</a></td>
       <td>WA</td>
       <td>ADAMS</td>
       <td>46.87123895</td>
@@ -13561,8 +13563,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SA2138</td>
       <td>SPOKANE PENDLETON AWY BCN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SA2138">SA2138</a></td>
       <td>WA</td>
       <td>FRANKLIN</td>
       <td>46.50262088</td>
@@ -13578,8 +13580,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SA2141</td>
       <td>SPOKANE PENDLETON AWY BCN 23</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SA2141">SA2141</a></td>
       <td>WA</td>
       <td>ADAMS</td>
       <td>46.75483759</td>
@@ -13595,8 +13597,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SA2262</td>
       <td>SPOKANE PENDLETON AWY BCN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SA2262">SA2262</a></td>
       <td>WA</td>
       <td>BENTON</td>
       <td>46.09733863</td>
@@ -13612,8 +13614,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SB1114</td>
       <td>WENAS AIRWAY BEACON Y 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SB1114">SB1114</a></td>
       <td>WA</td>
       <td>KITTITAS</td>
       <td>46.84020665</td>
@@ -13629,8 +13631,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SC1338</td>
       <td>KALAMA AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SC1338">SC1338</a></td>
       <td>WA</td>
       <td>COWLITZ</td>
       <td>46.02051098</td>
@@ -13646,8 +13648,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SC1393</td>
       <td>KELSO AWY BCN FLASHING GREEN W</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SC1393">SC1393</a></td>
       <td>WA</td>
       <td> </td>
       <td>46.12300091</td>
@@ -13663,8 +13665,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SC1400</td>
       <td>SAN FRANCISCO SEATTLE AWY 61 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SC1400">SC1400</a></td>
       <td>WA</td>
       <td>COWLITZ</td>
       <td>46.12296378</td>
@@ -13680,8 +13682,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SC1493</td>
       <td>RICHFIELD AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SC1493">SC1493</a></td>
       <td>WA</td>
       <td> </td>
       <td>46.10635518</td>
@@ -13697,8 +13699,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SC1527</td>
       <td>SAN FRANCISCO SEATTLE AWY 61 B</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SC1527">SC1527</a></td>
       <td>WA</td>
       <td>COWLITZ</td>
       <td>46.17565007</td>
@@ -13714,8 +13716,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SC1528</td>
       <td>KELSO AWY BCN FLASHING RED W</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SC1528">SC1528</a></td>
       <td>WA</td>
       <td> </td>
       <td>46.17564641</td>
@@ -13731,8 +13733,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SC1544</td>
       <td>SAN FRANCISCO SEATTLE AWY 63 A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SC1544">SC1544</a></td>
       <td>WA</td>
       <td>LEWIS</td>
       <td>46.40874133</td>
@@ -13748,8 +13750,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1201</td>
       <td>AIRWAY BEACON NW OF FELTS APT</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1201">SV1201</a></td>
       <td>WA</td>
       <td>SPOKANE</td>
       <td>47.69425798</td>
@@ -13765,8 +13767,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1218</td>
       <td>PORTLAND SPOKANE AIRWAY BCN 34</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1218">SV1218</a></td>
       <td>WA</td>
       <td>SPOKANE</td>
       <td>47.52202025</td>
@@ -13782,8 +13784,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1275</td>
       <td>PORTLAND SPOKANE AIRWAY BCN 33</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1275">SV1275</a></td>
       <td>WA</td>
       <td>SPOKANE</td>
       <td>47.34129249</td>
@@ -13799,8 +13801,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1277</td>
       <td>CHENEY AIRWAY BEACON CODE W</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1277">SV1277</a></td>
       <td>WA</td>
       <td>SPOKANE</td>
       <td>47.49603189</td>
@@ -13816,8 +13818,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1291</td>
       <td>PORTLAND SPOKANE AWY BCN 31</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1291">SV1291</a></td>
       <td>WA</td>
       <td>WHITMAN</td>
       <td>47.15052231</td>
@@ -13833,8 +13835,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1302</td>
       <td>SPOKANE PENDLETON AWY BCN 30</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1302">SV1302</a></td>
       <td>WA</td>
       <td>SPOKANE</td>
       <td>47.42021371</td>
@@ -13850,8 +13852,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1337</td>
       <td>SEATTLE HELENA AIRWAY BCN 22</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1337">SV1337</a></td>
       <td>WA</td>
       <td>SPOKANE</td>
       <td>47.5776436</td>
@@ -13867,8 +13869,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SV1376</td>
       <td>SEATTLE HELENA AIRWAY BCN 21</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SV1376">SV1376</a></td>
       <td>WA</td>
       <td>LINCOLN</td>
       <td>47.56936693</td>
@@ -13884,8 +13886,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SW1150</td>
       <td>SEATTLE HELENA AWY BEACON 19</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SW1150">SW1150</a></td>
       <td>WA</td>
       <td> </td>
       <td>47.50045415</td>
@@ -13901,8 +13903,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SW1227</td>
       <td>SPOKANE PENDLETON AWY BCN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SW1227">SW1227</a></td>
       <td>WA</td>
       <td>ADAMS</td>
       <td>47.12587966</td>
@@ -13918,8 +13920,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SW1276</td>
       <td>SEATTLE HELENA AIRWAY BCN 18</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SW1276">SW1276</a></td>
       <td>WA</td>
       <td>LINCOLN</td>
       <td>47.42688902</td>
@@ -13935,8 +13937,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SW1322</td>
       <td>SEATTLE HELENA AIRWAY BCN 16</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SW1322">SW1322</a></td>
       <td>WA</td>
       <td>GRANT</td>
       <td>47.36495094</td>
@@ -13952,8 +13954,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SW1525</td>
       <td>SEATTLE SPOKANE AIRWAY BEACON 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SW1525">SW1525</a></td>
       <td>WA</td>
       <td>GRANT</td>
       <td>47.29003057</td>
@@ -13969,8 +13971,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SW1537</td>
       <td>SEATTLE SPOKANE AIRWAY BCN 13</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SW1537">SW1537</a></td>
       <td>WA</td>
       <td>GRANT</td>
       <td>47.21923693</td>
@@ -13986,8 +13988,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SW1573</td>
       <td>SEATTLE SPOKANE AIRWAY BCN 11</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SW1573">SW1573</a></td>
       <td>WA</td>
       <td>GRANT</td>
       <td>47.16015778</td>
@@ -14003,8 +14005,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1120</td>
       <td>AIRWAY BEACON W 1</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1120">SX1120</a></td>
       <td>WA</td>
       <td>DOUGLAS</td>
       <td>47.36326352</td>
@@ -14020,8 +14022,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1122</td>
       <td>PANGBORN FIELD AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1122">SX1122</a></td>
       <td>WA</td>
       <td>DOUGLAS</td>
       <td>47.40324271</td>
@@ -14037,8 +14039,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1125</td>
       <td>SEATTLE SPOKANE AIRWAY BCN 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1125">SX1125</a></td>
       <td>WA</td>
       <td>KITTITAS</td>
       <td>47.10396867</td>
@@ -14054,8 +14056,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1138</td>
       <td>WENATCHEE AIRPORT AIRWAY BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1138">SX1138</a></td>
       <td>WA</td>
       <td>DOUGLAS</td>
       <td>47.44853274</td>
@@ -14071,8 +14073,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1154</td>
       <td>SEATTLE SPOKANE AIRWAY BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1154">SX1154</a></td>
       <td>WA</td>
       <td>KITTITAS</td>
       <td>47.02900679</td>
@@ -14088,8 +14090,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1171</td>
       <td>SEATTLE SPOKANE AIRWAY BCN 7</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1171">SX1171</a></td>
       <td>WA</td>
       <td>KITTITAS</td>
       <td>47.15101601</td>
@@ -14105,8 +14107,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1238</td>
       <td>AIRWAY BCN 6 NW OF CLE ELUM</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1238">SX1238</a></td>
       <td>WA</td>
       <td>KITTITAS</td>
       <td>47.19365124</td>
@@ -14122,8 +14124,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1239</td>
       <td>SEATTLE SPOKANE AIRWAY BCN 6</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1239">SX1239</a></td>
       <td>WA</td>
       <td>KITTITAS</td>
       <td>47.20505395</td>
@@ -14139,8 +14141,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1245</td>
       <td>AMABILIS AIR BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1245">SX1245</a></td>
       <td>WA</td>
       <td>KITTITAS</td>
       <td>47.28858834</td>
@@ -14156,8 +14158,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SX1318</td>
       <td>RATTLESNAKE MOUNTAIN AIR BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SX1318">SX1318</a></td>
       <td>WA</td>
       <td>KING</td>
       <td>47.45131005</td>
@@ -14173,8 +14175,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SY4865</td>
       <td>PAINE AFB AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SY4865">SY4865</a></td>
       <td>WA</td>
       <td>SNOHOMISH</td>
       <td>47.90727103</td>
@@ -14190,8 +14192,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>SY4870</td>
       <td>PAINE FIELD AIRWAY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=SY4870">SY4870</a></td>
       <td>WA</td>
       <td>SNOHOMISH</td>
       <td>47.90570566</td>
@@ -14207,8 +14209,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>TR1123</td>
       <td>SEATTLE VANCOUVER AIRWAY BCN 5</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=TR1123">TR1123</a></td>
       <td>WA</td>
       <td>SNOHOMISH</td>
       <td>48.26202713</td>
@@ -14224,8 +14226,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>TR1164</td>
       <td>AIRWAY BCN 4 MI W BURLINGTON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=TR1164">TR1164</a></td>
       <td>WA</td>
       <td>SKAGIT</td>
       <td>48.47217009</td>
@@ -14241,8 +14243,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>TR1823</td>
       <td>AIRWAY BEACON 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=TR1823">TR1823</a></td>
       <td>WA</td>
       <td>WHATCOM</td>
       <td>48.79365066</td>
@@ -14258,8 +14260,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>TR1852</td>
       <td>AIRWAY BEACON 10</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=TR1852">TR1852</a></td>
       <td>WA</td>
       <td>WHATCOM</td>
       <td>48.99853501</td>
@@ -14275,8 +14277,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>TR1866</td>
       <td>SEATTLE VANCOUVER AWY BEACON</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=TR1866">TR1866</a></td>
       <td>WA</td>
       <td>WHATCOM</td>
       <td>48.65996489</td>
@@ -14292,8 +14294,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow E of Cheyenne, WY</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>WY</td>
       <td>LARAMIE</td>
       <td>41.164783</td>
@@ -14313,8 +14315,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         P.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Arrow near Bryan, WY</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.562095</td>
@@ -14333,9 +14335,9 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         5/10/2016. Reported by Dan Quinn.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Beacon #40 on Salt Lake-Omaha route; near Silver Crown district,
         northwest of Cheyenne, WY</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>WY</td>
       <td>LARAMIE</td>
       <td>41.19686944</td>
@@ -14355,8 +14357,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Ondracko.</td>
     </tr>
     <tr>
-      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>Tower at Medicine Bow Airport, Medicine Bow, WY</td>
+      <td><button aria-expanded="true" aria-label="Expand row" class="row-toggle">▶</button></td>
       <td>WY</td>
       <td>CARBON</td>
       <td>41.8870388</td>
@@ -14372,8 +14374,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Beacon and arrow intact, as of 11/20/2013. Reported by Jim.</td>
     </tr>
     <tr>
-      <td>MO1117</td>
       <td>AIRWAY BCN 1 18 MI N CHEYENNE</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1117">MO1117</a></td>
       <td>WY</td>
       <td>LARAMIE</td>
       <td>41.40224764</td>
@@ -14389,8 +14391,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Destroyed, as of 11/20/2013. Reported by Steve.</td>
     </tr>
     <tr>
-      <td>MO1167</td>
       <td>AIRWAY BN 8 10 MI SE WHEATLAND</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1167">MO1167</a></td>
       <td>WY</td>
       <td>PLATTE</td>
       <td>41.87071977</td>
@@ -14406,8 +14408,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MO1218</td>
       <td>SAN FRAN NEW YORK AWY BCN 38</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1218">MO1218</a></td>
       <td>WY</td>
       <td>LARAMIE</td>
       <td>41.22623299</td>
@@ -14423,8 +14425,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 2/4/2014. Reported by Decman.</td>
     </tr>
     <tr>
-      <td>MO1229</td>
       <td>PORTLAND KANSAS CITY AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1229">MO1229</a></td>
       <td>WY</td>
       <td>ALBANY</td>
       <td>41.05164693</td>
@@ -14440,8 +14442,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MO1245</td>
       <td>SAN FRANCISCO NEW YORK AIRWAY BEACON 37</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1245">MO1245</a></td>
       <td>WY</td>
       <td>ALBANY</td>
       <td>41.26787527</td>
@@ -14457,8 +14459,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arrow intact, as of 2/4/2014. Reported by Decman.</td>
     </tr>
     <tr>
-      <td>MO1266</td>
       <td>SALT LAKE OMAHA AWY SITE 36 BN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1266">MO1266</a></td>
       <td>WY</td>
       <td>ALBANY</td>
       <td>41.44562939</td>
@@ -14475,8 +14477,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Lee.</td>
     </tr>
     <tr>
-      <td>MO1300</td>
       <td>SALT LAKE OMAHA AWY SITE 35 BN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1300">MO1300</a></td>
       <td>WY</td>
       <td>ALBANY</td>
       <td>41.5734236</td>
@@ -14492,8 +14494,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MO1307</td>
       <td>SAN FRANCISCO NEW YORK AIRWAY BEACON 38</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MO1307">MO1307</a></td>
       <td>WY</td>
       <td>ALBANY</td>
       <td>41.70670171</td>
@@ -14509,8 +14511,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MP0518</td>
       <td>SALT LAKE OMAHA AWY SITE 31 BN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MP0518">MP0518</a></td>
       <td>WY</td>
       <td>CARBON</td>
       <td>41.85028546</td>
@@ -14526,8 +14528,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td>Arow intact, as of 6/22/2015. Reported by Rich.</td>
     </tr>
     <tr>
-      <td>MP0580</td>
       <td>SALT LAKE OMAHA AWY SITE 29 BN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MP0580">MP0580</a></td>
       <td>WY</td>
       <td>CARBON</td>
       <td>41.81707169</td>
@@ -14544,8 +14546,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       </td>
     </tr>
     <tr>
-      <td>MP0608</td>
       <td>SALT LAKE CITY OMAHA AWY BN 27</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MP0608">MP0608</a></td>
       <td>WY</td>
       <td>CARBON</td>
       <td>41.80225421</td>
@@ -14562,8 +14564,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Rich.</td>
     </tr>
     <tr>
-      <td>MP0611</td>
       <td>SALT LAKE CITY OMAHA AWY BN 26</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MP0611">MP0611</a></td>
       <td>WY</td>
       <td>CARBON</td>
       <td>41.78533469</td>
@@ -14579,8 +14581,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MP0633</td>
       <td>SALT LAKE OMAHA SITE 26A BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MP0633">MP0633</a></td>
       <td>WY</td>
       <td>CARBON</td>
       <td>41.77069779</td>
@@ -14596,8 +14598,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MP0674</td>
       <td>SALT LAKE OMAHA SITE 24 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MP0674">MP0674</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.73026418</td>
@@ -14613,8 +14615,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MP0677</td>
       <td>SALT LAKE OMAHA SITE 23 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MP0677">MP0677</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.70171196</td>
@@ -14630,8 +14632,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MQ0435</td>
       <td>SALT LAKE OMAHA SITE 22 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MQ0435">MQ0435</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.65839613</td>
@@ -14647,8 +14649,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MQ0437</td>
       <td>SALT LAKE OMAHA SITE 21 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MQ0437">MQ0437</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.65911363</td>
@@ -14664,8 +14666,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MQ0447</td>
       <td>SALT LAKE OMAHA SITE 20 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MQ0447">MQ0447</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.65742323</td>
@@ -14682,8 +14684,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Rich.</td>
     </tr>
     <tr>
-      <td>MQ0449</td>
       <td>SALT LAKE OMAHA SITE 17 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MQ0449">MQ0449</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.67164858</td>
@@ -14700,8 +14702,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         6/22/2015. Reported by Rich.</td>
     </tr>
     <tr>
-      <td>MQ0462</td>
       <td>SALT LAKE OMAHA SITE 16 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MQ0462">MQ0462</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.63920178</td>
@@ -14717,8 +14719,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>MQ0469</td>
       <td>SALT LAKE OMAHA SITE 15 BCN</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MQ0469">MQ0469</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.57842554</td>
@@ -14736,8 +14738,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Clark D. Hall.</td>
     </tr>
     <tr>
-      <td>MQ0471</td>
       <td>AIRWAY BCN 15 4 MI ENE GREEN R</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MQ0471">MQ0471</a></td>
       <td>WY</td>
       <td>SWEETWATER</td>
       <td>41.55166768</td>
@@ -14754,8 +14756,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
         Reported by Clark D. Hall.</td>
     </tr>
     <tr>
-      <td>MR0773</td>
       <td>AIRWAY BN 11 11 MI SSW GRANGER</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=MR0773">MR0773</a></td>
       <td>WY</td>
       <td>UINTA</td>
       <td>41.44446438</td>
@@ -14771,8 +14773,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NQ0545</td>
       <td>CHEYENNE GREAT FALLS AWY BCN 9</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NQ0545">NQ0545</a></td>
       <td>WY</td>
       <td>PLATTE</td>
       <td>42.5543704</td>
@@ -14788,8 +14790,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NQ0563</td>
       <td>CHEYENNE GRT FALLS AWY BN 11A</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NQ0563">NQ0563</a></td>
       <td>WY</td>
       <td>CONVERSE</td>
       <td>42.71807747</td>
@@ -14805,8 +14807,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NQ0596</td>
       <td>CHEYENNE GREAT FALLS AWY BCN 8</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NQ0596">NQ0596</a></td>
       <td>WY</td>
       <td>PLATTE</td>
       <td>42.34634584</td>
@@ -14822,8 +14824,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NQ0649</td>
       <td>CHEYENNE GREAT FALLS AWY BN 12</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NQ0649">NQ0649</a></td>
       <td>WY</td>
       <td>CONVERSE</td>
       <td>42.79857321</td>
@@ -14839,8 +14841,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>NQ0678</td>
       <td>CHEYENNE GREAT FALLS AWY BN 14</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=NQ0678">NQ0678</a></td>
       <td>WY</td>
       <td>CONVERSE</td>
       <td>42.83112605</td>
@@ -14856,8 +14858,8 @@ Any item that does not have a PID is not in the NGS database but was discovered 
       <td></td>
     </tr>
     <tr>
-      <td>PW0476</td>
       <td>AIRWAY BCN 28 ENE KEARNEY</td>
+      <td><a target="_blank" href="https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=PW0476">PW0476</a></td>
       <td>WY</td>
       <td>JOHNSON</td>
       <td>44.55131376</td>
