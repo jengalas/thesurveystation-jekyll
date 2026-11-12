@@ -28,5 +28,15 @@ galleries:
     images:
     - filename: f-w-b-a1-m 
       alt: PA Dept. of Highways Elevation Mark F&W B A1 M 
+    - filename: f-w-b-a1-mg1
+      alt: Eyelevel view of the disk on the southwest wingwall 
+    - filename: f-w-b-a1-mg2
+      alt: Looking N along the old Route 407 bridge 
+    - filename: f-w-b-a1-mg3
+      alt: View of the bridge showing the currently drained lake and park facilities
+    - filename: f-w-b-a1-mg4
+      alt: Looking E from near the site of the even older bridge 
+    - filename: f-w-b-a1-mg5
+      alt: The number “43” is painted on the center of the eastern bridge wall       
 featured_image: f-w-b-a1-mcsm.jpg                                     
 ---
