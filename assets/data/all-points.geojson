@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "designation": "F&W B A1 M",
+        "status": "Recovered",
+        "condition": "Good",
+        "time": "2026-10-25T14:40:00-04:00",
+        "permalink": "/surveymarks/f-w-b-a1-m/",
+        "image": "https://images.planetzhanna.com/2026/10/25/thumbnails/f-w-b-a1-mcsm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.707878,
+          41.561773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "designation": "NPS (Unstamped, Acadia #24)",
         "status": "Recovered",
         "condition": "Good",
