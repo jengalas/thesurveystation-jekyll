@@ -34,5 +34,7 @@ galleries:
       - filename: 32-jpn-1933-sanborn
         alt: Excerpt of 1933 Sanborn Map of Clarks Summit, showing the approximate location of the mark       
       - filename: street-view-concrete-curb
-        alt: This screenshot from Google Street View shows one of the concrete curbs. I suspect the mark was either on the broken-off part of this curb, or that there was another similar curb surrounding one of the other trees in the schoolyard.                                            
+        alt: This screenshot from Google Street View shows one of the concrete curbs. I suspect the mark was either on the broken-off part of this curb, or that there was another similar curb surrounding one of the other trees in the schoolyard. 
+      - filename: grove-street-schools2 
+        alt: This aerial image from 1949 shows my school on the right; an example of the concrete curb around one of the trees is indicated. This is not necessarily the one that held the benchmark.                                             
 ---
