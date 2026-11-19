@@ -19,6 +19,10 @@ galleries:
   gallery_zh:
     images:
     - filename: nps-unstamped-acadia-24
-      alt: "National Park Service Boundary Monument NPS (Unstamped, Acadia #24)"                 
+      alt: "National Park Service Boundary Monument NPS (Unstamped, Acadia #24)"     
+    - filename: nps-unstamped-acadia-24g1
+      alt: Eyelevel view of the disk on the granite post
+    - filename: nps-unstamped-acadia-24g2
+      alt: There are several signs on adjacent trees indicating the property line for Wild Iris Horse Farm            
 featured_image: nps-unstamped-acadia-24csm.jpg    
 ---
